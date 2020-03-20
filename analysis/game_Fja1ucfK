@@ -1,0 +1,29 @@
+**URL: https://lichess.org/Fja1ucfK | Tag: Fja1ucfK | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Fja1ucfK', Date='2020.02.29', Round='-', White='chittyct', Black='Dibyajit', Result='1-0', BlackElo='1176', BlackRatingDiff='-4', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.29', UTCTime='18:08:28', Variant='Standard', WhiteElo='1257', WhiteRatingDiff='+4')
+
+1. d4 | Analysis: -25 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +22 | Depth: 16 | EngineMove : g1f3
+2. Bf4 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+2... Nc6 | Analysis: +12 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -12 | Depth: 17 | EngineMove : c8f5
+3... Bf5 | Analysis: +11 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -1 | Depth: 17 | EngineMove : e7e6
+4... Nf6 | Analysis: +48 | Depth: 17 | EngineMove : f1b5
+5. c4 | Analysis: -8 | Depth: 15 | EngineMove : e7e6
+5... dxc4 | Analysis: +29 | Depth: 17 | EngineMove : f1c4
+6. Bxc4 | Analysis: -35 | Depth: 18 | EngineMove : e7e6
+6... e6 | Analysis: +31 | Depth: 18 | EngineMove : e1g1
+7. O-O | Analysis: -29 | Depth: 18 | EngineMove : f8d6
+7... Ne4 | Analysis: +85 | Depth: 16 | EngineMove : d4d5
+8. Nbd2 | Analysis: -56 | Depth: 15 | EngineMove : f8e7
+8... Bb4 | Analysis: +68 | Depth: 16 | EngineMove : a2a3
+9. Nxe4 | Analysis: -60 | Depth: 17 | EngineMove : f5e4
+9... Bxe4 | Analysis: +57 | Depth: 17 | EngineMove : a2a3
+10. a3 | Analysis: -56 | Depth: 19 | EngineMove : b4e7
+10... Be7 | Analysis: +57 | Depth: 19 | EngineMove : c4d3
+11. Ne5 | Analysis: -29 | Depth: 17 | EngineMove : c6e5
+11... Nxe5 | Analysis: +29 | Depth: 19 | EngineMove : f4e5
+12. Bxe5 | Analysis: -28 | Depth: 19 | EngineMove : e8g8
+12... O-O | Analysis: +23 | Depth: 18 | EngineMove : d1g4
+13. Qg4 | Analysis: -17 | Depth: 18 | EngineMove : e4g6
+13... Bf5 | Analysis: #+1 | Depth: 127 | EngineMove : g4g7

@@ -1,0 +1,32 @@
+**URL: https://lichess.org/HxwcssJP | Tag: HxwcssJP | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/HxwcssJP', Date='2019.07.29', Round='-', White='chittyct', Black='Wally57', Result='1-0', BlackElo='1154', BlackRatingDiff='-7', ECO='D10', Termination='Normal', TimeControl='120+1', UTCDate='2019.07.29', UTCTime='12:21:29', Variant='Standard', WhiteElo='1243', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -16 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +12 | Depth: 18 | EngineMove : c1f4
+2. c4 | Analysis: -21 | Depth: 18 | EngineMove : e7e6
+2... c6 | Analysis: +30 | Depth: 17 | EngineMove : g1f3
+3. cxd5 | Analysis: -17 | Depth: 18 | EngineMove : c6d5
+3... cxd5 | Analysis: +29 | Depth: 17 | EngineMove : c1f4
+4. Nc3 | Analysis: -33 | Depth: 16 | EngineMove : e7e5
+4... Nf6 | Analysis: +33 | Depth: 17 | EngineMove : c1f4
+5. Bf4 | Analysis: -39 | Depth: 19 | EngineMove : b8c6
+5... Nc6 | Analysis: +31 | Depth: 21 | EngineMove : e2e3
+6. Nf3 | Analysis: -10 | Depth: 17 | EngineMove : f6h5
+6... e6 | Analysis: +28 | Depth: 20 | EngineMove : e2e3
+7. e3 | Analysis: -25 | Depth: 19 | EngineMove : f8d6
+7... Bd6 | Analysis: +27 | Depth: 21 | EngineMove : f4d6
+8. Bg3 | Analysis: -13 | Depth: 18 | EngineMove : d6g3
+8... O-O | Analysis: +15 | Depth: 20 | EngineMove : g3d6
+9. Rc1 | Analysis: -8 | Depth: 19 | EngineMove : d6g3
+9... Bxg3 | Analysis: +7 | Depth: 20 | EngineMove : h2g3
+10. hxg3 | Analysis: -7 | Depth: 20 | EngineMove : h7h6
+10... Re8 | Analysis: +34 | Depth: 16 | EngineMove : f1d3
+11. Qd3 | Analysis: -6 | Depth: 18 | EngineMove : h7h6
+11... h6 | Analysis: +9 | Depth: 19 | EngineMove : f1e2
+12. Be2 | Analysis: -5 | Depth: 20 | EngineMove : b7b6
+12... e5 | Analysis: +52 | Depth: 19 | EngineMove : d4e5
+13. Nxe5 | Analysis: -47 | Depth: 19 | EngineMove : c6e5
+13... Nxe5 | Analysis: +58 | Depth: 19 | EngineMove : d4e5
+14. dxe5 | Analysis: -57 | Depth: 21 | EngineMove : e8e5
+14... Re7 | Analysis: +644 | Depth: 18 | EngineMove : e5f6
+15. exf6 | Analysis: -664 | Depth: 20 | EngineMove : e7c7

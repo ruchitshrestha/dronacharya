@@ -1,0 +1,8 @@
+**URL: https://lichess.org/VSmk0xv6 | Tag: VSmk0xv6 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/VSmk0xv6', Date='2018.09.24', Round='-', White='Kirill90', Black='chittyct', Result='1-0', BlackElo='1147', BlackRatingDiff='-9', ECO='B23', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.09.24', UTCTime='06:29:53', Variant='Standard', WhiteElo='1212', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -28 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +35 | Depth: 18 | EngineMove : g1f3
+2. Nc3 | Analysis: -29 | Depth: 19 | EngineMove : e7e6
+2... d6 | Analysis: +34 | Depth: 16 | EngineMove : g1f3
+3. Nf3 | Analysis: -18 | Depth: 19 | EngineMove : e7e5

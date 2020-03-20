@@ -1,0 +1,30 @@
+**URL: https://lichess.org/C1OqxwC7 | Tag: C1OqxwC7 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/C1OqxwC7', Date='2018.08.04', Round='-', White='chittyct', Black='NV_KESAVAVYAS', Result='1-0', BlackElo='1327', BlackRatingDiff='-52', ECO='D02', Termination='Time forfeit', TimeControl='300+0', UTCDate='2018.08.04', UTCTime='06:26:10', Variant='Standard', WhiteElo='1296', WhiteRatingDiff='+78')
+
+1. d4 | Analysis: -25 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -26 | Depth: 15 | EngineMove : e7e6
+2... e6 | Analysis: +20 | Depth: 14 | EngineMove : e2e3
+3. Bf4 | Analysis: -15 | Depth: 13 | EngineMove : f8d6
+3... Nf6 | Analysis: +15 | Depth: 13 | EngineMove : e2e3
+4. c3 | Analysis: -9 | Depth: 13 | EngineMove : b8d7
+4... Nh5 | Analysis: +37 | Depth: 13 | EngineMove : f4g5
+5. Qa4+ | Analysis: +298 | Depth: 14 | EngineMove : c8d7
+5... c6 | Analysis: 0 | Depth: 12 | EngineMove : f4b8
+6. Bxb8 | Analysis: -5 | Depth: 14 | EngineMove : b7b5
+6... Rxb8 | Analysis: -3 | Depth: 13 | EngineMove : b1d2
+7. Qxa7 | Analysis: -6 | Depth: 13 | EngineMove : c8d7
+7... Bd7 | Analysis: -1 | Depth: 15 | EngineMove : e2e3
+8. Ne5 | Analysis: +15 | Depth: 13 | EngineMove : f8d6
+8... Ra8 | Analysis: +121 | Depth: 15 | EngineMove : a7b7
+9. Qxb7 | Analysis: -103 | Depth: 16 | EngineMove : a8b8
+9... f6 | Analysis: +506 | Depth: 15 | EngineMove : e5d7
+10. Nxc6 | Analysis: -209 | Depth: 14 | EngineMove : d8c8
+10... Bxc6 | Analysis: +213 | Depth: 13 | EngineMove : b7c6
+11. Qxc6+ | Analysis: -214 | Depth: 14 | EngineMove : e8f7
+11... Qd7 | Analysis: +716 | Depth: 13 | EngineMove : c6a8
+12. Qxa8+ | Analysis: -703 | Depth: 13 | EngineMove : d7d8
+12... Qd8 | Analysis: +730 | Depth: 12 | EngineMove : a8a4
+13. Qc6+ | Analysis: -710 | Depth: 15 | EngineMove : d8d7
+13... Kf7 | Analysis: +728 | Depth: 13 | EngineMove : e2e3
+14. g4 | Analysis: -657 | Depth: 13 | EngineMove : d8b8

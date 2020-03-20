@@ -1,0 +1,32 @@
+**URL: https://lichess.org/2KpdjZ0a | Tag: 2KpdjZ0a | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/2KpdjZ0a', Date='2018.12.06', Round='-', White='chittyct', Black='alan_beck', Result='1-0', BlackElo='1027', BlackRatingDiff='-11', ECO='D03', Termination='Time forfeit', TimeControl='120+1', UTCDate='2018.12.06', UTCTime='19:31:33', Variant='Standard', WhiteElo='1033', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -11 | Depth: 19 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 19 | EngineMove : g1f3
+2. Nf3 | Analysis: -26 | Depth: 18 | EngineMove : g8f6
+2... Nf6 | Analysis: +17 | Depth: 18 | EngineMove : c2c4
+3. Bg5 | Analysis: -4 | Depth: 15 | EngineMove : f6e4
+3... Nc6 | Analysis: +23 | Depth: 17 | EngineMove : e2e3
+4. e3 | Analysis: -24 | Depth: 16 | EngineMove : f6e4
+4... Bf5 | Analysis: +35 | Depth: 16 | EngineMove : f1b5
+5. c4 | Analysis: -12 | Depth: 17 | EngineMove : e7e6
+5... e6 | Analysis: +26 | Depth: 17 | EngineMove : a2a3
+6. cxd5 | Analysis: -24 | Depth: 17 | EngineMove : f8b4
+6... exd5 | Analysis: +41 | Depth: 18 | EngineMove : b1c3
+7. Nc3 | Analysis: -41 | Depth: 19 | EngineMove : f8b4
+7... Be7 | Analysis: +42 | Depth: 18 | EngineMove : f1d3
+8. Bxf6 | Analysis: -23 | Depth: 19 | EngineMove : e7f6
+8... Bxf6 | Analysis: +28 | Depth: 19 | EngineMove : d1b3
+9. Bb5 | Analysis: -24 | Depth: 18 | EngineMove : e8g8
+9... O-O | Analysis: +10 | Depth: 19 | EngineMove : b5c6
+10. Bxc6 | Analysis: -23 | Depth: 21 | EngineMove : b7c6
+10... bxc6 | Analysis: +29 | Depth: 21 | EngineMove : c3a4
+11. O-O | Analysis: -23 | Depth: 18 | EngineMove : a8b8
+11... Bg4 | Analysis: +36 | Depth: 18 | EngineMove : h2h3
+12. Qd3 | Analysis: +10 | Depth: 17 | EngineMove : g4f3
+12... a6 | Analysis: +31 | Depth: 17 | EngineMove : c3a4
+13. Ne5 | Analysis: -10 | Depth: 18 | EngineMove : f6e5
+13... Qd7 | Analysis: +738 | Depth: 18 | EngineMove : e5d7
+14. Nxg4 | Analysis: -109 | Depth: 22 | EngineMove : d7g4
+14... Bh4 | Analysis: +486 | Depth: 18 | EngineMove : g4e5
+15. Ne5 | Analysis: -489 | Depth: 20 | EngineMove : d7d6

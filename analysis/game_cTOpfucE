@@ -1,0 +1,30 @@
+**URL: https://lichess.org/cTOpfucE | Tag: cTOpfucE | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/cTOpfucE', Date='2018.10.14', Round='-', White='Urquidi', Black='chittyct', Result='0-1', BlackElo='1060', BlackRatingDiff='+10', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.14', UTCTime='06:40:17', Variant='Standard', WhiteElo='1046', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -25 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +29 | Depth: 17 | EngineMove : g1f3
+2. Bc4 | Analysis: -13 | Depth: 17 | EngineMove : e7e6
+2... d6 | Analysis: +27 | Depth: 16 | EngineMove : g1f3
+3. c3 | Analysis: -1 | Depth: 17 | EngineMove : g8f6
+3... Nf6 | Analysis: -7 | Depth: 19 | EngineMove : g1f3
+4. d3 | Analysis: +14 | Depth: 20 | EngineMove : e7e6
+4... a6 | Analysis: -5 | Depth: 19 | EngineMove : g1f3
+5. Nd2 | Analysis: +16 | Depth: 18 | EngineMove : e7e6
+5... b5 | Analysis: -16 | Depth: 19 | EngineMove : c4b3
+6. Bb3 | Analysis: +16 | Depth: 19 | EngineMove : c8b7
+6... Nc6 | Analysis: -20 | Depth: 20 | EngineMove : g1e2
+7. h3 | Analysis: +21 | Depth: 20 | EngineMove : e7e6
+7... Na5 | Analysis: +3 | Depth: 18 | EngineMove : b3c2
+8. Bc2 | Analysis: -6 | Depth: 18 | EngineMove : e7e6
+8... c4 | Analysis: +72 | Depth: 18 | EngineMove : d3c4
+9. Ngf3 | Analysis: -51 | Depth: 18 | EngineMove : c4d3
+9... cxd3 | Analysis: +64 | Depth: 19 | EngineMove : c2d3
+10. Bxd3 | Analysis: -73 | Depth: 19 | EngineMove : e7e6
+10... g6 | Analysis: +122 | Depth: 17 | EngineMove : a2a4
+11. Qe2 | Analysis: -43 | Depth: 18 | EngineMove : f8g7
+11... Bg7 | Analysis: +24 | Depth: 17 | EngineMove : e1g1
+12. Nf1 | Analysis: +9 | Depth: 17 | EngineMove : e8g8
+12... O-O | Analysis: -10 | Depth: 18 | EngineMove : f1d2
+13. Ng3 | Analysis: +24 | Depth: 18 | EngineMove : a5b7
+13... Re8 | Analysis: +10 | Depth: 15 | EngineMove : e1g1
+14. Kf1 | Analysis: +42 | Depth: 17 | EngineMove : e7e5

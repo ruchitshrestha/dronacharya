@@ -1,0 +1,24 @@
+**URL: https://lichess.org/KLpqLmI6 | Tag: KLpqLmI6 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/KLpqLmI6', Date='2019.03.18', Round='-', White='chittyct', Black='Kk7054', Result='1-0', BlackElo='933', BlackRatingDiff='-43', ECO='D07', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.03.18', UTCTime='17:51:33', Variant='Standard', WhiteElo='1004', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -20 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +15 | Depth: 14 | EngineMove : g1f3
+2. c4 | Analysis: -9 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +27 | Depth: 12 | EngineMove : g1f3
+3. cxd5 | Analysis: -20 | Depth: 12 | EngineMove : d8d5
+3... Nxd4 | Analysis: +312 | Depth: 12 | EngineMove : d1d4
+4. Qxd4 | Analysis: -308 | Depth: 13 | EngineMove : e7e6
+4... Bf5 | Analysis: +413 | Depth: 11 | EngineMove : e2e4
+5. e4 | Analysis: -402 | Depth: 12 | EngineMove : f5d7
+5... Bg6 | Analysis: +1146 | Depth: 16 | EngineMove : f1b5
+6. Nc3 | Analysis: -475 | Depth: 11 | EngineMove : c7c6
+6... Qd7 | Analysis: +558 | Depth: 11 | EngineMove : c1f4
+7. Bb5 | Analysis: -437 | Depth: 13 | EngineMove : c7c6
+7... c6 | Analysis: +451 | Depth: 13 | EngineMove : d5c6
+8. Ba4 | Analysis: -446 | Depth: 12 | EngineMove : b7b5
+8... Bxe4 | Analysis: +903 | Depth: 14 | EngineMove : d4e4
+9. Qxe4 | Analysis: -925 | Depth: 16 | EngineMove : a8c8
+9... e5 | Analysis: +1852 | Depth: 14 | EngineMove : d5c6
+10. dxe6 | Analysis: -696 | Depth: 13 | EngineMove : d7e6
+10... fxe6 | Analysis: +697 | Depth: 12 | EngineMove : a4b3
+11. Bf4 | Analysis: -676 | Depth: 13 | EngineMove : g8f6

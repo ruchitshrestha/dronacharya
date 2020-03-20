@@ -1,0 +1,28 @@
+**URL: https://lichess.org/g2zIXVDD | Tag: g2zIXVDD | Side: black**
+HEADERS: Headers(Event='Casual UltraBullet game', Site='https://lichess.org/g2zIXVDD', Date='2019.04.29', Round='-', White='BNKookie', Black='chittyct', Result='1-0', BlackElo='1183', ECO='B00', Termination='Time forfeit', TimeControl='15+0', UTCDate='2019.04.29', UTCTime='23:48:55', Variant='Standard', WhiteElo='1647')
+
+1. e4 | Analysis: -22 | Depth: 11 | EngineMove : e7e6
+1... Nc6 | Analysis: +61 | Depth: 12 | EngineMove : d2d4
+2. Nc3 | Analysis: -12 | Depth: 12 | EngineMove : e7e5
+2... a6 | Analysis: +65 | Depth: 12 | EngineMove : d2d4
+3. d4 | Analysis: -69 | Depth: 13 | EngineMove : e7e6
+3... b5 | Analysis: +117 | Depth: 12 | EngineMove : d4d5
+4. d5 | Analysis: -105 | Depth: 12 | EngineMove : c6a5
+4... Bb7 | Analysis: +272 | Depth: 13 | EngineMove : d5c6
+5. dxc6 | Analysis: -263 | Depth: 14 | EngineMove : b7c6
+5... Bxc6 | Analysis: +265 | Depth: 13 | EngineMove : a2a3
+6. e5 | Analysis: -239 | Depth: 12 | EngineMove : e7e6
+6... d6 | Analysis: +274 | Depth: 12 | EngineMove : g1f3
+7. Nf3 | Analysis: -263 | Depth: 12 | EngineMove : e7e6
+7... dxe5 | Analysis: +323 | Depth: 13 | EngineMove : d1d8
+8. Bd3 | Analysis: -275 | Depth: 11 | EngineMove : g8f6
+8... Bxf3 | Analysis: +467 | Depth: 13 | EngineMove : d1f3
+9. Be4 | Analysis: +548 | Depth: 13 | EngineMove : d8d1
+9... Nf6 | Analysis: +431 | Depth: 13 | EngineMove : d1f3
+10. Qxf3 | Analysis: -415 | Depth: 13 | EngineMove : f6e4
+10... e6 | Analysis: +789 | Depth: 14 | EngineMove : e4a8
+11. Bxa8 | Analysis: -794 | Depth: 13 | EngineMove : f8e7
+11... Bd6 | Analysis: +804 | Depth: 13 | EngineMove : a8c6
+12. Bc6+ | Analysis: -803 | Depth: 15 | EngineMove : e8f8
+12... Nd7 | Analysis: +831 | Depth: 15 | EngineMove : c6d7
+13. Ne4 | Analysis: -727 | Depth: 12 | EngineMove : e8g8

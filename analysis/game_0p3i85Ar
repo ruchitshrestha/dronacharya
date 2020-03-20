@@ -1,0 +1,31 @@
+**URL: https://lichess.org/0p3i85Ar | Tag: 0p3i85Ar | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/0p3i85Ar', Date='2019.04.21', Round='-', White='Garrablanca90', Black='chittyct', Result='0-1', BlackElo='1291', BlackRatingDiff='+10', ECO='B21', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.21', UTCTime='13:25:07', Variant='Standard', WhiteElo='1277', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -27 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +28 | Depth: 16 | EngineMove : g1f3
+2. f4 | Analysis: -5 | Depth: 16 | EngineMove : d7d5
+2... Nc6 | Analysis: +3 | Depth: 18 | EngineMove : g1f3
+3. Bc4 | Analysis: +12 | Depth: 17 | EngineMove : e7e6
+3... a6 | Analysis: -14 | Depth: 18 | EngineMove : g1f3
+4. Nf3 | Analysis: +8 | Depth: 19 | EngineMove : e7e6
+4... e6 | Analysis: -8 | Depth: 19 | EngineMove : c4e2
+5. Nc3 | Analysis: +36 | Depth: 18 | EngineMove : g8f6
+5... b5 | Analysis: -28 | Depth: 18 | EngineMove : c4e2
+6. Be2 | Analysis: +15 | Depth: 16 | EngineMove : c8b7
+6... Bb7 | Analysis: -35 | Depth: 17 | EngineMove : e1g1
+7. e5 | Analysis: +72 | Depth: 19 | EngineMove : d7d5
+7... d6 | Analysis: -46 | Depth: 16 | EngineMove : e1g1
+8. d4 | Analysis: +115 | Depth: 17 | EngineMove : c5d4
+8... dxe5 | Analysis: -51 | Depth: 17 | EngineMove : d4e5
+9. fxe5 | Analysis: +159 | Depth: 17 | EngineMove : c5d4
+9... cxd4 | Analysis: -153 | Depth: 19 | EngineMove : c3e4
+10. Nxd4 | Analysis: +506 | Depth: 16 | EngineMove : d8h4
+10... Nxd4 | Analysis: -414 | Depth: 16 | EngineMove : c1e3
+11. Bf3 | Analysis: +1013 | Depth: 17 | EngineMove : d4f3
+11... Nxf3+ | Analysis: -1036 | Depth: 19 | EngineMove : e1f1
+12. Kf2 | Analysis: +1619 | Depth: 17 | EngineMove : d8h4
+12... Qb6+ | Analysis: -1103 | Depth: 19 | EngineMove : c1e3
+13. Be3 | Analysis: +1105 | Depth: 20 | EngineMove : f8c5
+13... Bc5 | Analysis: -1138 | Depth: 20 | EngineMove : d1e2
+14. Rg1 | Analysis: +2398 | Depth: 19 | EngineMove : c5e3
+14... Bxe3+ | Analysis: -2518 | Depth: 20 | EngineMove : f2f1

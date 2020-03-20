@@ -1,0 +1,29 @@
+**URL: https://lichess.org/AsKhfdKU | Tag: AsKhfdKU | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/AsKhfdKU', Date='2020.02.25', Round='-', White='chittyct', Black='Danielelsiete', Result='1-0', BlackElo='1457', BlackRatingDiff='-4', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2020.02.25', UTCTime='23:45:02', Variant='Standard', WhiteElo='1551', WhiteRatingDiff='+4')
+
+1. d4 | Analysis: -25 | Depth: 13 | EngineMove : d7d5
+1... e6 | Analysis: +37 | Depth: 11 | EngineMove : e2e4
+2. Bf4 | Analysis: -17 | Depth: 12 | EngineMove : c7c5
+2... f6 | Analysis: +66 | Depth: 11 | EngineMove : e2e4
+3. Nf3 | Analysis: -39 | Depth: 12 | EngineMove : g7g5
+3... g5 | Analysis: +36 | Depth: 13 | EngineMove : f4g3
+4. Nxg5 | Analysis: +178 | Depth: 11 | EngineMove : f6g5
+4... fxg5 | Analysis: -147 | Depth: 12 | EngineMove : f4c1
+5. Bd2 | Analysis: +166 | Depth: 11 | EngineMove : h7h5
+5... h6 | Analysis: -94 | Depth: 12 | EngineMove : e2e4
+6. e4 | Analysis: +97 | Depth: 12 | EngineMove : d8e7
+6... Bg7 | Analysis: -93 | Depth: 10 | EngineMove : d1h5
+7. Qh5+ | Analysis: +83 | Depth: 13 | EngineMove : e8f8
+7... Kf8 | Analysis: -91 | Depth: 12 | EngineMove : c2c3
+8. Bb4+ | Analysis: +172 | Depth: 11 | EngineMove : d7d6
+8... d6 | Analysis: -164 | Depth: 12 | EngineMove : e4e5
+9. e5 | Analysis: +216 | Depth: 13 | EngineMove : b8c6
+9... a5 | Analysis: -85 | Depth: 12 | EngineMove : h5f3
+10. Ba3 | Analysis: +85 | Depth: 11 | EngineMove : g8e7
+10... b5 | Analysis: +332 | Depth: 12 | EngineMove : h5f3
+11. Bxb5 | Analysis: -86 | Depth: 12 | EngineMove : c8b7
+11... Ba6 | Analysis: +271 | Depth: 11 | EngineMove : h5f3
+12. exd6 | Analysis: -123 | Depth: 13 | EngineMove : c7c6
+12... cxd6 | Analysis: +206 | Depth: 13 | EngineMove : a3d6
+13. Bxd6+ | Analysis: -232 | Depth: 14 | EngineMove : g8e7
+13... Qxd6 | Analysis: #+1 | Depth: 127 | EngineMove : h5e8

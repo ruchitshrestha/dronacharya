@@ -1,0 +1,22 @@
+**URL: https://lichess.org/EHDF8WqD | Tag: EHDF8WqD | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/EHDF8WqD', Date='2018.10.24', Round='-', White='DivyanshUpadhyay', Black='chittyct', Result='1-0', BlackElo='991', BlackRatingDiff='-9', ECO='B20', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.24', UTCTime='05:53:10', Variant='Standard', WhiteElo='1045', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -27 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +31 | Depth: 16 | EngineMove : g1f3
+2. e5 | Analysis: +7 | Depth: 17 | EngineMove : b8c6
+2... g6 | Analysis: +9 | Depth: 15 | EngineMove : f2f4
+3. c4 | Analysis: +67 | Depth: 17 | EngineMove : b8c6
+3... Bg7 | Analysis: -67 | Depth: 19 | EngineMove : g1f3
+4. d4 | Analysis: +86 | Depth: 19 | EngineMove : c5d4
+4... cxd4 | Analysis: -75 | Depth: 18 | EngineMove : g1f3
+5. Qxd4 | Analysis: +92 | Depth: 19 | EngineMove : b8c6
+5... Nc6 | Analysis: -91 | Depth: 18 | EngineMove : d4d1
+6. Qd5 | Analysis: +121 | Depth: 17 | EngineMove : c6e5
+6... Nxe5 | Analysis: -117 | Depth: 19 | EngineMove : g1f3
+7. Bf4 | Analysis: +171 | Depth: 17 | EngineMove : g8f6
+7... Nd3+ | Analysis: +54 | Depth: 19 | EngineMove : f1d3
+8. Qxd3 | Analysis: +230 | Depth: 17 | EngineMove : g7b2
+8... Bxb2 | Analysis: -247 | Depth: 19 | EngineMove : f4e5
+9. Nc3 | Analysis: +240 | Depth: 19 | EngineMove : b2a1
+9... Bxa1 | Analysis: -243 | Depth: 19 | EngineMove : g1f3
+10. Qd4 | Analysis: +315 | Depth: 17 | EngineMove : g8f6

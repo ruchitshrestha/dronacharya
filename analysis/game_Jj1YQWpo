@@ -1,0 +1,37 @@
+**URL: https://lichess.org/Jj1YQWpo | Tag: Jj1YQWpo | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Jj1YQWpo', Date='2018.12.17', Round='-', White='chittyct', Black='Nikolai-Zhavko-1995', Result='0-1', BlackElo='1602', BlackRatingDiff='+1', ECO='A01', Termination='Normal', TimeControl='30+0', UTCDate='2018.12.17', UTCTime='08:48:24', Variant='Standard', WhiteElo='987', WhiteRatingDiff='-1')
+
+1. b3 | Analysis: +4 | Depth: 16 | EngineMove : e7e5
+1... g6 | Analysis: +15 | Depth: 16 | EngineMove : c1b2
+2. Bb2 | Analysis: -14 | Depth: 18 | EngineMove : g8f6
+2... Bg7 | Analysis: +761 | Depth: 16 | EngineMove : b2g7
+3. e3 | Analysis: +485 | Depth: 17 | EngineMove : g7b2
+3... f6 | Analysis: +58 | Depth: 16 | EngineMove : c2c4
+4. g3 | Analysis: -35 | Depth: 16 | EngineMove : e7e5
+4... e6 | Analysis: +70 | Depth: 15 | EngineMove : c2c4
+5. h4 | Analysis: -37 | Depth: 15 | EngineMove : d7d5
+5... Ne7 | Analysis: +64 | Depth: 16 | EngineMove : h4h5
+6. g4 | Analysis: +12 | Depth: 15 | EngineMove : d7d5
+6... O-O | Analysis: +13 | Depth: 15 | EngineMove : h4h5
+7. h5 | Analysis: -18 | Depth: 16 | EngineMove : d7d5
+7... g5 | Analysis: +38 | Depth: 14 | EngineMove : h5h6
+8. f4 | Analysis: -3 | Depth: 16 | EngineMove : h7h6
+8... h6 | Analysis: +4 | Depth: 15 | EngineMove : d1e2
+9. fxg5 | Analysis: +42 | Depth: 18 | EngineMove : f6g5
+9... fxg5 | Analysis: -37 | Depth: 20 | EngineMove : b2g7
+10. e4 | Analysis: +739 | Depth: 18 | EngineMove : g7b2
+10... Bxb2 | Analysis: -746 | Depth: 18 | EngineMove : b1c3
+11. Nc3 | Analysis: +758 | Depth: 18 | EngineMove : e7c6
+11... Bxa1 | Analysis: -642 | Depth: 16 | EngineMove : d1a1
+12. Nce2 | Analysis: +994 | Depth: 16 | EngineMove : a1g7
+12... Qe8 | Analysis: -683 | Depth: 18 | EngineMove : d1a1
+13. Qxa1 | Analysis: +698 | Depth: 20 | EngineMove : e8f7
+13... Qf7 | Analysis: -702 | Depth: 20 | EngineMove : g1h3
+14. Nh3 | Analysis: +707 | Depth: 20 | EngineMove : f7f3
+14... Qg7 | Analysis: -583 | Depth: 16 | EngineMove : a1d1
+15. Nhf4 | Analysis: +2327 | Depth: 16 | EngineMove : g7a1
+15... Qxa1+ | Analysis: -2388 | Depth: 18 | EngineMove : e1f2
+16. Kf2 | Analysis: +2400 | Depth: 17 | EngineMove : a1a2
+16... Nec6 | Analysis: -2172 | Depth: 16 | EngineMove : f1g2
+17. Bg2 | Analysis: +2295 | Depth: 18 | EngineMove : a1a2
+17... Qg7 | Analysis: -2075 | Depth: 15 | EngineMove : c2c3

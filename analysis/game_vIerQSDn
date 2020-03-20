@@ -1,0 +1,19 @@
+**URL: https://lichess.org/vIerQSDn | Tag: vIerQSDn | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/vIerQSDn', Date='2019.09.11', Round='-', White='JobbyFisher', Black='chittyct', Result='0-1', BlackElo='1384', BlackRatingDiff='+7', ECO='B30', Termination='Normal', TimeControl='180+2', UTCDate='2019.09.11', UTCTime='09:14:29', Variant='Standard', WhiteElo='1388', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -24 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +40 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -25 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +36 | Depth: 17 | EngineMove : f1b5
+3. Bc4 | Analysis: -6 | Depth: 17 | EngineMove : g8f6
+3... a6 | Analysis: +47 | Depth: 15 | EngineMove : d2d4
+4. d3 | Analysis: -12 | Depth: 18 | EngineMove : e7e6
+4... e6 | Analysis: 0 | Depth: 19 | EngineMove : c4b3
+5. c3 | Analysis: +10 | Depth: 20 | EngineMove : d7d5
+5... b5 | Analysis: +10 | Depth: 18 | EngineMove : c4b3
+6. Bb3 | Analysis: -7 | Depth: 19 | EngineMove : d7d6
+6... Bb7 | Analysis: +10 | Depth: 16 | EngineMove : e1g1
+7. a3 | Analysis: +5 | Depth: 19 | EngineMove : f8e7
+7... Bd6 | Analysis: +13 | Depth: 17 | EngineMove : b3c2
+8. h3 | Analysis: +10 | Depth: 17 | EngineMove : g8e7
+8... Bc7 | Analysis: +2 | Depth: 17 | EngineMove : e1g1

@@ -1,0 +1,21 @@
+**URL: https://lichess.org/bkfhOKeM | Tag: bkfhOKeM | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/bkfhOKeM', Date='2018.12.20', Round='-', White='chittyct', Black='derluggl97', Result='0-1', BlackElo='1059', BlackRatingDiff='+10', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.12.20', UTCTime='18:24:48', Variant='Standard', WhiteElo='1069', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -14 | Depth: 18 | EngineMove : g8f6
+1... e5 | Analysis: +77 | Depth: 17 | EngineMove : d4e5
+2. c4 | Analysis: +9 | Depth: 18 | EngineMove : e5d4
+2... exd4 | Analysis: -32 | Depth: 18 | EngineMove : g1f3
+3. Qxd4 | Analysis: +44 | Depth: 18 | EngineMove : b8c6
+3... Nf6 | Analysis: -32 | Depth: 20 | EngineMove : b1c3
+4. Qd1 | Analysis: +50 | Depth: 18 | EngineMove : d7d5
+4... Nc6 | Analysis: -13 | Depth: 19 | EngineMove : b1c3
+5. Nc3 | Analysis: +13 | Depth: 20 | EngineMove : f8b4
+5... d5 | Analysis: +82 | Depth: 16 | EngineMove : c4d5
+6. cxd5 | Analysis: -75 | Depth: 16 | EngineMove : c6e5
+6... Nb4 | Analysis: +152 | Depth: 18 | EngineMove : e2e4
+7. Qa4+ | Analysis: +203 | Depth: 17 | EngineMove : c8d7
+7... Bd7 | Analysis: -205 | Depth: 18 | EngineMove : a4d1
+8. Qd1 | Analysis: +203 | Depth: 18 | EngineMove : d7f5
+8... Nbxd5 | Analysis: +239 | Depth: 17 | EngineMove : c3d5
+9. Nxd5 | Analysis: -241 | Depth: 17 | EngineMove : d7c6
+9... Nxd5 | Analysis: +286 | Depth: 17 | EngineMove : d1d5

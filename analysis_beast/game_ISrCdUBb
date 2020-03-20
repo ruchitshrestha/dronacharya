@@ -1,0 +1,22 @@
+**URL: https://lichess.org/ISrCdUBb | Tag: ISrCdUBb | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ISrCdUBb', Date='2019.11.06', Round='-', White='Hakko7', Black='chittyct', Result='1-0', BlackElo='1318', BlackRatingDiff='-7', ECO='B21', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.11.06', UTCTime='11:20:08', Variant='Standard', WhiteElo='1335', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -42 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +45 | Depth: 12 | EngineMove : g1f3
+2. d4 | Analysis: -22 | Depth: 13 | EngineMove : c5d4
+2... cxd4 | Analysis: +18 | Depth: 13 | EngineMove : d1d4
+3. Nf3 | Analysis: +4 | Depth: 12 | EngineMove : e7e5
+3... e5 | Analysis: +12 | Depth: 14 | EngineMove : c2c3
+4. Bd2 | Analysis: +80 | Depth: 11 | EngineMove : b8c6
+4... Nc6 | Analysis: -78 | Depth: 12 | EngineMove : c2c3
+5. Bb5 | Analysis: +143 | Depth: 13 | EngineMove : d8b6
+5... d5 | Analysis: 0 | Depth: 12 | EngineMove : d1e2
+6. exd5 | Analysis: +71 | Depth: 11 | EngineMove : d8d5
+6... Qxd5 | Analysis: -38 | Depth: 13 | EngineMove : d1e2
+7. Bxc6+ | Analysis: +183 | Depth: 12 | EngineMove : b7c6
+7... bxc6 | Analysis: -168 | Depth: 11 | EngineMove : d1e2
+8. Qe2 | Analysis: +156 | Depth: 13 | EngineMove : f7f6
+8... Bd6 | Analysis: -185 | Depth: 11 | EngineMove : b1a3
+9. Bf4 | Analysis: +208 | Depth: 12 | EngineMove : f7f6
+9... Ne7 | Analysis: -44 | Depth: 14 | EngineMove : f4e5
+10. Bxe5 | Analysis: +51 | Depth: 13 | EngineMove : d6e5

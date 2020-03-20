@@ -1,0 +1,13 @@
+**URL: https://lichess.org/6QiqkifG | Tag: 6QiqkifG | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/6QiqkifG', Date='2019.08.25', Round='-', White='chittyct', Black='o1903zan', Result='0-1', BlackElo='1326', BlackRatingDiff='+5', ECO='D30', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.08.25', UTCTime='15:52:28', Variant='Standard', WhiteElo='1221', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -23 | Depth: 12 | EngineMove : g8f6
+1... e6 | Analysis: +27 | Depth: 12 | EngineMove : e2e4
+2. c4 | Analysis: -15 | Depth: 13 | EngineMove : g8f6
+2... d5 | Analysis: +19 | Depth: 13 | EngineMove : e2e3
+3. cxd5 | Analysis: -3 | Depth: 13 | EngineMove : e6d5
+3... Qxd5 | Analysis: +63 | Depth: 12 | EngineMove : g1f3
+4. Nc3 | Analysis: -74 | Depth: 13 | EngineMove : f8b4
+4... Qd7 | Analysis: +88 | Depth: 12 | EngineMove : g1f3
+5. e4 | Analysis: -101 | Depth: 12 | EngineMove : e6e5
+5... Nc6 | Analysis: +129 | Depth: 13 | EngineMove : g1f3

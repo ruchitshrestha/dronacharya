@@ -1,0 +1,37 @@
+**URL: https://lichess.org/RKXg19h4 | Tag: RKXg19h4 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/RKXg19h4', Date='2018.09.07', Round='-', White='lavhirode', Black='chittyct', Result='0-1', BlackElo='891', BlackRatingDiff='+9', ECO='D45', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.07', UTCTime='13:34:11', Variant='Standard', WhiteElo='839', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -14 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +18 | Depth: 18 | EngineMove : e2e3
+2. c4 | Analysis: -12 | Depth: 18 | EngineMove : e7e6
+2... Nf6 | Analysis: +26 | Depth: 18 | EngineMove : c4d5
+3. Nf3 | Analysis: -19 | Depth: 18 | EngineMove : e7e6
+3... c6 | Analysis: +30 | Depth: 16 | EngineMove : e2e3
+4. Nc3 | Analysis: -13 | Depth: 19 | EngineMove : d5c4
+4... e6 | Analysis: +29 | Depth: 18 | EngineMove : e2e3
+5. e3 | Analysis: -23 | Depth: 19 | EngineMove : b8d7
+5... Bb4 | Analysis: +37 | Depth: 18 | EngineMove : f1d3
+6. Bd2 | Analysis: -41 | Depth: 18 | EngineMove : e8g8
+6... Bxc3 | Analysis: +68 | Depth: 19 | EngineMove : d2c3
+7. Bxc3 | Analysis: -60 | Depth: 18 | EngineMove : e8g8
+7... Na6 | Analysis: +105 | Depth: 18 | EngineMove : c4d5
+8. b4 | Analysis: -63 | Depth: 17 | EngineMove : a6c7
+8... Ne4 | Analysis: +81 | Depth: 18 | EngineMove : d1c2
+9. Bb2 | Analysis: -10 | Depth: 20 | EngineMove : a6b4
+9... Nxb4 | Analysis: +39 | Depth: 19 | EngineMove : d1a4
+10. Be2 | Analysis: 0 | Depth: 20 | EngineMove : d5c4
+10... Qa5 | Analysis: +55 | Depth: 19 | EngineMove : e1g1
+11. O-O | Analysis: -54 | Depth: 20 | EngineMove : d5c4
+11... Nxa2 | Analysis: +288 | Depth: 21 | EngineMove : d1b1
+12. Bc3 | Analysis: +347 | Depth: 17 | EngineMove : e4c3
+12... Qxc3 | Analysis: -87 | Depth: 19 | EngineMove : a1a2
+13. Rc1 | Analysis: +778 | Depth: 21 | EngineMove : c3c1
+13... Qb2 | Analysis: -352 | Depth: 20 | EngineMove : c1b1
+14. Nd2 | Analysis: +1162 | Depth: 21 | EngineMove : a2c1
+14... Nac3 | Analysis: -855 | Depth: 20 | EngineMove : c1c3
+15. Rb1 | Analysis: +1287 | Depth: 21 | EngineMove : b2d2
+15... Qa2 | Analysis: -1089 | Depth: 18 | EngineMove : d1e1
+16. Ra1 | Analysis: +1148 | Depth: 22 | EngineMove : a2d2
+16... Qb2 | Analysis: 0 | Depth: 41 | EngineMove : a1b1
+17. Rb1 | Analysis: +1295 | Depth: 20 | EngineMove : b2d2
+17... Qa2 | Analysis: 0 | Depth: 47 | EngineMove : b1a1

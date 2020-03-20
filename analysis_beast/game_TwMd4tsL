@@ -1,0 +1,28 @@
+**URL: https://lichess.org/TwMd4tsL | Tag: TwMd4tsL | Side: black**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/TwMd4tsL', Date='2018.08.23', Round='-', White='xavillaplana', Black='chittyct', Result='1-0', BlackElo='1313', BlackRatingDiff='-44', ECO='B07', Termination='Normal', TimeControl='900+15', UTCDate='2018.08.23', UTCTime='14:16:38', Variant='Standard', WhiteElo='1262', WhiteRatingDiff='+13')
+
+1. e4 | Analysis: -22 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: +18 | Depth: 13 | EngineMove : g1f3
+2. d4 | Analysis: -7 | Depth: 12 | EngineMove : e5d4
+2... d6 | Analysis: +66 | Depth: 13 | EngineMove : d4e5
+3. d5 | Analysis: +3 | Depth: 12 | EngineMove : g8f6
+3... Nf6 | Analysis: +8 | Depth: 13 | EngineMove : f1d3
+4. f3 | Analysis: +105 | Depth: 13 | EngineMove : f6e4
+4... Be7 | Analysis: +1 | Depth: 13 | EngineMove : c2c4
+5. Bg5 | Analysis: +115 | Depth: 12 | EngineMove : f6d5
+5... O-O | Analysis: -22 | Depth: 12 | EngineMove : g5e3
+6. Bxf6 | Analysis: +108 | Depth: 13 | EngineMove : e7f6
+6... Bxf6 | Analysis: -92 | Depth: 13 | EngineMove : f1c4
+7. g3 | Analysis: +118 | Depth: 11 | EngineMove : c7c6
+7... c6 | Analysis: -110 | Depth: 14 | EngineMove : b1c3
+8. h4 | Analysis: +151 | Depth: 13 | EngineMove : d8b6
+8... Qa5+ | Analysis: -72 | Depth: 12 | EngineMove : b1c3
+9. c3 | Analysis: +108 | Depth: 12 | EngineMove : a5b6
+9... cxd5 | Analysis: -84 | Depth: 14 | EngineMove : d1d5
+10. Qxd5 | Analysis: +90 | Depth: 14 | EngineMove : a5d5
+10... Qb6 | Analysis: -65 | Depth: 13 | EngineMove : d5d2
+11. b4 | Analysis: +175 | Depth: 12 | EngineMove : a7a5
+11... Qe3+ | Analysis: -189 | Depth: 14 | EngineMove : f1e2
+12. Be2 | Analysis: +185 | Depth: 14 | EngineMove : e3c1
+12... Qxc3+ | Analysis: +818 | Depth: 12 | EngineMove : b1c3
+13. Nxc3 | Analysis: -850 | Depth: 13 | EngineMove : b8c6

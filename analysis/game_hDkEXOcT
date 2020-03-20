@@ -1,0 +1,14 @@
+**URL: https://lichess.org/hDkEXOcT | Tag: hDkEXOcT | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/hDkEXOcT', Date='2019.09.23', Round='-', White='chittyct', Black='mahmoud_aisha', Result='1-0', BlackElo='1429', BlackRatingDiff='-8', ECO='D20', Termination='Time forfeit', TimeControl='300+3', UTCDate='2019.09.23', UTCTime='18:00:57', Variant='Standard', WhiteElo='1363', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -11 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 17 | EngineMove : c1f4
+2. c4 | Analysis: -21 | Depth: 17 | EngineMove : e7e6
+2... dxc4 | Analysis: +34 | Depth: 16 | EngineMove : g1f3
+3. e4 | Analysis: -14 | Depth: 15 | EngineMove : e7e5
+3... e5 | Analysis: 0 | Depth: 17 | EngineMove : g1f3
+4. d5 | Analysis: +32 | Depth: 15 | EngineMove : b7b5
+4... c6 | Analysis: -11 | Depth: 15 | EngineMove : f1c4
+5. Bxc4 | Analysis: 0 | Depth: 16 | EngineMove : g8f6
+5... cxd5 | Analysis: +17 | Depth: 16 | EngineMove : e4d5
+6. Bxd5 | Analysis: -14 | Depth: 16 | EngineMove : f8d6

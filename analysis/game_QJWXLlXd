@@ -1,0 +1,28 @@
+**URL: https://lichess.org/QJWXLlXd | Tag: QJWXLlXd | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/QJWXLlXd', Date='2018.10.26', Round='-', White='jagnath', Black='chittyct', Result='0-1', BlackElo='1120', BlackRatingDiff='+10', ECO='B54', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.26', UTCTime='23:13:33', Variant='Standard', WhiteElo='1091', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -24 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +34 | Depth: 15 | EngineMove : g1f3
+2. Nf3 | Analysis: -41 | Depth: 17 | EngineMove : e7e6
+2... d6 | Analysis: +27 | Depth: 16 | EngineMove : b1c3
+3. d4 | Analysis: -22 | Depth: 16 | EngineMove : c5d4
+3... Bg4 | Analysis: +90 | Depth: 16 | EngineMove : d4c5
+4. dxc5 | Analysis: -96 | Depth: 17 | EngineMove : b8c6
+4... Bxf3 | Analysis: +158 | Depth: 16 | EngineMove : d1f3
+5. Qxf3 | Analysis: -157 | Depth: 16 | EngineMove : e7e6
+5... dxc5 | Analysis: +136 | Depth: 17 | EngineMove : c1g5
+6. Bc4 | Analysis: -84 | Depth: 17 | EngineMove : e7e6
+6... Nh6 | Analysis: +406 | Depth: 20 | EngineMove : c1h6
+7. Bxh6 | Analysis: -431 | Depth: 20 | EngineMove : e7e6
+7... gxh6 | Analysis: +1067 | Depth: 18 | EngineMove : f3f7
+8. Bxf7+ | Analysis: -878 | Depth: 18 | EngineMove : e8d7
+8... Kd7 | Analysis: +893 | Depth: 20 | EngineMove : b1c3
+9. O-O | Analysis: -596 | Depth: 18 | EngineMove : b8c6
+9... Kc8 | Analysis: +937 | Depth: 18 | EngineMove : f7e6
+10. Rd1 | Analysis: -973 | Depth: 17 | EngineMove : b8d7
+10... Qa5 | Analysis: +1354 | Depth: 17 | EngineMove : f3g4
+11. Qf5+ | Analysis: -1458 | Depth: 19 | EngineMove : c8c7
+11... Kc7 | Analysis: +1527 | Depth: 19 | EngineMove : b1c3
+12. Qe5+ | Analysis: -1398 | Depth: 21 | EngineMove : c7b6
+12... Kb6 | Analysis: +1424 | Depth: 23 | EngineMove : b1c3
+13. Rd3 | Analysis: #+1 | Depth: 127 | EngineMove : a5e1

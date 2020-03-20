@@ -1,0 +1,26 @@
+**URL: https://lichess.org/0Izigdcm | Tag: 0Izigdcm | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/0Izigdcm', Date='2018.10.30', Round='-', White='pfonours', Black='chittyct', Result='1-0', BlackElo='1096', BlackRatingDiff='-11', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2018.10.30', UTCTime='15:28:54', Variant='Standard', WhiteElo='1092', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -17 | Depth: 18 | EngineMove : d7d5
+1... g6 | Analysis: +64 | Depth: 16 | EngineMove : e2e4
+2. e3 | Analysis: -41 | Depth: 18 | EngineMove : g8f6
+2... Bg7 | Analysis: +44 | Depth: 18 | EngineMove : e3e4
+3. c4 | Analysis: -35 | Depth: 19 | EngineMove : e7e5
+3... e6 | Analysis: +44 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -51 | Depth: 18 | EngineMove : g8e7
+4... d5 | Analysis: +40 | Depth: 18 | EngineMove : f1e2
+5. c5 | Analysis: 0 | Depth: 16 | EngineMove : b8d7
+5... Nc6 | Analysis: +3 | Depth: 18 | EngineMove : c1d2
+6. Bb5 | Analysis: +20 | Depth: 19 | EngineMove : g8e7
+6... a6 | Analysis: +33 | Depth: 19 | EngineMove : b5c6
+7. Bxc6+ | Analysis: -32 | Depth: 20 | EngineMove : b7c6
+7... bxc6 | Analysis: +30 | Depth: 21 | EngineMove : b2b3
+8. O-O | Analysis: -29 | Depth: 21 | EngineMove : g8f6
+8... Nf6 | Analysis: +24 | Depth: 18 | EngineMove : b1d2
+9. Ne5 | Analysis: -24 | Depth: 19 | EngineMove : c8b7
+9... Rb8 | Analysis: +550 | Depth: 21 | EngineMove : e5c6
+10. Nxc6 | Analysis: -553 | Depth: 22 | EngineMove : d8d7
+10... Qd7 | Analysis: +565 | Depth: 23 | EngineMove : c6b8
+11. Nxb8 | Analysis: -570 | Depth: 23 | EngineMove : d7b5
+11... Ne4 | Analysis: +1348 | Depth: 19 | EngineMove : b8d7
+12. Nxd7 | Analysis: -1346 | Depth: 20 | EngineMove : c8d7

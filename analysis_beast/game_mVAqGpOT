@@ -1,0 +1,15 @@
+**URL: https://lichess.org/mVAqGpOT | Tag: mVAqGpOT | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/mVAqGpOT', Date='2018.09.20', Round='-', White='waltermillion', Black='chittyct', Result='0-1', BlackElo='994', BlackRatingDiff='+6', ECO='A00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.20', UTCTime='13:59:21', Variant='Standard', WhiteElo='826', WhiteRatingDiff='-6')
+
+1. d3 | Analysis: +12 | Depth: 12 | EngineMove : d7d5
+1... e5 | Analysis: -2 | Depth: 13 | EngineMove : g1f3
+2. Qd2 | Analysis: +27 | Depth: 13 | EngineMove : d7d5
+2... f5 | Analysis: -15 | Depth: 12 | EngineMove : g1f3
+3. e3 | Analysis: +28 | Depth: 12 | EngineMove : g8f6
+3... d5 | Analysis: -27 | Depth: 12 | EngineMove : d3d4
+4. c3 | Analysis: +56 | Depth: 13 | EngineMove : g8f6
+4... Nc6 | Analysis: -45 | Depth: 15 | EngineMove : d3d4
+5. f3 | Analysis: +129 | Depth: 12 | EngineMove : g8f6
+5... Bc5 | Analysis: -74 | Depth: 12 | EngineMove : d3d4
+6. Ke2 | Analysis: +208 | Depth: 13 | EngineMove : d5d4
+6... Nge7 | Analysis: -153 | Depth: 13 | EngineMove : d3d4

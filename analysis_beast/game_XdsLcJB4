@@ -1,0 +1,21 @@
+**URL: https://lichess.org/XdsLcJB4 | Tag: XdsLcJB4 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/XdsLcJB4', Date='2019.08.26', Round='-', White='chittyct', Black='Ortitis', Result='0-1', BlackElo='1430', BlackRatingDiff='+7', ECO='A50', Termination='Normal', TimeControl='180+2', UTCDate='2019.08.26', UTCTime='09:47:55', Variant='Standard', WhiteElo='1386', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -18 | Depth: 12 | EngineMove : g8f6
+1... Nf6 | Analysis: +13 | Depth: 13 | EngineMove : g1f3
+2. c4 | Analysis: -13 | Depth: 13 | EngineMove : e7e6
+2... e6 | Analysis: +14 | Depth: 14 | EngineMove : g1f3
+3. Nc3 | Analysis: -19 | Depth: 14 | EngineMove : d7d5
+3... a6 | Analysis: +48 | Depth: 12 | EngineMove : e2e4
+4. Bg5 | Analysis: -43 | Depth: 11 | EngineMove : f8b4
+4... Bb4 | Analysis: +58 | Depth: 12 | EngineMove : e2e3
+5. a3 | Analysis: -37 | Depth: 13 | EngineMove : b4c3
+5... Bxc3+ | Analysis: +31 | Depth: 14 | EngineMove : b2c3
+6. bxc3 | Analysis: -28 | Depth: 14 | EngineMove : b8c6
+6... h6 | Analysis: +20 | Depth: 14 | EngineMove : g5f6
+7. c5 | Analysis: +339 | Depth: 12 | EngineMove : h6g5
+7... hxg5 | Analysis: -337 | Depth: 12 | EngineMove : e2e3
+8. e4 | Analysis: +422 | Depth: 13 | EngineMove : f6e4
+8... Nxe4 | Analysis: -433 | Depth: 13 | EngineMove : d1c2
+9. f3 | Analysis: +603 | Depth: 13 | EngineMove : e4g3
+9... Nxc3 | Analysis: -514 | Depth: 13 | EngineMove : d1d2

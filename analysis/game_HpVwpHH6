@@ -1,0 +1,18 @@
+**URL: https://lichess.org/HpVwpHH6 | Tag: HpVwpHH6 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/HpVwpHH6', Date='2018.09.24', Round='-', White='chittyct', Black='Thomas_Lamby', Result='1-0', BlackElo='1183', BlackRatingDiff='-12', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='14:09:09', Variant='Standard', WhiteElo='1179', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -14 | Depth: 18 | EngineMove : g8f6
+1... b6 | Analysis: +68 | Depth: 16 | EngineMove : e2e4
+2. Nf3 | Analysis: -25 | Depth: 17 | EngineMove : c8b7
+2... Bb7 | Analysis: +25 | Depth: 18 | EngineMove : b1c3
+3. Bf4 | Analysis: -13 | Depth: 17 | EngineMove : e7e6
+3... e6 | Analysis: +12 | Depth: 19 | EngineMove : e2e3
+4. e3 | Analysis: -18 | Depth: 19 | EngineMove : g8f6
+4... Qf6 | Analysis: +145 | Depth: 16 | EngineMove : f4c7
+5. Bd3 | Analysis: -71 | Depth: 17 | EngineMove : f6d8
+5... Bd6 | Analysis: +286 | Depth: 20 | EngineMove : f4g5
+6. Bg5 | Analysis: -289 | Depth: 20 | EngineMove : b7f3
+6... Bxf3 | Analysis: +286 | Depth: 20 | EngineMove : g5f6
+7. Bxf6 | Analysis: -277 | Depth: 20 | EngineMove : f3d1
+7... Bxd1 | Analysis: +279 | Depth: 22 | EngineMove : f6g7
+8. Bxg7 | Analysis: -284 | Depth: 20 | EngineMove : g8e7

@@ -1,0 +1,24 @@
+**URL: https://lichess.org/5EVT9GnI | Tag: 5EVT9GnI | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/5EVT9GnI', Date='2019.07.18', Round='-', White='Sagan9ne', Black='chittyct', Result='0-1', BlackElo='1197', BlackRatingDiff='+10', ECO='B30', Termination='Normal', TimeControl='60+0', UTCDate='2019.07.18', UTCTime='15:07:59', Variant='Standard', WhiteElo='1212', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -22 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +34 | Depth: 16 | EngineMove : g1f3
+2. Nf3 | Analysis: -25 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +29 | Depth: 17 | EngineMove : f1b5
+3. Bb5 | Analysis: -26 | Depth: 18 | EngineMove : g8f6
+3... Qb6 | Analysis: +63 | Depth: 15 | EngineMove : c2c4
+4. a4 | Analysis: -40 | Depth: 18 | EngineMove : e7e6
+4... a6 | Analysis: +59 | Depth: 17 | EngineMove : b5c6
+5. Bxc6 | Analysis: -48 | Depth: 18 | EngineMove : b7c6
+5... Qxc6 | Analysis: +70 | Depth: 16 | EngineMove : d2d3
+6. b4 | Analysis: +179 | Depth: 17 | EngineMove : c6e4
+6... Qxe4+ | Analysis: -174 | Depth: 19 | EngineMove : e1f1
+7. Qe2 | Analysis: +184 | Depth: 19 | EngineMove : e4e2
+7... Qxb4 | Analysis: -100 | Depth: 19 | EngineMove : a4a5
+8. Ba3 | Analysis: +181 | Depth: 17 | EngineMove : b4a4
+8... Qxa4 | Analysis: -131 | Depth: 18 | EngineMove : e1g1
+9. Bxc5 | Analysis: +578 | Depth: 18 | EngineMove : a4a1
+9... Qxa1 | Analysis: -598 | Depth: 19 | EngineMove : e1g1
+10. Ne5 | Analysis: +1338 | Depth: 18 | EngineMove : a1b1
+10... Qxb1+ | Analysis: -1348 | Depth: 19 | EngineMove : e2d1
+11. Qd1 | Analysis: +1349 | Depth: 18 | EngineMove : b1d1

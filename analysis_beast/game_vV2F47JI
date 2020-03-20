@@ -1,0 +1,34 @@
+**URL: https://lichess.org/vV2F47JI | Tag: vV2F47JI | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/vV2F47JI', Date='2019.02.17', Round='-', White='chittyct', Black='ChessGod77', Result='0-1', BlackElo='1942', BlackRatingDiff='+1', ECO='A45', Termination='Normal', TimeControl='180+0', UTCDate='2019.02.17', UTCTime='18:34:34', Variant='Standard', WhiteElo='1285', WhiteRatingDiff='-1')
+
+1. d4 | Analysis: -18 | Depth: 14 | EngineMove : g8f6
+1... Nf6 | Analysis: +22 | Depth: 13 | EngineMove : g1f3
+2. Nc3 | Analysis: 0 | Depth: 14 | EngineMove : d7d5
+2... e6 | Analysis: +9 | Depth: 12 | EngineMove : g1f3
+3. Bg5 | Analysis: -20 | Depth: 13 | EngineMove : f8b4
+3... Be7 | Analysis: +14 | Depth: 14 | EngineMove : e2e4
+4. Qd3 | Analysis: +47 | Depth: 12 | EngineMove : d7d5
+4... d5 | Analysis: -30 | Depth: 14 | EngineMove : g1f3
+5. O-O-O | Analysis: +25 | Depth: 13 | EngineMove : c7c5
+5... c5 | Analysis: -13 | Depth: 14 | EngineMove : g5f6
+6. Qb5+ | Analysis: +174 | Depth: 14 | EngineMove : c8d7
+6... Nc6 | Analysis: -41 | Depth: 14 | EngineMove : d4c5
+7. Bxf6 | Analysis: +55 | Depth: 14 | EngineMove : e7f6
+7... gxf6 | Analysis: -21 | Depth: 13 | EngineMove : d4c5
+8. dxc5 | Analysis: +35 | Depth: 15 | EngineMove : a7a6
+8... a6 | Analysis: -25 | Depth: 14 | EngineMove : b5a4
+9. Qd3 | Analysis: +27 | Depth: 15 | EngineMove : d8a5
+9... Bxc5 | Analysis: -20 | Depth: 14 | EngineMove : d3g3
+10. Nh3 | Analysis: +54 | Depth: 12 | EngineMove : f6f5
+10... Ne5 | Analysis: -6 | Depth: 14 | EngineMove : d3g3
+11. Qd2 | Analysis: +161 | Depth: 13 | EngineMove : e5c4
+11... Qa5 | Analysis: -71 | Depth: 15 | EngineMove : e2e3
+12. a3 | Analysis: +535 | Depth: 15 | EngineMove : e5c4
+12... Nc4 | Analysis: -543 | Depth: 15 | EngineMove : d2e1
+13. Qh6 | Analysis: #+8 | Depth: 28 | EngineMove : c5a3
+13... Bxa3 | Analysis: #-7 | Depth: 31 | EngineMove : c1b1
+14. Rd4 | Analysis: #+4 | Depth: 66 | EngineMove : a3b2
+14... Bxb2+ | Analysis: #-3 | Depth: 127 | EngineMove : c1d1
+15. Kd1 | Analysis: #+3 | Depth: 127 | EngineMove : a5a1
+15... Qa1+ | Analysis: #-2 | Depth: 127 | EngineMove : c3b1
+16. Qc1 | Analysis: #+1 | Depth: 127 | EngineMove : a1c1

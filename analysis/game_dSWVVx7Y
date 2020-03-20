@@ -1,0 +1,28 @@
+**URL: https://lichess.org/dSWVVx7Y | Tag: dSWVVx7Y | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/dSWVVx7Y', Date='2020.02.07', Round='-', White='SylvainDelak', Black='chittyct', Result='1-0', BlackElo='1633', BlackRatingDiff='-5', ECO='A00', Termination='Normal', TimeControl='480+15', UTCDate='2020.02.07', UTCTime='02:03:02', Variant='Standard', WhiteElo='1874', WhiteRatingDiff='+40')
+
+1. g4 | Analysis: +77 | Depth: 15 | EngineMove : d7d5
+1... d5 | Analysis: -71 | Depth: 17 | EngineMove : e2e3
+2. Bg2 | Analysis: +77 | Depth: 16 | EngineMove : e7e5
+2... Bxg4 | Analysis: -54 | Depth: 17 | EngineMove : c2c4
+3. c4 | Analysis: +60 | Depth: 17 | EngineMove : g8f6
+3... Nf6 | Analysis: -81 | Depth: 17 | EngineMove : b1c3
+4. Qb3 | Analysis: +68 | Depth: 17 | EngineMove : e7e5
+4... b6 | Analysis: -24 | Depth: 17 | EngineMove : c4d5
+5. Bxd5 | Analysis: +80 | Depth: 17 | EngineMove : f6d5
+5... Nxd5 | Analysis: -65 | Depth: 19 | EngineMove : c4d5
+6. cxd5 | Analysis: +77 | Depth: 19 | EngineMove : c7c6
+6... c6 | Analysis: -64 | Depth: 20 | EngineMove : b1c3
+7. Nc3 | Analysis: +92 | Depth: 20 | EngineMove : c6d5
+7... cxd5 | Analysis: -84 | Depth: 19 | EngineMove : b3d5
+8. Nxd5 | Analysis: +97 | Depth: 17 | EngineMove : b8c6
+8... Be6 | Analysis: -59 | Depth: 17 | EngineMove : b3a4
+9. e4 | Analysis: +93 | Depth: 17 | EngineMove : d8d7
+9... Nc6 | Analysis: -108 | Depth: 16 | EngineMove : g1e2
+10. d3 | Analysis: +86 | Depth: 17 | EngineMove : a8c8
+10... Nd4 | Analysis: +241 | Depth: 19 | EngineMove : b3a4
+11. Qa4+ | Analysis: -246 | Depth: 19 | EngineMove : d8d7
+11... Nc6 | Analysis: +1059 | Depth: 18 | EngineMove : a4c6
+12. Qxc6+ | Analysis: -1117 | Depth: 19 | EngineMove : e6d7
+12... Bd7 | Analysis: +1116 | Depth: 18 | EngineMove : d5c7
+13. Nc7+ | Analysis: -1128 | Depth: 19 | EngineMove : d8c7

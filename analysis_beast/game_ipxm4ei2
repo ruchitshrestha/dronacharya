@@ -1,0 +1,22 @@
+**URL: https://lichess.org/ipxm4ei2 | Tag: ipxm4ei2 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ipxm4ei2', Date='2019.06.16', Round='-', White='chittyct', Black='emmcha', Result='1-0', BlackElo='1221', BlackRatingDiff='-7', ECO='D06', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.06.16', UTCTime='01:46:07', Variant='Standard', WhiteElo='1340', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -30 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +20 | Depth: 13 | EngineMove : c1f4
+2. c4 | Analysis: -22 | Depth: 14 | EngineMove : e7e6
+2... Nf6 | Analysis: +28 | Depth: 12 | EngineMove : c4d5
+3. cxd5 | Analysis: -12 | Depth: 13 | EngineMove : c7c6
+3... Bf5 | Analysis: +88 | Depth: 11 | EngineMove : b1c3
+4. Nc3 | Analysis: -32 | Depth: 14 | EngineMove : f6d5
+4... e6 | Analysis: +105 | Depth: 12 | EngineMove : d5e6
+5. dxe6 | Analysis: -107 | Depth: 12 | EngineMove : f7e6
+5... Bxe6 | Analysis: +141 | Depth: 12 | EngineMove : e2e4
+6. e4 | Analysis: -139 | Depth: 12 | EngineMove : f8b4
+6... Bb4 | Analysis: +147 | Depth: 14 | EngineMove : f1d3
+7. Qa4+ | Analysis: -50 | Depth: 13 | EngineMove : b8c6
+7... Nc6 | Analysis: +24 | Depth: 13 | EngineMove : f1b5
+8. d5 | Analysis: +192 | Depth: 11 | EngineMove : f6e4
+8... Bxc3+ | Analysis: +217 | Depth: 14 | EngineMove : b2c3
+9. bxc3 | Analysis: -227 | Depth: 13 | EngineMove : e6d5
+9... Nxd5 | Analysis: +218 | Depth: 15 | EngineMove : e4d5
+10. exd5 | Analysis: -206 | Depth: 14 | EngineMove : e6d5

@@ -1,0 +1,31 @@
+**URL: https://lichess.org/KfdIwz3I | Tag: KfdIwz3I | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/KfdIwz3I', Date='2019.06.25', Round='-', White='maestromjd', Black='chittyct', Result='1-0', BlackElo='1359', BlackRatingDiff='-10', ECO='A22', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.25', UTCTime='04:56:10', Variant='Standard', WhiteElo='1355', WhiteRatingDiff='+11')
+
+1. c4 | Analysis: +1 | Depth: 17 | EngineMove : e7e5
+1... e5 | Analysis: 0 | Depth: 19 | EngineMove : b1c3
+2. Nc3 | Analysis: 0 | Depth: 20 | EngineMove : g8f6
+2... Nf6 | Analysis: 0 | Depth: 20 | EngineMove : g1f3
+3. g3 | Analysis: +5 | Depth: 15 | EngineMove : b8c6
+3... Bc5 | Analysis: +5 | Depth: 18 | EngineMove : f1g2
+4. Bg2 | Analysis: -3 | Depth: 18 | EngineMove : e8g8
+4... O-O | Analysis: +7 | Depth: 20 | EngineMove : e2e3
+5. Nf3 | Analysis: -2 | Depth: 18 | EngineMove : d7d6
+5... Ng4 | Analysis: +46 | Depth: 18 | EngineMove : e1g1
+6. O-O | Analysis: -56 | Depth: 20 | EngineMove : d7d6
+6... Nc6 | Analysis: +87 | Depth: 19 | EngineMove : h2h3
+7. Ne4 | Analysis: -3 | Depth: 17 | EngineMove : c5b6
+7... Bb6 | Analysis: +5 | Depth: 18 | EngineMove : d2d4
+8. a4 | Analysis: +55 | Depth: 17 | EngineMove : f7f5
+8... d5 | Analysis: -4 | Depth: 18 | EngineMove : c4d5
+9. cxd5 | Analysis: +24 | Depth: 18 | EngineMove : d8d5
+9... Qxd5 | Analysis: -6 | Depth: 19 | EngineMove : d2d3
+10. Nc3 | Analysis: +20 | Depth: 16 | EngineMove : d5c5
+10... Qe6 | Analysis: -23 | Depth: 18 | EngineMove : d2d3
+11. Ng5 | Analysis: +156 | Depth: 19 | EngineMove : g4f2
+11... Qf6 | Analysis: -24 | Depth: 17 | EngineMove : g5f3
+12. Nge4 | Analysis: +30 | Depth: 18 | EngineMove : f6g6
+12... Qf5 | Analysis: +5 | Depth: 17 | EngineMove : b2b4
+13. e3 | Analysis: +22 | Depth: 17 | EngineMove : f8d8
+13... Bd7 | Analysis: +39 | Depth: 17 | EngineMove : h2h3
+14. Bh3 | Analysis: +146 | Depth: 19 | EngineMove : f5h5
+14... Nxf2 | Analysis: +477 | Depth: 19 | EngineMove : e4f2

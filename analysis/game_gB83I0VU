@@ -1,0 +1,34 @@
+**URL: https://lichess.org/gB83I0VU | Tag: gB83I0VU | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/gB83I0VU', Date='2018.09.20', Round='-', White='GioMonaldo', Black='chittyct', Result='0-1', BlackElo='1027', BlackRatingDiff='+11', ECO='B21', Termination='Normal', TimeControl='300+0', UTCDate='2018.09.20', UTCTime='16:10:24', Variant='Standard', WhiteElo='1031', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -18 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +32 | Depth: 17 | EngineMove : g1f3
+2. d4 | Analysis: -5 | Depth: 16 | EngineMove : c5d4
+2... cxd4 | Analysis: +7 | Depth: 17 | EngineMove : g1f3
+3. Qxd4 | Analysis: +1 | Depth: 17 | EngineMove : g8f6
+3... Nc6 | Analysis: +1 | Depth: 18 | EngineMove : d4a4
+4. Qd1 | Analysis: +15 | Depth: 17 | EngineMove : g8f6
+4... e5 | Analysis: +13 | Depth: 17 | EngineMove : g1f3
+5. Nc3 | Analysis: 0 | Depth: 17 | EngineMove : g8f6
+5... Nf6 | Analysis: 0 | Depth: 18 | EngineMove : f1c4
+6. Bb5 | Analysis: +46 | Depth: 18 | EngineMove : f8b4
+6... a6 | Analysis: -19 | Depth: 18 | EngineMove : b5c4
+7. Bxc6 | Analysis: +18 | Depth: 18 | EngineMove : b7c6
+7... bxc6 | Analysis: -12 | Depth: 20 | EngineMove : g1f3
+8. f3 | Analysis: +90 | Depth: 17 | EngineMove : d7d5
+8... Bc5 | Analysis: -66 | Depth: 17 | EngineMove : c1g5
+9. Nge2 | Analysis: +77 | Depth: 17 | EngineMove : d7d5
+9... O-O | Analysis: -69 | Depth: 17 | EngineMove : c1g5
+10. a3 | Analysis: +108 | Depth: 17 | EngineMove : d7d5
+10... Re8 | Analysis: -87 | Depth: 16 | EngineMove : c1g5
+11. b4 | Analysis: +131 | Depth: 17 | EngineMove : c5a7
+11... Ba7 | Analysis: -127 | Depth: 17 | EngineMove : c1g5
+12. Bb2 | Analysis: +212 | Depth: 17 | EngineMove : d8b6
+12... d5 | Analysis: -212 | Depth: 15 | EngineMove : d1d2
+13. exd5 | Analysis: +233 | Depth: 17 | EngineMove : c6d5
+13... cxd5 | Analysis: -244 | Depth: 18 | EngineMove : d1d2
+14. f4 | Analysis: +521 | Depth: 19 | EngineMove : e5f4
+14... exf4 | Analysis: -556 | Depth: 20 | EngineMove : d1d3
+15. Kf1 | Analysis: +918 | Depth: 17 | EngineMove : f4f3
+15... Qb6 | Analysis: -675 | Depth: 19 | EngineMove : e2d4
+16. Nxf4 | Analysis: #+1 | Depth: 127 | EngineMove : b6f2

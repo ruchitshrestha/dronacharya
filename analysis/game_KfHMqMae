@@ -1,0 +1,38 @@
+**URL: https://lichess.org/KfHMqMae | Tag: KfHMqMae | Side: white**
+HEADERS: Headers(Event='<1700 SuperBlitz Arena', Site='https://lichess.org/KfHMqMae', Date='2018.09.27', Round='-', White='chittyct', Black='WarCrow', Result='0-1', BlackElo='1547', BlackRatingDiff='+3', ECO='A00', Termination='Normal', TimeControl='180+0', UTCDate='2018.09.27', UTCTime='04:50:47', Variant='Standard', WhiteElo='1163', WhiteRatingDiff='-3')
+
+1. d3 | Analysis: +15 | Depth: 15 | EngineMove : d7d5
+1... d5 | Analysis: -27 | Depth: 15 | EngineMove : e2e4
+2. d4 | Analysis: +15 | Depth: 18 | EngineMove : g8f6
+2... Nf6 | Analysis: -16 | Depth: 17 | EngineMove : e2e3
+3. Nf3 | Analysis: +10 | Depth: 17 | EngineMove : e7e6
+3... Bg4 | Analysis: +9 | Depth: 15 | EngineMove : f3e5
+4. Bf4 | Analysis: +25 | Depth: 15 | EngineMove : g4f3
+4... Nbd7 | Analysis: -4 | Depth: 16 | EngineMove : f3e5
+5. e3 | Analysis: +25 | Depth: 16 | EngineMove : f6h5
+5... e6 | Analysis: +3 | Depth: 18 | EngineMove : b1d2
+6. Bd3 | Analysis: +18 | Depth: 16 | EngineMove : g4f3
+6... Be7 | Analysis: -6 | Depth: 17 | EngineMove : b1d2
+7. O-O | Analysis: +18 | Depth: 17 | EngineMove : f6h5
+7... O-O | Analysis: -15 | Depth: 18 | EngineMove : b1d2
+8. Re1 | Analysis: +31 | Depth: 17 | EngineMove : f6h5
+8... c6 | Analysis: -5 | Depth: 18 | EngineMove : b1d2
+9. c4 | Analysis: +40 | Depth: 15 | EngineMove : e7b4
+9... Nh5 | Analysis: -37 | Depth: 16 | EngineMove : c4d5
+10. Nc3 | Analysis: +53 | Depth: 16 | EngineMove : h5f4
+10... Nxf4 | Analysis: -43 | Depth: 18 | EngineMove : e3f4
+11. exf4 | Analysis: +54 | Depth: 18 | EngineMove : d5c4
+11... Qc7 | Analysis: +10 | Depth: 16 | EngineMove : c4d5
+12. f5 | Analysis: +110 | Depth: 17 | EngineMove : d5c4
+12... Bd6 | Analysis: -17 | Depth: 17 | EngineMove : h2h3
+13. fxe6 | Analysis: +115 | Depth: 16 | EngineMove : d6h2
+13... fxe6 | Analysis: -96 | Depth: 16 | EngineMove : d3e2
+14. Ng5 | Analysis: +679 | Depth: 15 | EngineMove : d6h2
+14... Bxh2+ | Analysis: -732 | Depth: 16 | EngineMove : g1h1
+15. Kf1 | Analysis: +1430 | Depth: 18 | EngineMove : f8f2
+15... Bxd1 | Analysis: -934 | Depth: 15 | EngineMove : c3d1
+16. Rexd1 | Analysis: +1341 | Depth: 19 | EngineMove : f8f2
+16... Qf4 | Analysis: -803 | Depth: 14 | EngineMove : g5f3
+17. Bxh7+ | Analysis: +958 | Depth: 18 | EngineMove : g8h8
+17... Kh8 | Analysis: -877 | Depth: 17 | EngineMove : g5h3
+18. Ne2 | Analysis: #+1 | Depth: 127 | EngineMove : f4f2

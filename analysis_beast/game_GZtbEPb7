@@ -1,0 +1,29 @@
+**URL: https://lichess.org/GZtbEPb7 | Tag: GZtbEPb7 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/GZtbEPb7', Date='2018.10.12', Round='-', White='chittyct', Black='ali654', Result='0-1', BlackElo='1010', BlackRatingDiff='+13', ECO='A40', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.10.12', UTCTime='16:19:25', Variant='Standard', WhiteElo='1080', WhiteRatingDiff='-13')
+
+1. d4 | Analysis: -31 | Depth: 13 | EngineMove : d7d5
+1... e6 | Analysis: +30 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -11 | Depth: 13 | EngineMove : d7d5
+2... Bb4+ | Analysis: +84 | Depth: 14 | EngineMove : c2c3
+3. c3 | Analysis: -77 | Depth: 15 | EngineMove : b4e7
+3... Bd6 | Analysis: +109 | Depth: 13 | EngineMove : e2e4
+4. g3 | Analysis: -48 | Depth: 13 | EngineMove : g8f6
+4... Nf6 | Analysis: +48 | Depth: 14 | EngineMove : b1d2
+5. Bg2 | Analysis: -23 | Depth: 13 | EngineMove : d6e7
+5... O-O | Analysis: +29 | Depth: 13 | EngineMove : e1g1
+6. Bg5 | Analysis: -15 | Depth: 13 | EngineMove : d6e7
+6... Nc6 | Analysis: +33 | Depth: 13 | EngineMove : e1g1
+7. Nbd2 | Analysis: -35 | Depth: 14 | EngineMove : d6e7
+7... Be7 | Analysis: +27 | Depth: 14 | EngineMove : e2e4
+8. Ne4 | Analysis: +334 | Depth: 13 | EngineMove : f6e4
+8... Nxe4 | Analysis: -337 | Depth: 14 | EngineMove : g5e7
+9. Bxe7 | Analysis: +329 | Depth: 14 | EngineMove : c6e7
+9... Qxe7 | Analysis: -309 | Depth: 13 | EngineMove : f3d2
+10. Qd3 | Analysis: +345 | Depth: 13 | EngineMove : d7d5
+10... d5 | Analysis: -344 | Depth: 14 | EngineMove : f3d2
+11. O-O | Analysis: +352 | Depth: 14 | EngineMove : b7b6
+11... Na5 | Analysis: -337 | Depth: 11 | EngineMove : f3e5
+12. c4 | Analysis: +416 | Depth: 12 | EngineMove : a5c4
+12... Nxc4 | Analysis: -419 | Depth: 13 | EngineMove : d3c2
+13. Rac1 | Analysis: +466 | Depth: 15 | EngineMove : c4b2
+13... Nxb2 | Analysis: -460 | Depth: 15 | EngineMove : d3c2

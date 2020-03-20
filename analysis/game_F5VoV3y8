@@ -1,0 +1,27 @@
+**URL: https://lichess.org/F5VoV3y8 | Tag: F5VoV3y8 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/F5VoV3y8', Date='2018.10.26', Round='-', White='chittyct', Black='Licritus', Result='1-0', BlackElo='1112', BlackRatingDiff='-11', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.26', UTCTime='17:44:39', Variant='Standard', WhiteElo='1121', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -17 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +16 | Depth: 19 | EngineMove : g1f3
+2. Bf4 | Analysis: -8 | Depth: 17 | EngineMove : g8f6
+2... e6 | Analysis: +18 | Depth: 18 | EngineMove : e2e3
+3. Nf3 | Analysis: -14 | Depth: 18 | EngineMove : g8f6
+3... Nf6 | Analysis: +10 | Depth: 18 | EngineMove : e2e3
+4. e3 | Analysis: -12 | Depth: 17 | EngineMove : c7c5
+4... Bd6 | Analysis: +21 | Depth: 17 | EngineMove : f4d6
+5. Bg3 | Analysis: -4 | Depth: 17 | EngineMove : e8g8
+5... Bxg3 | Analysis: 0 | Depth: 17 | EngineMove : h2g3
+6. hxg3 | Analysis: 0 | Depth: 19 | EngineMove : e8g8
+6... O-O | Analysis: 0 | Depth: 20 | EngineMove : f1d3
+7. c4 | Analysis: -7 | Depth: 19 | EngineMove : b7b6
+7... b6 | Analysis: 0 | Depth: 19 | EngineMove : b1c3
+8. b4 | Analysis: +11 | Depth: 16 | EngineMove : d5c4
+8... Bb7 | Analysis: +8 | Depth: 16 | EngineMove : b1d2
+9. c5 | Analysis: +38 | Depth: 18 | EngineMove : a7a5
+9... bxc5 | Analysis: +21 | Depth: 20 | EngineMove : b4c5
+10. bxc5 | Analysis: -17 | Depth: 20 | EngineMove : b8d7
+10... a5 | Analysis: +36 | Depth: 19 | EngineMove : b1c3
+11. Nc3 | Analysis: -36 | Depth: 20 | EngineMove : b8d7
+11... Ng4 | Analysis: +418 | Depth: 19 | EngineMove : d1b1
+12. Qd3 | Analysis: -33 | Depth: 19 | EngineMove : h7h6
+12... Ba6 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

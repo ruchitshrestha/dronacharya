@@ -1,0 +1,7 @@
+**URL: https://lichess.org/kUpTtW6y | Tag: kUpTtW6y | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/kUpTtW6y', Date='2018.11.14', Round='-', White='kalebzebadi', Black='chittyct', Result='0-1', BlackElo='1260', BlackRatingDiff='+10', ECO='B50', Termination='Time forfeit', TimeControl='300+3', UTCDate='2018.11.14', UTCTime='23:45:01', Variant='Standard', WhiteElo='1229', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -27 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +72 | Depth: 11 | EngineMove : g1f3
+2. Nf3 | Analysis: -47 | Depth: 13 | EngineMove : d7d6
+2... d6 | Analysis: +41 | Depth: 13 | EngineMove : d2d4

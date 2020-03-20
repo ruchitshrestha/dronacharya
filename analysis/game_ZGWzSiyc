@@ -1,0 +1,27 @@
+**URL: https://lichess.org/ZGWzSiyc | Tag: ZGWzSiyc | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ZGWzSiyc', Date='2018.11.23', Round='-', White='emiliosoprano', Black='chittyct', Result='1-0', BlackElo='984', BlackRatingDiff='-11', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2018.11.23', UTCTime='19:57:39', Variant='Standard', WhiteElo='959', WhiteRatingDiff='+12')
+
+1. e4 | Analysis: -25 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +31 | Depth: 18 | EngineMove : b1c3
+2. Bc4 | Analysis: -4 | Depth: 18 | EngineMove : g8f6
+2... a6 | Analysis: +18 | Depth: 16 | EngineMove : c4b3
+3. Nc3 | Analysis: -2 | Depth: 18 | EngineMove : e7e6
+3... b5 | Analysis: +103 | Depth: 19 | EngineMove : c4f7
+4. Bd5 | Analysis: -32 | Depth: 18 | EngineMove : b8c6
+4... Nc6 | Analysis: +18 | Depth: 19 | EngineMove : g1f3
+5. Nf3 | Analysis: -13 | Depth: 19 | EngineMove : c8b7
+5... e6 | Analysis: +26 | Depth: 20 | EngineMove : d5c6
+6. Bxc6 | Analysis: -31 | Depth: 21 | EngineMove : d7c6
+6... dxc6 | Analysis: +45 | Depth: 19 | EngineMove : d2d3
+7. O-O | Analysis: -22 | Depth: 20 | EngineMove : g8f6
+7... b4 | Analysis: +79 | Depth: 19 | EngineMove : c3a4
+8. Ne2 | Analysis: -41 | Depth: 21 | EngineMove : g8f6
+8... g6 | Analysis: +87 | Depth: 17 | EngineMove : d2d3
+9. d4 | Analysis: -43 | Depth: 17 | EngineMove : c5d4
+9... cxd4 | Analysis: +48 | Depth: 18 | EngineMove : e2d4
+10. Nexd4 | Analysis: -37 | Depth: 18 | EngineMove : c6c5
+10... e5 | Analysis: +170 | Depth: 17 | EngineMove : d4c6
+11. Nxc6 | Analysis: -178 | Depth: 20 | EngineMove : d8d1
+11... Qxd1 | Analysis: +155 | Depth: 20 | EngineMove : f1d1
+12. Rxd1 | Analysis: -161 | Depth: 19 | EngineMove : f7f6
+12... Ne7 | Analysis: #+1 | Depth: 127 | EngineMove : d1d8

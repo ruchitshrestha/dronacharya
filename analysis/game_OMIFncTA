@@ -1,0 +1,32 @@
+**URL: https://lichess.org/OMIFncTA | Tag: OMIFncTA | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/OMIFncTA', Date='2020.02.23', Round='-', White='hanzzzzie', Black='chittyct', Result='0-1', BlackElo='1265', BlackRatingDiff='+5', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.23', UTCTime='01:42:03', Variant='Standard', WhiteElo='1192', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -32 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +42 | Depth: 16 | EngineMove : g1f3
+2. Bc4 | Analysis: 0 | Depth: 17 | EngineMove : e7e6
+2... Nc6 | Analysis: +7 | Depth: 16 | EngineMove : g1f3
+3. Qh5 | Analysis: +91 | Depth: 17 | EngineMove : e7e6
+3... e6 | Analysis: -99 | Depth: 16 | EngineMove : g1f3
+4. Nc3 | Analysis: +112 | Depth: 16 | EngineMove : g8f6
+4... Nf6 | Analysis: -118 | Depth: 17 | EngineMove : h5d1
+5. Qf3 | Analysis: +108 | Depth: 16 | EngineMove : c6d4
+5... Nd4 | Analysis: -112 | Depth: 17 | EngineMove : f3d1
+6. Qg3 | Analysis: +423 | Depth: 16 | EngineMove : d4c2
+6... Nxc2+ | Analysis: -396 | Depth: 19 | EngineMove : e1d1
+7. Ke2 | Analysis: +518 | Depth: 16 | EngineMove : c2a1
+7... Nxa1 | Analysis: -493 | Depth: 17 | EngineMove : c4d3
+8. Ke3 | Analysis: +848 | Depth: 16 | EngineMove : d7d5
+8... Nc2+ | Analysis: -723 | Depth: 18 | EngineMove : e3e2
+9. Kf4 | Analysis: +1954 | Depth: 17 | EngineMove : f8d6
+9... Nh5+ | Analysis: -1537 | Depth: 16 | EngineMove : f4g4
+10. Ke5 | Analysis: #+1 | Depth: 127 | EngineMove : f7f6
+10... Nxg3 | Analysis: #-5 | Depth: 35 | EngineMove : e5f4
+11. hxg3 | Analysis: #+1 | Depth: 127 | EngineMove : d8g5
+11... d6+ | Analysis: #-4 | Depth: 127 | EngineMove : e5f4
+12. Kf4 | Analysis: #+4 | Depth: 127 | EngineMove : d8f6
+12... g5+ | Analysis: -1609 | Depth: 17 | EngineMove : f4f3
+13. Kg4 | Analysis: +2405 | Depth: 16 | EngineMove : d8f6
+13... h5+ | Analysis: -1704 | Depth: 16 | EngineMove : g4f3
+14. Kf3 | Analysis: +1727 | Depth: 16 | EngineMove : c2d4
+14... g4+ | Analysis: -1406 | Depth: 17 | EngineMove : f3e2
+15. Kf4 | Analysis: #+1 | Depth: 127 | EngineMove : f8h6

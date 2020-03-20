@@ -1,0 +1,27 @@
+**URL: https://lichess.org/EkxTsYdz | Tag: EkxTsYdz | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/EkxTsYdz', Date='2018.10.24', Round='-', White='Sneakersnstreets', Black='chittyct', Result='0-1', BlackElo='986', BlackRatingDiff='+5', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.24', UTCTime='23:04:26', Variant='Standard', WhiteElo='800', WhiteRatingDiff='+0')
+
+1. d4 | Analysis: -20 | Depth: 18 | EngineMove : g8f6
+1... g6 | Analysis: +82 | Depth: 16 | EngineMove : e2e4
+2. c4 | Analysis: -45 | Depth: 18 | EngineMove : c7c5
+2... Bg7 | Analysis: +56 | Depth: 17 | EngineMove : e2e4
+3. Nc3 | Analysis: -28 | Depth: 16 | EngineMove : c7c5
+3... e6 | Analysis: +50 | Depth: 16 | EngineMove : g1f3
+4. Nf3 | Analysis: -64 | Depth: 16 | EngineMove : g8e7
+4... Nc6 | Analysis: +76 | Depth: 16 | EngineMove : e2e4
+5. d5 | Analysis: -45 | Depth: 17 | EngineMove : c6e5
+5... exd5 | Analysis: +60 | Depth: 17 | EngineMove : c4d5
+6. cxd5 | Analysis: -46 | Depth: 19 | EngineMove : c6e5
+6... Ne5 | Analysis: +49 | Depth: 18 | EngineMove : f3e5
+7. Bf4 | Analysis: -36 | Depth: 17 | EngineMove : e5f3
+7... Nc4 | Analysis: +225 | Depth: 16 | EngineMove : e2e4
+8. e4 | Analysis: -194 | Depth: 17 | EngineMove : c4d6
+8... Nxb2 | Analysis: +301 | Depth: 17 | EngineMove : d1c2
+9. Qb1 | Analysis: +345 | Depth: 16 | EngineMove : g7c3
+9... Nd3+ | Analysis: +336 | Depth: 19 | EngineMove : b1d3
+10. Qxd3 | Analysis: -330 | Depth: 18 | EngineMove : d7d6
+10... b6 | Analysis: +508 | Depth: 17 | EngineMove : a1c1
+11. Qd4 | Analysis: +325 | Depth: 18 | EngineMove : g7d4
+11... Ne7 | Analysis: +1458 | Depth: 19 | EngineMove : d4g7
+12. Bd3 | Analysis: +265 | Depth: 18 | EngineMove : g7d4
+12... Bxd4 | Analysis: -268 | Depth: 17 | EngineMove : f3d4

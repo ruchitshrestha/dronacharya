@@ -1,0 +1,32 @@
+**URL: https://lichess.org/xmBlqi7S | Tag: xmBlqi7S | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/xmBlqi7S', Date='2019.04.04', Round='-', White='chittyct', Black='Alfred-J-Hemlock', Result='1-0', BlackElo='1159', BlackRatingDiff='-30', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.04', UTCTime='18:49:20', Variant='Standard', WhiteElo='1199', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -24 | Depth: 16 | EngineMove : d7d5
+1... e5 | Analysis: +63 | Depth: 16 | EngineMove : d4e5
+2. dxe5 | Analysis: -65 | Depth: 17 | EngineMove : b8c6
+2... f6 | Analysis: +116 | Depth: 17 | EngineMove : e2e4
+3. Qd5 | Analysis: -33 | Depth: 16 | EngineMove : b8c6
+3... Ne7 | Analysis: +76 | Depth: 16 | EngineMove : d5b3
+4. Qe4 | Analysis: -32 | Depth: 16 | EngineMove : f6e5
+4... fxe5 | Analysis: +37 | Depth: 17 | EngineMove : e4e5
+5. Qxe5 | Analysis: -36 | Depth: 17 | EngineMove : b8c6
+5... d6 | Analysis: +66 | Depth: 17 | EngineMove : e5c3
+6. Qe4 | Analysis: -29 | Depth: 15 | EngineMove : d6d5
+6... Bf5 | Analysis: +79 | Depth: 17 | EngineMove : e4b7
+7. Qxb7 | Analysis: -102 | Depth: 16 | EngineMove : b8c6
+7... Nbc6 | Analysis: +110 | Depth: 17 | EngineMove : c2c3
+8. Bg5 | Analysis: +23 | Depth: 16 | EngineMove : a8b8
+8... Bxc2 | Analysis: +27 | Depth: 17 | EngineMove : g5e7
+9. Bxe7 | Analysis: -43 | Depth: 19 | EngineMove : c6e7
+9... Qxe7 | Analysis: +918 | Depth: 16 | EngineMove : b7c6
+10. Qxa8+ | Analysis: -616 | Depth: 16 | EngineMove : c6d8
+10... Kf7 | Analysis: +879 | Depth: 16 | EngineMove : a8c6
+11. Qxc6 | Analysis: -900 | Depth: 17 | EngineMove : c2e4
+11... Be4 | Analysis: +897 | Depth: 17 | EngineMove : c6c3
+12. Qc4+ | Analysis: -843 | Depth: 16 | EngineMove : d6d5
+12... Ke8 | Analysis: +986 | Depth: 14 | EngineMove : b1c3
+13. Nc3 | Analysis: -992 | Depth: 15 | EngineMove : d6d5
+13... Bg6 | Analysis: +1149 | Depth: 17 | EngineMove : c3d5
+14. Nd5 | Analysis: -1136 | Depth: 20 | EngineMove : g6f7
+14... Qe6 | Analysis: +2850 | Depth: 14 | EngineMove : d5c7
+15. Nxc7+ | Analysis: #-10 | Depth: 20 | EngineMove : e8d8

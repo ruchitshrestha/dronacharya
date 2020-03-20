@@ -1,0 +1,31 @@
+**URL: https://lichess.org/R2E3XYI3 | Tag: R2E3XYI3 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/R2E3XYI3', Date='2019.02.12', Round='-', White='chittyct', Black='Porpinhas', Result='0-1', BlackElo='1319', BlackRatingDiff='+9', ECO='E70', Termination='Normal', TimeControl='180+2', UTCDate='2019.02.12', UTCTime='23:56:13', Variant='Standard', WhiteElo='1274', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: +3 | Depth: 12 | EngineMove : g8f6
+1... Nf6 | Analysis: +10 | Depth: 13 | EngineMove : g1f3
+2. c4 | Analysis: -17 | Depth: 13 | EngineMove : e7e6
+2... g6 | Analysis: +70 | Depth: 12 | EngineMove : b1c3
+3. Nc3 | Analysis: -52 | Depth: 13 | EngineMove : d7d5
+3... Bg7 | Analysis: +46 | Depth: 13 | EngineMove : e2e4
+4. e4 | Analysis: -64 | Depth: 14 | EngineMove : d7d6
+4... d6 | Analysis: +62 | Depth: 12 | EngineMove : g1f3
+5. Bg5 | Analysis: -27 | Depth: 12 | EngineMove : h7h6
+5... O-O | Analysis: +37 | Depth: 12 | EngineMove : g1f3
+6. Bxf6 | Analysis: +46 | Depth: 12 | EngineMove : g7f6
+6... Bxf6 | Analysis: -43 | Depth: 14 | EngineMove : f1e2
+7. Nf3 | Analysis: +50 | Depth: 14 | EngineMove : c8g4
+7... Nd7 | Analysis: -8 | Depth: 12 | EngineMove : f1e2
+8. e5 | Analysis: +133 | Depth: 12 | EngineMove : d6e5
+8... dxe5 | Analysis: -126 | Depth: 13 | EngineMove : d4d5
+9. dxe5 | Analysis: +161 | Depth: 14 | EngineMove : d7e5
+9... Nxe5 | Analysis: -168 | Depth: 14 | EngineMove : f3e5
+10. Qxd8 | Analysis: +225 | Depth: 12 | EngineMove : e5f3
+10... Nxf3+ | Analysis: -217 | Depth: 14 | EngineMove : g2f3
+11. gxf3 | Analysis: +220 | Depth: 14 | EngineMove : f8d8
+11... Rxd8 | Analysis: -234 | Depth: 14 | EngineMove : c3d5
+12. Ne4 | Analysis: +338 | Depth: 14 | EngineMove : f6b2
+12... Bxb2 | Analysis: -341 | Depth: 13 | EngineMove : a1d1
+13. Rb1 | Analysis: +343 | Depth: 13 | EngineMove : b2g7
+13... Bg7 | Analysis: -352 | Depth: 14 | EngineMove : b1b3
+14. Nc5 | Analysis: +453 | Depth: 12 | EngineMove : g7c3
+14... b6 | Analysis: -453 | Depth: 12 | EngineMove : c5d3

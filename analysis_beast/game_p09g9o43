@@ -1,0 +1,21 @@
+**URL: https://lichess.org/p09g9o43 | Tag: p09g9o43 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/p09g9o43', Date='2018.11.02', Round='-', White='BobVonken1', Black='chittyct', Result='0-1', BlackElo='1205', BlackRatingDiff='+12', ECO='D02', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.11.02', UTCTime='13:21:23', Variant='Standard', WhiteElo='1249', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -26 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 13 | EngineMove : g1f3
+2. Bf4 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+2... Nf6 | Analysis: +16 | Depth: 13 | EngineMove : g1f3
+3. Nf3 | Analysis: -9 | Depth: 13 | EngineMove : e7e6
+3... g6 | Analysis: +47 | Depth: 11 | EngineMove : c2c4
+4. e3 | Analysis: -33 | Depth: 12 | EngineMove : f6h5
+4... Bg7 | Analysis: +44 | Depth: 14 | EngineMove : c2c4
+5. c4 | Analysis: -29 | Depth: 12 | EngineMove : c7c5
+5... c5 | Analysis: +35 | Depth: 12 | EngineMove : b1c3
+6. dxc5 | Analysis: -12 | Depth: 12 | EngineMove : e8g8
+6... Qa5+ | Analysis: +70 | Depth: 11 | EngineMove : d1d2
+7. Nc3 | Analysis: -23 | Depth: 12 | EngineMove : f6e4
+7... Qxc5 | Analysis: +139 | Depth: 11 | EngineMove : c4d5
+8. cxd5 | Analysis: -141 | Depth: 11 | EngineMove : e8g8
+8... Nxd5 | Analysis: +580 | Depth: 13 | EngineMove : c3d5
+9. Qxd5 | Analysis: +612 | Depth: 12 | EngineMove : g7c3
+9... Bxc3+ | Analysis: -612 | Depth: 16 | EngineMove : b2c3

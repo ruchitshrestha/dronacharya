@@ -1,0 +1,24 @@
+**URL: https://lichess.org/H10yWXrp | Tag: H10yWXrp | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/H10yWXrp', Date='2019.10.05', Round='-', White='danygeorge', Black='chittyct', Result='1-0', BlackElo='1496', BlackRatingDiff='-6', ECO='B30', Termination='Normal', TimeControl='300+3', UTCDate='2019.10.05', UTCTime='16:38:01', Variant='Standard', WhiteElo='1537', WhiteRatingDiff='+6')
+
+1. e4 | Analysis: -27 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +68 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -56 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +51 | Depth: 13 | EngineMove : b1c3
+3. Bb5 | Analysis: -58 | Depth: 12 | EngineMove : c6d4
+3... a6 | Analysis: +75 | Depth: 13 | EngineMove : b5c6
+4. Bxc6 | Analysis: -52 | Depth: 15 | EngineMove : d7c6
+4... bxc6 | Analysis: +53 | Depth: 12 | EngineMove : e1g1
+5. O-O | Analysis: -68 | Depth: 13 | EngineMove : d7d5
+5... Nf6 | Analysis: +82 | Depth: 13 | EngineMove : e4e5
+6. e5 | Analysis: -94 | Depth: 13 | EngineMove : f6d5
+6... Ng4 | Analysis: +93 | Depth: 13 | EngineMove : h2h3
+7. h3 | Analysis: -84 | Depth: 14 | EngineMove : g4h6
+7... Nh6 | Analysis: +85 | Depth: 13 | EngineMove : b1c3
+8. Nc3 | Analysis: -98 | Depth: 13 | EngineMove : h6f5
+8... d6 | Analysis: +142 | Depth: 11 | EngineMove : e5d6
+9. Re1 | Analysis: -124 | Depth: 11 | EngineMove : e7e6
+9... d5 | Analysis: +124 | Depth: 13 | EngineMove : b2b3
+10. Na4 | Analysis: -106 | Depth: 14 | EngineMove : e7e6
+10... Qb6 | Analysis: +1253 | Depth: 14 | EngineMove : a4b6
+11. Nxb6 | Analysis: -1313 | Depth: 15 | EngineMove : a8b8

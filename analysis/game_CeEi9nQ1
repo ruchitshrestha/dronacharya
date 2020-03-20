@@ -1,0 +1,15 @@
+**URL: https://lichess.org/CeEi9nQ1 | Tag: CeEi9nQ1 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/CeEi9nQ1', Date='2018.10.03', Round='-', White='inceptionmovie', Black='chittyct', Result='0-1', BlackElo='1103', BlackRatingDiff='+12', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.03', UTCTime='16:52:57', Variant='Standard', WhiteElo='1166', WhiteRatingDiff='-13')
+
+1. e4 | Analysis: -21 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +33 | Depth: 17 | EngineMove : g1f3
+2. d3 | Analysis: 0 | Depth: 20 | EngineMove : b8c6
+2... d6 | Analysis: +9 | Depth: 18 | EngineMove : f2f4
+3. d4 | Analysis: +2 | Depth: 17 | EngineMove : c5d4
+3... cxd4 | Analysis: +6 | Depth: 18 | EngineMove : d1d4
+4. Qxd4 | Analysis: +4 | Depth: 18 | EngineMove : e7e5
+4... Nf6 | Analysis: -12 | Depth: 17 | EngineMove : b1c3
+5. e5 | Analysis: +101 | Depth: 17 | EngineMove : b8c6
+5... Nc6 | Analysis: -101 | Depth: 18 | EngineMove : d4d1
+6. Qf4 | Analysis: +173 | Depth: 17 | EngineMove : d6e5
+6... dxe5 | Analysis: -179 | Depth: 16 | EngineMove : f4d2

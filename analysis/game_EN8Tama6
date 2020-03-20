@@ -1,0 +1,31 @@
+**URL: https://lichess.org/EN8Tama6 | Tag: EN8Tama6 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/EN8Tama6', Date='2020.01.04', Round='-', White='chittyct', Black='nikotopoulos', Result='0-1', BlackElo='1157', BlackRatingDiff='+10', ECO='A41', Termination='Time forfeit', TimeControl='120+1', UTCDate='2020.01.04', UTCTime='11:40:45', Variant='Standard', WhiteElo='1324', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -13 | Depth: 16 | EngineMove : g8f6
+1... d6 | Analysis: +55 | Depth: 15 | EngineMove : e2e4
+2. Bf4 | Analysis: -37 | Depth: 15 | EngineMove : g8f6
+2... e5 | Analysis: +88 | Depth: 17 | EngineMove : d4e5
+3. dxe5 | Analysis: -84 | Depth: 17 | EngineMove : b8c6
+3... dxe5 | Analysis: +112 | Depth: 16 | EngineMove : d1d8
+4. Qxd8+ | Analysis: -95 | Depth: 18 | EngineMove : e8d8
+4... Kxd8 | Analysis: +105 | Depth: 19 | EngineMove : f4e5
+5. Bxe5 | Analysis: -113 | Depth: 19 | EngineMove : b8c6
+5... Nc6 | Analysis: +115 | Depth: 19 | EngineMove : e5g3
+6. Bg3 | Analysis: -105 | Depth: 19 | EngineMove : c8f5
+6... Bf5 | Analysis: +112 | Depth: 20 | EngineMove : c2c3
+7. c3 | Analysis: -116 | Depth: 18 | EngineMove : f8d6
+7... Nf6 | Analysis: +114 | Depth: 18 | EngineMove : b1d2
+8. Nf3 | Analysis: -113 | Depth: 18 | EngineMove : d8d7
+8... Bd6 | Analysis: +116 | Depth: 17 | EngineMove : g3d6
+9. e3 | Analysis: -98 | Depth: 18 | EngineMove : f6e4
+9... Bxg3 | Analysis: +101 | Depth: 18 | EngineMove : h2g3
+10. hxg3 | Analysis: -99 | Depth: 18 | EngineMove : a7a6
+10... h6 | Analysis: +97 | Depth: 18 | EngineMove : b1d2
+11. Nbd2 | Analysis: -104 | Depth: 16 | EngineMove : a7a6
+11... Ke7 | Analysis: +102 | Depth: 18 | EngineMove : f1b5
+12. O-O-O | Analysis: +52 | Depth: 16 | EngineMove : f6g4
+12... Rhd8 | Analysis: +86 | Depth: 16 | EngineMove : f3d4
+13. Bb5 | Analysis: -91 | Depth: 16 | EngineMove : f5d7
+13... Kf8 | Analysis: +163 | Depth: 19 | EngineMove : b5c6
+14. e4 | Analysis: +1 | Depth: 17 | EngineMove : f5e4
+14... Bg4 | Analysis: +137 | Depth: 18 | EngineMove : b5c6

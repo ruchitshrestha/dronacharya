@@ -1,0 +1,31 @@
+**URL: https://lichess.org/Zw28AciM | Tag: Zw28AciM | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Zw28AciM', Date='2019.06.21', Round='-', White='alperenry', Black='chittyct', Result='0-1', BlackElo='1399', BlackRatingDiff='+12', ECO='D10', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.21', UTCTime='03:07:33', Variant='Standard', WhiteElo='1446', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -32 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +13 | Depth: 13 | EngineMove : c1f4
+2. c4 | Analysis: -7 | Depth: 14 | EngineMove : e7e6
+2... c6 | Analysis: +34 | Depth: 12 | EngineMove : g1f3
+3. cxd5 | Analysis: -15 | Depth: 13 | EngineMove : c6d5
+3... cxd5 | Analysis: +13 | Depth: 13 | EngineMove : b1c3
+4. g3 | Analysis: +13 | Depth: 13 | EngineMove : g8f6
+4... Nc6 | Analysis: -5 | Depth: 13 | EngineMove : g1f3
+5. Bg2 | Analysis: +8 | Depth: 14 | EngineMove : c8f5
+5... Nf6 | Analysis: 0 | Depth: 14 | EngineMove : b1c3
+6. e3 | Analysis: +32 | Depth: 12 | EngineMove : e7e5
+6... Bf5 | Analysis: -34 | Depth: 13 | EngineMove : b1c3
+7. Nc3 | Analysis: +24 | Depth: 13 | EngineMove : e7e6
+7... Rc8 | Analysis: +4 | Depth: 13 | EngineMove : g1e2
+8. Qf3 | Analysis: +443 | Depth: 14 | EngineMove : f5g4
+8... e6 | Analysis: -150 | Depth: 12 | EngineMove : f3d1
+9. e4 | Analysis: +500 | Depth: 11 | EngineMove : f5e4
+9... Nxe4 | Analysis: -289 | Depth: 12 | EngineMove : f3d1
+10. Nxe4 | Analysis: +836 | Depth: 15 | EngineMove : f5e4
+10... Bxe4 | Analysis: -843 | Depth: 14 | EngineMove : a2a3
+11. Qb3 | Analysis: +1022 | Depth: 14 | EngineMove : e4g2
+11... Bxg2 | Analysis: -1037 | Depth: 13 | EngineMove : g1e2
+12. Qxb7 | Analysis: +1108 | Depth: 14 | EngineMove : c6d4
+12... Bxh1 | Analysis: -1008 | Depth: 12 | EngineMove : c1g5
+13. Ne2 | Analysis: +1027 | Depth: 13 | EngineMove : f8e7
+13... Bf3 | Analysis: -1037 | Depth: 13 | EngineMove : c1d2
+14. Nc3 | Analysis: +1132 | Depth: 13 | EngineMove : c6d4
+14... Nxd4 | Analysis: -1150 | Depth: 13 | EngineMove : e1f1

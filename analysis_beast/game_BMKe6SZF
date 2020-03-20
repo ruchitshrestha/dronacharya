@@ -1,0 +1,22 @@
+**URL: https://lichess.org/BMKe6SZF | Tag: BMKe6SZF | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/BMKe6SZF', Date='2019.06.08', Round='-', White='chittyct', Black='DehanZero', Result='1-0', BlackElo='1099', BlackRatingDiff='-12', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2019.06.08', UTCTime='09:10:52', Variant='Standard', WhiteElo='1085', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -13 | Depth: 13 | EngineMove : d7d5
+1... g6 | Analysis: +87 | Depth: 12 | EngineMove : e2e4
+2. c4 | Analysis: -63 | Depth: 12 | EngineMove : c7c5
+2... Bg7 | Analysis: +60 | Depth: 12 | EngineMove : e2e4
+3. Nc3 | Analysis: -43 | Depth: 13 | EngineMove : c7c5
+3... c6 | Analysis: +84 | Depth: 12 | EngineMove : e2e4
+4. Nf3 | Analysis: -47 | Depth: 13 | EngineMove : d7d5
+4... d5 | Analysis: +41 | Depth: 12 | EngineMove : e2e4
+5. cxd5 | Analysis: -45 | Depth: 12 | EngineMove : c6d5
+5... cxd5 | Analysis: +34 | Depth: 12 | EngineMove : c1g5
+6. Bf4 | Analysis: -52 | Depth: 12 | EngineMove : g8f6
+6... e6 | Analysis: +120 | Depth: 12 | EngineMove : e2e3
+7. Rc1 | Analysis: -67 | Depth: 12 | EngineMove : b8c6
+7... Nf6 | Analysis: +124 | Depth: 11 | EngineMove : c3b5
+8. Nb5 | Analysis: -131 | Depth: 12 | EngineMove : d8a5
+8... Nc6 | Analysis: +401 | Depth: 12 | EngineMove : b5c7
+9. Nc7+ | Analysis: -382 | Depth: 12 | EngineMove : e8f8
+9... Ke7 | Analysis: +453 | Depth: 12 | EngineMove : d1a4
+10. Nxa8 | Analysis: -384 | Depth: 11 | EngineMove : d8a5

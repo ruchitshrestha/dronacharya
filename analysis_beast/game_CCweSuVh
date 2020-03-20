@@ -1,0 +1,29 @@
+**URL: https://lichess.org/CCweSuVh | Tag: CCweSuVh | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/CCweSuVh', Date='2019.10.09', Round='-', White='denlillekaninen', Black='chittyct', Result='1-0', BlackElo='1450', BlackRatingDiff='-7', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.09', UTCTime='17:29:24', Variant='Standard', WhiteElo='1439', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -39 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +55 | Depth: 11 | EngineMove : b1c3
+2. Bc4 | Analysis: -26 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +31 | Depth: 13 | EngineMove : g1f3
+3. Nf3 | Analysis: -10 | Depth: 13 | EngineMove : g8f6
+3... a6 | Analysis: +32 | Depth: 12 | EngineMove : d2d4
+4. Ng5 | Analysis: +86 | Depth: 12 | EngineMove : e7e6
+4... Ne5 | Analysis: +48 | Depth: 12 | EngineMove : c4b3
+5. Qe2 | Analysis: +54 | Depth: 12 | EngineMove : e5c4
+5... Nxc4 | Analysis: -44 | Depth: 14 | EngineMove : e2c4
+6. Qxc4 | Analysis: +34 | Depth: 15 | EngineMove : e7e6
+6... e6 | Analysis: -53 | Depth: 14 | EngineMove : g5f3
+7. d3 | Analysis: +98 | Depth: 13 | EngineMove : f8e7
+7... b5 | Analysis: -63 | Depth: 12 | EngineMove : c4c3
+8. Qc3 | Analysis: +77 | Depth: 13 | EngineMove : c8b7
+8... Bb7 | Analysis: -87 | Depth: 13 | EngineMove : e1g1
+9. O-O | Analysis: +73 | Depth: 12 | EngineMove : g8f6
+9... Nf6 | Analysis: -88 | Depth: 12 | EngineMove : b1d2
+10. f4 | Analysis: +83 | Depth: 12 | EngineMove : h7h6
+10... h6 | Analysis: -90 | Depth: 13 | EngineMove : g5f3
+11. Nxf7 | Analysis: +240 | Depth: 11 | EngineMove : e8f7
+11... Kxf7 | Analysis: -241 | Depth: 12 | EngineMove : f4f5
+12. f5 | Analysis: +248 | Depth: 11 | EngineMove : f7g8
+12... e5 | Analysis: -162 | Depth: 11 | EngineMove : c3e5
+13. Qxe5 | Analysis: +179 | Depth: 12 | EngineMove : d8b8
+13... d6 | Analysis: #+1 | Depth: 127 | EngineMove : e5e6

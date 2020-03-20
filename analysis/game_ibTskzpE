@@ -1,0 +1,26 @@
+**URL: https://lichess.org/ibTskzpE | Tag: ibTskzpE | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ibTskzpE', Date='2019.11.24', Round='-', White='jared18y', Black='chittyct', Result='0-1', BlackElo='1484', BlackRatingDiff='+7', ECO='B30', Termination='Normal', TimeControl='180+2', UTCDate='2019.11.24', UTCTime='20:39:32', Variant='Standard', WhiteElo='1472', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -27 | Depth: 15 | EngineMove : e7e5
+1... c5 | Analysis: +37 | Depth: 15 | EngineMove : g1f3
+2. Nf3 | Analysis: -38 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +42 | Depth: 16 | EngineMove : f1b5
+3. Bb5 | Analysis: -39 | Depth: 16 | EngineMove : g8f6
+3... a6 | Analysis: +48 | Depth: 18 | EngineMove : b5c6
+4. Ba4 | Analysis: +175 | Depth: 18 | EngineMove : b7b5
+4... b5 | Analysis: -189 | Depth: 17 | EngineMove : a4b3
+5. Bb3 | Analysis: +200 | Depth: 18 | EngineMove : c5c4
+5... c4 | Analysis: -185 | Depth: 17 | EngineMove : d2d4
+6. Bxc4 | Analysis: +205 | Depth: 17 | EngineMove : b5c4
+6... bxc4 | Analysis: -202 | Depth: 18 | EngineMove : e1g1
+7. Nc3 | Analysis: +215 | Depth: 18 | EngineMove : g8f6
+7... e6 | Analysis: -216 | Depth: 18 | EngineMove : e1g1
+8. Qe2 | Analysis: +217 | Depth: 18 | EngineMove : g8f6
+8... a5 | Analysis: -223 | Depth: 19 | EngineMove : e2c4
+9. Qxc4 | Analysis: +235 | Depth: 18 | EngineMove : c8a6
+9... Ba6 | Analysis: -227 | Depth: 20 | EngineMove : c4a4
+10. Qa4 | Analysis: +222 | Depth: 19 | EngineMove : a8b8
+10... Rb8 | Analysis: -224 | Depth: 18 | EngineMove : a2a3
+11. e5 | Analysis: +583 | Depth: 18 | EngineMove : b8b4
+11... Rb4 | Analysis: -571 | Depth: 18 | EngineMove : a4a3
+12. Qxb4 | Analysis: +868 | Depth: 17 | EngineMove : c6b4

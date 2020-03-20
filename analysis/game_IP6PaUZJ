@@ -1,0 +1,32 @@
+**URL: https://lichess.org/IP6PaUZJ | Tag: IP6PaUZJ | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/IP6PaUZJ', Date='2018.10.29', Round='-', White='raif_akkaya', Black='chittyct', Result='0-1', BlackElo='1124', BlackRatingDiff='+10', ECO='A01', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.29', UTCTime='05:52:10', Variant='Standard', WhiteElo='1120', WhiteRatingDiff='-11')
+
+1. b3 | Analysis: +17 | Depth: 17 | EngineMove : e7e5
+1... Nc6 | Analysis: 0 | Depth: 18 | EngineMove : d2d4
+2. Bb2 | Analysis: +8 | Depth: 17 | EngineMove : e7e5
+2... d5 | Analysis: +12 | Depth: 18 | EngineMove : g1f3
+3. Nf3 | Analysis: -13 | Depth: 20 | EngineMove : c8g4
+3... Bg4 | Analysis: +3 | Depth: 19 | EngineMove : d2d4
+4. e3 | Analysis: -15 | Depth: 18 | EngineMove : e7e5
+4... Nf6 | Analysis: +23 | Depth: 18 | EngineMove : f1e2
+5. Be2 | Analysis: -23 | Depth: 20 | EngineMove : e7e6
+5... e6 | Analysis: +14 | Depth: 19 | EngineMove : e1g1
+6. d3 | Analysis: -18 | Depth: 18 | EngineMove : f8e7
+6... Bd6 | Analysis: +25 | Depth: 18 | EngineMove : e1g1
+7. Ng5 | Analysis: +14 | Depth: 17 | EngineMove : g4e2
+7... Bxe2 | Analysis: -11 | Depth: 19 | EngineMove : d1e2
+8. Qxe2 | Analysis: +19 | Depth: 19 | EngineMove : a7a5
+8... O-O | Analysis: -18 | Depth: 19 | EngineMove : e1g1
+9. Qf3 | Analysis: +85 | Depth: 14 | EngineMove : d6b4
+9... Ne5 | Analysis: -37 | Depth: 16 | EngineMove : f3h3
+10. Bxe5 | Analysis: +105 | Depth: 19 | EngineMove : d6e5
+10... Bxe5 | Analysis: -101 | Depth: 20 | EngineMove : d3d4
+11. c3 | Analysis: +100 | Depth: 17 | EngineMove : h7h6
+11... Nd7 | Analysis: -88 | Depth: 16 | EngineMove : g5h3
+12. d4 | Analysis: +138 | Depth: 19 | EngineMove : d8g5
+12... Bd6 | Analysis: -114 | Depth: 20 | EngineMove : g5h3
+13. Nd2 | Analysis: +390 | Depth: 18 | EngineMove : d8g5
+13... Qxg5 | Analysis: -396 | Depth: 18 | EngineMove : e1g1
+14. O-O | Analysis: +393 | Depth: 17 | EngineMove : c7c5
+14... Qh6 | Analysis: -379 | Depth: 18 | EngineMove : h2h3
+15. c4 | Analysis: #+1 | Depth: 127 | EngineMove : h6h2

@@ -1,0 +1,26 @@
+**URL: https://lichess.org/Q7Rl3tKV | Tag: Q7Rl3tKV | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Q7Rl3tKV', Date='2018.10.29', Round='-', White='raif_akkaya', Black='chittyct', Result='0-1', BlackElo='1134', BlackRatingDiff='+10', ECO='B50', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.29', UTCTime='05:55:55', Variant='Standard', WhiteElo='1109', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -36 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +53 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -41 | Depth: 13 | EngineMove : e7e6
+2... d6 | Analysis: +49 | Depth: 12 | EngineMove : b1c3
+3. Bc4 | Analysis: -36 | Depth: 13 | EngineMove : g8f6
+3... e5 | Analysis: +77 | Depth: 10 | EngineMove : d2d4
+4. c3 | Analysis: -79 | Depth: 12 | EngineMove : b8c6
+4... Be7 | Analysis: +103 | Depth: 12 | EngineMove : d2d4
+5. d3 | Analysis: +17 | Depth: 13 | EngineMove : g8f6
+5... Nc6 | Analysis: +45 | Depth: 13 | EngineMove : d3d4
+6. h3 | Analysis: +8 | Depth: 14 | EngineMove : g8f6
+6... Nf6 | Analysis: -10 | Depth: 14 | EngineMove : e1g1
+7. O-O | Analysis: +16 | Depth: 13 | EngineMove : e8g8
+7... O-O | Analysis: -5 | Depth: 12 | EngineMove : c4b3
+8. Ng5 | Analysis: +50 | Depth: 12 | EngineMove : h7h6
+8... Nxe4 | Analysis: +144 | Depth: 14 | EngineMove : g5f7
+9. dxe4 | Analysis: +73 | Depth: 13 | EngineMove : e7g5
+9... Bxg5 | Analysis: -61 | Depth: 14 | EngineMove : c1g5
+10. Bxg5 | Analysis: +56 | Depth: 13 | EngineMove : d8g5
+10... Qxg5 | Analysis: -54 | Depth: 14 | EngineMove : d1d3
+11. Nd2 | Analysis: +237 | Depth: 14 | EngineMove : c8h3
+11... Bxh3 | Analysis: -231 | Depth: 15 | EngineMove : d1f3
+12. Nf3 | Analysis: #+1 | Depth: 127 | EngineMove : g5g2

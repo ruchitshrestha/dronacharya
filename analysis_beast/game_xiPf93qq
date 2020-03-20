@@ -1,0 +1,26 @@
+**URL: https://lichess.org/xiPf93qq | Tag: xiPf93qq | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/xiPf93qq', Date='2018.12.13', Round='-', White='lordtempest', Black='chittyct', Result='0-1', BlackElo='1048', BlackRatingDiff='+6', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2018.12.13', UTCTime='19:43:18', Variant='Standard', WhiteElo='896', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -12 | Depth: 12 | EngineMove : d7d5
+1... g6 | Analysis: +100 | Depth: 11 | EngineMove : e2e4
+2. c4 | Analysis: -70 | Depth: 12 | EngineMove : g8f6
+2... Bg7 | Analysis: +63 | Depth: 13 | EngineMove : g1f3
+3. Nc3 | Analysis: -44 | Depth: 14 | EngineMove : c7c5
+3... e6 | Analysis: +89 | Depth: 13 | EngineMove : e2e4
+4. e4 | Analysis: -74 | Depth: 14 | EngineMove : g8e7
+4... Ne7 | Analysis: +70 | Depth: 12 | EngineMove : g1f3
+5. e5 | Analysis: -25 | Depth: 12 | EngineMove : d7d6
+5... Nbc6 | Analysis: +27 | Depth: 14 | EngineMove : g1f3
+6. Nf3 | Analysis: -39 | Depth: 13 | EngineMove : e8g8
+6... O-O | Analysis: +26 | Depth: 12 | EngineMove : f1e2
+7. b3 | Analysis: +10 | Depth: 13 | EngineMove : d7d6
+7... Nf5 | Analysis: +24 | Depth: 12 | EngineMove : c3e4
+8. g4 | Analysis: -17 | Depth: 11 | EngineMove : f5d4
+8... Nh4 | Analysis: -20 | Depth: 13 | EngineMove : f3h4
+9. Ng5 | Analysis: +269 | Depth: 11 | EngineMove : f7f6
+9... d6 | Analysis: -204 | Depth: 11 | EngineMove : g5e4
+10. exd6 | Analysis: +422 | Depth: 11 | EngineMove : c6d4
+10... Qxd6 | Analysis: -196 | Depth: 12 | EngineMove : g5e4
+11. Nge4 | Analysis: +160 | Depth: 13 | EngineMove : d6d4
+11... Qxd4 | Analysis: -184 | Depth: 13 | EngineMove : c1g5
+12. Qe2 | Analysis: +561 | Depth: 14 | EngineMove : c6e5

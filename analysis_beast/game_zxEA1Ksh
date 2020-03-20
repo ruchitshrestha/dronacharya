@@ -1,0 +1,20 @@
+**URL: https://lichess.org/zxEA1Ksh | Tag: zxEA1Ksh | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/zxEA1Ksh', Date='2019.06.30', Round='-', White='chittyct', Black='karthi22', Result='1-0', BlackElo='1334', BlackRatingDiff='-12', ECO='D07', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.30', UTCTime='03:16:12', Variant='Standard', WhiteElo='1276', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -20 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 13 | EngineMove : c1f4
+2. c4 | Analysis: -20 | Depth: 12 | EngineMove : e7e6
+2... Nc6 | Analysis: +40 | Depth: 13 | EngineMove : g1f3
+3. cxd5 | Analysis: -39 | Depth: 14 | EngineMove : d8d5
+3... Qxd5 | Analysis: -1 | Depth: 13 | EngineMove : e2e3
+4. Nf3 | Analysis: -24 | Depth: 15 | EngineMove : e7e5
+4... e5 | Analysis: +15 | Depth: 14 | EngineMove : b1c3
+5. Nc3 | Analysis: 0 | Depth: 14 | EngineMove : f8b4
+5... Nxd4 | Analysis: +1005 | Depth: 13 | EngineMove : c3d5
+6. Nxd5 | Analysis: -1000 | Depth: 13 | EngineMove : d4f3
+6... Nxf3+ | Analysis: +1022 | Depth: 13 | EngineMove : e2f3
+7. exf3 | Analysis: -1039 | Depth: 13 | EngineMove : f8d6
+7... Be6 | Analysis: +1811 | Depth: 12 | EngineMove : d5c7
+8. Nxc7+ | Analysis: -1824 | Depth: 13 | EngineMove : e8e7
+8... Ke7 | Analysis: +1892 | Depth: 13 | EngineMove : c7a8
+9. Nxa8 | Analysis: -1900 | Depth: 12 | EngineMove : g8f6

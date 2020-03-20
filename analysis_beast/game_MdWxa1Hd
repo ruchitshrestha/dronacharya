@@ -1,0 +1,21 @@
+**URL: https://lichess.org/MdWxa1Hd | Tag: MdWxa1Hd | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/MdWxa1Hd', Date='2019.07.11', Round='-', White='elby', Black='chittyct', Result='0-1', BlackElo='1358', BlackRatingDiff='+7', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.11', UTCTime='22:38:15', Variant='Standard', WhiteElo='1239', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -22 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 12 | EngineMove : g1f3
+2. Bf4 | Analysis: -26 | Depth: 13 | EngineMove : e7e6
+2... Nf6 | Analysis: +12 | Depth: 14 | EngineMove : e2e3
+3. e3 | Analysis: -24 | Depth: 14 | EngineMove : e7e6
+3... b6 | Analysis: +53 | Depth: 11 | EngineMove : g1f3
+4. Nc3 | Analysis: -34 | Depth: 13 | EngineMove : e7e6
+4... c5 | Analysis: +93 | Depth: 10 | EngineMove : g1f3
+5. Nb5 | Analysis: -39 | Depth: 12 | EngineMove : b8a6
+5... Na6 | Analysis: +82 | Depth: 12 | EngineMove : c2c3
+6. c3 | Analysis: -75 | Depth: 13 | EngineMove : f6e4
+6... h6 | Analysis: +107 | Depth: 12 | EngineMove : d1a4
+7. Qa4 | Analysis: -93 | Depth: 12 | EngineMove : f6d7
+7... Qd7 | Analysis: +208 | Depth: 12 | EngineMove : g1f3
+8. Nc7+ | Analysis: +264 | Depth: 13 | EngineMove : a6c7
+8... Nxc7 | Analysis: -271 | Depth: 13 | EngineMove : a4d7
+9. Bxc7 | Analysis: +1181 | Depth: 13 | EngineMove : d7a4
+9... Qxa4 | Analysis: -1199 | Depth: 12 | EngineMove : g1e2

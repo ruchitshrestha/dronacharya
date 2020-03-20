@@ -1,0 +1,21 @@
+**URL: https://lichess.org/weZTI7L6 | Tag: weZTI7L6 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/weZTI7L6', Date='2019.04.05', Round='-', White='seaj10', Black='chittyct', Result='0-1', BlackElo='1203', BlackRatingDiff='+11', ECO='B32', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.05', UTCTime='01:40:00', Variant='Standard', WhiteElo='1232', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -24 | Depth: 15 | EngineMove : e7e6
+1... c5 | Analysis: +37 | Depth: 15 | EngineMove : g1f3
+2. Nf3 | Analysis: -30 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +34 | Depth: 17 | EngineMove : f1b5
+3. d4 | Analysis: -19 | Depth: 18 | EngineMove : c5d4
+3... cxd4 | Analysis: +17 | Depth: 18 | EngineMove : f3d4
+4. Nxd4 | Analysis: -24 | Depth: 18 | EngineMove : g8f6
+4... Ne5 | Analysis: +93 | Depth: 15 | EngineMove : b1c3
+5. Nc3 | Analysis: -101 | Depth: 15 | EngineMove : e7e6
+5... a6 | Analysis: +104 | Depth: 16 | EngineMove : f2f4
+6. Bc4 | Analysis: +255 | Depth: 15 | EngineMove : e5c4
+6... Nxc4 | Analysis: -256 | Depth: 16 | EngineMove : e1g1
+7. O-O | Analysis: +251 | Depth: 17 | EngineMove : e7e6
+7... e5 | Analysis: -255 | Depth: 15 | EngineMove : d4f3
+8. b3 | Analysis: +430 | Depth: 19 | EngineMove : e5d4
+8... exd4 | Analysis: -425 | Depth: 19 | EngineMove : d1d4
+9. bxc4 | Analysis: +596 | Depth: 15 | EngineMove : d4c3
+9... dxc3 | Analysis: -596 | Depth: 16 | EngineMove : f1e1

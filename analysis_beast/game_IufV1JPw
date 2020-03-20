@@ -1,0 +1,30 @@
+**URL: https://lichess.org/IufV1JPw | Tag: IufV1JPw | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/IufV1JPw', Date='2019.06.29', Round='-', White='Boujloud', Black='chittyct', Result='1-0', BlackElo='1095', BlackRatingDiff='-9', ECO='C22', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.06.29', UTCTime='18:15:56', Variant='Standard', WhiteElo='1131', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -41 | Depth: 11 | EngineMove : e7e6
+1... e5 | Analysis: +36 | Depth: 11 | EngineMove : b1c3
+2. d4 | Analysis: +5 | Depth: 12 | EngineMove : e5d4
+2... exd4 | Analysis: 0 | Depth: 12 | EngineMove : g1f3
+3. Qxd4 | Analysis: +35 | Depth: 13 | EngineMove : g8f6
+3... Nc6 | Analysis: -22 | Depth: 12 | EngineMove : d4c4
+4. Qc4 | Analysis: +20 | Depth: 13 | EngineMove : g8f6
+4... d6 | Analysis: -7 | Depth: 13 | EngineMove : g1f3
+5. Nf3 | Analysis: +8 | Depth: 13 | EngineMove : g8f6
+5... Bg4 | Analysis: +57 | Depth: 11 | EngineMove : c4b3
+6. Ng5 | Analysis: +5 | Depth: 12 | EngineMove : c6e5
+6... Ne5 | Analysis: +2 | Depth: 13 | EngineMove : c4b3
+7. Qd5 | Analysis: +103 | Depth: 12 | EngineMove : h7h6
+7... c6 | Analysis: -49 | Depth: 13 | EngineMove : d5b3
+8. Qb3 | Analysis: +57 | Depth: 12 | EngineMove : f8e7
+8... Be7 | Analysis: -53 | Depth: 12 | EngineMove : b3b7
+9. Bc4 | Analysis: +409 | Depth: 12 | EngineMove : e7g5
+9... Bxg5 | Analysis: -370 | Depth: 13 | EngineMove : e1g1
+10. Bxf7+ | Analysis: +587 | Depth: 13 | EngineMove : e5f7
+10... Nxf7 | Analysis: -586 | Depth: 13 | EngineMove : c1g5
+11. Bxg5 | Analysis: +581 | Depth: 15 | EngineMove : d8g5
+11... Qxg5 | Analysis: -595 | Depth: 15 | EngineMove : b1d2
+12. O-O | Analysis: +608 | Depth: 14 | EngineMove : g8f6
+12... b5 | Analysis: -542 | Depth: 12 | EngineMove : a2a4
+13. Qc3 | Analysis: +560 | Depth: 13 | EngineMove : g8e7
+13... Be6 | Analysis: +62 | Depth: 12 | EngineMove : c3c6
+14. Qxc6+ | Analysis: -56 | Depth: 14 | EngineMove : e6d7

@@ -1,0 +1,26 @@
+**URL: https://lichess.org/StCyOywd | Tag: StCyOywd | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/StCyOywd', Date='2019.11.27', Round='-', White='chittyct', Black='salest', Result='1-0', BlackElo='1264', BlackRatingDiff='-8', ECO='A41', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.27', UTCTime='14:48:06', Variant='Standard', WhiteElo='1238', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+1... d6 | Analysis: +40 | Depth: 17 | EngineMove : g1f3
+2. Bf4 | Analysis: -29 | Depth: 17 | EngineMove : g8f6
+2... e5 | Analysis: +70 | Depth: 17 | EngineMove : d4e5
+3. dxe5 | Analysis: -79 | Depth: 18 | EngineMove : b8c6
+3... dxe5 | Analysis: +110 | Depth: 18 | EngineMove : d1d8
+4. Bxe5 | Analysis: -60 | Depth: 16 | EngineMove : d8d1
+4... Qxd1+ | Analysis: +58 | Depth: 20 | EngineMove : e1d1
+5. Kxd1 | Analysis: -53 | Depth: 18 | EngineMove : c7c5
+5... Be6 | Analysis: +102 | Depth: 18 | EngineMove : e5c7
+6. Nf3 | Analysis: -72 | Depth: 17 | EngineMove : c7c5
+6... Nc6 | Analysis: +112 | Depth: 18 | EngineMove : e5c7
+7. Bxc7 | Analysis: -112 | Depth: 17 | EngineMove : g8f6
+7... Rc8 | Analysis: +124 | Depth: 18 | EngineMove : c7g3
+8. Be5 | Analysis: -68 | Depth: 15 | EngineMove : c6e5
+8... Rd8+ | Analysis: +100 | Depth: 19 | EngineMove : b1d2
+9. Nbd2 | Analysis: -97 | Depth: 18 | EngineMove : c6e5
+9... Bb4 | Analysis: +530 | Depth: 18 | EngineMove : e5g7
+10. Bxg7 | Analysis: -532 | Depth: 21 | EngineMove : f7f6
+10... Bxd2 | Analysis: +575 | Depth: 19 | EngineMove : f3d2
+11. Nxd2 | Analysis: -579 | Depth: 20 | EngineMove : f7f6
+11... Nf6 | Analysis: +783 | Depth: 18 | EngineMove : g7f6
+12. Bxf6 | Analysis: -808 | Depth: 18 | EngineMove : e8g8

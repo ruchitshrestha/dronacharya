@@ -1,0 +1,27 @@
+**URL: https://lichess.org/YNompcC1 | Tag: YNompcC1 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/YNompcC1', Date='2018.11.03', Round='-', White='Arfbdiman', Black='chittyct', Result='1-0', BlackElo='1208', BlackRatingDiff='-8', ECO='B56', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.03', UTCTime='01:55:32', Variant='Standard', WhiteElo='1302', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -41 | Depth: 11 | EngineMove : b8c6
+1... c5 | Analysis: +67 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -55 | Depth: 13 | EngineMove : e7e6
+2... d6 | Analysis: +53 | Depth: 11 | EngineMove : b1c3
+3. d4 | Analysis: -33 | Depth: 12 | EngineMove : g8f6
+3... cxd4 | Analysis: +25 | Depth: 12 | EngineMove : f3d4
+4. Nxd4 | Analysis: -33 | Depth: 12 | EngineMove : e7e5
+4... Nf6 | Analysis: +33 | Depth: 13 | EngineMove : b1c3
+5. Nc3 | Analysis: -33 | Depth: 12 | EngineMove : e7e6
+5... e5 | Analysis: +26 | Depth: 12 | EngineMove : f1b5
+6. Nf3 | Analysis: -21 | Depth: 14 | EngineMove : f8e7
+6... Qb6 | Analysis: +70 | Depth: 11 | EngineMove : f1b5
+7. Be2 | Analysis: -40 | Depth: 12 | EngineMove : f8e7
+7... Ng4 | Analysis: +137 | Depth: 11 | EngineMove : e1g1
+8. O-O | Analysis: -112 | Depth: 12 | EngineMove : g4f6
+8... d5 | Analysis: +344 | Depth: 11 | EngineMove : c3d5
+9. Nxd5 | Analysis: -350 | Depth: 12 | EngineMove : b6d8
+9... Qh6 | Analysis: +1585 | Depth: 12 | EngineMove : d5c7
+10. Nc7+ | Analysis: -1613 | Depth: 13 | EngineMove : e8e7
+10... Ke7 | Analysis: +1627 | Depth: 14 | EngineMove : c1h6
+11. Nxa8 | Analysis: -845 | Depth: 12 | EngineMove : h6d6
+11... g5 | Analysis: +1723 | Depth: 11 | EngineMove : c1g5
+12. Bxg5+ | Analysis: -1779 | Depth: 13 | EngineMove : f7f6
+12... Qxg5 | Analysis: +1820 | Depth: 13 | EngineMove : f3g5

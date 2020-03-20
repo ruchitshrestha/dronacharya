@@ -1,0 +1,20 @@
+**URL: https://lichess.org/TBTFac1l | Tag: TBTFac1l | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/TBTFac1l', Date='2018.12.06', Round='-', White='Alexdyr', Black='chittyct', Result='1-0', BlackElo='1229', BlackRatingDiff='-10', ECO='B30', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.12.06', UTCTime='19:16:35', Variant='Standard', WhiteElo='1254', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -29 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +43 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -35 | Depth: 18 | EngineMove : b8c6
+2... Nc6 | Analysis: +28 | Depth: 18 | EngineMove : f1b5
+3. Bb5 | Analysis: -29 | Depth: 18 | EngineMove : g8f6
+3... a6 | Analysis: +59 | Depth: 18 | EngineMove : b5c6
+4. Bxc6 | Analysis: -46 | Depth: 18 | EngineMove : d7c6
+4... bxc6 | Analysis: +60 | Depth: 17 | EngineMove : e1g1
+5. O-O | Analysis: -59 | Depth: 17 | EngineMove : e7e6
+5... d5 | Analysis: +56 | Depth: 18 | EngineMove : d2d3
+6. e5 | Analysis: -12 | Depth: 20 | EngineMove : c8g4
+6... c4 | Analysis: +91 | Depth: 18 | EngineMove : b2b3
+7. Nc3 | Analysis: -70 | Depth: 18 | EngineMove : c8g4
+7... c5 | Analysis: +99 | Depth: 18 | EngineMove : b2b3
+8. d4 | Analysis: -45 | Depth: 18 | EngineMove : c4d3
+8... cxd4 | Analysis: +53 | Depth: 18 | EngineMove : d1d4
+9. Nxd4 | Analysis: -27 | Depth: 16 | EngineMove : e7e6

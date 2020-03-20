@@ -1,0 +1,34 @@
+**URL: https://lichess.org/DQwZrsRg | Tag: DQwZrsRg | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/DQwZrsRg', Date='2019.07.14', Round='-', White='chittyct', Black='daduob', Result='0-1', BlackElo='1426', BlackRatingDiff='+9', ECO='D06', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.14', UTCTime='20:31:07', Variant='Standard', WhiteElo='1388', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -29 | Depth: 14 | EngineMove : g8f6
+1... d5 | Analysis: +32 | Depth: 13 | EngineMove : g1f3
+2. c4 | Analysis: -29 | Depth: 13 | EngineMove : e7e6
+2... Bf5 | Analysis: +64 | Depth: 12 | EngineMove : c4d5
+3. cxd5 | Analysis: -52 | Depth: 14 | EngineMove : g8f6
+3... e6 | Analysis: +91 | Depth: 13 | EngineMove : d5e6
+4. dxe6 | Analysis: -106 | Depth: 12 | EngineMove : f5e6
+4... Bxe6 | Analysis: +103 | Depth: 12 | EngineMove : b1c3
+5. Nf3 | Analysis: -111 | Depth: 13 | EngineMove : g8f6
+5... Nc6 | Analysis: +129 | Depth: 13 | EngineMove : b1c3
+6. e4 | Analysis: -143 | Depth: 12 | EngineMove : g8f6
+6... Bg4 | Analysis: +185 | Depth: 12 | EngineMove : d4d5
+7. Bc4 | Analysis: -98 | Depth: 11 | EngineMove : g8f6
+7... Nf6 | Analysis: +90 | Depth: 12 | EngineMove : d4d5
+8. e5 | Analysis: +18 | Depth: 14 | EngineMove : g4f3
+8... Qe7 | Analysis: +184 | Depth: 12 | EngineMove : e1g1
+9. O-O | Analysis: -187 | Depth: 14 | EngineMove : f6d7
+9... Ne4 | Analysis: +305 | Depth: 12 | EngineMove : d1d3
+10. Re1 | Analysis: -229 | Depth: 13 | EngineMove : e4f2
+10... f5 | Analysis: +396 | Depth: 14 | EngineMove : e5f6
+11. exf6 | Analysis: -369 | Depth: 14 | EngineMove : g7f6
+11... gxf6 | Analysis: +377 | Depth: 15 | EngineMove : d1d3
+12. Nc3 | Analysis: -303 | Depth: 14 | EngineMove : f6f5
+12... f5 | Analysis: +322 | Depth: 14 | EngineMove : h2h3
+13. h3 | Analysis: -331 | Depth: 13 | EngineMove : g4h5
+13... h5 | Analysis: +577 | Depth: 15 | EngineMove : h3g4
+14. hxg4 | Analysis: -582 | Depth: 14 | EngineMove : h5g4
+14... hxg4 | Analysis: +641 | Depth: 17 | EngineMove : c3e4
+15. Ne5 | Analysis: +87 | Depth: 13 | EngineMove : e7h4
+15... Qh4 | Analysis: -91 | Depth: 13 | EngineMove : c4f7
+16. f3 | Analysis: #+1 | Depth: 127 | EngineMove : h4h1

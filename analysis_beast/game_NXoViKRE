@@ -1,0 +1,28 @@
+**URL: https://lichess.org/NXoViKRE | Tag: NXoViKRE | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/NXoViKRE', Date='2019.02.12', Round='-', White='Kayla12', Black='chittyct', Result='1-0', BlackElo='1265', BlackRatingDiff='-11', ECO='B22', Termination='Normal', TimeControl='300+3', UTCDate='2019.02.12', UTCTime='17:25:26', Variant='Standard', WhiteElo='1261', WhiteRatingDiff='+27')
+
+1. e4 | Analysis: -22 | Depth: 11 | EngineMove : d7d5
+1... c5 | Analysis: +43 | Depth: 12 | EngineMove : g1f3
+2. c3 | Analysis: +2 | Depth: 12 | EngineMove : d7d5
+2... a6 | Analysis: +39 | Depth: 12 | EngineMove : d2d4
+3. d4 | Analysis: -67 | Depth: 12 | EngineMove : d7d5
+3... cxd4 | Analysis: +45 | Depth: 13 | EngineMove : c3d4
+4. cxd4 | Analysis: -50 | Depth: 14 | EngineMove : d7d5
+4... Nc6 | Analysis: +105 | Depth: 11 | EngineMove : d4d5
+5. d5 | Analysis: -131 | Depth: 12 | EngineMove : c6e5
+5... Ne5 | Analysis: +105 | Depth: 12 | EngineMove : b1c3
+6. Bf4 | Analysis: -55 | Depth: 12 | EngineMove : d7d6
+6... Ng6 | Analysis: +73 | Depth: 12 | EngineMove : f4g3
+7. Bg3 | Analysis: -63 | Depth: 11 | EngineMove : g8f6
+7... b5 | Analysis: +100 | Depth: 11 | EngineMove : a2a4
+8. Qc2 | Analysis: -55 | Depth: 11 | EngineMove : c8b7
+8... Nf6 | Analysis: +570 | Depth: 12 | EngineMove : g3c7
+9. Bc7 | Analysis: -604 | Depth: 14 | EngineMove : d8c7
+9... Qxc7 | Analysis: +599 | Depth: 14 | EngineMove : c2c7
+10. Qxc7 | Analysis: -586 | Depth: 12 | EngineMove : f6e4
+10... Nxe4 | Analysis: +628 | Depth: 13 | EngineMove : b1c3
+11. Nf3 | Analysis: -510 | Depth: 15 | EngineMove : e4f6
+11... e6 | Analysis: +609 | Depth: 13 | EngineMove : d5e6
+12. dxe6 | Analysis: -679 | Depth: 13 | EngineMove : f7e6
+12... dxe6 | Analysis: +1227 | Depth: 12 | EngineMove : c7c6
+13. Qc6+ | Analysis: -1251 | Depth: 13 | EngineMove : e8d8

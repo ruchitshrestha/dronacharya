@@ -1,0 +1,12 @@
+**URL: https://lichess.org/008dcWBu | Tag: 008dcWBu | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/008dcWBu', Date='2019.12.11', Round='-', White='yangyang_he', Black='chittyct', Result='1-0', BlackElo='1322', BlackRatingDiff='-7', ECO='B32', Termination='Normal', TimeControl='120+1', UTCDate='2019.12.11', UTCTime='23:42:48', Variant='Standard', WhiteElo='1325', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -29 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +46 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -36 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +48 | Depth: 17 | EngineMove : f1b5
+3. d4 | Analysis: -11 | Depth: 18 | EngineMove : c5d4
+3... a6 | Analysis: +134 | Depth: 17 | EngineMove : d4d5
+4. d5 | Analysis: -128 | Depth: 17 | EngineMove : c6a5
+4... Ne5 | Analysis: +384 | Depth: 18 | EngineMove : f3e5
+5. Nxe5 | Analysis: -382 | Depth: 17 | EngineMove : d7d6

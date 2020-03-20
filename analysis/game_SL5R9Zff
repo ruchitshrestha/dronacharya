@@ -1,0 +1,30 @@
+**URL: https://lichess.org/SL5R9Zff | Tag: SL5R9Zff | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/SL5R9Zff', Date='2019.06.23', Round='-', White='ABDULLAHECE', Black='chittyct', Result='1-0', BlackElo='1105', BlackRatingDiff='-11', ECO='B30', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.06.23', UTCTime='16:28:32', Variant='Standard', WhiteElo='1062', WhiteRatingDiff='+45')
+
+1. e4 | Analysis: -29 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +44 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -34 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +32 | Depth: 17 | EngineMove : f1b5
+3. Bc4 | Analysis: -10 | Depth: 17 | EngineMove : g8f6
+3... a6 | Analysis: +28 | Depth: 16 | EngineMove : d2d4
+4. O-O | Analysis: -15 | Depth: 17 | EngineMove : e7e6
+4... e6 | Analysis: +11 | Depth: 17 | EngineMove : f1e1
+5. d4 | Analysis: -11 | Depth: 19 | EngineMove : d7d5
+5... b5 | Analysis: +67 | Depth: 17 | EngineMove : d4d5
+6. Bb3 | Analysis: +89 | Depth: 16 | EngineMove : c5c4
+6... c4 | Analysis: -91 | Depth: 16 | EngineMove : d4d5
+7. d5 | Analysis: +99 | Depth: 17 | EngineMove : c6a5
+7... exd5 | Analysis: +93 | Depth: 18 | EngineMove : e4d5
+8. exd5 | Analysis: -91 | Depth: 19 | EngineMove : c4b3
+8... Nb8 | Analysis: +294 | Depth: 16 | EngineMove : f1e1
+9. Re1+ | Analysis: -314 | Depth: 19 | EngineMove : f8e7
+9... Ne7 | Analysis: +459 | Depth: 18 | EngineMove : d5d6
+10. d6 | Analysis: -436 | Depth: 18 | EngineMove : c4b3
+10... cxb3 | Analysis: +489 | Depth: 20 | EngineMove : a2b3
+11. axb3 | Analysis: -475 | Depth: 20 | EngineMove : a8a7
+11... Nc6 | Analysis: +491 | Depth: 20 | EngineMove : b1c3
+12. dxe7 | Analysis: -108 | Depth: 18 | EngineMove : f8e7
+12... Bxe7 | Analysis: +107 | Depth: 18 | EngineMove : b1c3
+13. Ng5 | Analysis: -28 | Depth: 18 | EngineMove : e8g8
+13... O-O | Analysis: +35 | Depth: 19 | EngineMove : d1d5
+14. Qd3 | Analysis: +285 | Depth: 19 | EngineMove : e7g5

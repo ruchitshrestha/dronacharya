@@ -1,0 +1,34 @@
+**URL: https://lichess.org/Rgv6eNey | Tag: Rgv6eNey | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Rgv6eNey', Date='2019.09.07', Round='-', White='CosoLOL', Black='chittyct', Result='0-1', BlackElo='1223', BlackRatingDiff='+8', ECO='B25', Termination='Normal', TimeControl='60+0', UTCDate='2019.09.07', UTCTime='11:30:46', Variant='Standard', WhiteElo='1241', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -32 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +32 | Depth: 17 | EngineMove : b1c3
+2. Nc3 | Analysis: -26 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +25 | Depth: 18 | EngineMove : g1f3
+3. d3 | Analysis: +6 | Depth: 18 | EngineMove : e7e6
+3... a6 | Analysis: +12 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -5 | Depth: 18 | EngineMove : e7e6
+4... b5 | Analysis: +40 | Depth: 17 | EngineMove : f1e2
+5. Be3 | Analysis: -14 | Depth: 17 | EngineMove : e7e6
+5... Bb7 | Analysis: +94 | Depth: 19 | EngineMove : e3c5
+6. Bxc5 | Analysis: -100 | Depth: 19 | EngineMove : d7d6
+6... d6 | Analysis: +115 | Depth: 20 | EngineMove : c5e3
+7. Be3 | Analysis: -109 | Depth: 20 | EngineMove : g8f6
+7... Rc8 | Analysis: +122 | Depth: 16 | EngineMove : a2a4
+8. Be2 | Analysis: -94 | Depth: 21 | EngineMove : e7e6
+8... e5 | Analysis: +151 | Depth: 18 | EngineMove : a2a4
+9. O-O | Analysis: -125 | Depth: 18 | EngineMove : g8f6
+9... Nd4 | Analysis: +279 | Depth: 18 | EngineMove : f3d4
+10. Nxd4 | Analysis: -270 | Depth: 20 | EngineMove : e5d4
+10... exd4 | Analysis: +272 | Depth: 20 | EngineMove : e3d4
+11. Bxd4 | Analysis: -267 | Depth: 21 | EngineMove : g8f6
+11... Ne7 | Analysis: +324 | Depth: 17 | EngineMove : e2h5
+12. Nd5 | Analysis: -309 | Depth: 18 | EngineMove : e7d5
+12... Nxd5 | Analysis: +286 | Depth: 19 | EngineMove : e4d5
+13. exd5 | Analysis: -264 | Depth: 20 | EngineMove : f8e7
+13... Bxd5 | Analysis: +332 | Depth: 18 | EngineMove : e2g4
+14. Re1 | Analysis: -275 | Depth: 18 | EngineMove : f8e7
+14... Qg5 | Analysis: +438 | Depth: 20 | EngineMove : e2g4
+15. Bg4+ | Analysis: -432 | Depth: 22 | EngineMove : f8e7
+15... Be7 | Analysis: +517 | Depth: 21 | EngineMove : f2f4
+16. Bxc8 | Analysis: #+1 | Depth: 127 | EngineMove : g5g2

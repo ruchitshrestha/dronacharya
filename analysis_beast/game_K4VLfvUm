@@ -1,0 +1,14 @@
+**URL: https://lichess.org/K4VLfvUm | Tag: K4VLfvUm | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/K4VLfvUm', Date='2019.01.14', Round='-', White='lucadelcaro', Black='chittyct', Result='1-0', BlackElo='1363', BlackRatingDiff='-5', ECO='B32', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.01.14', UTCTime='04:59:36', Variant='Standard', WhiteElo='1591', WhiteRatingDiff='+4')
+
+1. e4 | Analysis: -36 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +67 | Depth: 12 | EngineMove : b1c3
+2. Nf3 | Analysis: -43 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +50 | Depth: 13 | EngineMove : b1c3
+3. d4 | Analysis: -18 | Depth: 13 | EngineMove : c5d4
+3... e6 | Analysis: +132 | Depth: 13 | EngineMove : d4d5
+4. d5 | Analysis: -137 | Depth: 13 | EngineMove : e6d5
+4... exd5 | Analysis: +146 | Depth: 14 | EngineMove : e4d5
+5. exd5 | Analysis: -167 | Depth: 13 | EngineMove : d8e7
+5... Ne5 | Analysis: +406 | Depth: 12 | EngineMove : f3e5
+6. Nxe5 | Analysis: -421 | Depth: 14 | EngineMove : d8e7

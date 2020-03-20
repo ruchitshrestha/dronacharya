@@ -1,0 +1,31 @@
+**URL: https://lichess.org/PlHAmMfZ | Tag: PlHAmMfZ | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/PlHAmMfZ', Date='2018.10.05', Round='-', White='chittyct', Black='w-d-man', Result='0-1', BlackElo='1350', BlackRatingDiff='+5', ECO='A40', Termination='Normal', TimeControl='300+0', UTCDate='2018.10.05', UTCTime='20:49:14', Variant='Standard', WhiteElo='1098', WhiteRatingDiff='-4')
+
+1. d4 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+1... Nc6 | Analysis: +51 | Depth: 17 | EngineMove : d4d5
+2. Bf4 | Analysis: -27 | Depth: 19 | EngineMove : e7e6
+2... f6 | Analysis: +42 | Depth: 17 | EngineMove : d4d5
+3. e3 | Analysis: 0 | Depth: 17 | EngineMove : e7e5
+3... e5 | Analysis: -5 | Depth: 17 | EngineMove : f4g3
+4. Bg3 | Analysis: -12 | Depth: 18 | EngineMove : e5d4
+4... e4 | Analysis: +150 | Depth: 17 | EngineMove : d4d5
+5. Nd2 | Analysis: -94 | Depth: 17 | EngineMove : f6f5
+5... f5 | Analysis: +112 | Depth: 18 | EngineMove : d4d5
+6. Qh5+ | Analysis: -21 | Depth: 17 | EngineMove : g7g6
+6... g6 | Analysis: +23 | Depth: 19 | EngineMove : h5d1
+7. Qe2 | Analysis: +3 | Depth: 17 | EngineMove : g8f6
+7... d5 | Analysis: +16 | Depth: 17 | EngineMove : g1h3
+8. Nh3 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+8... Bd6 | Analysis: +9 | Depth: 18 | EngineMove : e2d1
+9. Bxd6 | Analysis: +21 | Depth: 18 | EngineMove : d8d6
+9... Qxd6 | Analysis: -23 | Depth: 17 | EngineMove : c2c3
+10. O-O-O | Analysis: +29 | Depth: 18 | EngineMove : g8f6
+10... Be6 | Analysis: -9 | Depth: 18 | EngineMove : c1b1
+11. Kb1 | Analysis: +29 | Depth: 19 | EngineMove : g8f6
+11... O-O-O | Analysis: 0 | Depth: 19 | EngineMove : d2b3
+12. Nb3 | Analysis: +1 | Depth: 20 | EngineMove : g8f6
+12... Nb4 | Analysis: +119 | Depth: 21 | EngineMove : b3c5
+13. Nc5 | Analysis: -125 | Depth: 21 | EngineMove : e6d7
+13... b6 | Analysis: +246 | Depth: 19 | EngineMove : e2b5
+14. Qa6+ | Analysis: +538 | Depth: 21 | EngineMove : b4a6
+14... Nxa6 | Analysis: -539 | Depth: 21 | EngineMove : f1a6

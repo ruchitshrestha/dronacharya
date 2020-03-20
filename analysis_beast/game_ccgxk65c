@@ -1,0 +1,27 @@
+**URL: https://lichess.org/ccgxk65c | Tag: ccgxk65c | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ccgxk65c', Date='2018.12.23', Round='-', White='chittyct', Black='cospip', Result='1-0', BlackElo='1054', BlackRatingDiff='-11', ECO='D02', Termination='Normal', TimeControl='120+1', UTCDate='2018.12.23', UTCTime='06:58:21', Variant='Standard', WhiteElo='1057', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -26 | Depth: 11 | EngineMove : d7d5
+1... d5 | Analysis: +12 | Depth: 13 | EngineMove : e2e3
+2. Nf3 | Analysis: -17 | Depth: 13 | EngineMove : e7e6
+2... Nf6 | Analysis: +14 | Depth: 14 | EngineMove : e2e3
+3. Bf4 | Analysis: -15 | Depth: 14 | EngineMove : e7e6
+3... Nc6 | Analysis: +33 | Depth: 13 | EngineMove : e2e3
+4. e3 | Analysis: -23 | Depth: 13 | EngineMove : c8d7
+4... e6 | Analysis: +34 | Depth: 13 | EngineMove : c2c3
+5. c4 | Analysis: -13 | Depth: 11 | EngineMove : f8b4
+5... dxc4 | Analysis: +38 | Depth: 13 | EngineMove : f1c4
+6. Bxc4 | Analysis: -31 | Depth: 14 | EngineMove : f8d6
+6... Bd6 | Analysis: +27 | Depth: 14 | EngineMove : f4d6
+7. Bg3 | Analysis: -26 | Depth: 13 | EngineMove : e8g8
+7... Bxg3 | Analysis: +41 | Depth: 14 | EngineMove : h2g3
+8. hxg3 | Analysis: -45 | Depth: 14 | EngineMove : e8g8
+8... O-O | Analysis: +40 | Depth: 14 | EngineMove : b1c3
+9. Nc3 | Analysis: -33 | Depth: 12 | EngineMove : h7h6
+9... a6 | Analysis: +41 | Depth: 13 | EngineMove : a1c1
+10. Rc1 | Analysis: -35 | Depth: 13 | EngineMove : h7h6
+10... b5 | Analysis: +134 | Depth: 13 | EngineMove : c4d3
+11. Qc2 | Analysis: +217 | Depth: 14 | EngineMove : b5c4
+11... bxc4 | Analysis: -202 | Depth: 14 | EngineMove : c3e4
+12. g4 | Analysis: +496 | Depth: 13 | EngineMove : c6b4
+12... Nxg4 | Analysis: #+1 | Depth: 127 | EngineMove : c2h7

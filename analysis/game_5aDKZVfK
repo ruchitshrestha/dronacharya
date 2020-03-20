@@ -1,0 +1,37 @@
+**URL: https://lichess.org/5aDKZVfK | Tag: 5aDKZVfK | Side: white**
+HEADERS: Headers(Event='LM Dingo123 Arena', Site='https://lichess.org/5aDKZVfK', Date='2018.09.26', Round='-', White='chittyct', Black='M0H0', Result='0-1', BlackElo='1541', BlackRatingDiff='+9', ECO='A46', Termination='Time forfeit', TimeControl='15+0', UTCDate='2018.09.26', UTCTime='04:03:04', Variant='Standard', WhiteElo='1428', WhiteRatingDiff='-100')
+
+1. d4 | Analysis: -19 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +27 | Depth: 17 | EngineMove : e2e4
+2. Nf3 | Analysis: -16 | Depth: 19 | EngineMove : g8f6
+2... Nf6 | Analysis: +18 | Depth: 18 | EngineMove : e2e3
+3. Bf4 | Analysis: -9 | Depth: 18 | EngineMove : f8e7
+3... Be7 | Analysis: +14 | Depth: 19 | EngineMove : b1c3
+4. e3 | Analysis: -3 | Depth: 18 | EngineMove : e8g8
+4... O-O | Analysis: 0 | Depth: 18 | EngineMove : f1d3
+5. g3 | Analysis: +21 | Depth: 16 | EngineMove : c7c5
+5... Ne8 | Analysis: +8 | Depth: 17 | EngineMove : h2h4
+6. Bg2 | Analysis: +82 | Depth: 19 | EngineMove : g7g5
+6... f6 | Analysis: +34 | Depth: 17 | EngineMove : h2h4
+7. Qe2 | Analysis: +147 | Depth: 17 | EngineMove : g7g5
+7... f5 | Analysis: +67 | Depth: 17 | EngineMove : h2h4
+8. c3 | Analysis: +145 | Depth: 19 | EngineMove : g7g5
+8... c6 | Analysis: +63 | Depth: 17 | EngineMove : h2h4
+9. Nbd2 | Analysis: -34 | Depth: 16 | EngineMove : g7g5
+9... b5 | Analysis: +96 | Depth: 17 | EngineMove : h2h4
+10. O-O-O | Analysis: -44 | Depth: 17 | EngineMove : g7g5
+10... b4 | Analysis: +38 | Depth: 18 | EngineMove : c3c4
+11. cxb4 | Analysis: -8 | Depth: 18 | EngineMove : g7g5
+11... a5 | Analysis: 0 | Depth: 18 | EngineMove : b4b5
+12. b3 | Analysis: +167 | Depth: 18 | EngineMove : c8a6
+12... axb4 | Analysis: -134 | Depth: 18 | EngineMove : d2b1
+13. a3 | Analysis: +329 | Depth: 17 | EngineMove : b4a3
+13... Na6 | Analysis: -159 | Depth: 17 | EngineMove : a3a4
+14. axb4 | Analysis: +561 | Depth: 17 | EngineMove : a6b4
+14... Nxb4 | Analysis: -627 | Depth: 18 | EngineMove : d2b1
+15. Nc4 | Analysis: +806 | Depth: 17 | EngineMove : a8a1
+15... Na2+ | Analysis: -291 | Depth: 17 | EngineMove : c1b2
+16. Kb1 | Analysis: +1156 | Depth: 16 | EngineMove : a2c3
+16... Qa5 | Analysis: +9 | Depth: 19 | EngineMove : c4a5
+17. Nxa5 | Analysis: 0 | Depth: 19 | EngineMove : a2c3
+17... Nc3+ | Analysis: 0 | Depth: 21 | EngineMove : b1c2

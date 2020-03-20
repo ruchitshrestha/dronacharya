@@ -1,0 +1,14 @@
+**URL: https://lichess.org/8ZyRASLR | Tag: 8ZyRASLR | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/8ZyRASLR', Date='2019.07.20', Round='-', White='KingKongLL', Black='chittyct', Result='1-0', BlackElo='1411', BlackRatingDiff='-9', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.20', UTCTime='22:40:16', Variant='Standard', WhiteElo='1444', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -22 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +48 | Depth: 12 | EngineMove : g1f3
+2. Bc4 | Analysis: -7 | Depth: 13 | EngineMove : g8f6
+2... Nc6 | Analysis: +7 | Depth: 14 | EngineMove : b1c3
+3. Qf3 | Analysis: +57 | Depth: 11 | EngineMove : e7e6
+3... Ne5 | Analysis: -35 | Depth: 14 | EngineMove : f3e2
+4. Qc3 | Analysis: +26 | Depth: 14 | EngineMove : e5c4
+4... a6 | Analysis: +299 | Depth: 13 | EngineMove : c3e5
+5. Qxe5 | Analysis: -307 | Depth: 12 | EngineMove : e7e6
+5... b5 | Analysis: +498 | Depth: 13 | EngineMove : e5d5
+6. Bd5 | Analysis: -303 | Depth: 12 | EngineMove : a8a7

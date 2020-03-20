@@ -1,0 +1,12 @@
+**URL: https://lichess.org/3gwpIx5i | Tag: 3gwpIx5i | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/3gwpIx5i', Date='2019.06.03', Round='-', White='Mastandi', Black='chittyct', Result='1-0', BlackElo='1294', BlackRatingDiff='-14', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.03', UTCTime='11:52:47', Variant='Standard', WhiteElo='1200', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: -27 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +24 | Depth: 13 | EngineMove : e2e3
+2. Bf4 | Analysis: -11 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +32 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -22 | Depth: 13 | EngineMove : e7e6
+3... Bf5 | Analysis: +15 | Depth: 12 | EngineMove : b1c3
+4. Nf3 | Analysis: -21 | Depth: 13 | EngineMove : e7e6
+4... Qd6 | Analysis: +712 | Depth: 13 | EngineMove : f4d6
+5. Bxd6 | Analysis: -763 | Depth: 12 | EngineMove : e7d6

@@ -1,0 +1,23 @@
+**URL: https://lichess.org/rEb3R5Cu | Tag: rEb3R5Cu | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/rEb3R5Cu', Date='2018.10.23', Round='-', White='chittyct', Black='mikyas', Result='1-0', BlackElo='891', BlackRatingDiff='-7', ECO='A00', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.23', UTCTime='06:59:19', Variant='Standard', WhiteElo='1038', WhiteRatingDiff='+7')
+
+1. d3 | Analysis: +9 | Depth: 18 | EngineMove : d7d5
+1... d6 | Analysis: +13 | Depth: 16 | EngineMove : d3d4
+2. Nf3 | Analysis: -6 | Depth: 18 | EngineMove : e7e5
+2... g6 | Analysis: +32 | Depth: 17 | EngineMove : b1c3
+3. Be3 | Analysis: +17 | Depth: 18 | EngineMove : f8g7
+3... Bg7 | Analysis: -7 | Depth: 19 | EngineMove : b1c3
+4. Qd2 | Analysis: +196 | Depth: 20 | EngineMove : g7b2
+4... Nf6 | Analysis: -25 | Depth: 18 | EngineMove : e3h6
+5. Bh6 | Analysis: +24 | Depth: 19 | EngineMove : e8g8
+5... Nc6 | Analysis: +387 | Depth: 18 | EngineMove : h6g7
+6. Bxg7 | Analysis: -386 | Depth: 19 | EngineMove : h8g8
+6... Rg8 | Analysis: +400 | Depth: 19 | EngineMove : g7f6
+7. Bxf6 | Analysis: -391 | Depth: 19 | EngineMove : e7f6
+7... Bg4 | Analysis: +701 | Depth: 17 | EngineMove : f6h4
+8. Qe3 | Analysis: -422 | Depth: 18 | EngineMove : c6b4
+8... Ne5 | Analysis: +849 | Depth: 18 | EngineMove : f3e5
+9. Nxe5 | Analysis: -855 | Depth: 18 | EngineMove : d6e5
+9... dxe5 | Analysis: +863 | Depth: 17 | EngineMove : f6e5
+10. Qxe5 | Analysis: -805 | Depth: 17 | EngineMove : d8d6
+10... e6 | Analysis: +1887 | Depth: 18 | EngineMove : f6d8

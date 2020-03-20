@@ -1,0 +1,5 @@
+**URL: https://lichess.org/vX0K37hx | Tag: vX0K37hx | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/vX0K37hx', Date='2019.04.12', Round='-', White='chittyct', Black='tehterminator', Result='0-1', BlackElo='1008', BlackRatingDiff='+12', ECO='A45', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.04.12', UTCTime='17:38:10', Variant='Standard', WhiteElo='1046', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -15 | Depth: 17 | EngineMove : g8f6
+1... Nf6 | Analysis: +12 | Depth: 17 | EngineMove : c1f4

@@ -1,0 +1,36 @@
+**URL: https://lichess.org/ggU8iWMC | Tag: ggU8iWMC | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ggU8iWMC', Date='2019.11.28', Round='-', White='chittyct', Black='wan_tesla', Result='1-0', BlackElo='1386', BlackRatingDiff='-9', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.28', UTCTime='20:00:18', Variant='Standard', WhiteElo='1281', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -10 | Depth: 18 | EngineMove : g8f6
+1... g6 | Analysis: +72 | Depth: 16 | EngineMove : e2e4
+2. Bf4 | Analysis: -25 | Depth: 16 | EngineMove : g8f6
+2... Bg7 | Analysis: +29 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -21 | Depth: 19 | EngineMove : g8f6
+3... d6 | Analysis: +21 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -31 | Depth: 18 | EngineMove : g8f6
+4... Nf6 | Analysis: +18 | Depth: 17 | EngineMove : h2h3
+5. c4 | Analysis: +17 | Depth: 19 | EngineMove : f6h5
+5... d5 | Analysis: +59 | Depth: 16 | EngineMove : b1c3
+6. Nc3 | Analysis: -72 | Depth: 17 | EngineMove : c7c6
+6... dxc4 | Analysis: +90 | Depth: 17 | EngineMove : f1c4
+7. Bxc4 | Analysis: -87 | Depth: 19 | EngineMove : e8g8
+7... O-O | Analysis: +88 | Depth: 18 | EngineMove : e1g1
+8. O-O | Analysis: -77 | Depth: 18 | EngineMove : c7c6
+8... c6 | Analysis: +92 | Depth: 17 | EngineMove : a1c1
+9. Rc1 | Analysis: -82 | Depth: 19 | EngineMove : c8g4
+9... b5 | Analysis: +118 | Depth: 15 | EngineMove : c4d3
+10. Bb3 | Analysis: -86 | Depth: 18 | EngineMove : b8d7
+10... Nbd7 | Analysis: +91 | Depth: 16 | EngineMove : d1c2
+11. a4 | Analysis: -63 | Depth: 17 | EngineMove : b5b4
+11... Nb6 | Analysis: +120 | Depth: 16 | EngineMove : f3e5
+12. axb5 | Analysis: -117 | Depth: 18 | EngineMove : c6b5
+12... cxb5 | Analysis: +109 | Depth: 18 | EngineMove : f1e1
+13. Nxb5 | Analysis: -74 | Depth: 18 | EngineMove : c8a6
+13... a6 | Analysis: +215 | Depth: 19 | EngineMove : b5c7
+14. Bc7 | Analysis: -175 | Depth: 18 | EngineMove : d8d7
+14... Bd7 | Analysis: +803 | Depth: 19 | EngineMove : c7d8
+15. Bxd8 | Analysis: -811 | Depth: 19 | EngineMove : a8d8
+15... Rfxd8 | Analysis: +898 | Depth: 19 | EngineMove : b5c7
+16. Nc7 | Analysis: -908 | Depth: 19 | EngineMove : a8b8
+16... Rdc8 | Analysis: +1194 | Depth: 18 | EngineMove : b3f7
+17. Nxa8 | Analysis: -1229 | Depth: 18 | EngineMove : c8a8

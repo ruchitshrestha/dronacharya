@@ -1,0 +1,36 @@
+**URL: https://lichess.org/nSeNoNQB | Tag: nSeNoNQB | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/nSeNoNQB', Date='2018.10.27', Round='-', White='Hazerstraton', Black='chittyct', Result='1-0', BlackElo='1039', BlackRatingDiff='-7', ECO='B20', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.27', UTCTime='16:14:12', Variant='Standard', WhiteElo='1162', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -22 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +24 | Depth: 17 | EngineMove : g1f3
+2. Bc4 | Analysis: +1 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +2 | Depth: 19 | EngineMove : g1f3
+3. Qh5 | Analysis: +77 | Depth: 17 | EngineMove : e7e6
+3... g6 | Analysis: +36 | Depth: 18 | EngineMove : h5c5
+4. Qf3 | Analysis: +44 | Depth: 17 | EngineMove : g8f6
+4... Ne5 | Analysis: +65 | Depth: 18 | EngineMove : f3c3
+5. Qc3 | Analysis: -51 | Depth: 19 | EngineMove : f7f6
+5... Nxc4 | Analysis: +435 | Depth: 18 | EngineMove : c3h8
+6. Qxh8 | Analysis: -445 | Depth: 17 | EngineMove : d7d5
+6... Qa5 | Analysis: +568 | Depth: 17 | EngineMove : h8g8
+7. Qxg8 | Analysis: -585 | Depth: 16 | EngineMove : c4e5
+7... d5 | Analysis: +599 | Depth: 18 | EngineMove : g1f3
+8. b3 | Analysis: -515 | Depth: 16 | EngineMove : c4d6
+8... Ne5 | Analysis: +527 | Depth: 17 | EngineMove : e4d5
+9. exd5 | Analysis: -521 | Depth: 18 | EngineMove : a5b4
+9... Bg4 | Analysis: +630 | Depth: 16 | EngineMove : c1b2
+10. Nf3 | Analysis: -276 | Depth: 19 | EngineMove : e5f3
+10... O-O-O | Analysis: +1137 | Depth: 18 | EngineMove : f3e5
+11. Qxf7 | Analysis: +615 | Depth: 18 | EngineMove : e5f7
+11... Nxf7 | Analysis: -621 | Depth: 20 | EngineMove : c1b2
+12. h3 | Analysis: +861 | Depth: 18 | EngineMove : g4f3
+12... Bxf3 | Analysis: -914 | Depth: 17 | EngineMove : e1g1
+13. gxf3 | Analysis: +948 | Depth: 18 | EngineMove : f8g7
+13... Rxd5 | Analysis: -692 | Depth: 18 | EngineMove : b1c3
+14. O-O | Analysis: +947 | Depth: 18 | EngineMove : a5c7
+14... Rg5+ | Analysis: -1042 | Depth: 17 | EngineMove : g1h1
+15. Kh2 | Analysis: #+5 | Depth: 60 | EngineMove : a5c7
+15... Qc7+ | Analysis: #-4 | Depth: 96 | EngineMove : h2h1
+16. Kh1 | Analysis: #+4 | Depth: 99 | EngineMove : c7f4
+16... Ne5 | Analysis: #-4 | Depth: 69 | EngineMove : f3f4
+17. d3 | Analysis: #+3 | Depth: 127 | EngineMove : e5f3

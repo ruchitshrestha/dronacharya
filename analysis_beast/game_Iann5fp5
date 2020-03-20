@@ -1,0 +1,30 @@
+**URL: https://lichess.org/Iann5fp5 | Tag: Iann5fp5 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Iann5fp5', Date='2019.10.17', Round='-', White='chittyct', Black='ovenbro', Result='1-0', BlackElo='1487', BlackRatingDiff='-7', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.17', UTCTime='05:40:51', Variant='Standard', WhiteElo='1487', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +20 | Depth: 13 | EngineMove : c1f4
+2. Bf4 | Analysis: -10 | Depth: 14 | EngineMove : e7e6
+2... Nf6 | Analysis: +14 | Depth: 14 | EngineMove : e2e3
+3. e3 | Analysis: -15 | Depth: 14 | EngineMove : e7e6
+3... Bf5 | Analysis: +11 | Depth: 12 | EngineMove : f1d3
+4. c4 | Analysis: -4 | Depth: 11 | EngineMove : b8c6
+4... e6 | Analysis: -7 | Depth: 12 | EngineMove : d1b3
+5. Nc3 | Analysis: +19 | Depth: 12 | EngineMove : b8c6
+5... Bb4 | Analysis: -24 | Depth: 12 | EngineMove : g1e2
+6. cxd5 | Analysis: +59 | Depth: 12 | EngineMove : f6d5
+6... exd5 | Analysis: +37 | Depth: 12 | EngineMove : g1e2
+7. Rc1 | Analysis: -3 | Depth: 12 | EngineMove : e8g8
+7... O-O | Analysis: +6 | Depth: 14 | EngineMove : g1e2
+8. Bd3 | Analysis: -12 | Depth: 12 | EngineMove : f5d3
+8... Be6 | Analysis: +67 | Depth: 13 | EngineMove : g1f3
+9. Ne2 | Analysis: -60 | Depth: 13 | EngineMove : b8c6
+9... Nc6 | Analysis: +53 | Depth: 14 | EngineMove : e1g1
+10. O-O | Analysis: -59 | Depth: 13 | EngineMove : b4d6
+10... Re8 | Analysis: +86 | Depth: 13 | EngineMove : f4g5
+11. a3 | Analysis: -63 | Depth: 14 | EngineMove : b4d6
+11... Be7 | Analysis: +111 | Depth: 13 | EngineMove : c3b5
+12. Ng3 | Analysis: -58 | Depth: 12 | EngineMove : d8d7
+12... a6 | Analysis: +68 | Depth: 12 | EngineMove : h2h3
+13. Na4 | Analysis: -59 | Depth: 11 | EngineMove : f6d7
+13... b6 | Analysis: +525 | Depth: 14 | EngineMove : c1c6
+14. Rxc6 | Analysis: -520 | Depth: 14 | EngineMove : a8a7

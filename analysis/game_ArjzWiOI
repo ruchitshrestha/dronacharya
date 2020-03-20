@@ -1,0 +1,30 @@
+**URL: https://lichess.org/ArjzWiOI | Tag: ArjzWiOI | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ArjzWiOI', Date='2019.07.17', Round='-', White='LD-E1', Black='chittyct', Result='1-0', BlackElo='1172', BlackRatingDiff='-10', ECO='B33', Termination='Normal', TimeControl='120+1', UTCDate='2019.07.17', UTCTime='04:06:26', Variant='Standard', WhiteElo='1188', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -22 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +32 | Depth: 18 | EngineMove : g1f3
+2. Nf3 | Analysis: -30 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +23 | Depth: 17 | EngineMove : f1b5
+3. d4 | Analysis: -11 | Depth: 17 | EngineMove : c5d4
+3... cxd4 | Analysis: +24 | Depth: 18 | EngineMove : f3d4
+4. Nxd4 | Analysis: -22 | Depth: 18 | EngineMove : g8f6
+4... Nf6 | Analysis: +24 | Depth: 19 | EngineMove : b1c3
+5. Nc3 | Analysis: -24 | Depth: 20 | EngineMove : e7e6
+5... e5 | Analysis: +26 | Depth: 19 | EngineMove : d4b5
+6. Ndb5 | Analysis: -17 | Depth: 21 | EngineMove : d7d6
+6... d6 | Analysis: +23 | Depth: 21 | EngineMove : c3d5
+7. Nd5 | Analysis: -20 | Depth: 21 | EngineMove : f6d5
+7... Nxd5 | Analysis: +18 | Depth: 21 | EngineMove : e4d5
+8. exd5 | Analysis: -17 | Depth: 20 | EngineMove : c6e7
+8... Ne7 | Analysis: +29 | Depth: 21 | EngineMove : c2c4
+9. Be3 | Analysis: +13 | Depth: 19 | EngineMove : a7a6
+9... Qa5+ | Analysis: +118 | Depth: 18 | EngineMove : b2b4
+10. Nc3 | Analysis: +11 | Depth: 19 | EngineMove : c8d7
+10... Nxd5 | Analysis: +418 | Depth: 17 | EngineMove : f1b5
+11. Qxd5 | Analysis: -386 | Depth: 18 | EngineMove : a5d5
+11... Qxd5 | Analysis: +390 | Depth: 18 | EngineMove : c3d5
+12. Nxd5 | Analysis: -391 | Depth: 18 | EngineMove : e8d8
+12... Kd7 | Analysis: +410 | Depth: 16 | EngineMove : e1c1
+13. O-O-O | Analysis: -410 | Depth: 18 | EngineMove : d7d8
+13... a6 | Analysis: +857 | Depth: 18 | EngineMove : d5b6
+14. Nb6+ | Analysis: -868 | Depth: 18 | EngineMove : d7d8

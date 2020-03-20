@@ -1,0 +1,33 @@
+**URL: https://lichess.org/jDbNV9sO | Tag: jDbNV9sO | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/jDbNV9sO', Date='2019.04.05', Round='-', White='chittyct', Black='kingmaker19', Result='0-1', BlackElo='1122', BlackRatingDiff='+11', ECO='D20', Termination='Normal', TimeControl='120+1', UTCDate='2019.04.05', UTCTime='17:37:32', Variant='Standard', WhiteElo='1082', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -20 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +24 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -25 | Depth: 13 | EngineMove : e7e6
+2... dxc4 | Analysis: +39 | Depth: 11 | EngineMove : e2e3
+3. Nc3 | Analysis: -15 | Depth: 13 | EngineMove : e7e5
+3... e5 | Analysis: +37 | Depth: 13 | EngineMove : e2e3
+4. Qa4+ | Analysis: +72 | Depth: 13 | EngineMove : c8d7
+4... Qd7 | Analysis: -29 | Depth: 13 | EngineMove : a4d7
+5. Qxd7+ | Analysis: +5 | Depth: 13 | EngineMove : c8d7
+5... Bxd7 | Analysis: -14 | Depth: 13 | EngineMove : d4e5
+6. dxe5 | Analysis: +6 | Depth: 14 | EngineMove : d7e6
+6... Bb4 | Analysis: -5 | Depth: 13 | EngineMove : g1f3
+7. Bd2 | Analysis: -2 | Depth: 13 | EngineMove : b8c6
+7... Nc6 | Analysis: 0 | Depth: 13 | EngineMove : f2f4
+8. Nf3 | Analysis: +42 | Depth: 12 | EngineMove : e8c8
+8... Bg4 | Analysis: -23 | Depth: 11 | EngineMove : a2a3
+9. Rc1 | Analysis: +31 | Depth: 12 | EngineMove : g8e7
+9... O-O-O | Analysis: -12 | Depth: 11 | EngineMove : a2a3
+10. a3 | Analysis: +25 | Depth: 12 | EngineMove : b4a5
+10... Ba5 | Analysis: -21 | Depth: 13 | EngineMove : c3e4
+11. b4 | Analysis: +242 | Depth: 14 | EngineMove : c4b3
+11... cxb3 | Analysis: -197 | Depth: 13 | EngineMove : c1b1
+12. Bf4 | Analysis: +724 | Depth: 15 | EngineMove : b3b2
+12... b2 | Analysis: -744 | Depth: 16 | EngineMove : c1b1
+13. Rb1 | Analysis: +771 | Depth: 15 | EngineMove : a5c3
+13... Bxc3+ | Analysis: -781 | Depth: 17 | EngineMove : f4d2
+14. Bd2 | Analysis: +778 | Depth: 16 | EngineMove : d8d2
+14... Bf5 | Analysis: -566 | Depth: 14 | EngineMove : d2c3
+15. e4 | Analysis: +648 | Depth: 14 | EngineMove : f5e4
+15... Bxe4 | Analysis: -658 | Depth: 14 | EngineMove : d2c3

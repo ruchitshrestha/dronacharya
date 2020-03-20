@@ -1,0 +1,33 @@
+**URL: https://lichess.org/pcCl6t17 | Tag: pcCl6t17 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/pcCl6t17', Date='2018.10.10', Round='-', White='chittyct', Black='pattyadds', Result='1-0', BlackElo='1088', BlackRatingDiff='-10', ECO='A40', Termination='Normal', TimeControl='300+0', UTCDate='2018.10.10', UTCTime='06:33:00', Variant='Standard', WhiteElo='1095', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -11 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +21 | Depth: 17 | EngineMove : e2e4
+2. Nf3 | Analysis: -20 | Depth: 17 | EngineMove : d7d5
+2... d5 | Analysis: +15 | Depth: 17 | EngineMove : e2e3
+3. Bf4 | Analysis: -18 | Depth: 18 | EngineMove : g8f6
+3... c6 | Analysis: +46 | Depth: 18 | EngineMove : e2e3
+4. e3 | Analysis: -34 | Depth: 20 | EngineMove : f8d6
+4... Qa5+ | Analysis: +84 | Depth: 19 | EngineMove : b1d2
+5. Nbd2 | Analysis: -81 | Depth: 20 | EngineMove : f8e7
+5... Bb4 | Analysis: +101 | Depth: 19 | EngineMove : f1d3
+6. Bd3 | Analysis: -120 | Depth: 18 | EngineMove : g8f6
+6... Nf6 | Analysis: +112 | Depth: 20 | EngineMove : e1g1
+7. O-O | Analysis: -108 | Depth: 20 | EngineMove : e8g8
+7... Ng4 | Analysis: +182 | Depth: 17 | EngineMove : e3e4
+8. Ne5 | Analysis: -60 | Depth: 20 | EngineMove : g4e5
+8... Nxh2 | Analysis: +487 | Depth: 17 | EngineMove : d1h5
+9. Bxh2 | Analysis: -401 | Depth: 17 | EngineMove : e8g8
+9... Bd6 | Analysis: +495 | Depth: 18 | EngineMove : d1h5
+10. c3 | Analysis: -375 | Depth: 19 | EngineMove : b8d7
+10... g5 | Analysis: +629 | Depth: 19 | EngineMove : d1h5
+11. Qh5 | Analysis: -636 | Depth: 20 | EngineMove : h8f8
+11... Bxe5 | Analysis: +822 | Depth: 21 | EngineMove : h2e5
+12. dxe5 | Analysis: -543 | Depth: 16 | EngineMove : h7h6
+12... Qd8 | Analysis: +520 | Depth: 18 | EngineMove : d2f3
+13. Bxh7 | Analysis: -450 | Depth: 20 | EngineMove : b8d7
+13... Nd7 | Analysis: +458 | Depth: 22 | EngineMove : d2f3
+14. Nf3 | Analysis: -449 | Depth: 20 | EngineMove : d8e7
+14... Nf8 | Analysis: +503 | Depth: 20 | EngineMove : f3g5
+15. Nxg5 | Analysis: -503 | Depth: 21 | EngineMove : d8e7
+15... Nxh7 | Analysis: #+1 | Depth: 127 | EngineMove : h5f7

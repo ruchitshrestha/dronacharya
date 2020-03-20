@@ -1,0 +1,24 @@
+**URL: https://lichess.org/lC7EfijG | Tag: lC7EfijG | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/lC7EfijG', Date='2018.09.20', Round='-', White='chittyct', Black='kanatli', Result='1-0', BlackElo='930', BlackRatingDiff='-11', ECO='D00', Termination='Time forfeit', TimeControl='300+0', UTCDate='2018.09.20', UTCTime='16:14:58', Variant='Standard', WhiteElo='1038', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 18 | EngineMove : c2c4
+2. Bf4 | Analysis: -20 | Depth: 18 | EngineMove : e7e6
+2... Bf5 | Analysis: +9 | Depth: 17 | EngineMove : e2e3
+3. Nf3 | Analysis: -18 | Depth: 18 | EngineMove : e7e6
+3... e6 | Analysis: +11 | Depth: 18 | EngineMove : e2e3
+4. Nbd2 | Analysis: -10 | Depth: 19 | EngineMove : g8f6
+4... Bb4 | Analysis: +29 | Depth: 18 | EngineMove : e2e3
+5. c3 | Analysis: -26 | Depth: 19 | EngineMove : b4d6
+5... e5 | Analysis: +224 | Depth: 15 | EngineMove : f3e5
+6. Bxe5 | Analysis: -186 | Depth: 17 | EngineMove : f7f6
+6... f6 | Analysis: +195 | Depth: 17 | EngineMove : e5g3
+7. Bf4 | Analysis: -141 | Depth: 19 | EngineMove : b4d6
+7... g5 | Analysis: +188 | Depth: 16 | EngineMove : f4g5
+8. Nxg5 | Analysis: -158 | Depth: 17 | EngineMove : f6g5
+8... fxg5 | Analysis: +168 | Depth: 18 | EngineMove : f4e5
+9. Be5 | Analysis: -175 | Depth: 19 | EngineMove : g8f6
+9... Bd6 | Analysis: +383 | Depth: 18 | EngineMove : e5h8
+10. Bxh8 | Analysis: -389 | Depth: 17 | EngineMove : b8c6
+10... Qe7 | Analysis: +370 | Depth: 17 | EngineMove : d1b3
+11. e3 | Analysis: -251 | Depth: 18 | EngineMove : b8d7

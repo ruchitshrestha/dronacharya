@@ -1,0 +1,24 @@
+**URL: https://lichess.org/HvQUpZUp | Tag: HvQUpZUp | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/HvQUpZUp', Date='2019.10.10', Round='-', White='GoSpurs', Black='chittyct', Result='1-0', BlackElo='1444', BlackRatingDiff='-9', ECO='A06', Termination='Normal', TimeControl='300+3', UTCDate='2019.10.10', UTCTime='21:14:32', Variant='Standard', WhiteElo='1303', WhiteRatingDiff='+10')
+
+1. Nf3 | Analysis: -10 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 18 | EngineMove : d2d4
+2. e4 | Analysis: +42 | Depth: 17 | EngineMove : d5e4
+2... dxe4 | Analysis: -43 | Depth: 18 | EngineMove : f3g5
+3. Ng5 | Analysis: +49 | Depth: 18 | EngineMove : e7e5
+3... Nf6 | Analysis: -18 | Depth: 18 | EngineMove : f1c4
+4. d3 | Analysis: +57 | Depth: 16 | EngineMove : b8c6
+4... exd3 | Analysis: -67 | Depth: 19 | EngineMove : f1d3
+5. Bxd3 | Analysis: +61 | Depth: 20 | EngineMove : b8c6
+5... Bg4 | Analysis: -36 | Depth: 19 | EngineMove : g5f7
+6. f3 | Analysis: +61 | Depth: 19 | EngineMove : g4d7
+6... Bh5 | Analysis: -39 | Depth: 17 | EngineMove : b1c3
+7. Nc3 | Analysis: +39 | Depth: 17 | EngineMove : e7e6
+7... e6 | Analysis: -57 | Depth: 16 | EngineMove : c1e3
+8. g4 | Analysis: +116 | Depth: 16 | EngineMove : h5g6
+8... Bg6 | Analysis: -109 | Depth: 18 | EngineMove : d3g6
+9. Bxg6 | Analysis: +107 | Depth: 20 | EngineMove : d8d1
+9... hxg6 | Analysis: +592 | Depth: 17 | EngineMove : d1d8
+10. Qxd8+ | Analysis: -617 | Depth: 19 | EngineMove : e8d8
+10... Kxd8 | Analysis: +631 | Depth: 18 | EngineMove : g5f7
+11. Nxf7+ | Analysis: -633 | Depth: 18 | EngineMove : d8e8

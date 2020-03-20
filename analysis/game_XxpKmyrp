@@ -1,0 +1,12 @@
+**URL: https://lichess.org/XxpKmyrp | Tag: XxpKmyrp | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/XxpKmyrp', Date='2019.05.07', Round='-', White='chittyct', Black='rmarcel', Result='1-0', BlackElo='1412', BlackRatingDiff='-14', ECO='D20', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.07', UTCTime='19:40:19', Variant='Standard', WhiteElo='1295', WhiteRatingDiff='+14')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 19 | EngineMove : g1f3
+2. c4 | Analysis: -15 | Depth: 18 | EngineMove : e7e6
+2... dxc4 | Analysis: +48 | Depth: 16 | EngineMove : g1f3
+3. e4 | Analysis: +5 | Depth: 17 | EngineMove : e7e5
+3... e6 | Analysis: +50 | Depth: 16 | EngineMove : b1c3
+4. Bxc4 | Analysis: -46 | Depth: 17 | EngineMove : f8b4
+4... Nf6 | Analysis: +48 | Depth: 18 | EngineMove : b1c3
+5. e5 | Analysis: -40 | Depth: 17 | EngineMove : f6d5

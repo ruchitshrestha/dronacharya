@@ -1,0 +1,27 @@
+**URL: https://lichess.org/tfyeSkK1 | Tag: tfyeSkK1 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/tfyeSkK1', Date='2018.10.18', Round='-', White='chittyct', Black='assin91', Result='0-1', BlackElo='1073', BlackRatingDiff='+10', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.18', UTCTime='16:30:29', Variant='Standard', WhiteElo='1064', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -26 | Depth: 12 | EngineMove : g8f6
+1... e6 | Analysis: +21 | Depth: 11 | EngineMove : e2e4
+2. Nf3 | Analysis: -15 | Depth: 13 | EngineMove : d7d5
+2... d5 | Analysis: +21 | Depth: 14 | EngineMove : e2e3
+3. Bf4 | Analysis: -9 | Depth: 12 | EngineMove : f8d6
+3... g5 | Analysis: +127 | Depth: 13 | EngineMove : f4g5
+4. Bxg5 | Analysis: -126 | Depth: 13 | EngineMove : f8e7
+4... Nf6 | Analysis: +133 | Depth: 11 | EngineMove : e2e3
+5. e3 | Analysis: -144 | Depth: 12 | EngineMove : h8g8
+5... Be7 | Analysis: +152 | Depth: 11 | EngineMove : f1d3
+6. c4 | Analysis: -158 | Depth: 11 | EngineMove : h7h6
+6... Ne4 | Analysis: +176 | Depth: 13 | EngineMove : g5e7
+7. Bxe7 | Analysis: -169 | Depth: 12 | EngineMove : d8e7
+7... Qxe7 | Analysis: +185 | Depth: 13 | EngineMove : d1b3
+8. c5 | Analysis: -117 | Depth: 11 | EngineMove : b7b6
+8... Nc6 | Analysis: +136 | Depth: 11 | EngineMove : f1b5
+9. Nbd2 | Analysis: -113 | Depth: 13 | EngineMove : c8d7
+9... Ng5 | Analysis: +155 | Depth: 11 | EngineMove : f1d3
+10. Bd3 | Analysis: -138 | Depth: 12 | EngineMove : g5f3
+10... Bd7 | Analysis: +141 | Depth: 13 | EngineMove : e1g1
+11. b4 | Analysis: -68 | Depth: 12 | EngineMove : c6b4
+11... Nxb4 | Analysis: +87 | Depth: 13 | EngineMove : d3e2
+12. a3 | Analysis: +482 | Depth: 13 | EngineMove : b4d3
+12... Nxd3+ | Analysis: -465 | Depth: 15 | EngineMove : e1f1

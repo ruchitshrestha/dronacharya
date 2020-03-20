@@ -1,0 +1,26 @@
+**URL: https://lichess.org/4x2y9IVC | Tag: 4x2y9IVC | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/4x2y9IVC', Date='2018.12.13', Round='-', White='chittyct', Black='Sir-Forksalot', Result='1-0', BlackElo='1378', BlackRatingDiff='-11', ECO='D02', Termination='Normal', TimeControl='300+3', UTCDate='2018.12.13', UTCTime='18:52:13', Variant='Standard', WhiteElo='1338', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -34 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +27 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -14 | Depth: 13 | EngineMove : e7e6
+2... Bg4 | Analysis: +46 | Depth: 12 | EngineMove : f3e5
+3. h3 | Analysis: -17 | Depth: 13 | EngineMove : g4f3
+3... Bxf3 | Analysis: +1 | Depth: 13 | EngineMove : e2f3
+4. gxf3 | Analysis: +13 | Depth: 12 | EngineMove : e7e6
+4... e6 | Analysis: -13 | Depth: 11 | EngineMove : h1g1
+5. Nc3 | Analysis: +27 | Depth: 12 | EngineMove : b8c6
+5... Nf6 | Analysis: -6 | Depth: 12 | EngineMove : e2e4
+6. Bg5 | Analysis: +46 | Depth: 12 | EngineMove : f8b4
+6... Bb4 | Analysis: -33 | Depth: 12 | EngineMove : e2e4
+7. Qd2 | Analysis: +24 | Depth: 12 | EngineMove : e8g8
+7... h6 | Analysis: -24 | Depth: 13 | EngineMove : g5e3
+8. Bh4 | Analysis: +49 | Depth: 11 | EngineMove : c7c5
+8... O-O | Analysis: -1 | Depth: 13 | EngineMove : h1g1
+9. e4 | Analysis: +164 | Depth: 14 | EngineMove : f6e4
+9... c6 | Analysis: +46 | Depth: 14 | EngineMove : h1g1
+10. Rg1 | Analysis: -45 | Depth: 13 | EngineMove : g8h8
+10... g5 | Analysis: +579 | Depth: 13 | EngineMove : h4g5
+11. Bxg5 | Analysis: -531 | Depth: 14 | EngineMove : g8h7
+11... hxg5 | Analysis: #+2 | Depth: 127 | EngineMove : d2g5
+12. Qxg5+ | Analysis: #-1 | Depth: 127 | EngineMove : g8h7

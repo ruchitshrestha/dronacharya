@@ -1,0 +1,21 @@
+**URL: https://lichess.org/YKPuT3iE | Tag: YKPuT3iE | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/YKPuT3iE', Date='2018.12.08', Round='-', White='diosdiox', Black='chittyct', Result='1-0', BlackElo='1206', BlackRatingDiff='-12', ECO='B30', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.08', UTCTime='17:54:00', Variant='Standard', WhiteElo='1142', WhiteRatingDiff='+13')
+
+1. e4 | Analysis: -41 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +52 | Depth: 12 | EngineMove : b1c3
+2. Nf3 | Analysis: -59 | Depth: 12 | EngineMove : e7e6
+2... Nc6 | Analysis: +63 | Depth: 13 | EngineMove : f1b5
+3. Bb5 | Analysis: -32 | Depth: 12 | EngineMove : e7e5
+3... a6 | Analysis: +54 | Depth: 15 | EngineMove : b5c6
+4. Bxc6 | Analysis: -49 | Depth: 14 | EngineMove : d7c6
+4... bxc6 | Analysis: +64 | Depth: 12 | EngineMove : e1g1
+5. Nc3 | Analysis: -62 | Depth: 13 | EngineMove : d7d5
+5... d5 | Analysis: +55 | Depth: 11 | EngineMove : e1g1
+6. exd5 | Analysis: -31 | Depth: 13 | EngineMove : c6d5
+6... cxd5 | Analysis: +20 | Depth: 13 | EngineMove : d2d4
+7. Ne5 | Analysis: +23 | Depth: 12 | EngineMove : e7e6
+7... Nf6 | Analysis: -18 | Depth: 13 | EngineMove : d2d4
+8. Qf3 | Analysis: +51 | Depth: 12 | EngineMove : e7e6
+8... d4 | Analysis: +336 | Depth: 14 | EngineMove : f3a8
+9. Nd5 | Analysis: +379 | Depth: 14 | EngineMove : d8d5
+9... Nxd5 | Analysis: #+1 | Depth: 127 | EngineMove : f3f7

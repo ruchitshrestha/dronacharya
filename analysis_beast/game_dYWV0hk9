@@ -1,0 +1,29 @@
+**URL: https://lichess.org/dYWV0hk9 | Tag: dYWV0hk9 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/dYWV0hk9', Date='2019.10.11', Round='-', White='chittyct', Black='vb22', Result='1-0', BlackElo='1060', BlackRatingDiff='-5', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.10.11', UTCTime='13:45:06', Variant='Standard', WhiteElo='1121', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -31 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +28 | Depth: 13 | EngineMove : g1f3
+2. Bf4 | Analysis: -15 | Depth: 12 | EngineMove : e7e6
+2... Nc6 | Analysis: +22 | Depth: 12 | EngineMove : e2e3
+3. e3 | Analysis: -27 | Depth: 13 | EngineMove : e7e6
+3... Bf5 | Analysis: +27 | Depth: 12 | EngineMove : f1b5
+4. c4 | Analysis: +22 | Depth: 10 | EngineMove : e7e5
+4... dxc4 | Analysis: +26 | Depth: 12 | EngineMove : b1c3
+5. Bxc4 | Analysis: +2 | Depth: 12 | EngineMove : e7e5
+5... e6 | Analysis: +16 | Depth: 12 | EngineMove : b1c3
+6. Ne2 | Analysis: -30 | Depth: 11 | EngineMove : g8f6
+6... Bd6 | Analysis: +31 | Depth: 11 | EngineMove : b1c3
+7. Bg3 | Analysis: -18 | Depth: 12 | EngineMove : g8f6
+7... Nf6 | Analysis: +17 | Depth: 13 | EngineMove : e1g1
+8. Nbc3 | Analysis: -12 | Depth: 13 | EngineMove : e8g8
+8... Ne4 | Analysis: +30 | Depth: 11 | EngineMove : c4b5
+9. Rc1 | Analysis: -16 | Depth: 11 | EngineMove : e8g8
+9... Na5 | Analysis: +42 | Depth: 13 | EngineMove : c4d3
+10. Bd3 | Analysis: -41 | Depth: 14 | EngineMove : e4c3
+10... Nxg3 | Analysis: +53 | Depth: 13 | EngineMove : h2g3
+11. hxg3 | Analysis: -57 | Depth: 12 | EngineMove : f5d3
+11... Bxd3 | Analysis: +61 | Depth: 13 | EngineMove : d1d3
+12. Qxd3 | Analysis: -51 | Depth: 13 | EngineMove : h7h6
+12... Bb4 | Analysis: +286 | Depth: 13 | EngineMove : d3b5
+13. g4 | Analysis: -98 | Depth: 12 | EngineMove : d8d7
+13... O-O | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

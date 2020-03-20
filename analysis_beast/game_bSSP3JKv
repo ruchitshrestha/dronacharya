@@ -1,0 +1,32 @@
+**URL: https://lichess.org/bSSP3JKv | Tag: bSSP3JKv | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/bSSP3JKv', Date='2018.09.27', Round='-', White='chittyct', Black='Marigpillai', Result='0-1', BlackElo='1135', BlackRatingDiff='+10', ECO='A40', Termination='Normal', TimeControl='300+0', UTCDate='2018.09.27', UTCTime='17:16:19', Variant='Standard', WhiteElo='1139', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : g8f6
+1... e6 | Analysis: +22 | Depth: 11 | EngineMove : e2e4
+2. Nf3 | Analysis: -25 | Depth: 13 | EngineMove : d7d5
+2... d6 | Analysis: +75 | Depth: 12 | EngineMove : e2e4
+3. Bf4 | Analysis: -37 | Depth: 12 | EngineMove : g8f6
+3... Nc6 | Analysis: +52 | Depth: 13 | EngineMove : e2e4
+4. e3 | Analysis: -34 | Depth: 12 | EngineMove : g8f6
+4... e5 | Analysis: +127 | Depth: 13 | EngineMove : d4e5
+5. Bg3 | Analysis: -55 | Depth: 11 | EngineMove : e5e4
+5... exd4 | Analysis: +55 | Depth: 12 | EngineMove : e3d4
+6. exd4 | Analysis: -62 | Depth: 12 | EngineMove : g8f6
+6... d5 | Analysis: +77 | Depth: 12 | EngineMove : f1b5
+7. Bd3 | Analysis: -32 | Depth: 11 | EngineMove : f8e7
+7... Bd6 | Analysis: +47 | Depth: 13 | EngineMove : g3d6
+8. Be5 | Analysis: +4 | Depth: 13 | EngineMove : d6e5
+8... Bxe5 | Analysis: +2 | Depth: 14 | EngineMove : d4e5
+9. dxe5 | Analysis: -1 | Depth: 14 | EngineMove : g8e7
+9... Bg4 | Analysis: +22 | Depth: 14 | EngineMove : e1g1
+10. O-O | Analysis: -16 | Depth: 14 | EngineMove : g8e7
+10... Nxe5 | Analysis: +187 | Depth: 14 | EngineMove : d1e1
+11. Qe1 | Analysis: -202 | Depth: 14 | EngineMove : f7f6
+11... Bxf3 | Analysis: +222 | Depth: 13 | EngineMove : e1e5
+12. Qxe5+ | Analysis: -220 | Depth: 15 | EngineMove : g8e7
+12... Ne7 | Analysis: +220 | Depth: 14 | EngineMove : g2f3
+13. Qxg7 | Analysis: +284 | Depth: 13 | EngineMove : h8g8
+13... Rg8 | Analysis: -301 | Depth: 13 | EngineMove : g7g8
+14. Qxh7 | Analysis: #+2 | Depth: 127 | EngineMove : g8g2
+14... Rxg2+ | Analysis: #-1 | Depth: 127 | EngineMove : g1h1
+15. Kh1 | Analysis: #+1 | Depth: 127 | EngineMove : g2g4

@@ -1,0 +1,27 @@
+**URL: https://lichess.org/vkl0Jajy | Tag: vkl0Jajy | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/vkl0Jajy', Date='2019.09.09', Round='-', White='chittyct', Black='yllnwa', Result='1-0', BlackElo='1318', BlackRatingDiff='-5', ECO='D30', Termination='Normal', TimeControl='300+3', UTCDate='2019.09.09', UTCTime='13:26:43', Variant='Standard', WhiteElo='1411', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -20 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +10 | Depth: 14 | EngineMove : g1f3
+2. c4 | Analysis: -17 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +20 | Depth: 14 | EngineMove : e2e3
+3. cxd5 | Analysis: -13 | Depth: 15 | EngineMove : e6d5
+3... exd5 | Analysis: -2 | Depth: 14 | EngineMove : g1f3
+4. Nc3 | Analysis: -1 | Depth: 13 | EngineMove : b8c6
+4... Nf6 | Analysis: 0 | Depth: 15 | EngineMove : g1f3
+5. Bf4 | Analysis: +3 | Depth: 12 | EngineMove : f8d6
+5... c6 | Analysis: +9 | Depth: 14 | EngineMove : e2e3
+6. e3 | Analysis: -24 | Depth: 14 | EngineMove : c8f5
+6... Bd6 | Analysis: +32 | Depth: 15 | EngineMove : f4d6
+7. Bg3 | Analysis: +25 | Depth: 14 | EngineMove : d6g3
+7... Be6 | Analysis: +29 | Depth: 16 | EngineMove : g3d6
+8. Bd3 | Analysis: -17 | Depth: 15 | EngineMove : d6g3
+8... a5 | Analysis: +49 | Depth: 15 | EngineMove : g3d6
+9. Nge2 | Analysis: -29 | Depth: 16 | EngineMove : d6g3
+9... b5 | Analysis: +52 | Depth: 12 | EngineMove : e2f4
+10. a3 | Analysis: -42 | Depth: 13 | EngineMove : e8g8
+10... Qc7 | Analysis: +79 | Depth: 13 | EngineMove : a1c1
+11. Rc1 | Analysis: -69 | Depth: 14 | EngineMove : d6g3
+11... Nbd7 | Analysis: +580 | Depth: 15 | EngineMove : c3b5
+12. Nxb5 | Analysis: -577 | Depth: 15 | EngineMove : d6g3
+12... Qb8 | Analysis: +920 | Depth: 14 | EngineMove : g3d6

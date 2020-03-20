@@ -1,0 +1,34 @@
+**URL: https://lichess.org/nb6BOIxB | Tag: nb6BOIxB | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/nb6BOIxB', Date='2018.08.23', Round='-', White='chittyct', Black='BeniBaniBun', Result='1-0', BlackElo='816', BlackRatingDiff='-10', ECO='D00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.08.23', UTCTime='17:22:06', Variant='Standard', WhiteElo='901', WhiteRatingDiff='+32')
+
+1. d4 | Analysis: -7 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +18 | Depth: 18 | EngineMove : g1f3
+2. Bf4 | Analysis: -10 | Depth: 18 | EngineMove : g8f6
+2... c6 | Analysis: +43 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -29 | Depth: 18 | EngineMove : g8f6
+3... f6 | Analysis: +97 | Depth: 16 | EngineMove : c2c4
+4. Nd2 | Analysis: -72 | Depth: 16 | EngineMove : b8d7
+4... g5 | Analysis: +172 | Depth: 16 | EngineMove : d1h5
+5. Bg3 | Analysis: -70 | Depth: 17 | EngineMove : h7h5
+5... Bg7 | Analysis: +86 | Depth: 16 | EngineMove : f1e2
+6. Ngf3 | Analysis: -33 | Depth: 15 | EngineMove : h7h5
+6... h6 | Analysis: +100 | Depth: 16 | EngineMove : h2h3
+7. Bd3 | Analysis: -87 | Depth: 18 | EngineMove : h6h5
+7... h5 | Analysis: +77 | Depth: 18 | EngineMove : h2h3
+8. Bg6+ | Analysis: -47 | Depth: 18 | EngineMove : e8f8
+8... Kf8 | Analysis: +56 | Depth: 18 | EngineMove : h2h3
+9. O-O | Analysis: +20 | Depth: 18 | EngineMove : h5h4
+9... h4 | Analysis: -17 | Depth: 18 | EngineMove : g3b8
+10. Bxb8 | Analysis: +15 | Depth: 19 | EngineMove : h8h6
+10... Rxb8 | Analysis: -7 | Depth: 18 | EngineMove : c2c4
+11. c4 | Analysis: +7 | Depth: 17 | EngineMove : h8h6
+11... Bg4 | Analysis: +181 | Depth: 19 | EngineMove : f3g5
+12. cxd5 | Analysis: -48 | Depth: 17 | EngineMove : h4h3
+12... Bxf3 | Analysis: +117 | Depth: 18 | EngineMove : d1f3
+13. Nxf3 | Analysis: -82 | Depth: 17 | EngineMove : c6d5
+13... g4 | Analysis: +223 | Depth: 16 | EngineMove : f3e1
+14. Nxh4 | Analysis: +68 | Depth: 20 | EngineMove : h8h4
+14... Rxh4 | Analysis: -66 | Depth: 20 | EngineMove : d5c6
+15. f3 | Analysis: +140 | Depth: 18 | EngineMove : d8d5
+15... g3 | Analysis: -112 | Depth: 17 | EngineMove : h2g3
+16. hxg3 | Analysis: +101 | Depth: 18 | EngineMove : h4h6

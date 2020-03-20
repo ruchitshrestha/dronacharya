@@ -1,0 +1,29 @@
+**URL: https://lichess.org/Iz59OFzd | Tag: Iz59OFzd | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Iz59OFzd', Date='2019.07.11', Round='-', White='ralph0001', Black='chittyct', Result='1-0', BlackElo='1194', BlackRatingDiff='-9', ECO='B21', Termination='Normal', TimeControl='60+0', UTCDate='2019.07.11', UTCTime='15:27:01', Variant='Standard', WhiteElo='1226', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -34 | Depth: 18 | EngineMove : e7e5
+1... c5 | Analysis: +32 | Depth: 18 | EngineMove : b1c3
+2. f4 | Analysis: +5 | Depth: 16 | EngineMove : d7d5
+2... Nc6 | Analysis: -2 | Depth: 17 | EngineMove : g1f3
+3. Nf3 | Analysis: -3 | Depth: 18 | EngineMove : e7e6
+3... a6 | Analysis: +33 | Depth: 18 | EngineMove : f1e2
+4. Bc4 | Analysis: +11 | Depth: 19 | EngineMove : e7e6
+4... b5 | Analysis: +8 | Depth: 17 | EngineMove : c4d5
+5. Ng5 | Analysis: +311 | Depth: 17 | EngineMove : b5c4
+5... bxc4 | Analysis: -325 | Depth: 17 | EngineMove : e1g1
+6. d3 | Analysis: +339 | Depth: 18 | EngineMove : c4d3
+6... cxd3 | Analysis: -350 | Depth: 18 | EngineMove : c2d3
+7. Qxd3 | Analysis: +352 | Depth: 18 | EngineMove : d7d5
+7... f6 | Analysis: -319 | Depth: 16 | EngineMove : g5f3
+8. Nf3 | Analysis: +306 | Depth: 17 | EngineMove : f6f5
+8... Nh6 | Analysis: -323 | Depth: 17 | EngineMove : b1c3
+9. O-O | Analysis: +334 | Depth: 19 | EngineMove : e7e6
+9... e5 | Analysis: -145 | Depth: 16 | EngineMove : f4e5
+10. fxe5 | Analysis: +140 | Depth: 15 | EngineMove : a6a5
+10... Nxe5 | Analysis: +149 | Depth: 18 | EngineMove : f3e5
+11. Nxe5 | Analysis: -158 | Depth: 18 | EngineMove : d8c7
+11... fxe5 | Analysis: +203 | Depth: 20 | EngineMove : d3d5
+12. Bxh6 | Analysis: -137 | Depth: 18 | EngineMove : d7d6
+12... gxh6 | Analysis: +412 | Depth: 20 | EngineMove : d3d5
+13. Qf3 | Analysis: +161 | Depth: 18 | EngineMove : d8e7
+13... Bb7 | Analysis: #+1 | Depth: 127 | EngineMove : f3f7

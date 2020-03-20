@@ -1,0 +1,27 @@
+**URL: https://lichess.org/4tnEFbYN | Tag: 4tnEFbYN | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/4tnEFbYN', Date='2019.11.24', Round='-', White='chittyct', Black='Zennow', Result='1-0', BlackElo='1230', BlackRatingDiff='-7', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.24', UTCTime='20:34:07', Variant='Standard', WhiteElo='1239', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -18 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 19 | EngineMove : e2e3
+2. Bf4 | Analysis: -8 | Depth: 19 | EngineMove : e7e6
+2... Nc6 | Analysis: +20 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -12 | Depth: 18 | EngineMove : c8f5
+3... Bf5 | Analysis: +14 | Depth: 18 | EngineMove : b1c3
+4. Nf3 | Analysis: -9 | Depth: 19 | EngineMove : e7e6
+4... e6 | Analysis: +11 | Depth: 20 | EngineMove : f1d3
+5. Bd3 | Analysis: -12 | Depth: 21 | EngineMove : f5d3
+5... Bxd3 | Analysis: +8 | Depth: 22 | EngineMove : d1d3
+6. Qxd3 | Analysis: -5 | Depth: 20 | EngineMove : f8d6
+6... Nf6 | Analysis: +18 | Depth: 18 | EngineMove : e1g1
+7. Nbd2 | Analysis: -17 | Depth: 18 | EngineMove : f8d6
+7... Bd6 | Analysis: +23 | Depth: 19 | EngineMove : f4g5
+8. Bg3 | Analysis: 0 | Depth: 17 | EngineMove : e8g8
+8... Bxg3 | Analysis: +3 | Depth: 17 | EngineMove : h2g3
+9. hxg3 | Analysis: -11 | Depth: 17 | EngineMove : d8e7
+9... O-O | Analysis: +48 | Depth: 18 | EngineMove : g3g4
+10. O-O-O | Analysis: -5 | Depth: 17 | EngineMove : h7h6
+10... a5 | Analysis: +17 | Depth: 18 | EngineMove : c1b1
+11. Ne5 | Analysis: +28 | Depth: 18 | EngineMove : c6b4
+11... Nxe5 | Analysis: +299 | Depth: 19 | EngineMove : d4e5
+12. dxe5 | Analysis: -303 | Depth: 20 | EngineMove : h7h6
+12... Ng4 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

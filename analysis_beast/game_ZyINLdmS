@@ -1,0 +1,23 @@
+**URL: https://lichess.org/ZyINLdmS | Tag: ZyINLdmS | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ZyINLdmS', Date='2019.11.07', Round='-', White='EgeAnt', Black='chittyct', Result='1-0', BlackElo='1307', BlackRatingDiff='-7', ECO='B32', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.07', UTCTime='00:16:15', Variant='Standard', WhiteElo='1309', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -51 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +36 | Depth: 11 | EngineMove : g1f3
+2. d4 | Analysis: -24 | Depth: 14 | EngineMove : c5d4
+2... Nc6 | Analysis: +135 | Depth: 12 | EngineMove : d4d5
+3. Nf3 | Analysis: -10 | Depth: 12 | EngineMove : c5d4
+3... cxd4 | Analysis: +13 | Depth: 12 | EngineMove : c2c3
+4. Nxd4 | Analysis: +5 | Depth: 12 | EngineMove : g8f6
+4... e5 | Analysis: +24 | Depth: 12 | EngineMove : d4b5
+5. Nxc6 | Analysis: -6 | Depth: 12 | EngineMove : b7c6
+5... bxc6 | Analysis: -7 | Depth: 13 | EngineMove : f1c4
+6. Nc3 | Analysis: +18 | Depth: 14 | EngineMove : g8f6
+6... Nf6 | Analysis: 0 | Depth: 13 | EngineMove : f1c4
+7. Bg5 | Analysis: +26 | Depth: 14 | EngineMove : a8b8
+7... Bb4 | Analysis: -6 | Depth: 13 | EngineMove : f1c4
+8. Qd2 | Analysis: +136 | Depth: 13 | EngineMove : f6e4
+8... d5 | Analysis: +27 | Depth: 13 | EngineMove : e4d5
+9. O-O-O | Analysis: +131 | Depth: 11 | EngineMove : f6e4
+9... d4 | Analysis: -124 | Depth: 12 | EngineMove : d2d3
+10. Bxf6 | Analysis: +410 | Depth: 14 | EngineMove : d8f6
+10... dxc3 | Analysis: #+1 | Depth: 127 | EngineMove : d2d8

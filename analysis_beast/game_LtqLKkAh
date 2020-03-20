@@ -1,0 +1,18 @@
+**URL: https://lichess.org/LtqLKkAh | Tag: LtqLKkAh | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/LtqLKkAh', Date='2019.10.23', Round='-', White='Pesadilla1000', Black='chittyct', Result='0-1', BlackElo='1462', BlackRatingDiff='+4', ECO='A60', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.23', UTCTime='15:53:40', Variant='Standard', WhiteElo='1327', WhiteRatingDiff='-5')
+
+1. d4 | Analysis: -15 | Depth: 13 | EngineMove : g8f6
+1... c5 | Analysis: +54 | Depth: 11 | EngineMove : d4d5
+2. d5 | Analysis: -46 | Depth: 13 | EngineMove : g8f6
+2... Nf6 | Analysis: +53 | Depth: 13 | EngineMove : b1c3
+3. c4 | Analysis: -57 | Depth: 12 | EngineMove : d7d6
+3... e6 | Analysis: +60 | Depth: 14 | EngineMove : b1c3
+4. Bg5 | Analysis: -1 | Depth: 12 | EngineMove : e6d5
+4... exd5 | Analysis: +17 | Depth: 14 | EngineMove : c4d5
+5. Qxd5 | Analysis: +302 | Depth: 14 | EngineMove : f6d5
+5... d6 | Analysis: -16 | Depth: 12 | EngineMove : g5f6
+6. Nc3 | Analysis: +347 | Depth: 12 | EngineMove : f6d5
+6... Be7 | Analysis: -27 | Depth: 11 | EngineMove : d5d2
+7. Nf3 | Analysis: +849 | Depth: 14 | EngineMove : f6d5
+7... Nxd5 | Analysis: -846 | Depth: 15 | EngineMove : c3d5
+8. Bxe7 | Analysis: +991 | Depth: 13 | EngineMove : d5e7

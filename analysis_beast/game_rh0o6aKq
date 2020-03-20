@@ -1,0 +1,5 @@
+**URL: https://lichess.org/rh0o6aKq | Tag: rh0o6aKq | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/rh0o6aKq', Date='2019.11.29', Round='-', White='chittyct', Black='Atin_Fischer', Result='0-1', BlackElo='1345', BlackRatingDiff='+5', ECO='D00', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.11.29', UTCTime='22:23:46', Variant='Standard', WhiteElo='1252', WhiteRatingDiff='-5')
+
+1. d4 | Analysis: -16 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 14 | EngineMove : g1f3

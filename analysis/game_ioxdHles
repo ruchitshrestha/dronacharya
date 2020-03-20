@@ -1,0 +1,25 @@
+**URL: https://lichess.org/ioxdHles | Tag: ioxdHles | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ioxdHles', Date='2018.09.25', Round='-', White='chessnube', Black='chittyct', Result='0-1', BlackElo='1113', BlackRatingDiff='+9', ECO='D06', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.25', UTCTime='16:33:10', Variant='Standard', WhiteElo='1065', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -21 | Depth: 18 | EngineMove : g8f6
+1... Nf6 | Analysis: +14 | Depth: 19 | EngineMove : e2e3
+2. c4 | Analysis: -15 | Depth: 19 | EngineMove : e7e6
+2... d5 | Analysis: +27 | Depth: 17 | EngineMove : c4d5
+3. e3 | Analysis: -10 | Depth: 18 | EngineMove : e7e6
+3... dxc4 | Analysis: +34 | Depth: 19 | EngineMove : f1c4
+4. Bxc4 | Analysis: -34 | Depth: 20 | EngineMove : c7c5
+4... Nc6 | Analysis: +48 | Depth: 17 | EngineMove : g1f3
+5. Nf3 | Analysis: -47 | Depth: 18 | EngineMove : a7a6
+5... Bf5 | Analysis: +117 | Depth: 17 | EngineMove : d4d5
+6. Nbd2 | Analysis: -36 | Depth: 18 | EngineMove : e7e6
+6... e6 | Analysis: +34 | Depth: 19 | EngineMove : e1g1
+7. O-O | Analysis: -32 | Depth: 19 | EngineMove : f8e7
+7... Bd6 | Analysis: +50 | Depth: 19 | EngineMove : f1e1
+8. Re1 | Analysis: -41 | Depth: 19 | EngineMove : f6e4
+8... O-O | Analysis: +162 | Depth: 20 | EngineMove : e3e4
+9. e4 | Analysis: -155 | Depth: 19 | EngineMove : f5g4
+9... Nxe4 | Analysis: +270 | Depth: 16 | EngineMove : d2e4
+10. Nxe4 | Analysis: -271 | Depth: 17 | EngineMove : a7a6
+10... Bxe4 | Analysis: +291 | Depth: 16 | EngineMove : e1e4
+11. Rxe4 | Analysis: -302 | Depth: 17 | EngineMove : a7a6
+11... Qe7 | Analysis: +405 | Depth: 17 | EngineMove : d4d5

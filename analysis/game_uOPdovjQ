@@ -1,0 +1,19 @@
+**URL: https://lichess.org/uOPdovjQ | Tag: uOPdovjQ | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/uOPdovjQ', Date='2018.12.17', Round='-', White='chittyct', Black='Nikolai-Zhavko-1995', Result='0-1', BlackElo='1601', BlackRatingDiff='+2', ECO='B06', Termination='Normal', TimeControl='30+0', UTCDate='2018.12.17', UTCTime='09:01:50', Variant='Standard', WhiteElo='988', WhiteRatingDiff='-2')
+
+1. d4 | Analysis: -13 | Depth: 17 | EngineMove : g8f6
+1... g6 | Analysis: +77 | Depth: 17 | EngineMove : e2e4
+2. e4 | Analysis: -68 | Depth: 17 | EngineMove : f8g7
+2... Bg7 | Analysis: +53 | Depth: 18 | EngineMove : g1f3
+3. Nf3 | Analysis: -57 | Depth: 18 | EngineMove : d7d6
+3... e6 | Analysis: +70 | Depth: 16 | EngineMove : h2h4
+4. Nc3 | Analysis: -70 | Depth: 16 | EngineMove : g8e7
+4... Ne7 | Analysis: +65 | Depth: 18 | EngineMove : h2h4
+5. d5 | Analysis: -18 | Depth: 17 | EngineMove : e8g8
+5... O-O | Analysis: +11 | Depth: 18 | EngineMove : f1e2
+6. dxe6 | Analysis: -20 | Depth: 19 | EngineMove : d7e6
+6... dxe6 | Analysis: +20 | Depth: 19 | EngineMove : c1g5
+7. Qd3 | Analysis: -5 | Depth: 18 | EngineMove : b8c6
+7... Nbc6 | Analysis: -8 | Depth: 17 | EngineMove : a2a3
+8. Qd7 | Analysis: +1066 | Depth: 17 | EngineMove : c8d7
+8... Qxd7 | Analysis: -1040 | Depth: 18 | EngineMove : f1d3

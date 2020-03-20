@@ -1,0 +1,22 @@
+**URL: https://lichess.org/H7VzXAYw | Tag: H7VzXAYw | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/H7VzXAYw', Date='2018.10.02', Round='-', White='thetallkeith', Black='chittyct', Result='0-1', BlackElo='1016', BlackRatingDiff='+10', ECO='B06', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.02', UTCTime='19:26:58', Variant='Standard', WhiteElo='1011', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -38 | Depth: 10 | EngineMove : d7d5
+1... g6 | Analysis: +89 | Depth: 12 | EngineMove : b1c3
+2. Ke2 | Analysis: +111 | Depth: 12 | EngineMove : d7d5
+2... Bg7 | Analysis: -88 | Depth: 11 | EngineMove : d2d4
+3. Kd3 | Analysis: +274 | Depth: 11 | EngineMove : d7d5
+3... d5 | Analysis: -225 | Depth: 12 | EngineMove : d3e2
+4. Ke3 | Analysis: +280 | Depth: 11 | EngineMove : d5e4
+4... dxe4 | Analysis: -271 | Depth: 13 | EngineMove : e3e2
+5. d4 | Analysis: +468 | Depth: 12 | EngineMove : e7e5
+5... exd3 | Analysis: -282 | Depth: 12 | EngineMove : d1d3
+6. Ke4 | Analysis: +2217 | Depth: 13 | EngineMove : d8d4
+6... Qd4+ | Analysis: -2270 | Depth: 13 | EngineMove : e4f3
+7. Kf3 | Analysis: +2321 | Depth: 12 | EngineMove : d4g4
+7... Nh6 | Analysis: -1101 | Depth: 12 | EngineMove : d1d3
+8. Bxd3 | Analysis: #+4 | Depth: 36 | EngineMove : d4g4
+8... Bg4+ | Analysis: -1542 | Depth: 14 | EngineMove : f3g3
+9. Kg3 | Analysis: +1582 | Depth: 15 | EngineMove : g4d1
+9... Bxd1 | Analysis: -1597 | Depth: 14 | EngineMove : f2f4
+10. Be3 | Analysis: #+1 | Depth: 127 | EngineMove : d4g4

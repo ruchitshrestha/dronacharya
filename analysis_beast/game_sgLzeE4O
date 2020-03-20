@@ -1,0 +1,37 @@
+**URL: https://lichess.org/sgLzeE4O | Tag: sgLzeE4O | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/sgLzeE4O', Date='2018.12.01', Round='-', White='chittyct', Black='mkreilei', Result='1-0', BlackElo='1173', BlackRatingDiff='-14', ECO='D02', Termination='Normal', TimeControl='60+0', UTCDate='2018.12.01', UTCTime='16:44:59', Variant='Standard', WhiteElo='1057', WhiteRatingDiff='+14')
+
+1. d4 | Analysis: -21 | Depth: 14 | EngineMove : d7d5
+1... d5 | Analysis: +12 | Depth: 15 | EngineMove : e2e3
+2. Nf3 | Analysis: -12 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +14 | Depth: 14 | EngineMove : c1f4
+3. Bf4 | Analysis: -6 | Depth: 13 | EngineMove : g8f6
+3... Nf6 | Analysis: +18 | Depth: 13 | EngineMove : e2e3
+4. e3 | Analysis: -24 | Depth: 13 | EngineMove : c7c5
+4... Ne4 | Analysis: +53 | Depth: 12 | EngineMove : f3d2
+5. c4 | Analysis: +2 | Depth: 10 | EngineMove : b8c6
+5... dxc4 | Analysis: +56 | Depth: 12 | EngineMove : f1c4
+6. Bxc4 | Analysis: -73 | Depth: 13 | EngineMove : f8b4
+6... Bb4+ | Analysis: +58 | Depth: 14 | EngineMove : f3d2
+7. Nc3 | Analysis: +105 | Depth: 14 | EngineMove : e4c3
+7... Bxc3+ | Analysis: +95 | Depth: 13 | EngineMove : b2c3
+8. bxc3 | Analysis: -83 | Depth: 14 | EngineMove : e4c3
+8... Nxc3 | Analysis: +69 | Depth: 12 | EngineMove : d1c2
+9. Qb3 | Analysis: -39 | Depth: 13 | EngineMove : c3d5
+9... Ne4 | Analysis: +74 | Depth: 12 | EngineMove : a1c1
+10. O-O | Analysis: -68 | Depth: 13 | EngineMove : e8g8
+10... O-O | Analysis: +81 | Depth: 13 | EngineMove : b3c2
+11. Rac1 | Analysis: -66 | Depth: 13 | EngineMove : b8c6
+11... c6 | Analysis: +110 | Depth: 13 | EngineMove : c4d3
+12. Bd3 | Analysis: -105 | Depth: 14 | EngineMove : e4f6
+12... Nd6 | Analysis: +120 | Depth: 11 | EngineMove : e3e4
+13. e4 | Analysis: -123 | Depth: 11 | EngineMove : d6b5
+13... b5 | Analysis: +123 | Depth: 11 | EngineMove : b3a3
+14. e5 | Analysis: -75 | Depth: 12 | EngineMove : d6f5
+14... Ne8 | Analysis: +511 | Depth: 14 | EngineMove : d3h7
+15. Bb1 | Analysis: -193 | Depth: 12 | EngineMove : f7f6
+15... c5 | Analysis: +538 | Depth: 13 | EngineMove : b1h7
+16. dxc5 | Analysis: -359 | Depth: 12 | EngineMove : f7f5
+16... Nd6 | Analysis: +822 | Depth: 12 | EngineMove : c5d6
+17. Qd3 | Analysis: -444 | Depth: 14 | EngineMove : d6f5
+17... Nc4 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

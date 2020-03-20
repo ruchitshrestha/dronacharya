@@ -1,0 +1,26 @@
+**URL: https://lichess.org/zxyxQ3kp | Tag: zxyxQ3kp | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/zxyxQ3kp', Date='2020.02.05', Round='-', White='chittyct', Black='cegolah', Result='1-0', BlackElo='1399', BlackRatingDiff='-7', ECO='A80', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.05', UTCTime='01:41:09', Variant='Standard', WhiteElo='1322', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -15 | Depth: 17 | EngineMove : g8f6
+1... f5 | Analysis: +59 | Depth: 18 | EngineMove : g1f3
+2. Bf4 | Analysis: -39 | Depth: 19 | EngineMove : e7e6
+2... Nf6 | Analysis: +36 | Depth: 19 | EngineMove : e2e3
+3. e3 | Analysis: -43 | Depth: 18 | EngineMove : e7e6
+3... g6 | Analysis: +76 | Depth: 16 | EngineMove : h2h4
+4. Nf3 | Analysis: -46 | Depth: 17 | EngineMove : f8g7
+4... Bg7 | Analysis: +48 | Depth: 18 | EngineMove : f1d3
+5. c4 | Analysis: -47 | Depth: 17 | EngineMove : d7d6
+5... d6 | Analysis: +39 | Depth: 17 | EngineMove : b1c3
+6. c5 | Analysis: +5 | Depth: 15 | EngineMove : f6h5
+6... dxc5 | Analysis: +13 | Depth: 16 | EngineMove : b1c3
+7. Nc3 | Analysis: -3 | Depth: 16 | EngineMove : c7c6
+7... cxd4 | Analysis: +12 | Depth: 16 | EngineMove : d1b3
+8. exd4 | Analysis: -1 | Depth: 16 | EngineMove : f6d5
+8... c6 | Analysis: 0 | Depth: 18 | EngineMove : d1b3
+9. Rc1 | Analysis: +17 | Depth: 17 | EngineMove : c8e6
+9... O-O | Analysis: +14 | Depth: 19 | EngineMove : f1c4
+10. Ng5 | Analysis: +56 | Depth: 17 | EngineMove : f6d5
+10... Nd5 | Analysis: -60 | Depth: 20 | EngineMove : f1c4
+11. Nxd5 | Analysis: +54 | Depth: 19 | EngineMove : c6d5
+11... Qxd5 | Analysis: +591 | Depth: 18 | EngineMove : f1c4
+12. Bc4 | Analysis: -581 | Depth: 20 | EngineMove : c8e6

@@ -1,0 +1,27 @@
+**URL: https://lichess.org/N1lyOUwy | Tag: N1lyOUwy | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/N1lyOUwy', Date='2019.06.18', Round='-', White='chittyct', Black='sodiq90', Result='1-0', BlackElo='1372', BlackRatingDiff='-11', ECO='A41', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.18', UTCTime='01:26:54', Variant='Standard', WhiteElo='1374', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -27 | Depth: 13 | EngineMove : g8f6
+1... d6 | Analysis: +74 | Depth: 12 | EngineMove : e2e4
+2. c4 | Analysis: -31 | Depth: 13 | EngineMove : e7e5
+2... c6 | Analysis: +55 | Depth: 12 | EngineMove : e2e3
+3. Nc3 | Analysis: -70 | Depth: 13 | EngineMove : g8f6
+3... e6 | Analysis: +75 | Depth: 13 | EngineMove : g1f3
+4. Nf3 | Analysis: -75 | Depth: 14 | EngineMove : g8f6
+4... Qf6 | Analysis: +160 | Depth: 12 | EngineMove : e2e4
+5. Bg5 | Analysis: -144 | Depth: 13 | EngineMove : f6g6
+5... Qg6 | Analysis: +150 | Depth: 13 | EngineMove : e2e3
+6. e3 | Analysis: -124 | Depth: 14 | EngineMove : h7h6
+6... Ne7 | Analysis: +209 | Depth: 12 | EngineMove : f1d3
+7. Bd3 | Analysis: -208 | Depth: 13 | EngineMove : f7f5
+7... Nf5 | Analysis: +398 | Depth: 14 | EngineMove : g2g4
+8. Bxf5 | Analysis: -108 | Depth: 13 | EngineMove : g6f5
+8... Qxf5 | Analysis: +99 | Depth: 12 | EngineMove : e3e4
+9. O-O | Analysis: -109 | Depth: 13 | EngineMove : b8d7
+9... Qg6 | Analysis: +97 | Depth: 10 | EngineMove : g5h4
+10. Rc1 | Analysis: -74 | Depth: 14 | EngineMove : f7f6
+10... Na6 | Analysis: +94 | Depth: 12 | EngineMove : g5h4
+11. a3 | Analysis: -51 | Depth: 13 | EngineMove : f7f6
+11... e5 | Analysis: +48 | Depth: 12 | EngineMove : d4e5
+12. dxe5 | Analysis: -96 | Depth: 13 | EngineMove : c8g4
+12... dxe5 | Analysis: #+1 | Depth: 127 | EngineMove : d1d8

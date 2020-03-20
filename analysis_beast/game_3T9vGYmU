@@ -1,0 +1,9 @@
+**URL: https://lichess.org/3T9vGYmU | Tag: 3T9vGYmU | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/3T9vGYmU', Date='2018.09.20', Round='-', White='AlanVolt', Black='chittyct', Result='0-1', BlackElo='1020', BlackRatingDiff='+10', ECO='C44', Termination='Time forfeit', TimeControl='300+0', UTCDate='2018.09.20', UTCTime='16:40:37', Variant='Standard', WhiteElo='1009', WhiteRatingDiff='-40')
+
+1. e4 | Analysis: -17 | Depth: 12 | EngineMove : e7e6
+1... e5 | Analysis: +50 | Depth: 11 | EngineMove : g1f3
+2. Nf3 | Analysis: -22 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +20 | Depth: 12 | EngineMove : d2d4
+3. Nxe5 | Analysis: +158 | Depth: 12 | EngineMove : c6e5
+3... Nxe5 | Analysis: -146 | Depth: 12 | EngineMove : d2d4

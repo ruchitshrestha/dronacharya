@@ -1,0 +1,30 @@
+**URL: https://lichess.org/rPS7Q7uC | Tag: rPS7Q7uC | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/rPS7Q7uC', Date='2020.02.02', Round='-', White='chittyct', Black='Arlfay', Result='0-1', BlackElo='1494', BlackRatingDiff='+4', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.02', UTCTime='04:47:21', Variant='Standard', WhiteElo='1361', WhiteRatingDiff='-3')
+
+1. d4 | Analysis: -17 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +33 | Depth: 17 | EngineMove : e2e4
+2. Bf4 | Analysis: -18 | Depth: 17 | EngineMove : g8f6
+2... h6 | Analysis: +31 | Depth: 16 | EngineMove : e2e4
+3. e3 | Analysis: -27 | Depth: 17 | EngineMove : g8f6
+3... a6 | Analysis: +48 | Depth: 17 | EngineMove : f1d3
+4. Nf3 | Analysis: -47 | Depth: 17 | EngineMove : g8f6
+4... Bb4+ | Analysis: +67 | Depth: 18 | EngineMove : c2c3
+5. c3 | Analysis: -46 | Depth: 19 | EngineMove : b4e7
+5... Bd6 | Analysis: +90 | Depth: 19 | EngineMove : f4d6
+6. Be2 | Analysis: -32 | Depth: 22 | EngineMove : d6f4
+6... Bxf4 | Analysis: +29 | Depth: 22 | EngineMove : e3f4
+7. exf4 | Analysis: -24 | Depth: 21 | EngineMove : d7d6
+7... d6 | Analysis: +22 | Depth: 19 | EngineMove : b1d2
+8. O-O | Analysis: -28 | Depth: 20 | EngineMove : b8c6
+8... Nf6 | Analysis: +22 | Depth: 21 | EngineMove : b1d2
+9. Nbd2 | Analysis: -18 | Depth: 20 | EngineMove : b8c6
+9... Ng4 | Analysis: +53 | Depth: 18 | EngineMove : f3e1
+10. h3 | Analysis: -33 | Depth: 19 | EngineMove : g4f6
+10... h5 | Analysis: +148 | Depth: 17 | EngineMove : h3g4
+11. hxg4 | Analysis: -273 | Depth: 18 | EngineMove : h5g4
+11... hxg4 | Analysis: +275 | Depth: 20 | EngineMove : f3g5
+12. Nh2 | Analysis: +634 | Depth: 21 | EngineMove : d8h4
+12... Qh4 | Analysis: -653 | Depth: 20 | EngineMove : e2b5
+13. Ndf3 | Analysis: #+5 | Depth: 62 | EngineMove : g4f3
+13... gxf3 | Analysis: #-4 | Depth: 101 | EngineMove : d1a4
+14. Bxf3 | Analysis: #+1 | Depth: 127 | EngineMove : h4h2

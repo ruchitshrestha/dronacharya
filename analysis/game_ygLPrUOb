@@ -1,0 +1,32 @@
+**URL: https://lichess.org/ygLPrUOb | Tag: ygLPrUOb | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ygLPrUOb', Date='2018.09.24', Round='-', White='aminehra', Black='chittyct', Result='1-0', BlackElo='1153', BlackRatingDiff='-11', ECO='C51', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='17:18:06', Variant='Standard', WhiteElo='1151', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -25 | Depth: 17 | EngineMove : e7e6
+1... e5 | Analysis: +24 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -18 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +22 | Depth: 17 | EngineMove : f1b5
+3. Bc4 | Analysis: -18 | Depth: 18 | EngineMove : g8f6
+3... Bc5 | Analysis: +24 | Depth: 17 | EngineMove : d2d3
+4. Bxf7+ | Analysis: +175 | Depth: 18 | EngineMove : e8f7
+4... Kxf7 | Analysis: -168 | Depth: 19 | EngineMove : f3e5
+5. Nxe5+ | Analysis: +167 | Depth: 20 | EngineMove : c6e5
+5... Nxe5 | Analysis: -167 | Depth: 19 | EngineMove : d1h5
+6. Qh5+ | Analysis: +167 | Depth: 20 | EngineMove : f7f8
+6... g6 | Analysis: -164 | Depth: 17 | EngineMove : h5e5
+7. Qxe5 | Analysis: +149 | Depth: 18 | EngineMove : d8e7
+7... Bd6 | Analysis: +413 | Depth: 17 | EngineMove : e5h8
+8. Qxh8 | Analysis: -398 | Depth: 20 | EngineMove : d8h4
+8... c5 | Analysis: +573 | Depth: 18 | EngineMove : h8h7
+9. Qxh7+ | Analysis: -569 | Depth: 18 | EngineMove : f7f8
+9... Kf8 | Analysis: +575 | Depth: 20 | EngineMove : h7g6
+10. O-O | Analysis: -506 | Depth: 18 | EngineMove : d8f6
+10... b6 | Analysis: +560 | Depth: 17 | EngineMove : f2f4
+11. Nc3 | Analysis: -540 | Depth: 16 | EngineMove : d8f6
+11... Bb7 | Analysis: +614 | Depth: 19 | EngineMove : f2f4
+12. d3 | Analysis: -566 | Depth: 17 | EngineMove : d6e5
+12... c4 | Analysis: +694 | Depth: 17 | EngineMove : h7g6
+13. Qxg6 | Analysis: -710 | Depth: 18 | EngineMove : d8e7
+13... cxd3 | Analysis: +1058 | Depth: 15 | EngineMove : g6d6
+14. Qxd6+ | Analysis: -1065 | Depth: 16 | EngineMove : d8e7
+14... Ne7 | Analysis: +1554 | Depth: 20 | EngineMove : d6f6
+15. cxd3 | Analysis: -1330 | Depth: 17 | EngineMove : d8e8

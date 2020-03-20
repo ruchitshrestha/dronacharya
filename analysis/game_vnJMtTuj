@@ -1,0 +1,14 @@
+**URL: https://lichess.org/vnJMtTuj | Tag: vnJMtTuj | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/vnJMtTuj', Date='2019.03.16', Round='-', White='ed_y', Black='chittyct', Result='0-1', BlackElo='998', BlackRatingDiff='+6', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2019.03.16', UTCTime='10:15:24', Variant='Standard', WhiteElo='829', WhiteRatingDiff='-14')
+
+1. e4 | Analysis: -33 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +32 | Depth: 16 | EngineMove : b1c3
+2. e5 | Analysis: +7 | Depth: 16 | EngineMove : b8c6
+2... Nc6 | Analysis: -20 | Depth: 17 | EngineMove : g1f3
+3. d4 | Analysis: +68 | Depth: 17 | EngineMove : c5d4
+3... cxd4 | Analysis: -72 | Depth: 18 | EngineMove : g1f3
+4. Nf3 | Analysis: +62 | Depth: 18 | EngineMove : d7d6
+4... Qa5+ | Analysis: -26 | Depth: 15 | EngineMove : c1d2
+5. Bd2 | Analysis: +40 | Depth: 17 | EngineMove : a5c5
+5... Qd5 | Analysis: 0 | Depth: 21 | EngineMove : d2e3
+6. Nc3 | Analysis: +262 | Depth: 18 | EngineMove : d4c3

@@ -1,0 +1,20 @@
+**URL: https://lichess.org/HkYkUpDA | Tag: HkYkUpDA | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/HkYkUpDA', Date='2018.12.17', Round='-', White='chittyct', Black='Nikolai-Zhavko-1995', Result='1/2-1/2', BlackElo='1628', BlackRatingDiff='-23', ECO='A00', Termination='Normal', TimeControl='30+0', UTCDate='2018.12.17', UTCTime='09:20:42', Variant='Standard', WhiteElo='961', WhiteRatingDiff='+23')
+
+1. h3 | Analysis: +5 | Depth: 18 | EngineMove : g8f6
+1... b6 | Analysis: +24 | Depth: 17 | EngineMove : e2e4
+2. Rh2 | Analysis: +83 | Depth: 17 | EngineMove : d7d5
+2... c6 | Analysis: -29 | Depth: 17 | EngineMove : d2d4
+3. g3 | Analysis: +56 | Depth: 17 | EngineMove : e7e5
+3... Bb7 | Analysis: -44 | Depth: 16 | EngineMove : e2e4
+4. f3 | Analysis: +91 | Depth: 16 | EngineMove : e7e5
+4... Bc8 | Analysis: +23 | Depth: 17 | EngineMove : d2d4
+5. f4 | Analysis: +29 | Depth: 17 | EngineMove : d7d5
+5... Bb7 | Analysis: -31 | Depth: 18 | EngineMove : e2e4
+6. Nf3 | Analysis: +42 | Depth: 18 | EngineMove : d7d5
+6... Bc8 | Analysis: +32 | Depth: 17 | EngineMove : e2e4
+7. Ng1 | Analysis: +36 | Depth: 19 | EngineMove : d7d5
+7... Bb7 | Analysis: 0 | Depth: 24 | EngineMove : g1f3
+8. Nf3 | Analysis: +43 | Depth: 18 | EngineMove : d7d5
+8... Bc8 | Analysis: +34 | Depth: 16 | EngineMove : e2e4
+9. Ng1 | Analysis: +42 | Depth: 18 | EngineMove : d7d5

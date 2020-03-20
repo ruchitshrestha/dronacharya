@@ -1,0 +1,20 @@
+**URL: https://lichess.org/LtL3oEFE | Tag: LtL3oEFE | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/LtL3oEFE', Date='2019.07.09', Round='-', White='chittyct', Black='ska08s', Result='1-0', BlackElo='1412', BlackRatingDiff='-12', ECO='A40', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.07.09', UTCTime='17:03:52', Variant='Standard', WhiteElo='1328', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +30 | Depth: 17 | EngineMove : e2e4
+2. c4 | Analysis: -29 | Depth: 17 | EngineMove : g8f6
+2... c5 | Analysis: +61 | Depth: 18 | EngineMove : d4d5
+3. d5 | Analysis: -62 | Depth: 18 | EngineMove : g8f6
+3... exd5 | Analysis: +65 | Depth: 19 | EngineMove : c4d5
+4. cxd5 | Analysis: -53 | Depth: 19 | EngineMove : d7d6
+4... d6 | Analysis: +68 | Depth: 18 | EngineMove : e2e4
+5. e4 | Analysis: -61 | Depth: 19 | EngineMove : f8e7
+5... Be7 | Analysis: +60 | Depth: 18 | EngineMove : f1d3
+6. Nf3 | Analysis: -44 | Depth: 18 | EngineMove : e7f6
+6... Nf6 | Analysis: +69 | Depth: 18 | EngineMove : h2h3
+7. Nc3 | Analysis: -65 | Depth: 18 | EngineMove : a7a6
+7... Bd7 | Analysis: +79 | Depth: 17 | EngineMove : f1e2
+8. a4 | Analysis: -55 | Depth: 18 | EngineMove : e8g8
+8... O-O | Analysis: +53 | Depth: 18 | EngineMove : h2h3
+9. b3 | Analysis: +8 | Depth: 17 | EngineMove : f6g4

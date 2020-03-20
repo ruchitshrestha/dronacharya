@@ -1,0 +1,19 @@
+**URL: https://lichess.org/tebsBrvp | Tag: tebsBrvp | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/tebsBrvp', Date='2019.12.08', Round='-', White='chittyct', Black='klesins-guru', Result='0-1', BlackElo='1533', BlackRatingDiff='+7', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.12.08', UTCTime='23:06:06', Variant='Standard', WhiteElo='1509', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -13 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +12 | Depth: 18 | EngineMove : e2e3
+2. Bf4 | Analysis: -14 | Depth: 19 | EngineMove : g8f6
+2... Bf5 | Analysis: +13 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -10 | Depth: 19 | EngineMove : e7e6
+3... Nc6 | Analysis: +12 | Depth: 16 | EngineMove : f1b5
+4. Nf3 | Analysis: -7 | Depth: 19 | EngineMove : e7e6
+4... Nf6 | Analysis: +41 | Depth: 19 | EngineMove : f1b5
+5. c4 | Analysis: -9 | Depth: 16 | EngineMove : e7e6
+5... dxc4 | Analysis: +27 | Depth: 18 | EngineMove : f1c4
+6. Bxc4 | Analysis: -31 | Depth: 19 | EngineMove : e7e6
+6... Na5 | Analysis: +97 | Depth: 16 | EngineMove : c4e2
+7. Qa4+ | Analysis: -52 | Depth: 20 | EngineMove : c7c6
+7... Nc6 | Analysis: +205 | Depth: 18 | EngineMove : f3e5
+8. Bd5 | Analysis: +346 | Depth: 19 | EngineMove : f6d5
+8... Nxd5 | Analysis: -343 | Depth: 19 | EngineMove : b1c3

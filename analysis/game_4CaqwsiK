@@ -1,0 +1,14 @@
+**URL: https://lichess.org/4CaqwsiK | Tag: 4CaqwsiK | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/4CaqwsiK', Date='2019.08.28', Round='-', White='chittyct', Black='ddeck1104', Result='1-0', BlackElo='1194', BlackRatingDiff='-4', ECO='E20', Termination='Normal', TimeControl='180+2', UTCDate='2019.08.28', UTCTime='04:29:16', Variant='Standard', WhiteElo='1362', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -15 | Depth: 17 | EngineMove : d7d5
+1... Nf6 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+2. c4 | Analysis: -20 | Depth: 17 | EngineMove : e7e6
+2... e6 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+3. Nc3 | Analysis: -21 | Depth: 18 | EngineMove : d7d5
+3... Bb4 | Analysis: +31 | Depth: 17 | EngineMove : g1f3
+4. a3 | Analysis: 0 | Depth: 18 | EngineMove : b4c3
+4... Ba5 | Analysis: +281 | Depth: 16 | EngineMove : b2b4
+5. b4 | Analysis: -269 | Depth: 17 | EngineMove : c7c5
+5... Ne4 | Analysis: +570 | Depth: 18 | EngineMove : c3e4
+6. Nxe4 | Analysis: -592 | Depth: 17 | EngineMove : d7d5

@@ -1,0 +1,20 @@
+**URL: https://lichess.org/l1CdKtmc | Tag: l1CdKtmc | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/l1CdKtmc', Date='2019.04.24', Round='-', White='chittyct', Black='MatiFranco', Result='1-0', BlackElo='1249', BlackRatingDiff='-9', ECO='D06', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.24', UTCTime='00:59:54', Variant='Standard', WhiteElo='1316', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -31 | Depth: 13 | EngineMove : d7d5
+1... Nf6 | Analysis: +25 | Depth: 12 | EngineMove : e2e3
+2. c4 | Analysis: -13 | Depth: 14 | EngineMove : e7e6
+2... d5 | Analysis: +19 | Depth: 13 | EngineMove : c4d5
+3. cxd5 | Analysis: -23 | Depth: 12 | EngineMove : c7c6
+3... Nxd5 | Analysis: +64 | Depth: 12 | EngineMove : g1f3
+4. e4 | Analysis: -36 | Depth: 12 | EngineMove : d5f6
+4... Nb6 | Analysis: +75 | Depth: 12 | EngineMove : g1f3
+5. Nf3 | Analysis: -53 | Depth: 13 | EngineMove : c8g4
+5... e6 | Analysis: +101 | Depth: 12 | EngineMove : c1e3
+6. a3 | Analysis: -67 | Depth: 12 | EngineMove : f8e7
+6... Be7 | Analysis: +60 | Depth: 13 | EngineMove : b1c3
+7. Nc3 | Analysis: -56 | Depth: 13 | EngineMove : e8g8
+7... O-O | Analysis: +55 | Depth: 14 | EngineMove : f1e2
+8. b4 | Analysis: -17 | Depth: 13 | EngineMove : a7a5
+8... Nc4 | Analysis: +379 | Depth: 13 | EngineMove : f1c4
+9. Bxc4 | Analysis: -384 | Depth: 13 | EngineMove : c7c6

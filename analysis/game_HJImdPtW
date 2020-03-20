@@ -1,0 +1,29 @@
+**URL: https://lichess.org/HJImdPtW | Tag: HJImdPtW | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/HJImdPtW', Date='2019.09.03', Round='-', White='YoniBag', Black='chittyct', Result='0-1', BlackElo='1385', BlackRatingDiff='+8', ECO='A00', Termination='Normal', TimeControl='180+2', UTCDate='2019.09.03', UTCTime='17:14:43', Variant='Standard', WhiteElo='1411', WhiteRatingDiff='-8')
+
+1. g3 | Analysis: +34 | Depth: 17 | EngineMove : e7e5
+1... e5 | Analysis: -17 | Depth: 18 | EngineMove : g1f3
+2. Bg2 | Analysis: +39 | Depth: 17 | EngineMove : d7d5
+2... Nc6 | Analysis: -7 | Depth: 18 | EngineMove : e2e4
+3. Nc3 | Analysis: +12 | Depth: 18 | EngineMove : g8f6
+3... Nf6 | Analysis: -4 | Depth: 20 | EngineMove : e2e4
+4. Nf3 | Analysis: +57 | Depth: 18 | EngineMove : e5e4
+4... e4 | Analysis: -67 | Depth: 18 | EngineMove : f3g5
+5. Nh4 | Analysis: +164 | Depth: 17 | EngineMove : g7g5
+5... d5 | Analysis: +1 | Depth: 17 | EngineMove : d2d3
+6. e3 | Analysis: +259 | Depth: 19 | EngineMove : g7g5
+6... g5 | Analysis: -266 | Depth: 19 | EngineMove : d2d3
+7. Nf3 | Analysis: +360 | Depth: 18 | EngineMove : e4f3
+7... exf3 | Analysis: -338 | Depth: 19 | EngineMove : g2f3
+8. Bxf3 | Analysis: +342 | Depth: 20 | EngineMove : c8h3
+8... Qd7 | Analysis: -236 | Depth: 17 | EngineMove : f3g2
+9. h3 | Analysis: +252 | Depth: 15 | EngineMove : h7h5
+9... Qf5 | Analysis: -265 | Depth: 16 | EngineMove : g3g4
+10. Bxd5 | Analysis: +612 | Depth: 17 | EngineMove : f6d5
+10... Nxd5 | Analysis: -615 | Depth: 17 | EngineMove : g3g4
+11. e4 | Analysis: +689 | Depth: 18 | EngineMove : d5c3
+11... Nxc3 | Analysis: -689 | Depth: 18 | EngineMove : d2c3
+12. bxc3 | Analysis: +700 | Depth: 17 | EngineMove : f5e4
+12... Qxe4+ | Analysis: -705 | Depth: 18 | EngineMove : d1e2
+13. Kf1 | Analysis: #+4 | Depth: 100 | EngineMove : e4h1
+13... Qxh1+ | Analysis: #-3 | Depth: 127 | EngineMove : f1e2

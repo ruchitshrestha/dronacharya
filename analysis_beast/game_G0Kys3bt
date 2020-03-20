@@ -1,0 +1,23 @@
+**URL: https://lichess.org/G0Kys3bt | Tag: G0Kys3bt | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/G0Kys3bt', Date='2018.08.30', Round='-', White='chittyct', Black='jfenc91', Result='1-0', BlackElo='909', BlackRatingDiff='-49', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2018.08.30', UTCTime='19:26:09', Variant='Standard', WhiteElo='956', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -11 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 14 | EngineMove : g1f3
+2. Bf4 | Analysis: -12 | Depth: 13 | EngineMove : e7e6
+2... e6 | Analysis: +19 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -13 | Depth: 14 | EngineMove : g8f6
+3... Nd7 | Analysis: +21 | Depth: 13 | EngineMove : g1f3
+4. Bd3 | Analysis: -11 | Depth: 13 | EngineMove : g8f6
+4... b6 | Analysis: +73 | Depth: 12 | EngineMove : b1c3
+5. Nd2 | Analysis: -24 | Depth: 14 | EngineMove : g8f6
+5... Bb7 | Analysis: +21 | Depth: 13 | EngineMove : g1e2
+6. Ngf3 | Analysis: -23 | Depth: 13 | EngineMove : g8f6
+6... Bb4 | Analysis: +49 | Depth: 12 | EngineMove : e1g1
+7. Qe2 | Analysis: -21 | Depth: 13 | EngineMove : g8f6
+7... Bxd2+ | Analysis: +41 | Depth: 12 | EngineMove : f3d2
+8. Qxd2 | Analysis: -22 | Depth: 13 | EngineMove : g8f6
+8... Qe7 | Analysis: +99 | Depth: 12 | EngineMove : f4c7
+9. O-O-O | Analysis: -37 | Depth: 13 | EngineMove : c7c5
+9... O-O-O | Analysis: +71 | Depth: 12 | EngineMove : c1b1
+10. Qc3 | Analysis: -80 | Depth: 14 | EngineMove : d7f6
+10... f5 | Analysis: #+1 | Depth: 127 | EngineMove : c3c7

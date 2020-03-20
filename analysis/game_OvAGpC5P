@@ -1,0 +1,20 @@
+**URL: https://lichess.org/OvAGpC5P | Tag: OvAGpC5P | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/OvAGpC5P', Date='2018.12.05', Round='-', White='chittyct', Black='Ali060799', Result='1-0', BlackElo='1214', BlackRatingDiff='-41', ECO='D20', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.05', UTCTime='17:18:23', Variant='Standard', WhiteElo='1209', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -24 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +11 | Depth: 18 | EngineMove : e2e3
+2. c4 | Analysis: -25 | Depth: 17 | EngineMove : e7e6
+2... dxc4 | Analysis: +29 | Depth: 18 | EngineMove : e2e3
+3. Nc3 | Analysis: -11 | Depth: 17 | EngineMove : c7c6
+3... e6 | Analysis: +32 | Depth: 16 | EngineMove : e2e4
+4. Nf3 | Analysis: -10 | Depth: 18 | EngineMove : a7a6
+4... b6 | Analysis: +48 | Depth: 15 | EngineMove : e2e3
+5. e4 | Analysis: -17 | Depth: 15 | EngineMove : c8a6
+5... Ba6 | Analysis: +38 | Depth: 17 | EngineMove : f1e2
+6. b3 | Analysis: +38 | Depth: 19 | EngineMove : f8b4
+6... cxb3 | Analysis: +39 | Depth: 17 | EngineMove : f1a6
+7. Bxa6 | Analysis: -37 | Depth: 18 | EngineMove : b8a6
+7... Nxa6 | Analysis: +38 | Depth: 18 | EngineMove : e1g1
+8. axb3 | Analysis: +1 | Depth: 19 | EngineMove : a6b4
+8... Nf6 | Analysis: +281 | Depth: 17 | EngineMove : a1a6
+9. Rxa6 | Analysis: -288 | Depth: 19 | EngineMove : f8b4

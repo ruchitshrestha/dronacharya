@@ -1,0 +1,14 @@
+**URL: https://lichess.org/REUTIUjf | Tag: REUTIUjf | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/REUTIUjf', Date='2018.10.29', Round='-', White='FriedBeans', Black='chittyct', Result='1-0', BlackElo='1143', BlackRatingDiff='-16', ECO='A49', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.10.29', UTCTime='16:54:59', Variant='Standard', WhiteElo='933', WhiteRatingDiff='+22')
+
+1. d4 | Analysis: -36 | Depth: 13 | EngineMove : d7d5
+1... g6 | Analysis: +84 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -50 | Depth: 13 | EngineMove : g8f6
+2... Nf6 | Analysis: +57 | Depth: 13 | EngineMove : c2c4
+3. Nc3 | Analysis: -26 | Depth: 13 | EngineMove : d7d5
+3... Bg7 | Analysis: +51 | Depth: 13 | EngineMove : e2e4
+4. e4 | Analysis: -55 | Depth: 14 | EngineMove : d7d5
+4... O-O | Analysis: +57 | Depth: 12 | EngineMove : e4e5
+5. Bd3 | Analysis: -59 | Depth: 13 | EngineMove : d7d6
+5... d6 | Analysis: +47 | Depth: 13 | EngineMove : e1g1
+6. O-O | Analysis: -50 | Depth: 13 | EngineMove : b8c6

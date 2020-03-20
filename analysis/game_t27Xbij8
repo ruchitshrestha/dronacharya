@@ -1,0 +1,30 @@
+**URL: https://lichess.org/t27Xbij8 | Tag: t27Xbij8 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/t27Xbij8', Date='2018.11.05', Round='-', White='chittyct', Black='reaperaj', Result='1-0', BlackElo='1171', BlackRatingDiff='-11', ECO='D02', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.05', UTCTime='04:37:43', Variant='Standard', WhiteElo='1158', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -16 | Depth: 16 | EngineMove : d7d5
+1... d5 | Analysis: +18 | Depth: 17 | EngineMove : c2c4
+2. Nf3 | Analysis: -13 | Depth: 16 | EngineMove : g8f6
+2... Nc6 | Analysis: +22 | Depth: 16 | EngineMove : c1f4
+3. Bf4 | Analysis: -25 | Depth: 16 | EngineMove : e7e6
+3... Bf5 | Analysis: +10 | Depth: 17 | EngineMove : e2e3
+4. e3 | Analysis: -14 | Depth: 17 | EngineMove : e7e6
+4... e6 | Analysis: +7 | Depth: 18 | EngineMove : f1b5
+5. Bd3 | Analysis: -7 | Depth: 18 | EngineMove : f5d3
+5... Bxd3 | Analysis: +13 | Depth: 19 | EngineMove : d1d3
+6. Qxd3 | Analysis: -8 | Depth: 19 | EngineMove : f8d6
+6... Nf6 | Analysis: +17 | Depth: 19 | EngineMove : e1g1
+7. c4 | Analysis: +3 | Depth: 13 | EngineMove : d5c4
+7... Bb4+ | Analysis: +25 | Depth: 16 | EngineMove : b1c3
+8. Nc3 | Analysis: -28 | Depth: 16 | EngineMove : d5c4
+8... Bf8 | Analysis: +81 | Depth: 16 | EngineMove : c4d5
+9. a3 | Analysis: -46 | Depth: 17 | EngineMove : f8e7
+9... Bd6 | Analysis: +71 | Depth: 19 | EngineMove : c4d5
+10. Bg3 | Analysis: -29 | Depth: 17 | EngineMove : d5c4
+10... dxc4 | Analysis: +23 | Depth: 16 | EngineMove : d3c4
+11. Qxc4 | Analysis: -44 | Depth: 17 | EngineMove : e8g8
+11... Bxg3 | Analysis: +45 | Depth: 19 | EngineMove : h2g3
+12. hxg3 | Analysis: -44 | Depth: 19 | EngineMove : e8g8
+12... Qd6 | Analysis: +57 | Depth: 18 | EngineMove : c3b5
+13. Nb5 | Analysis: -71 | Depth: 16 | EngineMove : d6d8
+13... Ne4 | Analysis: +801 | Depth: 18 | EngineMove : b5d6
+14. Nxd6+ | Analysis: -803 | Depth: 19 | EngineMove : e4d6

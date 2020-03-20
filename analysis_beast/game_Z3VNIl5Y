@@ -1,0 +1,11 @@
+**URL: https://lichess.org/Z3VNIl5Y | Tag: Z3VNIl5Y | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Z3VNIl5Y', Date='2019.06.07', Round='-', White='chittyct', Black='Ali_torkan', Result='0-1', BlackElo='1381', BlackRatingDiff='+11', ECO='D20', Termination='Time forfeit', TimeControl='300+3', UTCDate='2019.06.07', UTCTime='16:23:01', Variant='Standard', WhiteElo='1411', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -26 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +24 | Depth: 14 | EngineMove : c2c4
+2. c4 | Analysis: -16 | Depth: 15 | EngineMove : e7e6
+2... dxc4 | Analysis: +46 | Depth: 12 | EngineMove : e2e3
+3. e4 | Analysis: -10 | Depth: 13 | EngineMove : e7e5
+3... e5 | Analysis: 0 | Depth: 14 | EngineMove : g1f3
+4. Qd3 | Analysis: +1246 | Depth: 15 | EngineMove : c4d3
+4... cxd3 | Analysis: -1246 | Depth: 14 | EngineMove : g1f3

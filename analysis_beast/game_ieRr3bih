@@ -1,0 +1,26 @@
+**URL: https://lichess.org/ieRr3bih | Tag: ieRr3bih | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ieRr3bih', Date='2018.10.19', Round='-', White='Syndicate105', Black='chittyct', Result='1-0', BlackElo='1048', BlackRatingDiff='-8', ECO='B20', Termination='Normal', TimeControl='180+0', UTCDate='2018.10.19', UTCTime='14:21:22', Variant='Standard', WhiteElo='1137', WhiteRatingDiff='+8')
+
+1. e4 | Analysis: -27 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +56 | Depth: 13 | EngineMove : g1f3
+2. e5 | Analysis: +15 | Depth: 13 | EngineMove : b8c6
+2... Nc6 | Analysis: -11 | Depth: 13 | EngineMove : g1f3
+3. Nf3 | Analysis: +8 | Depth: 12 | EngineMove : a7a6
+3... g6 | Analysis: +16 | Depth: 11 | EngineMove : d2d4
+4. d4 | Analysis: +1 | Depth: 12 | EngineMove : c5d4
+4... Bg7 | Analysis: +23 | Depth: 12 | EngineMove : d4c5
+5. Bf4 | Analysis: +12 | Depth: 11 | EngineMove : c5d4
+5... cxd4 | Analysis: -34 | Depth: 12 | EngineMove : c2c3
+6. Nxd4 | Analysis: +60 | Depth: 12 | EngineMove : c6e5
+6... Nxd4 | Analysis: +3 | Depth: 12 | EngineMove : d1d4
+7. Qxd4 | Analysis: -14 | Depth: 13 | EngineMove : g8h6
+7... d6 | Analysis: +62 | Depth: 12 | EngineMove : b1c3
+8. Nc3 | Analysis: -77 | Depth: 12 | EngineMove : c8g4
+8... Bf5 | Analysis: +73 | Depth: 10 | EngineMove : e1c1
+9. O-O-O | Analysis: -60 | Depth: 13 | EngineMove : d8a5
+9... dxe5 | Analysis: +503 | Depth: 13 | EngineMove : f1b5
+10. Bxe5 | Analysis: -56 | Depth: 15 | EngineMove : d8d4
+10... Bxe5 | Analysis: +656 | Depth: 14 | EngineMove : d4e5
+11. Qxe5 | Analysis: -677 | Depth: 14 | EngineMove : d8b6
+11... Qa5 | Analysis: +1217 | Depth: 14 | EngineMove : e5a5
+12. Qxa5 | Analysis: -1227 | Depth: 13 | EngineMove : g8f6

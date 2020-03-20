@@ -1,0 +1,7 @@
+**URL: https://lichess.org/rh9tKAKx | Tag: rh9tKAKx | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/rh9tKAKx', Date='2020.02.04', Round='-', White='chittyct', Black='Rory-Gallagher', Result='0-1', BlackElo='1336', BlackRatingDiff='+5', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.04', UTCTime='04:32:50', Variant='Standard', WhiteElo='1309', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -25 | Depth: 18 | EngineMove : g8f6
+1... e5 | Analysis: +51 | Depth: 17 | EngineMove : d4e5
+2. Bf4 | Analysis: +327 | Depth: 18 | EngineMove : e5f4
+2... exf4 | Analysis: -334 | Depth: 17 | EngineMove : g1h3

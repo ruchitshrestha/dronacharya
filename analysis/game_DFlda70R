@@ -1,0 +1,32 @@
+**URL: https://lichess.org/DFlda70R | Tag: DFlda70R | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/DFlda70R', Date='2018.08.29', Round='-', White='misha212', Black='chittyct', Result='1-0', BlackElo='986', BlackRatingDiff='-4', ECO='C20', Termination='Normal', TimeControl='60+0', UTCDate='2018.08.29', UTCTime='00:58:13', Variant='Standard', WhiteElo='1268', WhiteRatingDiff='+4')
+
+1. e4 | Analysis: -27 | Depth: 16 | EngineMove : e7e5
+1... e5 | Analysis: +31 | Depth: 18 | EngineMove : g1f3
+2. b3 | Analysis: +34 | Depth: 17 | EngineMove : f8c5
+2... Nc6 | Analysis: -24 | Depth: 18 | EngineMove : g1f3
+3. Bb2 | Analysis: +30 | Depth: 18 | EngineMove : g8f6
+3... f6 | Analysis: +66 | Depth: 16 | EngineMove : g1f3
+4. d3 | Analysis: +25 | Depth: 17 | EngineMove : g8e7
+4... Qe7 | Analysis: +48 | Depth: 16 | EngineMove : b1c3
+5. Nd2 | Analysis: -5 | Depth: 18 | EngineMove : d7d6
+5... d6 | Analysis: +2 | Depth: 18 | EngineMove : f1e2
+6. f3 | Analysis: +33 | Depth: 16 | EngineMove : f6f5
+6... Be6 | Analysis: -38 | Depth: 17 | EngineMove : c2c4
+7. Ne2 | Analysis: +47 | Depth: 18 | EngineMove : d6d5
+7... O-O-O | Analysis: -52 | Depth: 16 | EngineMove : c2c4
+8. c4 | Analysis: +40 | Depth: 16 | EngineMove : f6f5
+8... Nh6 | Analysis: 0 | Depth: 16 | EngineMove : e2c3
+9. Qc2 | Analysis: +22 | Depth: 15 | EngineMove : f6f5
+9... f5 | Analysis: -10 | Depth: 18 | EngineMove : c2c3
+10. O-O-O | Analysis: +32 | Depth: 18 | EngineMove : g7g6
+10... fxe4 | Analysis: -9 | Depth: 19 | EngineMove : d3e4
+11. fxe4 | Analysis: +202 | Depth: 18 | EngineMove : h6g4
+11... Nd4 | Analysis: +92 | Depth: 20 | EngineMove : e2d4
+12. Nxd4 | Analysis: -86 | Depth: 20 | EngineMove : e5d4
+12... exd4 | Analysis: +79 | Depth: 20 | EngineMove : b2d4
+13. Bxd4 | Analysis: -82 | Depth: 19 | EngineMove : c7c5
+13... Bg4 | Analysis: +135 | Depth: 17 | EngineMove : d1e1
+14. Re1 | Analysis: -129 | Depth: 18 | EngineMove : c8b8
+14... g6 | Analysis: +595 | Depth: 17 | EngineMove : d4h8
+15. Bxh8 | Analysis: -598 | Depth: 20 | EngineMove : h6f7

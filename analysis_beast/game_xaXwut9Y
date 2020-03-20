@@ -1,0 +1,25 @@
+**URL: https://lichess.org/xaXwut9Y | Tag: xaXwut9Y | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/xaXwut9Y', Date='2020.02.02', Round='-', White='chittyct', Black='gilsohrab', Result='1-0', BlackElo='1365', BlackRatingDiff='-7', ECO='A45', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.02', UTCTime='01:15:19', Variant='Standard', WhiteElo='1362', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -13 | Depth: 14 | EngineMove : d7d5
+1... Nf6 | Analysis: +13 | Depth: 16 | EngineMove : e2e3
+2. Bf4 | Analysis: -12 | Depth: 14 | EngineMove : c7c5
+2... b6 | Analysis: +31 | Depth: 15 | EngineMove : g1f3
+3. e3 | Analysis: -27 | Depth: 16 | EngineMove : e7e6
+3... Bb7 | Analysis: +19 | Depth: 16 | EngineMove : g1f3
+4. Nf3 | Analysis: -12 | Depth: 15 | EngineMove : e7e6
+4... e6 | Analysis: +11 | Depth: 14 | EngineMove : f1e2
+5. c4 | Analysis: -6 | Depth: 15 | EngineMove : f8e7
+5... c5 | Analysis: +43 | Depth: 14 | EngineMove : b1c3
+6. Nc3 | Analysis: -23 | Depth: 15 | EngineMove : c5d4
+6... cxd4 | Analysis: +12 | Depth: 15 | EngineMove : e3d4
+7. exd4 | Analysis: -24 | Depth: 16 | EngineMove : f8e7
+7... d5 | Analysis: +137 | Depth: 13 | EngineMove : c4d5
+8. b3 | Analysis: +56 | Depth: 14 | EngineMove : d5c4
+8... Be7 | Analysis: 0 | Depth: 14 | EngineMove : f1d3
+9. Be2 | Analysis: +16 | Depth: 14 | EngineMove : f6e4
+9... O-O | Analysis: -18 | Depth: 14 | EngineMove : e1g1
+10. O-O | Analysis: 0 | Depth: 15 | EngineMove : b8c6
+10... dxc4 | Analysis: +35 | Depth: 15 | EngineMove : b3c4
+11. bxc4 | Analysis: -31 | Depth: 15 | EngineMove : e7d6
+11... Qc7 | Analysis: +1048 | Depth: 16 | EngineMove : f4c7

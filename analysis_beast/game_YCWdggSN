@@ -1,0 +1,24 @@
+**URL: https://lichess.org/YCWdggSN | Tag: YCWdggSN | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/YCWdggSN', Date='2020.03.03', Round='-', White='chittyct', Black='PCho1000', Result='1-0', BlackElo='1249', BlackRatingDiff='-8', ECO='D00', Termination='Time forfeit', TimeControl='120+1', UTCDate='2020.03.03', UTCTime='04:11:35', Variant='Standard', WhiteElo='1272', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -24 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +20 | Depth: 12 | EngineMove : c2c4
+2. Bf4 | Analysis: -12 | Depth: 14 | EngineMove : g8f6
+2... e6 | Analysis: +14 | Depth: 15 | EngineMove : g1f3
+3. e3 | Analysis: -16 | Depth: 16 | EngineMove : g8f6
+3... Nf6 | Analysis: +14 | Depth: 14 | EngineMove : g1f3
+4. Nf3 | Analysis: -18 | Depth: 15 | EngineMove : f8e7
+4... Nc6 | Analysis: +26 | Depth: 15 | EngineMove : f1d3
+5. Bb5 | Analysis: -22 | Depth: 14 | EngineMove : f8e7
+5... Bb4+ | Analysis: +45 | Depth: 16 | EngineMove : c2c3
+6. c3 | Analysis: -50 | Depth: 15 | EngineMove : b4d6
+6... Ba5 | Analysis: +91 | Depth: 15 | EngineMove : f3e5
+7. O-O | Analysis: -70 | Depth: 13 | EngineMove : e8g8
+7... Bd7 | Analysis: +94 | Depth: 15 | EngineMove : a2a4
+8. b4 | Analysis: -91 | Depth: 15 | EngineMove : a5b6
+8... Bb6 | Analysis: +89 | Depth: 15 | EngineMove : b5d3
+9. a4 | Analysis: -62 | Depth: 15 | EngineMove : a7a5
+9... a6 | Analysis: +79 | Depth: 15 | EngineMove : b5c6
+10. Bd3 | Analysis: -77 | Depth: 14 | EngineMove : h7h6
+10... O-O | Analysis: +95 | Depth: 15 | EngineMove : b1d2
+11. Ne5 | Analysis: -62 | Depth: 13 | EngineMove : c6e5

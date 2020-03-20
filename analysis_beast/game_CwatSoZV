@@ -1,0 +1,38 @@
+**URL: https://lichess.org/CwatSoZV | Tag: CwatSoZV | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/CwatSoZV', Date='2019.05.20', Round='-', White='Drift4King', Black='chittyct', Result='0-1', BlackElo='955', BlackRatingDiff='+13', ECO='C23', Termination='Normal', TimeControl='60+0', UTCDate='2019.05.20', UTCTime='12:54:37', Variant='Standard', WhiteElo='1021', WhiteRatingDiff='-13')
+
+1. e4 | Analysis: -30 | Depth: 12 | EngineMove : e7e6
+1... e5 | Analysis: +22 | Depth: 12 | EngineMove : b1c3
+2. Bc4 | Analysis: 0 | Depth: 11 | EngineMove : g8f6
+2... Nc6 | Analysis: +22 | Depth: 13 | EngineMove : g1f3
+3. Qf3 | Analysis: +39 | Depth: 13 | EngineMove : g8f6
+3... Nf6 | Analysis: -35 | Depth: 14 | EngineMove : g1e2
+4. Nc3 | Analysis: +77 | Depth: 13 | EngineMove : c6d4
+4... Be7 | Analysis: -32 | Depth: 13 | EngineMove : g1e2
+5. Nd5 | Analysis: +63 | Depth: 13 | EngineMove : c6d4
+5... O-O | Analysis: -38 | Depth: 13 | EngineMove : g1e2
+6. Nxe7+ | Analysis: +74 | Depth: 12 | EngineMove : d8e7
+6... Qxe7 | Analysis: -97 | Depth: 12 | EngineMove : c2c3
+7. d3 | Analysis: +155 | Depth: 12 | EngineMove : d7d5
+7... Nd4 | Analysis: -96 | Depth: 14 | EngineMove : f3d1
+8. Qd1 | Analysis: +86 | Depth: 15 | EngineMove : b7b5
+8... Rd8 | Analysis: -14 | Depth: 12 | EngineMove : c2c3
+9. Be3 | Analysis: +124 | Depth: 12 | EngineMove : b7b5
+9... d5 | Analysis: -60 | Depth: 12 | EngineMove : c4d5
+10. exd5 | Analysis: +177 | Depth: 13 | EngineMove : b7b5
+10... Nxd5 | Analysis: -26 | Depth: 14 | EngineMove : c4d5
+11. Bxd4 | Analysis: +74 | Depth: 12 | EngineMove : e5d4
+11... exd4+ | Analysis: -68 | Depth: 12 | EngineMove : e1f1
+12. Ne2 | Analysis: +138 | Depth: 14 | EngineMove : c8g4
+12... Nf4 | Analysis: -58 | Depth: 13 | EngineMove : e1f1
+13. g3 | Analysis: +259 | Depth: 15 | EngineMove : c8g4
+13... Ng2+ | Analysis: -163 | Depth: 13 | EngineMove : e1f1
+14. Kf1 | Analysis: +237 | Depth: 14 | EngineMove : c8h3
+14... Bh3 | Analysis: -322 | Depth: 14 | EngineMove : f1g1
+15. f4 | Analysis: #+3 | Depth: 87 | EngineMove : g2h4
+15... Ne3+ | Analysis: -1232 | Depth: 15 | EngineMove : f1e1
+16. Kf2 | Analysis: +1741 | Depth: 15 | EngineMove : e3d1
+16... Nxd1+ | Analysis: -1804 | Depth: 17 | EngineMove : a1d1
+17. Kf3 | Analysis: #+1 | Depth: 127 | EngineMove : e7e3
+17... Re8 | Analysis: #-2 | Depth: 127 | EngineMove : c4f7
+18. Rhxd1 | Analysis: #+1 | Depth: 127 | EngineMove : e7e2

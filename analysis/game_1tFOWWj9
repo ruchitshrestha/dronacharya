@@ -1,0 +1,14 @@
+**URL: https://lichess.org/1tFOWWj9 | Tag: 1tFOWWj9 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/1tFOWWj9', Date='2019.05.16', Round='-', White='Juozo', Black='chittyct', Result='1-0', BlackElo='1313', BlackRatingDiff='-7', ECO='A00', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.05.16', UTCTime='03:51:53', Variant='Standard', WhiteElo='1420', WhiteRatingDiff='+7')
+
+1. b4 | Analysis: +74 | Depth: 15 | EngineMove : e7e5
+1... e5 | Analysis: -36 | Depth: 17 | EngineMove : c1b2
+2. Bb2 | Analysis: +48 | Depth: 18 | EngineMove : f8b4
+2... d6 | Analysis: -13 | Depth: 17 | EngineMove : c2c4
+3. e3 | Analysis: +16 | Depth: 17 | EngineMove : g8f6
+3... a6 | Analysis: -1 | Depth: 17 | EngineMove : c2c4
+4. Nf3 | Analysis: +6 | Depth: 16 | EngineMove : g8f6
+4... Nf6 | Analysis: +6 | Depth: 19 | EngineMove : d2d3
+5. Be2 | Analysis: +15 | Depth: 18 | EngineMove : e5e4
+5... e4 | Analysis: -1 | Depth: 19 | EngineMove : f3d4
+6. Nd4 | Analysis: +3 | Depth: 19 | EngineMove : d6d5

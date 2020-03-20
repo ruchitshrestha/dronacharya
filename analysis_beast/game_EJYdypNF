@@ -1,0 +1,15 @@
+**URL: https://lichess.org/EJYdypNF | Tag: EJYdypNF | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/EJYdypNF', Date='2019.10.31', Round='-', White='raidiese', Black='chittyct', Result='0-1', BlackElo='1191', BlackRatingDiff='+8', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2019.10.31', UTCTime='19:14:32', Variant='Standard', WhiteElo='1221', WhiteRatingDiff='-39')
+
+1. e4 | Analysis: -37 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +51 | Depth: 11 | EngineMove : b1c3
+2. Bc4 | Analysis: -17 | Depth: 12 | EngineMove : e7e6
+2... Nc6 | Analysis: +36 | Depth: 13 | EngineMove : g1f3
+3. Qf3 | Analysis: +77 | Depth: 11 | EngineMove : g8f6
+3... e6 | Analysis: -40 | Depth: 12 | EngineMove : c4b3
+4. Nh3 | Analysis: +110 | Depth: 12 | EngineMove : g8f6
+4... h6 | Analysis: -44 | Depth: 11 | EngineMove : e1g1
+5. Bb5 | Analysis: +150 | Depth: 12 | EngineMove : c6d4
+5... Nd4 | Analysis: -154 | Depth: 13 | EngineMove : f3d3
+6. Qe3 | Analysis: +867 | Depth: 13 | EngineMove : d4c2
+6... Nxc2+ | Analysis: -868 | Depth: 14 | EngineMove : e1f1

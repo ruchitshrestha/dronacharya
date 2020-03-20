@@ -1,0 +1,39 @@
+**URL: https://lichess.org/AVvS23b2 | Tag: AVvS23b2 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/AVvS23b2', Date='2018.12.20', Round='-', White='chittyct', Black='Illescas1997', Result='0-1', BlackElo='1490', BlackRatingDiff='+8', ECO='B07', Termination='Normal', TimeControl='420+0', UTCDate='2018.12.20', UTCTime='05:01:42', Variant='Standard', WhiteElo='1385', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -17 | Depth: 18 | EngineMove : g8f6
+1... d6 | Analysis: +43 | Depth: 16 | EngineMove : e2e4
+2. e4 | Analysis: -33 | Depth: 18 | EngineMove : g8f6
+2... e5 | Analysis: +65 | Depth: 18 | EngineMove : d4e5
+3. d5 | Analysis: -13 | Depth: 17 | EngineMove : g8f6
+3... f5 | Analysis: +14 | Depth: 17 | EngineMove : e4f5
+4. exf5 | Analysis: -18 | Depth: 18 | EngineMove : c8f5
+4... Bxf5 | Analysis: +36 | Depth: 17 | EngineMove : b1c3
+5. Nf3 | Analysis: -31 | Depth: 17 | EngineMove : g8f6
+5... Nf6 | Analysis: +29 | Depth: 17 | EngineMove : b1c3
+6. Bd3 | Analysis: -18 | Depth: 18 | EngineMove : e5e4
+6... Bg4 | Analysis: +51 | Depth: 17 | EngineMove : h2h3
+7. O-O | Analysis: -48 | Depth: 17 | EngineMove : b8d7
+7... Be7 | Analysis: +50 | Depth: 17 | EngineMove : h2h3
+8. h3 | Analysis: -36 | Depth: 18 | EngineMove : g4h5
+8... Bh5 | Analysis: +39 | Depth: 18 | EngineMove : b1c3
+9. c4 | Analysis: +52 | Depth: 18 | EngineMove : e5e4
+9... e4 | Analysis: -66 | Depth: 18 | EngineMove : g2g4
+10. Bxe4 | Analysis: +94 | Depth: 18 | EngineMove : f6e4
+10... Nxe4 | Analysis: -103 | Depth: 18 | EngineMove : f1e1
+11. Nbd2 | Analysis: +265 | Depth: 18 | EngineMove : e4d2
+11... Nxd2 | Analysis: -268 | Depth: 20 | EngineMove : c1d2
+12. Qxd2 | Analysis: +327 | Depth: 19 | EngineMove : h5f3
+12... Bxf3 | Analysis: -336 | Depth: 19 | EngineMove : g2f3
+13. gxf3 | Analysis: +329 | Depth: 19 | EngineMove : e8g8
+13... O-O | Analysis: -335 | Depth: 21 | EngineMove : f3f4
+14. b3 | Analysis: +456 | Depth: 19 | EngineMove : d8d7
+14... Rxf3 | Analysis: -382 | Depth: 17 | EngineMove : d2e2
+15. Bb2 | Analysis: +423 | Depth: 20 | EngineMove : e7f6
+15... Rxh3 | Analysis: -438 | Depth: 19 | EngineMove : a1e1
+16. f3 | Analysis: +589 | Depth: 20 | EngineMove : e7h4
+16... Bh4 | Analysis: -582 | Depth: 20 | EngineMove : d2e3
+17. Qg2 | Analysis: +1175 | Depth: 18 | EngineMove : h3g3
+17... Rg3 | Analysis: -1185 | Depth: 18 | EngineMove : f1f2
+18. Qxg3 | Analysis: +1275 | Depth: 19 | EngineMove : h4g3
+18... Bxg3 | Analysis: -1302 | Depth: 17 | EngineMove : a1d1

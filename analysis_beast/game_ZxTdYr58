@@ -1,0 +1,34 @@
+**URL: https://lichess.org/ZxTdYr58 | Tag: ZxTdYr58 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ZxTdYr58', Date='2018.09.29', Round='-', White='muathjwiiwiw', Black='chittyct', Result='1-0', BlackElo='1106', BlackRatingDiff='-10', ECO='C50', Termination='Normal', TimeControl='300+3', UTCDate='2018.09.29', UTCTime='20:17:57', Variant='Standard', WhiteElo='1117', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -38 | Depth: 12 | EngineMove : e7e6
+1... e5 | Analysis: +38 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -24 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +30 | Depth: 12 | EngineMove : b1c3
+3. Bc4 | Analysis: -24 | Depth: 13 | EngineMove : g8f6
+3... d6 | Analysis: +30 | Depth: 11 | EngineMove : d2d4
+4. Nc3 | Analysis: -24 | Depth: 14 | EngineMove : f8e7
+4... Nge7 | Analysis: +120 | Depth: 13 | EngineMove : f3g5
+5. d3 | Analysis: -44 | Depth: 13 | EngineMove : c6a5
+5... Ng6 | Analysis: +238 | Depth: 15 | EngineMove : f3g5
+6. Ng5 | Analysis: -240 | Depth: 14 | EngineMove : d6d5
+6... Be6 | Analysis: +168 | Depth: 13 | EngineMove : g5e6
+7. Bxe6 | Analysis: -145 | Depth: 15 | EngineMove : f7e6
+7... fxe6 | Analysis: +132 | Depth: 15 | EngineMove : g5e6
+8. Nxe6 | Analysis: -125 | Depth: 15 | EngineMove : d8d7
+8... Qe7 | Analysis: +643 | Depth: 13 | EngineMove : c3d5
+9. Qg4 | Analysis: -145 | Depth: 13 | EngineMove : e7d7
+9... Nd4 | Analysis: +316 | Depth: 13 | EngineMove : c3d5
+10. Nxd4 | Analysis: -149 | Depth: 13 | EngineMove : e5d4
+10... exd4 | Analysis: +156 | Depth: 14 | EngineMove : c3e2
+11. Nd5 | Analysis: -134 | Depth: 13 | EngineMove : e7d7
+11... Ne5 | Analysis: +279 | Depth: 13 | EngineMove : g4h5
+12. Qh5+ | Analysis: -292 | Depth: 15 | EngineMove : g7g6
+12... g6 | Analysis: +298 | Depth: 13 | EngineMove : h5h3
+13. Qh3 | Analysis: -258 | Depth: 13 | EngineMove : e7f7
+13... Qf7 | Analysis: +334 | Depth: 14 | EngineMove : c1g5
+14. Bg5 | Analysis: -321 | Depth: 13 | EngineMove : h7h6
+14... h6 | Analysis: +291 | Depth: 14 | EngineMove : f2f4
+15. O-O-O | Analysis: -89 | Depth: 13 | EngineMove : f8g7
+15... Qe7 | Analysis: +1467 | Depth: 14 | EngineMove : g5e7
+16. Nxe7 | Analysis: -931 | Depth: 14 | EngineMove : f8e7

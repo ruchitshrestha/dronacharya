@@ -1,0 +1,24 @@
+**URL: https://lichess.org/NvX5uAOT | Tag: NvX5uAOT | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/NvX5uAOT', Date='2018.09.26', Round='-', White='chittyct', Black='LeanJKD', Result='1-0', BlackElo='1015', BlackRatingDiff='-10', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.26', UTCTime='04:22:27', Variant='Standard', WhiteElo='1095', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -19 | Depth: 17 | EngineMove : g8f6
+1... Nc6 | Analysis: +43 | Depth: 16 | EngineMove : d4d5
+2. Nf3 | Analysis: -29 | Depth: 18 | EngineMove : d7d5
+2... f5 | Analysis: +115 | Depth: 16 | EngineMove : d4d5
+3. Bf4 | Analysis: -44 | Depth: 17 | EngineMove : e7e6
+3... Nf6 | Analysis: +53 | Depth: 17 | EngineMove : b1c3
+4. e3 | Analysis: -41 | Depth: 18 | EngineMove : e7e6
+4... e5 | Analysis: +184 | Depth: 18 | EngineMove : d4e5
+5. Bg3 | Analysis: -25 | Depth: 17 | EngineMove : e5e4
+5... exd4 | Analysis: +13 | Depth: 16 | EngineMove : f3d4
+6. exd4 | Analysis: -14 | Depth: 16 | EngineMove : d7d5
+6... Nxd4 | Analysis: +291 | Depth: 15 | EngineMove : f3d4
+7. Nxd4 | Analysis: -295 | Depth: 17 | EngineMove : d7d5
+7... d5 | Analysis: +284 | Depth: 18 | EngineMove : d4b5
+8. Bd3 | Analysis: -250 | Depth: 16 | EngineMove : f8c5
+8... Be6 | Analysis: +997 | Depth: 18 | EngineMove : d4e6
+9. Nxe6 | Analysis: -1015 | Depth: 17 | EngineMove : f8b4
+9... Qd6 | Analysis: +1493 | Depth: 16 | EngineMove : g3d6
+10. Bxd6 | Analysis: -1526 | Depth: 17 | EngineMove : f8d6
+10... cxd6 | Analysis: +1802 | Depth: 18 | EngineMove : d3f5
+11. Nc7+ | Analysis: -1773 | Depth: 18 | EngineMove : e8f7

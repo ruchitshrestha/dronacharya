@@ -1,0 +1,33 @@
+**URL: https://lichess.org/rfFpuDga | Tag: rfFpuDga | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/rfFpuDga', Date='2019.07.08', Round='-', White='chittyct', Black='abolfazlSaeidi', Result='1-0', BlackElo='1252', BlackRatingDiff='-11', ECO='D35', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.08', UTCTime='13:54:43', Variant='Standard', WhiteElo='1231', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -13 | Depth: 13 | EngineMove : d7d5
+1... Nf6 | Analysis: +26 | Depth: 14 | EngineMove : g1f3
+2. c4 | Analysis: -20 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +18 | Depth: 14 | EngineMove : e2e3
+3. Nc3 | Analysis: -14 | Depth: 11 | EngineMove : f8b4
+3... d5 | Analysis: +27 | Depth: 13 | EngineMove : g1f3
+4. cxd5 | Analysis: -21 | Depth: 14 | EngineMove : e6d5
+4... Nxd5 | Analysis: +53 | Depth: 12 | EngineMove : g1f3
+5. Bf4 | Analysis: +306 | Depth: 12 | EngineMove : d5f4
+5... Nxf4 | Analysis: -319 | Depth: 12 | EngineMove : e2e4
+6. e3 | Analysis: +315 | Depth: 13 | EngineMove : f4d5
+6... Nd5 | Analysis: -319 | Depth: 13 | EngineMove : g1f3
+7. Bb5+ | Analysis: +334 | Depth: 12 | EngineMove : c8d7
+7... c6 | Analysis: -321 | Depth: 12 | EngineMove : b5c4
+8. Bc4 | Analysis: +323 | Depth: 13 | EngineMove : f8e7
+8... Nxc3 | Analysis: -325 | Depth: 14 | EngineMove : b2c3
+9. bxc3 | Analysis: +310 | Depth: 13 | EngineMove : d8g5
+9... Ba3 | Analysis: -301 | Depth: 13 | EngineMove : d1c2
+10. Nf3 | Analysis: +376 | Depth: 15 | EngineMove : a3b2
+10... Bb2 | Analysis: -383 | Depth: 15 | EngineMove : a1b1
+11. Rb1 | Analysis: +376 | Depth: 15 | EngineMove : b2c3
+11... Bxc3+ | Analysis: -381 | Depth: 15 | EngineMove : e1f1
+12. Ke2 | Analysis: +387 | Depth: 14 | EngineMove : b8d7
+12... O-O | Analysis: -377 | Depth: 14 | EngineMove : d1c2
+13. Bb3 | Analysis: +434 | Depth: 13 | EngineMove : c3a5
+13... a5 | Analysis: -437 | Depth: 12 | EngineMove : d1c2
+14. Bc2 | Analysis: +441 | Depth: 11 | EngineMove : c3b4
+14... a4 | Analysis: -6 | Depth: 13 | EngineMove : d1d3
+15. Qd3 | Analysis: +17 | Depth: 12 | EngineMove : f8e8
+15... Ba5 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

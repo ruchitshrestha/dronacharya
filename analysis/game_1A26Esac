@@ -1,0 +1,27 @@
+**URL: https://lichess.org/1A26Esac | Tag: 1A26Esac | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/1A26Esac', Date='2019.01.17', Round='-', White='sarabada', Black='chittyct', Result='1-0', BlackElo='1272', BlackRatingDiff='-11', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2019.01.17', UTCTime='16:42:05', Variant='Standard', WhiteElo='1275', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -22 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +29 | Depth: 18 | EngineMove : b1c3
+2. Bc4 | Analysis: -7 | Depth: 18 | EngineMove : g8f6
+2... Nc6 | Analysis: +11 | Depth: 18 | EngineMove : b1c3
+3. Nf3 | Analysis: +2 | Depth: 19 | EngineMove : g8f6
+3... e6 | Analysis: +5 | Depth: 17 | EngineMove : c4b5
+4. d3 | Analysis: +17 | Depth: 20 | EngineMove : d7d5
+4... a6 | Analysis: +11 | Depth: 17 | EngineMove : e1g1
+5. O-O | Analysis: +3 | Depth: 20 | EngineMove : d7d5
+5... b5 | Analysis: +30 | Depth: 16 | EngineMove : c4b3
+6. Bb3 | Analysis: -24 | Depth: 17 | EngineMove : f8e7
+6... Bb7 | Analysis: +25 | Depth: 17 | EngineMove : c2c4
+7. a3 | Analysis: +6 | Depth: 18 | EngineMove : g8f6
+7... c4 | Analysis: +93 | Depth: 16 | EngineMove : d3c4
+8. dxc4 | Analysis: -96 | Depth: 19 | EngineMove : c6a5
+8... bxc4 | Analysis: +98 | Depth: 16 | EngineMove : b3c4
+9. Bxc4 | Analysis: -101 | Depth: 17 | EngineMove : d7d6
+9... Ne5 | Analysis: +357 | Depth: 18 | EngineMove : f3e5
+10. Nxe5 | Analysis: -359 | Depth: 18 | EngineMove : g8f6
+10... Bxe4 | Analysis: +487 | Depth: 17 | EngineMove : b1c3
+11. f3 | Analysis: -308 | Depth: 16 | EngineMove : e4b7
+11... Qb6+ | Analysis: +393 | Depth: 17 | EngineMove : g1h1
+12. Kh1 | Analysis: -400 | Depth: 19 | EngineMove : e4c6
+12... Bf5 | Analysis: #+1 | Depth: 127 | EngineMove : d1d7

@@ -1,0 +1,29 @@
+**URL: https://lichess.org/GZWZJvF1 | Tag: GZWZJvF1 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/GZWZJvF1', Date='2018.09.24', Round='-', White='chittyct', Black='gergelmeister', Result='0-1', BlackElo='1277', BlackRatingDiff='+7', ECO='D02', Termination='Normal', TimeControl='180+2', UTCDate='2018.09.24', UTCTime='16:27:13', Variant='Standard', WhiteElo='1138', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -22 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +22 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -19 | Depth: 13 | EngineMove : g8f6
+2... c5 | Analysis: +35 | Depth: 12 | EngineMove : b1c3
+3. Bf4 | Analysis: -12 | Depth: 12 | EngineMove : c5d4
+3... f6 | Analysis: +95 | Depth: 11 | EngineMove : e2e3
+4. e3 | Analysis: -93 | Depth: 11 | EngineMove : b8c6
+4... h5 | Analysis: +143 | Depth: 10 | EngineMove : f1d3
+5. h3 | Analysis: -84 | Depth: 11 | EngineMove : g7g5
+5... g5 | Analysis: +99 | Depth: 10 | EngineMove : f4g3
+6. Bh2 | Analysis: -77 | Depth: 10 | EngineMove : b8c6
+6... g4 | Analysis: +123 | Depth: 10 | EngineMove : f3h4
+7. hxg4 | Analysis: -123 | Depth: 11 | EngineMove : c5d4
+7... hxg4 | Analysis: +102 | Depth: 12 | EngineMove : h2c7
+8. Nfd2 | Analysis: +16 | Depth: 12 | EngineMove : e7e5
+8... e5 | Analysis: -15 | Depth: 12 | EngineMove : d4e5
+9. dxe5 | Analysis: +48 | Depth: 11 | EngineMove : f6e5
+9... fxe5 | Analysis: -36 | Depth: 11 | EngineMove : f1b5
+10. Bb5+ | Analysis: +65 | Depth: 12 | EngineMove : b8c6
+10... Bd7 | Analysis: +114 | Depth: 12 | EngineMove : d1g4
+11. Bxd7+ | Analysis: +44 | Depth: 13 | EngineMove : d8d7
+11... Qxd7 | Analysis: -51 | Depth: 13 | EngineMove : c2c4
+12. Bxe5 | Analysis: +559 | Depth: 12 | EngineMove : h8h1
+12... Rxh1+ | Analysis: -562 | Depth: 14 | EngineMove : d2f1
+13. Ke2 | Analysis: +1191 | Depth: 14 | EngineMove : h1d1
+13... Rxd1 | Analysis: -1148 | Depth: 14 | EngineMove : e2d1

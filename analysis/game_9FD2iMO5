@@ -1,0 +1,5 @@
+**URL: https://lichess.org/9FD2iMO5 | Tag: 9FD2iMO5 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/9FD2iMO5', Date='2019.09.25', Round='-', White='VadimK33', Black='chittyct', Result='0-1', BlackElo='1369', BlackRatingDiff='+6', ECO='B20', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.09.25', UTCTime='05:01:33', Variant='Standard', WhiteElo='1284', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -24 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +31 | Depth: 17 | EngineMove : g1f3

@@ -1,0 +1,27 @@
+**URL: https://lichess.org/y1sUhKUb | Tag: y1sUhKUb | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/y1sUhKUb', Date='2019.01.14', Round='-', White='chittyct', Black='Jimi_chess', Result='0-1', BlackElo='1449', BlackRatingDiff='+8', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.01.14', UTCTime='04:56:08', Variant='Standard', WhiteElo='1371', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -12 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 18 | EngineMove : c1f4
+2. Bf4 | Analysis: -13 | Depth: 19 | EngineMove : g8f6
+2... Nc6 | Analysis: +22 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -10 | Depth: 19 | EngineMove : c8f5
+3... Nf6 | Analysis: +18 | Depth: 18 | EngineMove : f1d3
+4. c4 | Analysis: -3 | Depth: 15 | EngineMove : c8f5
+4... e6 | Analysis: +20 | Depth: 15 | EngineMove : g1f3
+5. c5 | Analysis: +11 | Depth: 16 | EngineMove : c8d7
+5... b6 | Analysis: +38 | Depth: 20 | EngineMove : f1b5
+6. b4 | Analysis: +9 | Depth: 15 | EngineMove : c8d7
+6... Nxb4 | Analysis: +105 | Depth: 18 | EngineMove : d1a4
+7. Qa4+ | Analysis: -102 | Depth: 20 | EngineMove : c8d7
+7... Bd7 | Analysis: +112 | Depth: 20 | EngineMove : a4b4
+8. Qxb4 | Analysis: -107 | Depth: 21 | EngineMove : a7a5
+8... bxc5 | Analysis: +98 | Depth: 20 | EngineMove : d4c5
+9. dxc5 | Analysis: -91 | Depth: 21 | EngineMove : f6e4
+9... Ne4 | Analysis: +91 | Depth: 20 | EngineMove : b1d2
+10. Nc3 | Analysis: +146 | Depth: 18 | EngineMove : f8c5
+10... Nxc5 | Analysis: +95 | Depth: 18 | EngineMove : b4b2
+11. Bb5 | Analysis: +613 | Depth: 20 | EngineMove : c5d3
+11... Nd3+ | Analysis: -624 | Depth: 22 | EngineMove : b5d3
+12. Bxd3 | Analysis: +639 | Depth: 22 | EngineMove : f8b4
+12... Bxb4 | Analysis: -631 | Depth: 21 | EngineMove : g1e2

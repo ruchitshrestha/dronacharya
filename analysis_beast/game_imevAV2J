@@ -1,0 +1,21 @@
+**URL: https://lichess.org/imevAV2J | Tag: imevAV2J | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/imevAV2J', Date='2019.05.07', Round='-', White='chittyct', Black='pal_hatlem', Result='0-1', BlackElo='1319', BlackRatingDiff='+10', ECO='A52', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.07', UTCTime='20:57:59', Variant='Standard', WhiteElo='1300', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -15 | Depth: 13 | EngineMove : d7d5
+1... Nf6 | Analysis: +12 | Depth: 13 | EngineMove : g1f3
+2. c4 | Analysis: -16 | Depth: 12 | EngineMove : e7e6
+2... e5 | Analysis: +16 | Depth: 12 | EngineMove : d4e5
+3. dxe5 | Analysis: -34 | Depth: 13 | EngineMove : f6g4
+3... Ng4 | Analysis: +25 | Depth: 12 | EngineMove : e2e3
+4. h3 | Analysis: +13 | Depth: 12 | EngineMove : g4e5
+4... Nxe5 | Analysis: -8 | Depth: 12 | EngineMove : e2e3
+5. Bf4 | Analysis: +31 | Depth: 11 | EngineMove : f8b4
+5... Bb4+ | Analysis: -47 | Depth: 12 | EngineMove : f4d2
+6. Bd2 | Analysis: +45 | Depth: 12 | EngineMove : b8c6
+6... Qe7 | Analysis: -3 | Depth: 13 | EngineMove : e2e3
+7. Bxb4 | Analysis: +36 | Depth: 12 | EngineMove : e7b4
+7... Qxb4+ | Analysis: -40 | Depth: 13 | EngineMove : d1d2
+8. Nc3 | Analysis: +92 | Depth: 12 | EngineMove : b4b2
+8... Qxb2 | Analysis: -108 | Depth: 13 | EngineMove : c3d5
+9. Na4 | Analysis: +440 | Depth: 12 | EngineMove : b2b4
+9... Qb4+ | Analysis: -463 | Depth: 14 | EngineMove : d1d2

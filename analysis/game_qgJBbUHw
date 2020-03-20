@@ -1,0 +1,26 @@
+**URL: https://lichess.org/qgJBbUHw | Tag: qgJBbUHw | Side: white**
+HEADERS: Headers(Event='Rated Correspondence game', Site='https://lichess.org/qgJBbUHw', Date='2019.10.14', Round='-', White='chittyct', Black='UltrabulletWorldRace', Result='1-0', BlackElo='1447', BlackRatingDiff='-9', ECO='A40', Termination='Time forfeit', TimeControl='-', UTCDate='2019.10.14', UTCTime='13:04:15', Variant='Standard', WhiteElo='1500', WhiteRatingDiff='+177')
+
+1. d4 | Analysis: -14 | Depth: 17 | EngineMove : g8f6
+1... e5 | Analysis: +69 | Depth: 17 | EngineMove : d4e5
+2. dxe5 | Analysis: -70 | Depth: 17 | EngineMove : b8c6
+2... Bc5 | Analysis: +96 | Depth: 17 | EngineMove : b1c3
+3. Nf3 | Analysis: -95 | Depth: 18 | EngineMove : f7f6
+3... h6 | Analysis: +136 | Depth: 17 | EngineMove : a2a3
+4. Nc3 | Analysis: -108 | Depth: 16 | EngineMove : b8c6
+4... g5 | Analysis: +150 | Depth: 14 | EngineMove : h2h3
+5. e4 | Analysis: -148 | Depth: 17 | EngineMove : b8c6
+5... g4 | Analysis: +189 | Depth: 17 | EngineMove : f3d2
+6. Nd4 | Analysis: -163 | Depth: 16 | EngineMove : b8c6
+6... Bxd4 | Analysis: +221 | Depth: 17 | EngineMove : d1d4
+7. Qxd4 | Analysis: -209 | Depth: 18 | EngineMove : b8c6
+7... Nc6 | Analysis: +239 | Depth: 18 | EngineMove : d4a4
+8. Qc4 | Analysis: -149 | Depth: 17 | EngineMove : c6e5
+8... Nxe5 | Analysis: +171 | Depth: 18 | EngineMove : c4b5
+9. Qd4 | Analysis: -141 | Depth: 16 | EngineMove : d7d6
+9... Qf6 | Analysis: +249 | Depth: 17 | EngineMove : c3b5
+10. Be3 | Analysis: -206 | Depth: 16 | EngineMove : d7d6
+10... Ne7 | Analysis: +234 | Depth: 18 | EngineMove : e1c1
+11. Nb5 | Analysis: -179 | Depth: 18 | EngineMove : e7c6
+11... Kd8 | Analysis: +185 | Depth: 18 | EngineMove : d4c3
+12. Nxa7 | Analysis: -150 | Depth: 15 | EngineMove : d7d6

@@ -1,0 +1,33 @@
+**URL: https://lichess.org/En1OEC84 | Tag: En1OEC84 | Side: white**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/En1OEC84', Date='2018.09.12', Round='-', White='chittyct', Black='TorresLucas', Result='1-0', BlackElo='1331', BlackRatingDiff='-11', ECO='A45', Termination='Normal', TimeControl='600+0', UTCDate='2018.09.12', UTCTime='21:42:50', Variant='Standard', WhiteElo='1300', WhiteRatingDiff='+15')
+
+1. d4 | Analysis: -11 | Depth: 12 | EngineMove : d7d5
+1... Nf6 | Analysis: +12 | Depth: 14 | EngineMove : e2e3
+2. Bf4 | Analysis: -14 | Depth: 12 | EngineMove : e7e6
+2... g6 | Analysis: +33 | Depth: 11 | EngineMove : e2e3
+3. e3 | Analysis: -24 | Depth: 13 | EngineMove : f8g7
+3... d5 | Analysis: +38 | Depth: 12 | EngineMove : c2c4
+4. c4 | Analysis: -51 | Depth: 11 | EngineMove : e7e6
+4... c6 | Analysis: +62 | Depth: 12 | EngineMove : b1c3
+5. Nc3 | Analysis: -55 | Depth: 13 | EngineMove : f8g7
+5... Bg7 | Analysis: +50 | Depth: 13 | EngineMove : g1f3
+6. Nf3 | Analysis: -50 | Depth: 14 | EngineMove : e8g8
+6... dxc4 | Analysis: +81 | Depth: 12 | EngineMove : f1c4
+7. Bxc4 | Analysis: -74 | Depth: 13 | EngineMove : e8g8
+7... Be6 | Analysis: +152 | Depth: 12 | EngineMove : c4e6
+8. b3 | Analysis: -50 | Depth: 12 | EngineMove : f6d5
+8... Nbd7 | Analysis: +95 | Depth: 12 | EngineMove : c4e6
+9. Bxe6 | Analysis: -124 | Depth: 13 | EngineMove : f7e6
+9... fxe6 | Analysis: +119 | Depth: 13 | EngineMove : e1g1
+10. O-O | Analysis: -122 | Depth: 13 | EngineMove : d8a5
+10... c5 | Analysis: +134 | Depth: 11 | EngineMove : c3a4
+11. Re1 | Analysis: -79 | Depth: 11 | EngineMove : e8g8
+11... cxd4 | Analysis: +186 | Depth: 12 | EngineMove : e3d4
+12. exd4 | Analysis: -203 | Depth: 12 | EngineMove : e8g8
+12... O-O | Analysis: +175 | Depth: 13 | EngineMove : d1e2
+13. Rxe6 | Analysis: -100 | Depth: 14 | EngineMove : a8c8
+13... Nb6 | Analysis: +122 | Depth: 13 | EngineMove : f4g5
+14. Re1 | Analysis: -102 | Depth: 13 | EngineMove : b6d5
+14... Ng4 | Analysis: +170 | Depth: 13 | EngineMove : f4g3
+15. Bg5 | Analysis: -38 | Depth: 14 | EngineMove : g4f2
+15... Qxd4 | Analysis: +1065 | Depth: 13 | EngineMove : f3d4

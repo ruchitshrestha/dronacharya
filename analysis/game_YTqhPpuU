@@ -1,0 +1,27 @@
+**URL: https://lichess.org/YTqhPpuU | Tag: YTqhPpuU | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/YTqhPpuU', Date='2019.06.04', Round='-', White='TyrantShores', Black='chittyct', Result='0-1', BlackElo='1381', BlackRatingDiff='+11', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.04', UTCTime='12:55:12', Variant='Standard', WhiteElo='1404', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -20 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +35 | Depth: 17 | EngineMove : g1f3
+2. Bc4 | Analysis: +3 | Depth: 18 | EngineMove : g8f6
+2... Nc6 | Analysis: +12 | Depth: 18 | EngineMove : g1f3
+3. c3 | Analysis: +31 | Depth: 18 | EngineMove : g8f6
+3... e6 | Analysis: -15 | Depth: 18 | EngineMove : g1f3
+4. d3 | Analysis: +41 | Depth: 19 | EngineMove : d7d5
+4... a6 | Analysis: 0 | Depth: 18 | EngineMove : c4b3
+5. a4 | Analysis: +30 | Depth: 19 | EngineMove : d7d5
+5... Na5 | Analysis: +2 | Depth: 18 | EngineMove : c4a2
+6. Ba2 | Analysis: +2 | Depth: 20 | EngineMove : d7d5
+6... d5 | Analysis: 0 | Depth: 21 | EngineMove : b1d2
+7. Qf3 | Analysis: +37 | Depth: 17 | EngineMove : g8f6
+7... dxe4 | Analysis: -32 | Depth: 18 | EngineMove : d3e4
+8. dxe4 | Analysis: +41 | Depth: 19 | EngineMove : c8d7
+8... b6 | Analysis: -17 | Depth: 18 | EngineMove : c1f4
+9. e5 | Analysis: +102 | Depth: 18 | EngineMove : c8b7
+9... Bb7 | Analysis: -97 | Depth: 19 | EngineMove : f3h3
+10. Qg3 | Analysis: +109 | Depth: 19 | EngineMove : g8e7
+10... Nc6 | Analysis: -8 | Depth: 18 | EngineMove : g1f3
+11. Qh3 | Analysis: +389 | Depth: 16 | EngineMove : c6e5
+11... Nxe5 | Analysis: -230 | Depth: 18 | EngineMove : g1f3
+12. Bf4 | Analysis: +1244 | Depth: 19 | EngineMove : e5d3
+12... Nd3+ | Analysis: -1243 | Depth: 20 | EngineMove : h3d3

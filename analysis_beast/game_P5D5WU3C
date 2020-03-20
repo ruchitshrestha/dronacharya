@@ -1,0 +1,31 @@
+**URL: https://lichess.org/P5D5WU3C | Tag: P5D5WU3C | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/P5D5WU3C', Date='2018.12.10', Round='-', White='chittyct', Black='th_lima', Result='1-0', BlackElo='1192', BlackRatingDiff='-9', ECO='D32', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.10', UTCTime='15:38:06', Variant='Standard', WhiteElo='1265', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -28 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +28 | Depth: 14 | EngineMove : e2e3
+2. c4 | Analysis: -20 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +7 | Depth: 14 | EngineMove : e2e3
+3. Nc3 | Analysis: -13 | Depth: 14 | EngineMove : g8f6
+3... c5 | Analysis: +22 | Depth: 12 | EngineMove : g1f3
+4. cxd5 | Analysis: -17 | Depth: 12 | EngineMove : e6d5
+4... Be7 | Analysis: +143 | Depth: 12 | EngineMove : e2e4
+5. dxc5 | Analysis: -97 | Depth: 11 | EngineMove : e7c5
+5... exd5 | Analysis: +130 | Depth: 11 | EngineMove : d1d5
+6. Nxd5 | Analysis: -75 | Depth: 12 | EngineMove : e7c5
+6... Bxc5 | Analysis: +66 | Depth: 12 | EngineMove : e2e4
+7. e3 | Analysis: -32 | Depth: 12 | EngineMove : g8e7
+7... Ne7 | Analysis: +27 | Depth: 12 | EngineMove : d5e7
+8. Bc4 | Analysis: -12 | Depth: 12 | EngineMove : c8e6
+8... Be6 | Analysis: +12 | Depth: 12 | EngineMove : e3e4
+9. e4 | Analysis: -19 | Depth: 12 | EngineMove : e8g8
+9... a6 | Analysis: +85 | Depth: 11 | EngineMove : g1f3
+10. a4 | Analysis: +41 | Depth: 11 | EngineMove : b8d7
+10... Nbc6 | Analysis: +39 | Depth: 12 | EngineMove : g1f3
+11. Bg5 | Analysis: +15 | Depth: 12 | EngineMove : c6e5
+11... f6 | Analysis: 0 | Depth: 11 | EngineMove : g5e3
+12. Bf4 | Analysis: -27 | Depth: 11 | EngineMove : c6d4
+12... Nb4 | Analysis: +270 | Depth: 13 | EngineMove : d5c7
+13. Nc7+ | Analysis: -230 | Depth: 16 | EngineMove : d8c7
+13... Kf7 | Analysis: +900 | Depth: 11 | EngineMove : c4e6
+14. Bxe6+ | Analysis: -716 | Depth: 13 | EngineMove : f7f8
+14... Kg6 | Analysis: #+1 | Depth: 127 | EngineMove : d1g4

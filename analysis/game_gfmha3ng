@@ -1,0 +1,21 @@
+**URL: https://lichess.org/gfmha3ng | Tag: gfmha3ng | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/gfmha3ng', Date='2019.10.06', Round='-', White='Janon01134', Black='chittyct', Result='0-1', BlackElo='1129', BlackRatingDiff='+9', ECO='B32', Termination='Normal', TimeControl='60+0', UTCDate='2019.10.06', UTCTime='01:09:47', Variant='Standard', WhiteElo='1185', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -17 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +46 | Depth: 18 | EngineMove : b1c3
+2. Nf3 | Analysis: -36 | Depth: 17 | EngineMove : e7e6
+2... Nc6 | Analysis: +30 | Depth: 18 | EngineMove : f1b5
+3. d4 | Analysis: -26 | Depth: 18 | EngineMove : c5d4
+3... a6 | Analysis: +132 | Depth: 16 | EngineMove : d4d5
+4. dxc5 | Analysis: -67 | Depth: 17 | EngineMove : e7e6
+4... e5 | Analysis: +120 | Depth: 17 | EngineMove : f1c4
+5. b4 | Analysis: -54 | Depth: 15 | EngineMove : d7d6
+5... a5 | Analysis: +250 | Depth: 18 | EngineMove : b4b5
+6. b5 | Analysis: -238 | Depth: 18 | EngineMove : f8c5
+6... Na7 | Analysis: +363 | Depth: 17 | EngineMove : c1a3
+7. a4 | Analysis: -131 | Depth: 17 | EngineMove : f8c5
+7... Bxc5 | Analysis: +155 | Depth: 20 | EngineMove : c1a3
+8. Nxe5 | Analysis: +60 | Depth: 18 | EngineMove : d8f6
+8... Qe7 | Analysis: +205 | Depth: 17 | EngineMove : e5d3
+9. Bc4 | Analysis: +163 | Depth: 17 | EngineMove : e7e5
+9... Qxe5 | Analysis: -204 | Depth: 17 | EngineMove : c1a3

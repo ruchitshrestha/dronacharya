@@ -1,0 +1,28 @@
+**URL: https://lichess.org/KHuvmgiv | Tag: KHuvmgiv | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/KHuvmgiv', Date='2019.02.13', Round='-', White='Snipkiller', Black='chittyct', Result='0-1', BlackElo='1262', BlackRatingDiff='+8', ECO='B21', Termination='Normal', TimeControl='180+2', UTCDate='2019.02.13', UTCTime='14:57:43', Variant='Standard', WhiteElo='1170', WhiteRatingDiff='-8')
+
+1. e4 | Analysis: -31 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +46 | Depth: 12 | EngineMove : b1c3
+2. d4 | Analysis: -43 | Depth: 13 | EngineMove : c5d4
+2... cxd4 | Analysis: +24 | Depth: 12 | EngineMove : d1d4
+3. c3 | Analysis: -23 | Depth: 12 | EngineMove : e7e5
+3... Nc6 | Analysis: +47 | Depth: 13 | EngineMove : c3d4
+4. cxd4 | Analysis: -42 | Depth: 12 | EngineMove : e7e6
+4... e6 | Analysis: +39 | Depth: 13 | EngineMove : d4d5
+5. e5 | Analysis: +56 | Depth: 11 | EngineMove : d7d6
+5... Nge7 | Analysis: -32 | Depth: 12 | EngineMove : b1c3
+6. Nf3 | Analysis: +15 | Depth: 13 | EngineMove : d7d6
+6... Nf5 | Analysis: -9 | Depth: 11 | EngineMove : b1c3
+7. Bd3 | Analysis: +39 | Depth: 11 | EngineMove : f5d4
+7... Nfxd4 | Analysis: -43 | Depth: 13 | EngineMove : f3d4
+8. Nxd4 | Analysis: +34 | Depth: 14 | EngineMove : c6d4
+8... Nxd4 | Analysis: -13 | Depth: 13 | EngineMove : b1c3
+9. Be4 | Analysis: +115 | Depth: 12 | EngineMove : d4c6
+9... Qa5+ | Analysis: -44 | Depth: 12 | EngineMove : b1c3
+10. Nc3 | Analysis: +61 | Depth: 13 | EngineMove : a5e5
+10... Qxe5 | Analysis: -55 | Depth: 13 | EngineMove : e1g1
+11. O-O | Analysis: +72 | Depth: 12 | EngineMove : f7f5
+11... d5 | Analysis: -22 | Depth: 13 | EngineMove : f1e1
+12. Be3 | Analysis: +117 | Depth: 12 | EngineMove : d4c6
+12... Bd6 | Analysis: +231 | Depth: 13 | EngineMove : f2f4
+13. Bxd4 | Analysis: #+1 | Depth: 127 | EngineMove : e5h2

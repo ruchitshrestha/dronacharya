@@ -1,0 +1,13 @@
+**URL: https://lichess.org/88euzjCu | Tag: 88euzjCu | Side: black**
+HEADERS: Headers(Event='<1700 Bullet Arena', Site='https://lichess.org/88euzjCu', Date='2018.10.16', Round='-', White='kaliber44', Black='chittyct', Result='1-0', BlackElo='937', BlackRatingDiff='-1', ECO='B21', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.16', UTCTime='05:08:18', Variant='Standard', WhiteElo='1426', WhiteRatingDiff='+1')
+
+1. e4 | Analysis: -27 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +27 | Depth: 17 | EngineMove : g1f3
+2. d4 | Analysis: -8 | Depth: 19 | EngineMove : c5d4
+2... Nc6 | Analysis: +124 | Depth: 16 | EngineMove : d4d5
+3. c3 | Analysis: -32 | Depth: 17 | EngineMove : c5d4
+3... cxd4 | Analysis: +34 | Depth: 17 | EngineMove : c3d4
+4. Bc4 | Analysis: +68 | Depth: 17 | EngineMove : g8f6
+4... dxc3 | Analysis: -11 | Depth: 18 | EngineMove : b1c3
+5. Qb3 | Analysis: +73 | Depth: 19 | EngineMove : e7e6
+5... cxb2 | Analysis: #+1 | Depth: 127 | EngineMove : c4f7

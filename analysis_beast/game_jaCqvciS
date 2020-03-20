@@ -1,0 +1,5 @@
+**URL: https://lichess.org/jaCqvciS | Tag: jaCqvciS | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/jaCqvciS', Date='2018.12.17', Round='-', White='chittyct', Black='Nikolai-Zhavko-1995', Result='0-1', BlackElo='1625', BlackRatingDiff='+1', ECO='A40', Termination='Normal', TimeControl='30+0', UTCDate='2018.12.17', UTCTime='09:18:30', Variant='Standard', WhiteElo='965', WhiteRatingDiff='-2')
+
+1. d4 | Analysis: -20 | Depth: 14 | EngineMove : g8f6
+1... b6 | Analysis: +68 | Depth: 12 | EngineMove : e2e4

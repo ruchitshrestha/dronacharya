@@ -1,0 +1,31 @@
+**URL: https://lichess.org/ep1gpmuU | Tag: ep1gpmuU | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ep1gpmuU', Date='2019.04.25', Round='-', White='chittyct', Black='gabriefg', Result='0-1', BlackElo='1333', BlackRatingDiff='+8', ECO='A56', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.04.25', UTCTime='15:45:11', Variant='Standard', WhiteElo='1253', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -31 | Depth: 11 | EngineMove : g8f6
+1... Nf6 | Analysis: +10 | Depth: 13 | EngineMove : g1f3
+2. c4 | Analysis: -14 | Depth: 14 | EngineMove : e7e6
+2... c5 | Analysis: +62 | Depth: 12 | EngineMove : d4d5
+3. dxc5 | Analysis: +18 | Depth: 12 | EngineMove : e7e6
+3... Na6 | Analysis: +60 | Depth: 12 | EngineMove : a2a3
+4. Be3 | Analysis: +31 | Depth: 12 | EngineMove : e7e6
+4... e6 | Analysis: -5 | Depth: 13 | EngineMove : b1d2
+5. g3 | Analysis: +53 | Depth: 12 | EngineMove : f8c5
+5... Nxc5 | Analysis: +1 | Depth: 11 | EngineMove : b1c3
+6. Bg2 | Analysis: -7 | Depth: 11 | EngineMove : d7d5
+6... Nce4 | Analysis: +25 | Depth: 13 | EngineMove : g1f3
+7. Bxe4 | Analysis: +37 | Depth: 13 | EngineMove : f6e4
+7... Nxe4 | Analysis: -17 | Depth: 15 | EngineMove : b1d2
+8. Qd4 | Analysis: +43 | Depth: 12 | EngineMove : e4d6
+8... Nf6 | Analysis: -25 | Depth: 13 | EngineMove : b1c3
+9. Bg5 | Analysis: +83 | Depth: 11 | EngineMove : f8e7
+9... Be7 | Analysis: -74 | Depth: 13 | EngineMove : b1c3
+10. Bxf6 | Analysis: +112 | Depth: 14 | EngineMove : e7f6
+10... Bxf6 | Analysis: -106 | Depth: 15 | EngineMove : d4d2
+11. Qf4 | Analysis: +601 | Depth: 14 | EngineMove : f6b2
+11... Qa5+ | Analysis: -151 | Depth: 14 | EngineMove : f4d2
+12. Nc3 | Analysis: +505 | Depth: 13 | EngineMove : f6c3
+12... Bxc3+ | Analysis: -519 | Depth: 15 | EngineMove : e1f1
+13. bxc3 | Analysis: +693 | Depth: 14 | EngineMove : a5c3
+13... Qxc3+ | Analysis: -701 | Depth: 16 | EngineMove : e1f1
+14. Qd2 | Analysis: +771 | Depth: 13 | EngineMove : c3a1
+14... Qxa1+ | Analysis: -777 | Depth: 16 | EngineMove : d2d1

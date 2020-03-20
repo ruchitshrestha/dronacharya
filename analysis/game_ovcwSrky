@@ -1,0 +1,19 @@
+**URL: https://lichess.org/ovcwSrky | Tag: ovcwSrky | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ovcwSrky', Date='2018.09.07', Round='-', White='chittyct', Black='Alejandits', Result='1-0', BlackElo='923', BlackRatingDiff='-12', ECO='D00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.07', UTCTime='02:17:14', Variant='Standard', WhiteElo='890', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -21 | Depth: 16 | EngineMove : d7d5
+1... d5 | Analysis: +23 | Depth: 17 | EngineMove : c2c4
+2. Bf4 | Analysis: -25 | Depth: 16 | EngineMove : e7e6
+2... e6 | Analysis: +27 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -25 | Depth: 17 | EngineMove : f8d6
+3... Nc6 | Analysis: +27 | Depth: 17 | EngineMove : g1f3
+4. Bd3 | Analysis: -8 | Depth: 17 | EngineMove : f8d6
+4... Nf6 | Analysis: +26 | Depth: 18 | EngineMove : c2c3
+5. c3 | Analysis: -29 | Depth: 18 | EngineMove : f8d6
+5... Ng4 | Analysis: +97 | Depth: 18 | EngineMove : d1g4
+6. Nd2 | Analysis: -36 | Depth: 18 | EngineMove : e6e5
+6... Bd6 | Analysis: +422 | Depth: 17 | EngineMove : d1g4
+7. Qxg4 | Analysis: -422 | Depth: 17 | EngineMove : g7g6
+7... O-O | Analysis: +432 | Depth: 17 | EngineMove : f4h6
+8. Bh6 | Analysis: -446 | Depth: 17 | EngineMove : g7g6
+8... Kh8 | Analysis: #+1 | Depth: 127 | EngineMove : g4g7

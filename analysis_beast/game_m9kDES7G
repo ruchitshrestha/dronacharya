@@ -1,0 +1,27 @@
+**URL: https://lichess.org/m9kDES7G | Tag: m9kDES7G | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/m9kDES7G', Date='2018.10.03', Round='-', White='chittyct', Black='LABHESH', Result='0-1', BlackElo='1131', BlackRatingDiff='+11', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.03', UTCTime='21:31:10', Variant='Standard', WhiteElo='1028', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -4 | Depth: 12 | EngineMove : d7d5
+1... e5 | Analysis: +56 | Depth: 12 | EngineMove : d4e5
+2. dxe5 | Analysis: -75 | Depth: 12 | EngineMove : b8c6
+2... Qe7 | Analysis: +127 | Depth: 12 | EngineMove : b1c3
+3. Nf3 | Analysis: -91 | Depth: 13 | EngineMove : b8c6
+3... Nc6 | Analysis: +85 | Depth: 13 | EngineMove : b1c3
+4. e3 | Analysis: -36 | Depth: 12 | EngineMove : c6e5
+4... Nxe5 | Analysis: +52 | Depth: 12 | EngineMove : c2c4
+5. Ng1 | Analysis: +36 | Depth: 11 | EngineMove : g8f6
+5... Qf6 | Analysis: +30 | Depth: 12 | EngineMove : b1c3
+6. Nf3 | Analysis: 0 | Depth: 14 | EngineMove : f6e7
+6... Nxf3+ | Analysis: +7 | Depth: 13 | EngineMove : d1f3
+7. gxf3 | Analysis: +24 | Depth: 12 | EngineMove : c7c6
+7... Bb4+ | Analysis: +13 | Depth: 11 | EngineMove : c2c3
+8. c3 | Analysis: +32 | Depth: 13 | EngineMove : b4c5
+8... Bc5 | Analysis: -20 | Depth: 14 | EngineMove : b1d2
+9. b4 | Analysis: +102 | Depth: 11 | EngineMove : c5b4
+9... Bd6 | Analysis: +11 | Depth: 12 | EngineMove : b1d2
+10. e4 | Analysis: +97 | Depth: 11 | EngineMove : g8e7
+10... Nh6 | Analysis: +6 | Depth: 12 | EngineMove : h2h4
+11. Bc4 | Analysis: +49 | Depth: 12 | EngineMove : e8g8
+11... O-O | Analysis: -39 | Depth: 12 | EngineMove : d1e2
+12. Bxh6 | Analysis: +144 | Depth: 12 | EngineMove : f6h6
+12... Qxh6 | Analysis: -138 | Depth: 13 | EngineMove : a2a4

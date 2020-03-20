@@ -1,0 +1,9 @@
+**URL: https://lichess.org/UbBCVKoi | Tag: UbBCVKoi | Side: black**
+HEADERS: Headers(Event='Daily SuperBlitz Arena', Site='https://lichess.org/UbBCVKoi', Date='2018.08.26', Round='-', White='JardelFarias', Black='chittyct', Result='1-0', BlackElo='1109', BlackRatingDiff='-2', ECO='C20', Termination='Normal', TimeControl='180+0', UTCDate='2018.08.26', UTCTime='15:31:36', Variant='Standard', WhiteElo='1669', WhiteRatingDiff='+1')
+
+1. e4 | Analysis: -27 | Depth: 17 | EngineMove : e7e6
+1... e5 | Analysis: +21 | Depth: 18 | EngineMove : g1f3
+2. Bc4 | Analysis: -24 | Depth: 16 | EngineMove : b8c6
+2... Bc5 | Analysis: +20 | Depth: 17 | EngineMove : g1f3
+3. Qf3 | Analysis: +34 | Depth: 17 | EngineMove : g8f6
+3... d6 | Analysis: #+1 | Depth: 127 | EngineMove : f3f7

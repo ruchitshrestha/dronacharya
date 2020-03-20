@@ -1,0 +1,31 @@
+**URL: https://lichess.org/TlwhHbtq | Tag: TlwhHbtq | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/TlwhHbtq', Date='2019.11.26', Round='-', White='chittyct', Black='KakarimSensei', Result='1-0', BlackElo='1110', BlackRatingDiff='-5', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.26', UTCTime='17:44:38', Variant='Standard', WhiteElo='1219', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -14 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +12 | Depth: 17 | EngineMove : g1f3
+2. Bf4 | Analysis: -20 | Depth: 17 | EngineMove : c8f5
+2... e6 | Analysis: +19 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -11 | Depth: 17 | EngineMove : g8f6
+3... Nc6 | Analysis: +33 | Depth: 16 | EngineMove : g1f3
+4. Nf3 | Analysis: -27 | Depth: 17 | EngineMove : f8d6
+4... Bd6 | Analysis: +26 | Depth: 17 | EngineMove : f4d6
+5. Bg3 | Analysis: -13 | Depth: 15 | EngineMove : g8f6
+5... Bxg3 | Analysis: +22 | Depth: 18 | EngineMove : h2g3
+6. hxg3 | Analysis: -24 | Depth: 17 | EngineMove : g8f6
+6... Nf6 | Analysis: +20 | Depth: 15 | EngineMove : b1c3
+7. c4 | Analysis: -25 | Depth: 17 | EngineMove : e8g8
+7... O-O | Analysis: +25 | Depth: 16 | EngineMove : f1e2
+8. cxd5 | Analysis: -4 | Depth: 18 | EngineMove : e6d5
+8... Nxd5 | Analysis: +49 | Depth: 15 | EngineMove : b1d2
+9. e4 | Analysis: -29 | Depth: 16 | EngineMove : d5f6
+9... Ndb4 | Analysis: +78 | Depth: 17 | EngineMove : a2a3
+10. a3 | Analysis: -82 | Depth: 16 | EngineMove : b4a6
+10... Na6 | Analysis: +80 | Depth: 17 | EngineMove : b1c3
+11. Nc3 | Analysis: -106 | Depth: 15 | EngineMove : c8d7
+11... b6 | Analysis: +186 | Depth: 17 | EngineMove : e4e5
+12. Qc2 | Analysis: +37 | Depth: 17 | EngineMove : c6d4
+12... Nab8 | Analysis: +189 | Depth: 18 | EngineMove : e4e5
+13. Rc1 | Analysis: -117 | Depth: 15 | EngineMove : h7h6
+13... a5 | Analysis: +280 | Depth: 19 | EngineMove : e4e5
+14. e5 | Analysis: -231 | Depth: 19 | EngineMove : h7h6
+14... Ba6 | Analysis: #+1 | Depth: 127 | EngineMove : c2h7

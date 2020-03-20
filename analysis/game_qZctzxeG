@@ -1,0 +1,33 @@
+**URL: https://lichess.org/qZctzxeG | Tag: qZctzxeG | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/qZctzxeG', Date='2018.09.23', Round='-', White='chittyct', Black='n9ite', Result='1-0', BlackElo='935', BlackRatingDiff='-7', ECO='D02', Termination='Normal', TimeControl='180+0', UTCDate='2018.09.23', UTCTime='23:59:50', Variant='Standard', WhiteElo='1089', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -17 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 19 | EngineMove : e2e3
+2. Nf3 | Analysis: -20 | Depth: 18 | EngineMove : e7e6
+2... e6 | Analysis: +17 | Depth: 18 | EngineMove : e2e3
+3. Bf4 | Analysis: -25 | Depth: 17 | EngineMove : f8e7
+3... c6 | Analysis: +50 | Depth: 17 | EngineMove : e2e3
+4. e3 | Analysis: -36 | Depth: 18 | EngineMove : g8f6
+4... Nf6 | Analysis: +43 | Depth: 19 | EngineMove : f1d3
+5. c4 | Analysis: -31 | Depth: 17 | EngineMove : b8d7
+5... dxc4 | Analysis: +68 | Depth: 18 | EngineMove : f1c4
+6. Bxc4 | Analysis: -60 | Depth: 17 | EngineMove : b8d7
+6... a6 | Analysis: +72 | Depth: 17 | EngineMove : e1g1
+7. Nc3 | Analysis: -72 | Depth: 16 | EngineMove : b8d7
+7... a5 | Analysis: +97 | Depth: 17 | EngineMove : e1g1
+8. a3 | Analysis: -88 | Depth: 19 | EngineMove : f8e7
+8... Bd7 | Analysis: +131 | Depth: 17 | EngineMove : e1g1
+9. O-O | Analysis: -134 | Depth: 19 | EngineMove : f8e7
+9... e5 | Analysis: +468 | Depth: 18 | EngineMove : d4e5
+10. dxe5 | Analysis: -474 | Depth: 20 | EngineMove : d7e6
+10... Ng4 | Analysis: +752 | Depth: 17 | EngineMove : d1b3
+11. Ng5 | Analysis: -569 | Depth: 21 | EngineMove : g4e5
+11... f6 | Analysis: #+2 | Depth: 127 | EngineMove : c4f7
+12. e6 | Analysis: -547 | Depth: 19 | EngineMove : f6g5
+12... Bc8 | Analysis: +1217 | Depth: 19 | EngineMove : d1g4
+13. Nf7 | Analysis: -760 | Depth: 18 | EngineMove : d8d1
+13... Qxd1 | Analysis: +770 | Depth: 20 | EngineMove : a1d1
+14. Raxd1 | Analysis: -783 | Depth: 19 | EngineMove : f8e7
+14... Rg8 | Analysis: #+2 | Depth: 127 | EngineMove : d1d8
+15. Rd8+ | Analysis: #-1 | Depth: 127 | EngineMove : e8e7
+15... Ke7 | Analysis: #+1 | Depth: 127 | EngineMove : f4d6

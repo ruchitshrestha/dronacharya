@@ -1,0 +1,23 @@
+**URL: https://lichess.org/DHJxQcvO | Tag: DHJxQcvO | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/DHJxQcvO', Date='2019.09.30', Round='-', White='chittyct', Black='Tiger_Lee', Result='0-1', BlackElo='1443', BlackRatingDiff='+6', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.09.30', UTCTime='18:10:37', Variant='Standard', WhiteElo='1408', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -26 | Depth: 14 | EngineMove : g8f6
+1... d5 | Analysis: +24 | Depth: 14 | EngineMove : e2e3
+2. Bf4 | Analysis: -22 | Depth: 13 | EngineMove : e7e6
+2... e6 | Analysis: +8 | Depth: 14 | EngineMove : g1f3
+3. e3 | Analysis: -8 | Depth: 15 | EngineMove : g8f6
+3... Nf6 | Analysis: +10 | Depth: 14 | EngineMove : f1d3
+4. c4 | Analysis: +13 | Depth: 11 | EngineMove : f8b4
+4... Ne4 | Analysis: +14 | Depth: 11 | EngineMove : g1e2
+5. cxd5 | Analysis: +184 | Depth: 11 | EngineMove : f8b4
+5... Qxd5 | Analysis: +63 | Depth: 10 | EngineMove : f1d3
+6. a3 | Analysis: -66 | Depth: 11 | EngineMove : c8d7
+6... Qa5+ | Analysis: +58 | Depth: 15 | EngineMove : b1d2
+7. Ke2 | Analysis: +305 | Depth: 10 | EngineMove : a5b5
+7... Bb4 | Analysis: -26 | Depth: 13 | EngineMove : f2f3
+8. Nd2 | Analysis: +326 | Depth: 13 | EngineMove : b4d2
+8... Bxd2 | Analysis: -273 | Depth: 13 | EngineMove : d1c2
+9. b4 | Analysis: +639 | Depth: 11 | EngineMove : a5d5
+9... Qb6 | Analysis: -412 | Depth: 14 | EngineMove : d1c2
+10. f3 | Analysis: #+1 | Depth: 127 | EngineMove : b6b5
+10... Nc3+ | Analysis: -680 | Depth: 14 | EngineMove : e2d2

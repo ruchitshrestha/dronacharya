@@ -1,0 +1,29 @@
+**URL: https://lichess.org/ybyPnGoI | Tag: ybyPnGoI | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ybyPnGoI', Date='2018.08.30', Round='-', White='chittyct', Black='DASKAPITAL', Result='0-1', BlackElo='903', BlackRatingDiff='+18', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2018.08.30', UTCTime='18:12:43', Variant='Standard', WhiteElo='975', WhiteRatingDiff='-15')
+
+1. d4 | Analysis: -13 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+2. Bf4 | Analysis: -3 | Depth: 19 | EngineMove : e7e6
+2... Nc6 | Analysis: +23 | Depth: 16 | EngineMove : e2e3
+3. e3 | Analysis: -15 | Depth: 18 | EngineMove : c8f5
+3... Bf5 | Analysis: +8 | Depth: 18 | EngineMove : g1f3
+4. Nd2 | Analysis: -7 | Depth: 19 | EngineMove : e7e6
+4... Nb4 | Analysis: +46 | Depth: 18 | EngineMove : f1b5
+5. Bd3 | Analysis: +107 | Depth: 20 | EngineMove : f5d3
+5... Bxd3 | Analysis: -110 | Depth: 21 | EngineMove : c2d3
+6. cxd3 | Analysis: +108 | Depth: 21 | EngineMove : b4d3
+6... Nxd3+ | Analysis: -109 | Depth: 21 | EngineMove : e1f1
+7. Ke2 | Analysis: +120 | Depth: 20 | EngineMove : d3f4
+7... Nxf4+ | Analysis: -124 | Depth: 22 | EngineMove : e3f4
+8. Ke1 | Analysis: +522 | Depth: 19 | EngineMove : f4g2
+8... Nxg2+ | Analysis: -532 | Depth: 20 | EngineMove : e1e2
+9. Ke2 | Analysis: +544 | Depth: 19 | EngineMove : g2h4
+9... e6 | Analysis: -533 | Depth: 17 | EngineMove : d1b3
+10. Ngf3 | Analysis: +539 | Depth: 18 | EngineMove : g2h4
+10... Qf6 | Analysis: -380 | Depth: 17 | EngineMove : d1a4
+11. Rg1 | Analysis: +463 | Depth: 19 | EngineMove : g2h4
+11... Bd6 | Analysis: -228 | Depth: 17 | EngineMove : g1g2
+12. Rxg2 | Analysis: +233 | Depth: 18 | EngineMove : g8e7
+12... Nh6 | Analysis: -225 | Depth: 18 | EngineMove : d1b3
+13. Qa4+ | Analysis: +226 | Depth: 19 | EngineMove : c7c6
+13... c6 | Analysis: -239 | Depth: 18 | EngineMove : a4b3

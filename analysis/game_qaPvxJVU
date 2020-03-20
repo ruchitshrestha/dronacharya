@@ -1,0 +1,16 @@
+**URL: https://lichess.org/qaPvxJVU | Tag: qaPvxJVU | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/qaPvxJVU', Date='2019.11.16', Round='-', White='arashab1365', Black='chittyct', Result='1-0', BlackElo='1493', BlackRatingDiff='-7', ECO='A00', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.11.16', UTCTime='11:22:36', Variant='Standard', WhiteElo='1521', WhiteRatingDiff='+7')
+
+1. g3 | Analysis: +31 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +3 | Depth: 17 | EngineMove : e2e4
+2. Bg2 | Analysis: +12 | Depth: 18 | EngineMove : d7d5
+2... Nc6 | Analysis: 0 | Depth: 17 | EngineMove : e2e4
+3. Nf3 | Analysis: -10 | Depth: 17 | EngineMove : d7d5
+3... e6 | Analysis: +10 | Depth: 19 | EngineMove : e1g1
+4. d3 | Analysis: +20 | Depth: 19 | EngineMove : g8f6
+4... d5 | Analysis: -21 | Depth: 19 | EngineMove : e1g1
+5. Bd2 | Analysis: +25 | Depth: 19 | EngineMove : f8e7
+5... a6 | Analysis: -25 | Depth: 19 | EngineMove : e1g1
+6. Qc1 | Analysis: +44 | Depth: 19 | EngineMove : f8e7
+6... b5 | Analysis: -33 | Depth: 16 | EngineMove : e1g1
+7. Nc3 | Analysis: +51 | Depth: 19 | EngineMove : g8f6

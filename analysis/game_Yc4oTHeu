@@ -1,0 +1,21 @@
+**URL: https://lichess.org/Yc4oTHeu | Tag: Yc4oTHeu | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Yc4oTHeu', Date='2018.10.14', Round='-', White='chittyct', Black='Klokwork', Result='1-0', BlackElo='1034', BlackRatingDiff='-10', ECO='A48', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.14', UTCTime='06:55:09', Variant='Standard', WhiteElo='1071', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -19 | Depth: 17 | EngineMove : g8f6
+1... Nf6 | Analysis: +15 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -16 | Depth: 18 | EngineMove : e7e6
+2... g6 | Analysis: +53 | Depth: 16 | EngineMove : c2c4
+3. Bf4 | Analysis: -18 | Depth: 16 | EngineMove : f8g7
+3... e6 | Analysis: +59 | Depth: 16 | EngineMove : e2e3
+4. e3 | Analysis: -63 | Depth: 17 | EngineMove : d7d5
+4... d6 | Analysis: +79 | Depth: 17 | EngineMove : c2c4
+5. Bd3 | Analysis: -54 | Depth: 17 | EngineMove : f8g7
+5... Nbd7 | Analysis: +49 | Depth: 16 | EngineMove : e1g1
+6. c4 | Analysis: -45 | Depth: 18 | EngineMove : e6e5
+6... b6 | Analysis: +33 | Depth: 15 | EngineMove : e1g1
+7. Bg5 | Analysis: -30 | Depth: 17 | EngineMove : c8b7
+7... Be7 | Analysis: +31 | Depth: 16 | EngineMove : e1g1
+8. Nc3 | Analysis: -28 | Depth: 18 | EngineMove : c8b7
+8... Bb7 | Analysis: +24 | Depth: 18 | EngineMove : e1g1
+9. Rc1 | Analysis: -18 | Depth: 16 | EngineMove : h7h6
+9... Nc5 | Analysis: +284 | Depth: 17 | EngineMove : d4c5

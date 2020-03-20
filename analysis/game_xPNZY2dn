@@ -1,0 +1,23 @@
+**URL: https://lichess.org/xPNZY2dn | Tag: xPNZY2dn | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/xPNZY2dn', Date='2018.12.14', Round='-', White='Zignast', Black='chittyct', Result='1-0', BlackElo='1271', BlackRatingDiff='-10', ECO='B20', Termination='Normal', TimeControl='300+3', UTCDate='2018.12.14', UTCTime='20:52:36', Variant='Standard', WhiteElo='1282', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -31 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +42 | Depth: 17 | EngineMove : g1f3
+2. Bc4 | Analysis: 0 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +7 | Depth: 18 | EngineMove : g1f3
+3. Nf3 | Analysis: +2 | Depth: 18 | EngineMove : g8f6
+3... d6 | Analysis: +12 | Depth: 17 | EngineMove : e1g1
+4. h3 | Analysis: -10 | Depth: 18 | EngineMove : g8f6
+4... Nf6 | Analysis: +5 | Depth: 19 | EngineMove : b1c3
+5. Nc3 | Analysis: -18 | Depth: 19 | EngineMove : a7a6
+5... e5 | Analysis: +119 | Depth: 18 | EngineMove : f3g5
+6. a3 | Analysis: +33 | Depth: 18 | EngineMove : f6e4
+6... Be7 | Analysis: +16 | Depth: 19 | EngineMove : d2d3
+7. d3 | Analysis: -14 | Depth: 20 | EngineMove : e8g8
+7... a6 | Analysis: +15 | Depth: 19 | EngineMove : a3a4
+8. Nh4 | Analysis: +55 | Depth: 18 | EngineMove : f6e4
+8... Nxe4 | Analysis: -48 | Depth: 19 | EngineMove : c3e4
+9. Nxe4 | Analysis: +54 | Depth: 18 | EngineMove : d6d5
+9... Bxh4 | Analysis: -29 | Depth: 19 | EngineMove : d1h5
+10. Qf3 | Analysis: +96 | Depth: 18 | EngineMove : e8g8
+10... Nd4 | Analysis: #+1 | Depth: 127 | EngineMove : f3f7

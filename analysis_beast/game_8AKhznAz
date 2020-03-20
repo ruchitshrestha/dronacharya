@@ -1,0 +1,14 @@
+**URL: https://lichess.org/8AKhznAz | Tag: 8AKhznAz | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/8AKhznAz', Date='2018.10.15', Round='-', White='chittyct', Black='Kendomovie', Result='1-0', BlackElo='851', BlackRatingDiff='-10', ECO='D02', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.15', UTCTime='01:49:21', Variant='Standard', WhiteElo='897', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -18 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +5 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -19 | Depth: 15 | EngineMove : e7e6
+2... Nc6 | Analysis: +35 | Depth: 12 | EngineMove : e2e3
+3. Bf4 | Analysis: -24 | Depth: 13 | EngineMove : e7e6
+3... Bg4 | Analysis: +20 | Depth: 12 | EngineMove : e2e3
+4. e3 | Analysis: -13 | Depth: 14 | EngineMove : e7e6
+4... Bxf3 | Analysis: +27 | Depth: 14 | EngineMove : d1f3
+5. Qxf3 | Analysis: -20 | Depth: 13 | EngineMove : e7e6
+5... Qd6 | Analysis: +796 | Depth: 14 | EngineMove : f4d6
+6. Bxd6 | Analysis: -784 | Depth: 15 | EngineMove : c7d6

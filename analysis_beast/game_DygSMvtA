@@ -1,0 +1,26 @@
+**URL: https://lichess.org/DygSMvtA | Tag: DygSMvtA | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/DygSMvtA', Date='2019.06.11', Round='-', White='chittyct', Black='necmettinsahin', Result='1-0', BlackElo='1369', BlackRatingDiff='-11', ECO='A43', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.06.11', UTCTime='14:19:34', Variant='Standard', WhiteElo='1326', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : d7d5
+1... c5 | Analysis: +46 | Depth: 13 | EngineMove : d4d5
+2. d5 | Analysis: -46 | Depth: 13 | EngineMove : e7e6
+2... d6 | Analysis: +56 | Depth: 13 | EngineMove : e2e4
+3. e4 | Analysis: -56 | Depth: 14 | EngineMove : g8f6
+3... e6 | Analysis: +59 | Depth: 12 | EngineMove : g1f3
+4. Nf3 | Analysis: -47 | Depth: 13 | EngineMove : g8f6
+4... Nf6 | Analysis: +56 | Depth: 13 | EngineMove : b1c3
+5. dxe6 | Analysis: +3 | Depth: 12 | EngineMove : c8e6
+5... Bxe6 | Analysis: 0 | Depth: 13 | EngineMove : b1c3
+6. Nc3 | Analysis: +4 | Depth: 13 | EngineMove : b8c6
+6... Nc6 | Analysis: +9 | Depth: 14 | EngineMove : f1d3
+7. Bg5 | Analysis: +15 | Depth: 12 | EngineMove : f8e7
+7... Be7 | Analysis: -14 | Depth: 13 | EngineMove : f1d3
+8. Be2 | Analysis: +8 | Depth: 13 | EngineMove : h7h6
+8... Qb6 | Analysis: +14 | Depth: 12 | EngineMove : e1g1
+9. b3 | Analysis: 0 | Depth: 12 | EngineMove : h7h6
+9... Qb4 | Analysis: +5 | Depth: 13 | EngineMove : g5d2
+10. Bd2 | Analysis: -18 | Depth: 14 | EngineMove : f6e4
+10... O-O | Analysis: +17 | Depth: 12 | EngineMove : f3g5
+11. O-O | Analysis: 0 | Depth: 14 | EngineMove : f6e4
+11... d5 | Analysis: +431 | Depth: 13 | EngineMove : e4d5
+12. exd5 | Analysis: -401 | Depth: 14 | EngineMove : e6d7

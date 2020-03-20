@@ -1,0 +1,31 @@
+**URL: https://lichess.org/ROXVyh3I | Tag: ROXVyh3I | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ROXVyh3I', Date='2019.06.05', Round='-', White='Chaykofe', Black='chittyct', Result='0-1', BlackElo='1415', BlackRatingDiff='+11', ECO='B21', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.05', UTCTime='00:12:00', Variant='Standard', WhiteElo='1428', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -22 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +62 | Depth: 12 | EngineMove : g1f3
+2. d4 | Analysis: -14 | Depth: 13 | EngineMove : c5d4
+2... cxd4 | Analysis: +21 | Depth: 12 | EngineMove : c2c3
+3. c3 | Analysis: -13 | Depth: 12 | EngineMove : e7e5
+3... dxc3 | Analysis: +7 | Depth: 12 | EngineMove : b1c3
+4. Nxc3 | Analysis: -6 | Depth: 13 | EngineMove : b8c6
+4... e5 | Analysis: +75 | Depth: 13 | EngineMove : f1c4
+5. Nf3 | Analysis: -60 | Depth: 12 | EngineMove : b8c6
+5... Nc6 | Analysis: +37 | Depth: 12 | EngineMove : f1c4
+6. Bc4 | Analysis: -50 | Depth: 13 | EngineMove : d7d6
+6... a6 | Analysis: +106 | Depth: 12 | EngineMove : e1g1
+7. Qe2 | Analysis: -26 | Depth: 12 | EngineMove : h7h6
+7... b5 | Analysis: +35 | Depth: 12 | EngineMove : c4b3
+8. Bb3 | Analysis: -42 | Depth: 12 | EngineMove : f8c5
+8... d6 | Analysis: +98 | Depth: 11 | EngineMove : a2a4
+9. O-O | Analysis: -66 | Depth: 12 | EngineMove : c8g4
+9... Bg4 | Analysis: +78 | Depth: 13 | EngineMove : c1e3
+10. Rd1 | Analysis: +18 | Depth: 13 | EngineMove : c6d4
+10... Nd4 | Analysis: -32 | Depth: 14 | EngineMove : e2d3
+11. Bxf7+ | Analysis: +255 | Depth: 13 | EngineMove : e8f7
+11... Kxf7 | Analysis: -227 | Depth: 12 | EngineMove : d1d4
+12. Ng5+ | Analysis: +640 | Depth: 14 | EngineMove : d8g5
+12... Qxg5 | Analysis: -657 | Depth: 14 | EngineMove : c1g5
+13. Bxg5 | Analysis: +661 | Depth: 14 | EngineMove : d4e2
+13... Bxe2 | Analysis: -482 | Depth: 14 | EngineMove : d1d4
+14. Nxe2 | Analysis: +675 | Depth: 13 | EngineMove : d4e2
+14... Nxe2+ | Analysis: -688 | Depth: 14 | EngineMove : g1f1

@@ -1,0 +1,29 @@
+**URL: https://lichess.org/USCR1U5e | Tag: USCR1U5e | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/USCR1U5e', Date='2019.11.04', Round='-', White='egora66677', Black='chittyct', Result='0-1', BlackElo='1502', BlackRatingDiff='+6', ECO='A02', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.11.04', UTCTime='08:16:36', Variant='Standard', WhiteElo='1465', WhiteRatingDiff='-6')
+
+1. f4 | Analysis: +27 | Depth: 13 | EngineMove : d7d5
+1... c5 | Analysis: +3 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: +27 | Depth: 12 | EngineMove : g8f6
+2... Nc6 | Analysis: +17 | Depth: 12 | EngineMove : e2e4
+3. e3 | Analysis: +13 | Depth: 12 | EngineMove : g8f6
+3... h5 | Analysis: +3 | Depth: 12 | EngineMove : f1b5
+4. Nc3 | Analysis: -9 | Depth: 13 | EngineMove : d7d5
+4... e6 | Analysis: +10 | Depth: 14 | EngineMove : f1b5
+5. Bb5 | Analysis: +2 | Depth: 14 | EngineMove : d7d5
+5... a6 | Analysis: +29 | Depth: 14 | EngineMove : b5c6
+6. Bxc6 | Analysis: -35 | Depth: 15 | EngineMove : b7c6
+6... bxc6 | Analysis: +42 | Depth: 13 | EngineMove : e1g1
+7. O-O | Analysis: -37 | Depth: 13 | EngineMove : h5h4
+7... d5 | Analysis: +52 | Depth: 13 | EngineMove : b2b3
+8. d4 | Analysis: +3 | Depth: 13 | EngineMove : g8f6
+8... cxd4 | Analysis: 0 | Depth: 13 | EngineMove : e3d4
+9. exd4 | Analysis: +7 | Depth: 14 | EngineMove : f8d6
+9... Nf6 | Analysis: -4 | Depth: 13 | EngineMove : f3e5
+10. Ne5 | Analysis: +3 | Depth: 14 | EngineMove : d8c7
+10... Ng4 | Analysis: +49 | Depth: 12 | EngineMove : e5c6
+11. Nxg4 | Analysis: -22 | Depth: 11 | EngineMove : h5g4
+11... hxg4 | Analysis: +26 | Depth: 12 | EngineMove : d1g4
+12. Qxg4 | Analysis: -40 | Depth: 12 | EngineMove : f8e7
+12... e5 | Analysis: +63 | Depth: 12 | EngineMove : f4f5
+13. Qf3 | Analysis: +71 | Depth: 11 | EngineMove : e5d4
+13... exd4 | Analysis: -29 | Depth: 12 | EngineMove : f1e1

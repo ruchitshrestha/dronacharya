@@ -1,0 +1,31 @@
+**URL: https://lichess.org/9wbLhpY5 | Tag: 9wbLhpY5 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/9wbLhpY5', Date='2019.05.17', Round='-', White='dejankeesjager', Black='chittyct', Result='1-0', BlackElo='1308', BlackRatingDiff='-13', ECO='B32', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.17', UTCTime='17:10:49', Variant='Standard', WhiteElo='1246', WhiteRatingDiff='+12')
+
+1. e4 | Analysis: -23 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +43 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -50 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +32 | Depth: 12 | EngineMove : d2d4
+3. d4 | Analysis: -22 | Depth: 13 | EngineMove : c5d4
+3... cxd4 | Analysis: +20 | Depth: 14 | EngineMove : f3d4
+4. Nxd4 | Analysis: -12 | Depth: 14 | EngineMove : e7e6
+4... Ne5 | Analysis: +120 | Depth: 11 | EngineMove : f1b5
+5. Nc3 | Analysis: -106 | Depth: 13 | EngineMove : d7d6
+5... a6 | Analysis: +134 | Depth: 11 | EngineMove : f1e2
+6. Bf4 | Analysis: -93 | Depth: 12 | EngineMove : e5g6
+6... d6 | Analysis: +76 | Depth: 12 | EngineMove : f1e2
+7. Be2 | Analysis: -68 | Depth: 13 | EngineMove : g8f6
+7... Nf6 | Analysis: +70 | Depth: 12 | EngineMove : e1g1
+8. O-O | Analysis: -65 | Depth: 13 | EngineMove : c8d7
+8... b5 | Analysis: +124 | Depth: 11 | EngineMove : a2a4
+9. Bxe5 | Analysis: -8 | Depth: 12 | EngineMove : d6e5
+9... dxe5 | Analysis: +33 | Depth: 12 | EngineMove : d4b3
+10. Nc6 | Analysis: +53 | Depth: 14 | EngineMove : d8c7
+10... Qxd1 | Analysis: +147 | Depth: 12 | EngineMove : f1d1
+11. Raxd1 | Analysis: -143 | Depth: 14 | EngineMove : c8d7
+11... Bb7 | Analysis: +223 | Depth: 15 | EngineMove : c3b5
+12. Bxb5 | Analysis: -125 | Depth: 15 | EngineMove : a8c8
+12... axb5 | Analysis: +426 | Depth: 17 | EngineMove : c3b5
+13. Nxb5 | Analysis: -481 | Depth: 16 | EngineMove : f6d5
+13... Rc8 | Analysis: #+2 | Depth: 127 | EngineMove : b5c7
+14. Nc7+ | Analysis: #-1 | Depth: 127 | EngineMove : c8c7
+14... Rxc7 | Analysis: #+1 | Depth: 127 | EngineMove : d1d8

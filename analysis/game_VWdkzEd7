@@ -1,0 +1,31 @@
+**URL: https://lichess.org/VWdkzEd7 | Tag: VWdkzEd7 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/VWdkzEd7', Date='2018.10.28', Round='-', White='chittyct', Black='vrnvhr12', Result='0-1', BlackElo='1144', BlackRatingDiff='+10', ECO='D02', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.28', UTCTime='04:35:55', Variant='Standard', WhiteElo='1043', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -20 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +8 | Depth: 18 | EngineMove : g1f3
+2. Nf3 | Analysis: -4 | Depth: 17 | EngineMove : c8f5
+2... Nc6 | Analysis: +38 | Depth: 18 | EngineMove : c2c4
+3. Bf4 | Analysis: -12 | Depth: 18 | EngineMove : c8f5
+3... Bg4 | Analysis: +17 | Depth: 18 | EngineMove : e2e3
+4. e3 | Analysis: -15 | Depth: 19 | EngineMove : e7e6
+4... Nf6 | Analysis: +32 | Depth: 18 | EngineMove : b1d2
+5. Bd3 | Analysis: -17 | Depth: 18 | EngineMove : g4f3
+5... e6 | Analysis: +14 | Depth: 20 | EngineMove : b1d2
+6. O-O | Analysis: -1 | Depth: 19 | EngineMove : f8d6
+6... Bd6 | Analysis: +4 | Depth: 20 | EngineMove : c2c3
+7. Bg5 | Analysis: +15 | Depth: 17 | EngineMove : h7h6
+7... h6 | Analysis: -12 | Depth: 19 | EngineMove : g5h4
+8. Bf4 | Analysis: +110 | Depth: 19 | EngineMove : d6f4
+8... Bxf4 | Analysis: -116 | Depth: 20 | EngineMove : e3f4
+9. exf4 | Analysis: +114 | Depth: 19 | EngineMove : c6d4
+9... O-O | Analysis: -7 | Depth: 20 | EngineMove : c2c3
+10. Ne5 | Analysis: +725 | Depth: 20 | EngineMove : g4d1
+10... Nxd4 | Analysis: +236 | Depth: 20 | EngineMove : e5g4
+11. Qd2 | Analysis: +112 | Depth: 17 | EngineMove : c7c5
+11... Qd6 | Analysis: -107 | Depth: 19 | EngineMove : f1e1
+12. c3 | Analysis: +105 | Depth: 21 | EngineMove : d4c6
+12... Nb5 | Analysis: +230 | Depth: 17 | EngineMove : d3b5
+13. Bxb5 | Analysis: -247 | Depth: 17 | EngineMove : g4f5
+13... c6 | Analysis: +260 | Depth: 18 | EngineMove : b5d3
+14. Bxc6 | Analysis: +51 | Depth: 18 | EngineMove : b7c6
+14... bxc6 | Analysis: -45 | Depth: 19 | EngineMove : c3c4

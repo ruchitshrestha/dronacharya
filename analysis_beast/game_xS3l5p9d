@@ -1,0 +1,19 @@
+**URL: https://lichess.org/xS3l5p9d | Tag: xS3l5p9d | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/xS3l5p9d', Date='2019.11.05', Round='-', White='chittyct', Black='irvajn', Result='0-1', BlackElo='1322', BlackRatingDiff='+7', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.05', UTCTime='20:31:34', Variant='Standard', WhiteElo='1302', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -24 | Depth: 12 | EngineMove : g8f6
+1... e6 | Analysis: +29 | Depth: 11 | EngineMove : e2e4
+2. Bf4 | Analysis: -22 | Depth: 11 | EngineMove : g7g5
+2... Nf6 | Analysis: +6 | Depth: 13 | EngineMove : e2e3
+3. Nc3 | Analysis: 0 | Depth: 12 | EngineMove : f8b4
+3... Bb4 | Analysis: -2 | Depth: 13 | EngineMove : e2e3
+4. Nf3 | Analysis: +14 | Depth: 13 | EngineMove : d7d5
+4... b6 | Analysis: -14 | Depth: 13 | EngineMove : e2e3
+5. Qd3 | Analysis: +52 | Depth: 11 | EngineMove : c8a6
+5... Bb7 | Analysis: -29 | Depth: 11 | EngineMove : f4g5
+6. O-O-O | Analysis: +22 | Depth: 13 | EngineMove : e8g8
+6... Bxc3 | Analysis: -11 | Depth: 15 | EngineMove : d3c3
+7. Qxc3 | Analysis: +2 | Depth: 14 | EngineMove : d7d6
+7... Nd5 | Analysis: +5 | Depth: 15 | EngineMove : c3d2
+8. Qe3 | Analysis: +685 | Depth: 14 | EngineMove : d5e3
+8... Nxe3 | Analysis: -675 | Depth: 15 | EngineMove : f4e3

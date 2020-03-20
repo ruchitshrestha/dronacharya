@@ -1,0 +1,32 @@
+**URL: https://lichess.org/wqCGee3f | Tag: wqCGee3f | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/wqCGee3f', Date='2019.02.12', Round='-', White='chittyct', Black='Kayla12', Result='1-0', BlackElo='1288', BlackRatingDiff='-28', ECO='A84', Termination='Time forfeit', TimeControl='300+3', UTCDate='2019.02.12', UTCTime='17:29:11', Variant='Standard', WhiteElo='1254', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +17 | Depth: 17 | EngineMove : e2e4
+2. c4 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+2... f5 | Analysis: +47 | Depth: 18 | EngineMove : g1f3
+3. Nc3 | Analysis: -36 | Depth: 18 | EngineMove : g8f6
+3... Nf6 | Analysis: +37 | Depth: 18 | EngineMove : e2e3
+4. Nf3 | Analysis: -33 | Depth: 19 | EngineMove : f8e7
+4... Be7 | Analysis: +33 | Depth: 18 | EngineMove : e2e3
+5. Bg5 | Analysis: -30 | Depth: 19 | EngineMove : e8g8
+5... O-O | Analysis: +29 | Depth: 20 | EngineMove : e2e3
+6. e3 | Analysis: -36 | Depth: 17 | EngineMove : d7d6
+6... h6 | Analysis: +27 | Depth: 19 | EngineMove : g5h4
+7. Bxf6 | Analysis: -9 | Depth: 18 | EngineMove : e7f6
+7... Bxf6 | Analysis: +5 | Depth: 19 | EngineMove : f1e2
+8. Rc1 | Analysis: -8 | Depth: 17 | EngineMove : b7b6
+8... d5 | Analysis: +112 | Depth: 19 | EngineMove : c4d5
+9. Ne5 | Analysis: -28 | Depth: 19 | EngineMove : f6e5
+9... Nd7 | Analysis: +108 | Depth: 17 | EngineMove : e5g6
+10. Bd3 | Analysis: +62 | Depth: 17 | EngineMove : d7e5
+10... Nxe5 | Analysis: -70 | Depth: 19 | EngineMove : d4e5
+11. dxe5 | Analysis: +68 | Depth: 18 | EngineMove : d5c4
+11... Bxe5 | Analysis: -53 | Depth: 19 | EngineMove : c4d5
+12. cxd5 | Analysis: +53 | Depth: 19 | EngineMove : e5c3
+12... exd5 | Analysis: -64 | Depth: 18 | EngineMove : c3d5
+13. Nxd5 | Analysis: +66 | Depth: 19 | EngineMove : c7c6
+13... Qxd5 | Analysis: +256 | Depth: 20 | EngineMove : d3c4
+14. Bc4 | Analysis: -265 | Depth: 18 | EngineMove : d5c4
+14... Qxc4 | Analysis: +270 | Depth: 20 | EngineMove : c1c4
+15. Rxc4 | Analysis: -265 | Depth: 19 | EngineMove : c8e6

@@ -1,0 +1,30 @@
+**URL: https://lichess.org/214sP9K3 | Tag: 214sP9K3 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/214sP9K3', Date='2019.10.14', Round='-', White='Myrtilos78', Black='chittyct', Result='0-1', BlackElo='1130', BlackRatingDiff='+8', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2019.10.14', UTCTime='10:17:09', Variant='Standard', WhiteElo='1137', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -20 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +29 | Depth: 17 | EngineMove : g1f3
+2. g3 | Analysis: -1 | Depth: 16 | EngineMove : b8c6
+2... Nc6 | Analysis: +4 | Depth: 19 | EngineMove : f1g2
+3. Bg2 | Analysis: -6 | Depth: 20 | EngineMove : d7d6
+3... a6 | Analysis: +21 | Depth: 17 | EngineMove : g1e2
+4. Nf3 | Analysis: -16 | Depth: 17 | EngineMove : g8f6
+4... b5 | Analysis: +69 | Depth: 16 | EngineMove : a2a4
+5. d4 | Analysis: -52 | Depth: 17 | EngineMove : c5d4
+5... cxd4 | Analysis: +53 | Depth: 18 | EngineMove : f3d4
+6. Nxd4 | Analysis: -42 | Depth: 19 | EngineMove : e7e5
+6... Nxd4 | Analysis: +71 | Depth: 18 | EngineMove : d1d4
+7. Qxd4 | Analysis: -66 | Depth: 18 | EngineMove : c8b7
+7... Bb7 | Analysis: +61 | Depth: 19 | EngineMove : e1g1
+8. Nc3 | Analysis: -64 | Depth: 18 | EngineMove : e7e6
+8... Rc8 | Analysis: +85 | Depth: 17 | EngineMove : a2a4
+9. Bd2 | Analysis: -34 | Depth: 18 | EngineMove : e7e6
+9... d6 | Analysis: +144 | Depth: 16 | EngineMove : a2a4
+10. O-O-O | Analysis: -31 | Depth: 16 | EngineMove : g8f6
+10... e5 | Analysis: +44 | Depth: 17 | EngineMove : d4d3
+11. Qe3 | Analysis: -26 | Depth: 17 | EngineMove : g8f6
+11... Nf6 | Analysis: +24 | Depth: 18 | EngineMove : a2a3
+12. h4 | Analysis: -19 | Depth: 19 | EngineMove : f8e7
+12... Qc7 | Analysis: +31 | Depth: 18 | EngineMove : e3d3
+13. f3 | Analysis: +201 | Depth: 20 | EngineMove : b5b4
+13... b4 | Analysis: -197 | Depth: 19 | EngineMove : g2h3
+14. Nd5 | Analysis: #+1 | Depth: 127 | EngineMove : c7c2

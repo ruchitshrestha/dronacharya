@@ -1,0 +1,6 @@
+**URL: https://lichess.org/Xj4eEa3K | Tag: Xj4eEa3K | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Xj4eEa3K', Date='2018.10.04', Round='-', White='Bgelly', Black='chittyct', Result='1-0', BlackElo='1099', BlackRatingDiff='-12', ECO='B20', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.10.04', UTCTime='21:02:18', Variant='Standard', WhiteElo='1071', WhiteRatingDiff='+12')
+
+1. e4 | Analysis: -45 | Depth: 12 | EngineMove : c7c5
+1... c5 | Analysis: +50 | Depth: 13 | EngineMove : g1f3
+2. Bc4 | Analysis: -29 | Depth: 12 | EngineMove : b8c6

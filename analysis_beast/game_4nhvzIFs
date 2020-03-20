@@ -1,0 +1,32 @@
+**URL: https://lichess.org/4nhvzIFs | Tag: 4nhvzIFs | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/4nhvzIFs', Date='2019.07.10', Round='-', White='chittyct', Black='youssefarara', Result='1-0', BlackElo='1195', BlackRatingDiff='-16', ECO='E61', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.10', UTCTime='14:31:24', Variant='Standard', WhiteElo='1387', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -32 | Depth: 12 | EngineMove : d7d5
+1... Nf6 | Analysis: +22 | Depth: 13 | EngineMove : c1f4
+2. c4 | Analysis: -16 | Depth: 14 | EngineMove : e7e6
+2... g6 | Analysis: +70 | Depth: 13 | EngineMove : b1c3
+3. Nc3 | Analysis: -49 | Depth: 13 | EngineMove : f8g7
+3... Bg7 | Analysis: +43 | Depth: 14 | EngineMove : e2e4
+4. Bf4 | Analysis: -24 | Depth: 12 | EngineMove : f6h5
+4... d6 | Analysis: +36 | Depth: 13 | EngineMove : g1f3
+5. e3 | Analysis: -3 | Depth: 12 | EngineMove : f6h5
+5... Nc6 | Analysis: +39 | Depth: 12 | EngineMove : g1f3
+6. Be2 | Analysis: -13 | Depth: 14 | EngineMove : e8g8
+6... h5 | Analysis: +108 | Depth: 12 | EngineMove : g1f3
+7. a3 | Analysis: -57 | Depth: 12 | EngineMove : f6d7
+7... a6 | Analysis: +96 | Depth: 13 | EngineMove : g1f3
+8. b4 | Analysis: -4 | Depth: 12 | EngineMove : c8f5
+8... b5 | Analysis: +136 | Depth: 13 | EngineMove : c4b5
+9. d5 | Analysis: -37 | Depth: 11 | EngineMove : c6a7
+9... Nb8 | Analysis: +97 | Depth: 11 | EngineMove : g1f3
+10. Nf3 | Analysis: -61 | Depth: 13 | EngineMove : b5c4
+10... bxc4 | Analysis: +33 | Depth: 12 | EngineMove : e1g1
+11. Bxc4 | Analysis: -68 | Depth: 12 | EngineMove : c7c6
+11... a5 | Analysis: +85 | Depth: 11 | EngineMove : e1g1
+12. b5 | Analysis: -40 | Depth: 14 | EngineMove : c8g4
+12... Ne4 | Analysis: +382 | Depth: 12 | EngineMove : c3e4
+13. Nxe4 | Analysis: -353 | Depth: 12 | EngineMove : c8f5
+13... Bxa1 | Analysis: +434 | Depth: 12 | EngineMove : d1a1
+14. Qxa1 | Analysis: -439 | Depth: 12 | EngineMove : f7f6
+14... Bf5 | Analysis: +856 | Depth: 13 | EngineMove : a1h8
+15. Qxh8+ | Analysis: -850 | Depth: 14 | EngineMove : e8d7

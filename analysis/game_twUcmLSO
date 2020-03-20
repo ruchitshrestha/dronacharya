@@ -1,0 +1,32 @@
+**URL: https://lichess.org/twUcmLSO | Tag: twUcmLSO | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/twUcmLSO', Date='2019.06.03', Round='-', White='famnit23', Black='chittyct', Result='1-0', BlackElo='1304', BlackRatingDiff='-14', ECO='B20', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.06.03', UTCTime='19:19:49', Variant='Standard', WhiteElo='1177', WhiteRatingDiff='+15')
+
+1. e4 | Analysis: -18 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +42 | Depth: 16 | EngineMove : g1f3
+2. Bc4 | Analysis: +4 | Depth: 18 | EngineMove : g8f6
+2... a6 | Analysis: +26 | Depth: 17 | EngineMove : g1f3
+3. Qh5 | Analysis: +66 | Depth: 17 | EngineMove : e7e6
+3... e6 | Analysis: -48 | Depth: 19 | EngineMove : d2d3
+4. d3 | Analysis: +38 | Depth: 19 | EngineMove : b8c6
+4... b5 | Analysis: -48 | Depth: 19 | EngineMove : c4b3
+5. Bb3 | Analysis: +34 | Depth: 19 | EngineMove : b8c6
+5... Bb7 | Analysis: -27 | Depth: 19 | EngineMove : h5e2
+6. Qf3 | Analysis: +55 | Depth: 18 | EngineMove : g8f6
+6... Nf6 | Analysis: -52 | Depth: 18 | EngineMove : b1c3
+7. Nc3 | Analysis: +80 | Depth: 18 | EngineMove : d7d5
+7... Nc6 | Analysis: -49 | Depth: 16 | EngineMove : g1e2
+8. Be3 | Analysis: +77 | Depth: 15 | EngineMove : f8d6
+8... Nd4 | Analysis: -68 | Depth: 16 | EngineMove : f3h3
+9. Bxd4 | Analysis: +69 | Depth: 17 | EngineMove : c5d4
+9... cxd4 | Analysis: -70 | Depth: 18 | EngineMove : c3e2
+10. Nce2 | Analysis: +75 | Depth: 18 | EngineMove : f8b4
+10... Rc8 | Analysis: -8 | Depth: 18 | EngineMove : e2d4
+11. O-O-O | Analysis: +275 | Depth: 18 | EngineMove : a6a5
+11... Bd6 | Analysis: -119 | Depth: 17 | EngineMove : e2d4
+12. Nxd4 | Analysis: +132 | Depth: 20 | EngineMove : d8b6
+12... O-O | Analysis: -76 | Depth: 16 | EngineMove : g1e2
+13. Nge2 | Analysis: +62 | Depth: 18 | EngineMove : d8b6
+13... Be5 | Analysis: -16 | Depth: 18 | EngineMove : h2h3
+14. g4 | Analysis: +46 | Depth: 16 | EngineMove : d7d5
+14... Bxd4 | Analysis: +20 | Depth: 18 | EngineMove : e2d4
+15. Nxd4 | Analysis: -16 | Depth: 17 | EngineMove : d7d5

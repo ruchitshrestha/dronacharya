@@ -1,0 +1,31 @@
+**URL: https://lichess.org/TlwhHbtq | Tag: TlwhHbtq | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/TlwhHbtq', Date='2019.11.26', Round='-', White='chittyct', Black='KakarimSensei', Result='1-0', BlackElo='1110', BlackRatingDiff='-5', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.26', UTCTime='17:44:38', Variant='Standard', WhiteElo='1219', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -17 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +20 | Depth: 15 | EngineMove : g1f3
+2. Bf4 | Analysis: -21 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +20 | Depth: 15 | EngineMove : g1f3
+3. e3 | Analysis: -21 | Depth: 14 | EngineMove : g8f6
+3... Nc6 | Analysis: +34 | Depth: 14 | EngineMove : g1f3
+4. Nf3 | Analysis: -30 | Depth: 14 | EngineMove : f8d6
+4... Bd6 | Analysis: +28 | Depth: 13 | EngineMove : f1b5
+5. Bg3 | Analysis: -10 | Depth: 12 | EngineMove : g8e7
+5... Bxg3 | Analysis: +10 | Depth: 14 | EngineMove : h2g3
+6. hxg3 | Analysis: -15 | Depth: 14 | EngineMove : g8f6
+6... Nf6 | Analysis: +17 | Depth: 14 | EngineMove : f1b5
+7. c4 | Analysis: -20 | Depth: 13 | EngineMove : e8g8
+7... O-O | Analysis: +20 | Depth: 14 | EngineMove : b1c3
+8. cxd5 | Analysis: -6 | Depth: 16 | EngineMove : e6d5
+8... Nxd5 | Analysis: +34 | Depth: 12 | EngineMove : a2a3
+9. e4 | Analysis: -24 | Depth: 14 | EngineMove : d5f6
+9... Ndb4 | Analysis: +81 | Depth: 14 | EngineMove : a2a3
+10. a3 | Analysis: -80 | Depth: 15 | EngineMove : b4a6
+10... Na6 | Analysis: +77 | Depth: 14 | EngineMove : b1c3
+11. Nc3 | Analysis: -83 | Depth: 14 | EngineMove : h7h6
+11... b6 | Analysis: +117 | Depth: 12 | EngineMove : d4d5
+12. Qc2 | Analysis: +17 | Depth: 14 | EngineMove : c6d4
+12... Nab8 | Analysis: +214 | Depth: 13 | EngineMove : e4e5
+13. Rc1 | Analysis: -67 | Depth: 12 | EngineMove : h7h6
+13... a5 | Analysis: +253 | Depth: 15 | EngineMove : e4e5
+14. e5 | Analysis: -306 | Depth: 15 | EngineMove : h7h6
+14... Ba6 | Analysis: #+1 | Depth: 127 | EngineMove : c2h7

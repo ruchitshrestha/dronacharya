@@ -1,0 +1,28 @@
+**URL: https://lichess.org/ZwHTRuli | Tag: ZwHTRuli | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ZwHTRuli', Date='2018.09.02', Round='-', White='chittyct', Black='super-code_ru', Result='1-0', BlackElo='815', BlackRatingDiff='-10', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.02', UTCTime='15:54:04', Variant='Standard', WhiteElo='862', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -21 | Depth: 18 | EngineMove : g8f6
+1... Nc6 | Analysis: +62 | Depth: 17 | EngineMove : d4d5
+2. Bf4 | Analysis: -29 | Depth: 17 | EngineMove : e7e6
+2... Nxd4 | Analysis: +210 | Depth: 19 | EngineMove : d1d4
+3. Qxd4 | Analysis: -215 | Depth: 19 | EngineMove : d7d6
+3... d6 | Analysis: +210 | Depth: 20 | EngineMove : d4d3
+4. Qd1 | Analysis: -208 | Depth: 18 | EngineMove : e7e5
+4... e5 | Analysis: +212 | Depth: 19 | EngineMove : f4g3
+5. Bg3 | Analysis: -201 | Depth: 17 | EngineMove : f8e7
+5... f5 | Analysis: +212 | Depth: 18 | EngineMove : e2e3
+6. f3 | Analysis: -176 | Depth: 15 | EngineMove : g8f6
+6... f4 | Analysis: +181 | Depth: 18 | EngineMove : g3f2
+7. Bf2 | Analysis: -179 | Depth: 18 | EngineMove : d6d5
+7... Be7 | Analysis: +213 | Depth: 17 | EngineMove : g2g3
+8. e3 | Analysis: -163 | Depth: 18 | EngineMove : f4e3
+8... Bh4 | Analysis: +215 | Depth: 17 | EngineMove : g2g3
+9. g3 | Analysis: -205 | Depth: 17 | EngineMove : f4e3
+9... fxg3 | Analysis: +284 | Depth: 18 | EngineMove : h2g3
+10. hxg3 | Analysis: -285 | Depth: 18 | EngineMove : h4e7
+10... Bg5 | Analysis: +301 | Depth: 16 | EngineMove : b1c3
+11. f4 | Analysis: -303 | Depth: 17 | EngineMove : g5f6
+11... exf4 | Analysis: +315 | Depth: 17 | EngineMove : g3f4
+12. Qh5+ | Analysis: -126 | Depth: 18 | EngineMove : g7g6
+12... g6 | Analysis: +141 | Depth: 19 | EngineMove : h5e2
+13. Qf3 | Analysis: -12 | Depth: 18 | EngineMove : f4e3

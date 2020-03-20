@@ -1,0 +1,33 @@
+**URL: https://lichess.org/LVYePKiL | Tag: LVYePKiL | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/LVYePKiL', Date='2020.02.26', Round='-', White='chittyct', Black='Grigory_T', Result='1-0', BlackElo='1283', BlackRatingDiff='-9', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.26', UTCTime='00:33:26', Variant='Standard', WhiteElo='1248', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -17 | Depth: 17 | EngineMove : g8f6
+1... b6 | Analysis: +53 | Depth: 18 | EngineMove : e2e4
+2. Bf4 | Analysis: -35 | Depth: 18 | EngineMove : c8b7
+2... Bb7 | Analysis: +13 | Depth: 18 | EngineMove : g1f3
+3. e3 | Analysis: -13 | Depth: 18 | EngineMove : g8f6
+3... e6 | Analysis: +8 | Depth: 18 | EngineMove : g1f3
+4. Nf3 | Analysis: -12 | Depth: 18 | EngineMove : f8e7
+4... Nf6 | Analysis: +13 | Depth: 18 | EngineMove : c2c4
+5. Be2 | Analysis: -13 | Depth: 18 | EngineMove : f8e7
+5... Be7 | Analysis: 0 | Depth: 19 | EngineMove : h2h3
+6. O-O | Analysis: 0 | Depth: 19 | EngineMove : e8g8
+6... O-O | Analysis: 0 | Depth: 20 | EngineMove : h2h3
+7. c4 | Analysis: -1 | Depth: 18 | EngineMove : f6h5
+7... Ne4 | Analysis: +20 | Depth: 17 | EngineMove : f3d2
+8. Nbd2 | Analysis: -21 | Depth: 20 | EngineMove : e4d2
+8... d5 | Analysis: +53 | Depth: 18 | EngineMove : c4d5
+9. cxd5 | Analysis: -41 | Depth: 18 | EngineMove : e4d2
+9... Bxd5 | Analysis: +58 | Depth: 18 | EngineMove : d2e4
+10. Nxe4 | Analysis: -57 | Depth: 20 | EngineMove : d5e4
+10... Bxe4 | Analysis: +62 | Depth: 20 | EngineMove : a1c1
+11. Rc1 | Analysis: -60 | Depth: 20 | EngineMove : e7d6
+11... c5 | Analysis: +75 | Depth: 16 | EngineMove : d4c5
+12. Bd3 | Analysis: -44 | Depth: 19 | EngineMove : e4d3
+12... Bxf3 | Analysis: +189 | Depth: 20 | EngineMove : d1f3
+13. Qxf3 | Analysis: -187 | Depth: 22 | EngineMove : b8d7
+13... cxd4 | Analysis: +503 | Depth: 18 | EngineMove : f3a8
+14. Qxa8 | Analysis: -533 | Depth: 19 | EngineMove : d4e3
+14... dxe3 | Analysis: +543 | Depth: 20 | EngineMove : a8e4
+15. Qe4 | Analysis: -555 | Depth: 19 | EngineMove : g7g6
+15... Bc5 | Analysis: #+1 | Depth: 127 | EngineMove : e4h7

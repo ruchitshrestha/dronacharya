@@ -1,0 +1,32 @@
+**URL: https://lichess.org/qu2uBku7 | Tag: qu2uBku7 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/qu2uBku7', Date='2019.10.01', Round='-', White='chittyct', Black='alvajor44', Result='1-0', BlackElo='1059', BlackRatingDiff='-7', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.10.01', UTCTime='13:50:22', Variant='Standard', WhiteElo='1156', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : g8f6
+1... g6 | Analysis: +96 | Depth: 11 | EngineMove : e2e4
+2. c4 | Analysis: -54 | Depth: 11 | EngineMove : g8f6
+2... Bg7 | Analysis: +65 | Depth: 12 | EngineMove : e2e4
+3. Nc3 | Analysis: -32 | Depth: 13 | EngineMove : c7c5
+3... c6 | Analysis: +82 | Depth: 13 | EngineMove : e2e4
+4. Bf4 | Analysis: -38 | Depth: 12 | EngineMove : d7d5
+4... d5 | Analysis: +57 | Depth: 12 | EngineMove : e2e3
+5. cxd5 | Analysis: -28 | Depth: 13 | EngineMove : c6d5
+5... cxd5 | Analysis: +44 | Depth: 14 | EngineMove : g1f3
+6. Rc1 | Analysis: -32 | Depth: 14 | EngineMove : g8f6
+6... Nc6 | Analysis: +40 | Depth: 14 | EngineMove : e2e3
+7. Nf3 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+7... Bg4 | Analysis: +104 | Depth: 13 | EngineMove : d1b3
+8. Nxd5 | Analysis: +250 | Depth: 12 | EngineMove : d8d5
+8... Qxd5 | Analysis: -247 | Depth: 13 | EngineMove : e2e3
+9. e3 | Analysis: +270 | Depth: 13 | EngineMove : d5a2
+9... Bxf3 | Analysis: -213 | Depth: 13 | EngineMove : d1f3
+10. gxf3 | Analysis: +261 | Depth: 13 | EngineMove : d5a2
+10... O-O-O | Analysis: -120 | Depth: 12 | EngineMove : b2b4
+11. b4 | Analysis: +118 | Depth: 14 | EngineMove : e7e5
+11... Qe6 | Analysis: +259 | Depth: 12 | EngineMove : d1a4
+12. b5 | Analysis: -49 | Depth: 13 | EngineMove : d8d4
+12... Bxd4 | Analysis: +395 | Depth: 14 | EngineMove : d1a4
+13. h4 | Analysis: +367 | Depth: 11 | EngineMove : d4c3
+13... Bxe3 | Analysis: -355 | Depth: 12 | EngineMove : f2e3
+14. Qe2 | Analysis: +301 | Depth: 15 | EngineMove : e3f4
+14... Bxc1 | Analysis: -147 | Depth: 13 | EngineMove : f1h3
+15. Bh3 | Analysis: +155 | Depth: 14 | EngineMove : e6h3

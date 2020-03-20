@@ -1,0 +1,30 @@
+**URL: https://lichess.org/oxHkNweB | Tag: oxHkNweB | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/oxHkNweB', Date='2018.08.31', Round='-', White='Senilonori', Black='chittyct', Result='1-0', BlackElo='1052', BlackRatingDiff='-11', ECO='C23', Termination='Normal', TimeControl='300+0', UTCDate='2018.08.31', UTCTime='13:17:05', Variant='Standard', WhiteElo='1094', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -43 | Depth: 11 | EngineMove : e7e6
+1... e5 | Analysis: +31 | Depth: 12 | EngineMove : g1f3
+2. Bc4 | Analysis: -31 | Depth: 11 | EngineMove : c7c6
+2... c6 | Analysis: +49 | Depth: 13 | EngineMove : b1c3
+3. Qf3 | Analysis: +52 | Depth: 11 | EngineMove : g8f6
+3... Nh6 | Analysis: +48 | Depth: 11 | EngineMove : d2d3
+4. d3 | Analysis: -65 | Depth: 13 | EngineMove : d8e7
+4... b5 | Analysis: +78 | Depth: 12 | EngineMove : c4b3
+5. Bxh6 | Analysis: +45 | Depth: 13 | EngineMove : b5c4
+5... f6 | Analysis: +179 | Depth: 12 | EngineMove : h6g7
+6. Bxg7 | Analysis: -212 | Depth: 14 | EngineMove : f8g7
+6... Bxg7 | Analysis: +198 | Depth: 14 | EngineMove : f3h5
+7. Bb3 | Analysis: -151 | Depth: 11 | EngineMove : d8e7
+7... a5 | Analysis: +455 | Depth: 14 | EngineMove : f3h5
+8. c3 | Analysis: -125 | Depth: 12 | EngineMove : a5a4
+8... a4 | Analysis: +125 | Depth: 12 | EngineMove : f3h5
+9. Bd1 | Analysis: -41 | Depth: 12 | EngineMove : e8g8
+9... c5 | Analysis: +100 | Depth: 11 | EngineMove : f3h5
+10. b4 | Analysis: -31 | Depth: 11 | EngineMove : e8g8
+10... c4 | Analysis: +228 | Depth: 13 | EngineMove : b1a3
+11. dxc4 | Analysis: -156 | Depth: 12 | EngineMove : e8g8
+11... bxc4 | Analysis: +201 | Depth: 13 | EngineMove : d1e2
+12. Nd2 | Analysis: -144 | Depth: 13 | EngineMove : e8g8
+12... Bb7 | Analysis: +210 | Depth: 12 | EngineMove : d2c4
+13. Nxc4 | Analysis: -217 | Depth: 12 | EngineMove : d7d5
+13... Qc8 | Analysis: +1009 | Depth: 13 | EngineMove : c4d6
+14. Nd6+ | Analysis: -1026 | Depth: 14 | EngineMove : e8d8

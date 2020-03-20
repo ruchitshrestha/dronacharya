@@ -1,0 +1,15 @@
+**URL: https://lichess.org/Iq211kWV | Tag: Iq211kWV | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Iq211kWV', Date='2019.12.03', Round='-', White='rafuta', Black='chittyct', Result='0-1', BlackElo='1266', BlackRatingDiff='+7', ECO='B23', Termination='Normal', TimeControl='120+1', UTCDate='2019.12.03', UTCTime='10:20:43', Variant='Standard', WhiteElo='1292', WhiteRatingDiff='-33')
+
+1. e4 | Analysis: -32 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +51 | Depth: 13 | EngineMove : g1f3
+2. Nc3 | Analysis: -46 | Depth: 13 | EngineMove : b8c6
+2... e5 | Analysis: +67 | Depth: 11 | EngineMove : f1c4
+3. Bc4 | Analysis: -31 | Depth: 13 | EngineMove : d7d6
+3... Nc6 | Analysis: +46 | Depth: 14 | EngineMove : d2d3
+4. Qf3 | Analysis: +10 | Depth: 13 | EngineMove : g8f6
+4... Nf6 | Analysis: -13 | Depth: 13 | EngineMove : d2d3
+5. g4 | Analysis: +149 | Depth: 13 | EngineMove : c6d4
+5... Nd4 | Analysis: -91 | Depth: 13 | EngineMove : f3d3
+6. Qg3 | Analysis: +429 | Depth: 11 | EngineMove : d4c2
+6... Nxc2+ | Analysis: -371 | Depth: 12 | EngineMove : e1d1

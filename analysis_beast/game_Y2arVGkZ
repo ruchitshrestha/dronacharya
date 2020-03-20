@@ -1,0 +1,32 @@
+**URL: https://lichess.org/Y2arVGkZ | Tag: Y2arVGkZ | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Y2arVGkZ', Date='2018.10.10', Round='-', White='bluesy125', Black='chittyct', Result='1-0', BlackElo='957', BlackRatingDiff='-13', ECO='B54', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.10', UTCTime='23:10:36', Variant='Standard', WhiteElo='888', WhiteRatingDiff='+13')
+
+1. e4 | Analysis: -47 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +59 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -63 | Depth: 12 | EngineMove : b8c6
+2... d6 | Analysis: +57 | Depth: 12 | EngineMove : f1c4
+3. d4 | Analysis: -41 | Depth: 12 | EngineMove : g8f6
+3... g6 | Analysis: +162 | Depth: 11 | EngineMove : d4c5
+4. d5 | Analysis: -48 | Depth: 13 | EngineMove : f8g7
+4... Nf6 | Analysis: +45 | Depth: 13 | EngineMove : f1d3
+5. Bc4 | Analysis: +8 | Depth: 14 | EngineMove : f6e4
+5... Bg7 | Analysis: +44 | Depth: 14 | EngineMove : b1c3
+6. Be3 | Analysis: +97 | Depth: 13 | EngineMove : f6e4
+6... Bg4 | Analysis: +39 | Depth: 13 | EngineMove : b1d2
+7. O-O | Analysis: +57 | Depth: 13 | EngineMove : f6e4
+7... O-O | Analysis: +27 | Depth: 14 | EngineMove : b1c3
+8. Nbd2 | Analysis: -37 | Depth: 12 | EngineMove : b8d7
+8... Nbd7 | Analysis: +32 | Depth: 14 | EngineMove : c4e2
+9. a3 | Analysis: -7 | Depth: 12 | EngineMove : d7e5
+9... Ne5 | Analysis: +15 | Depth: 14 | EngineMove : c4e2
+10. b4 | Analysis: +255 | Depth: 12 | EngineMove : e5c4
+10... cxb4 | Analysis: -73 | Depth: 13 | EngineMove : c4e2
+11. axb4 | Analysis: +184 | Depth: 13 | EngineMove : e5c4
+11... b6 | Analysis: +3 | Depth: 13 | EngineMove : c4e2
+12. c3 | Analysis: +189 | Depth: 14 | EngineMove : e5c4
+12... a5 | Analysis: +4 | Depth: 13 | EngineMove : c4e2
+13. bxa5 | Analysis: +51 | Depth: 13 | EngineMove : f6e4
+13... bxa5 | Analysis: -25 | Depth: 13 | EngineMove : c4e2
+14. Qa4 | Analysis: +38 | Depth: 12 | EngineMove : e5f3
+14... Nxc4 | Analysis: -28 | Depth: 12 | EngineMove : a4c4
+15. Nxc4 | Analysis: +100 | Depth: 15 | EngineMove : f6e4

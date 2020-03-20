@@ -1,0 +1,32 @@
+**URL: https://lichess.org/vrVsin9g | Tag: vrVsin9g | Side: white**
+HEADERS: Headers(Event='Casual Blitz game', Site='https://lichess.org/vrVsin9g', Date='2018.12.24', Round='-', White='chittyct', Black='dgathogo', Result='1-0', BlackElo='1500', ECO='D03', Termination='Time forfeit', TimeControl='300+3', UTCDate='2018.12.24', UTCTime='03:36:50', Variant='Standard', WhiteElo='1367')
+
+1. d4 | Analysis: -18 | Depth: 14 | EngineMove : g8f6
+1... d5 | Analysis: +24 | Depth: 14 | EngineMove : c1f4
+2. Nf3 | Analysis: -24 | Depth: 14 | EngineMove : e7e6
+2... Nf6 | Analysis: +11 | Depth: 13 | EngineMove : c1f4
+3. Bg5 | Analysis: -5 | Depth: 11 | EngineMove : f6e4
+3... Ng4 | Analysis: +74 | Depth: 13 | EngineMove : e2e3
+4. h3 | Analysis: -49 | Depth: 13 | EngineMove : g4f6
+4... f6 | Analysis: +111 | Depth: 12 | EngineMove : g5d2
+5. Bh4 | Analysis: -53 | Depth: 14 | EngineMove : g4h6
+5... Nh6 | Analysis: +48 | Depth: 14 | EngineMove : e2e3
+6. e3 | Analysis: -49 | Depth: 12 | EngineMove : b8c6
+6... c6 | Analysis: +55 | Depth: 13 | EngineMove : h4g3
+7. Nc3 | Analysis: -33 | Depth: 13 | EngineMove : h6f5
+7... b5 | Analysis: +90 | Depth: 12 | EngineMove : f1d3
+8. g3 | Analysis: +33 | Depth: 12 | EngineMove : g7g5
+8... Bb7 | Analysis: +16 | Depth: 11 | EngineMove : g3g4
+9. g4 | Analysis: -22 | Depth: 12 | EngineMove : h6f7
+9... Nd7 | Analysis: +34 | Depth: 12 | EngineMove : f1d3
+10. g5 | Analysis: -24 | Depth: 12 | EngineMove : h6f7
+10... Nf5 | Analysis: +51 | Depth: 13 | EngineMove : f1d3
+11. gxf6 | Analysis: +2 | Depth: 11 | EngineMove : e7f6
+11... Nxh4 | Analysis: +27 | Depth: 13 | EngineMove : f6f7
+12. Nxh4 | Analysis: +12 | Depth: 13 | EngineMove : d7f6
+12... Nxf6 | Analysis: -8 | Depth: 12 | EngineMove : a2a4
+13. Qf3 | Analysis: +34 | Depth: 11 | EngineMove : g7g5
+13... b4 | Analysis: -8 | Depth: 13 | EngineMove : c3a4
+14. Na4 | Analysis: +18 | Depth: 14 | EngineMove : g7g5
+14... g6 | Analysis: +13 | Depth: 11 | EngineMove : a4c5
+15. Nc5 | Analysis: -3 | Depth: 13 | EngineMove : b7c8

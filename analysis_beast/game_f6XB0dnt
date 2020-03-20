@@ -1,0 +1,5 @@
+**URL: https://lichess.org/f6XB0dnt | Tag: f6XB0dnt | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/f6XB0dnt', Date='2019.11.14', Round='-', White='chittyct', Black='MrMulti', Result='0-1', BlackElo='1234', BlackRatingDiff='+7', ECO='D00', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.11.14', UTCTime='21:40:22', Variant='Standard', WhiteElo='1237', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -20 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +32 | Depth: 12 | EngineMove : e2e3

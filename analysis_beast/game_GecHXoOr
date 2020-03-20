@@ -1,0 +1,13 @@
+**URL: https://lichess.org/GecHXoOr | Tag: GecHXoOr | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/GecHXoOr', Date='2018.09.17', Round='-', White='mpravda', Black='chittyct', Result='0-1', BlackElo='958', BlackRatingDiff='+6', ECO='A00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.17', UTCTime='01:10:17', Variant='Standard', WhiteElo='815', WhiteRatingDiff='-15')
+
+1. e3 | Analysis: -11 | Depth: 13 | EngineMove : d7d5
+1... e5 | Analysis: +22 | Depth: 13 | EngineMove : d2d4
+2. Bc4 | Analysis: +31 | Depth: 12 | EngineMove : d7d5
+2... d5 | Analysis: -31 | Depth: 13 | EngineMove : c4b3
+3. Bb3 | Analysis: +33 | Depth: 12 | EngineMove : g8f6
+3... Nc6 | Analysis: -28 | Depth: 13 | EngineMove : g1e2
+4. Qf3 | Analysis: +110 | Depth: 12 | EngineMove : g8f6
+4... Be6 | Analysis: -86 | Depth: 12 | EngineMove : b1c3
+5. c4 | Analysis: +189 | Depth: 13 | EngineMove : e5e4
+5... dxc4 | Analysis: -193 | Depth: 13 | EngineMove : b3a4

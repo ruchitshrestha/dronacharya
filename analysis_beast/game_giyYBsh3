@@ -1,0 +1,23 @@
+**URL: https://lichess.org/giyYBsh3 | Tag: giyYBsh3 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/giyYBsh3', Date='2019.11.12', Round='-', White='chittyct', Black='ggdz', Result='1-0', BlackElo='1231', BlackRatingDiff='-7', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.12', UTCTime='16:01:24', Variant='Standard', WhiteElo='1246', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -13 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +18 | Depth: 13 | EngineMove : g1f3
+2. Bf4 | Analysis: -8 | Depth: 14 | EngineMove : e7e6
+2... Nf6 | Analysis: +22 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -14 | Depth: 13 | EngineMove : c8f5
+3... e6 | Analysis: +15 | Depth: 14 | EngineMove : g1f3
+4. Bd3 | Analysis: -7 | Depth: 12 | EngineMove : c7c5
+4... Bd6 | Analysis: +28 | Depth: 12 | EngineMove : g1f3
+5. Bg3 | Analysis: +6 | Depth: 12 | EngineMove : c7c5
+5... Nc6 | Analysis: +20 | Depth: 13 | EngineMove : g1f3
+6. c4 | Analysis: +42 | Depth: 12 | EngineMove : d5c4
+6... dxc4 | Analysis: -34 | Depth: 14 | EngineMove : d3c4
+7. Bxc4 | Analysis: +18 | Depth: 13 | EngineMove : d6g3
+7... O-O | Analysis: -18 | Depth: 13 | EngineMove : g1f3
+8. a3 | Analysis: +62 | Depth: 12 | EngineMove : d6g3
+8... Ne4 | Analysis: +35 | Depth: 11 | EngineMove : c4d3
+9. Qd3 | Analysis: +9 | Depth: 12 | EngineMove : e4g3
+9... Nxg3 | Analysis: +6 | Depth: 13 | EngineMove : h2g3
+10. hxg3 | Analysis: -13 | Depth: 12 | EngineMove : h7h6
+10... a6 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

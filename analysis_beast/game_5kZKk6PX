@@ -1,0 +1,17 @@
+**URL: https://lichess.org/5kZKk6PX | Tag: 5kZKk6PX | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/5kZKk6PX', Date='2018.12.06', Round='-', White='chittyct', Black='Alexdyr', Result='0-1', BlackElo='1243', BlackRatingDiff='+11', ECO='A43', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.06', UTCTime='19:14:38', Variant='Standard', WhiteElo='1239', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+1... c5 | Analysis: +39 | Depth: 11 | EngineMove : e2e4
+2. dxc5 | Analysis: 0 | Depth: 13 | EngineMove : e7e6
+2... Qa5+ | Analysis: +66 | Depth: 12 | EngineMove : c2c3
+3. Nc3 | Analysis: -61 | Depth: 12 | EngineMove : e7e6
+3... e6 | Analysis: +86 | Depth: 13 | EngineMove : e2e4
+4. b4 | Analysis: +45 | Depth: 14 | EngineMove : a5b4
+4... Qxb4 | Analysis: -62 | Depth: 13 | EngineMove : d1d2
+5. Bb2 | Analysis: +482 | Depth: 14 | EngineMove : b4b2
+5... Qxb2 | Analysis: -514 | Depth: 13 | EngineMove : c3e4
+6. Ne4 | Analysis: +505 | Depth: 14 | EngineMove : g8f6
+6... Qb4+ | Analysis: -482 | Depth: 13 | EngineMove : e4d2
+7. c3 | Analysis: +766 | Depth: 14 | EngineMove : b4e4
+7... Qxe4 | Analysis: -753 | Depth: 12 | EngineMove : e2e3

@@ -1,0 +1,27 @@
+**URL: https://lichess.org/fuDBem55 | Tag: fuDBem55 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/fuDBem55', Date='2019.11.02', Round='-', White='chittyct', Black='JanchoJ', Result='1-0', BlackElo='1188', BlackRatingDiff='-7', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.02', UTCTime='06:22:29', Variant='Standard', WhiteElo='1196', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +21 | Depth: 14 | EngineMove : c1f4
+2. Bf4 | Analysis: -22 | Depth: 14 | EngineMove : e7e6
+2... Bf5 | Analysis: +22 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -18 | Depth: 13 | EngineMove : g8f6
+3... e6 | Analysis: +20 | Depth: 13 | EngineMove : g1f3
+4. Nf3 | Analysis: -16 | Depth: 13 | EngineMove : f8d6
+4... Bd6 | Analysis: +10 | Depth: 14 | EngineMove : f4d6
+5. Bg3 | Analysis: +10 | Depth: 13 | EngineMove : g8f6
+5... Bxg3 | Analysis: +2 | Depth: 13 | EngineMove : h2g3
+6. hxg3 | Analysis: 0 | Depth: 13 | EngineMove : g8e7
+6... Nf6 | Analysis: +7 | Depth: 13 | EngineMove : f3e5
+7. Bd3 | Analysis: +6 | Depth: 14 | EngineMove : f5d3
+7... Nc6 | Analysis: +7 | Depth: 13 | EngineMove : b1c3
+8. c4 | Analysis: +14 | Depth: 11 | EngineMove : f5d3
+8... dxc4 | Analysis: 0 | Depth: 13 | EngineMove : d3c4
+9. Bxc4 | Analysis: +2 | Depth: 14 | EngineMove : e8g8
+9... O-O | Analysis: +3 | Depth: 11 | EngineMove : b1c3
+10. Nc3 | Analysis: +3 | Depth: 11 | EngineMove : d8e7
+10... Na5 | Analysis: +28 | Depth: 13 | EngineMove : c4e2
+11. Bd3 | Analysis: -17 | Depth: 14 | EngineMove : f5d3
+11... Bxd3 | Analysis: +24 | Depth: 15 | EngineMove : d1d3
+12. Qxd3 | Analysis: -27 | Depth: 14 | EngineMove : h7h6
+12... Nd5 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

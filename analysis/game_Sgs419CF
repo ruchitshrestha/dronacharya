@@ -1,0 +1,22 @@
+**URL: https://lichess.org/Sgs419CF | Tag: Sgs419CF | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Sgs419CF', Date='2019.10.06', Round='-', White='chittyct', Black='Zohan1453', Result='1-0', BlackElo='980', BlackRatingDiff='-5', ECO='A45', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.10.06', UTCTime='18:29:32', Variant='Standard', WhiteElo='1107', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -24 | Depth: 17 | EngineMove : g8f6
+1... Nf6 | Analysis: +14 | Depth: 18 | EngineMove : e2e3
+2. Bf4 | Analysis: -9 | Depth: 16 | EngineMove : e7e6
+2... e6 | Analysis: +8 | Depth: 17 | EngineMove : e2e3
+3. c4 | Analysis: +7 | Depth: 14 | EngineMove : d7d5
+3... Bb4+ | Analysis: +7 | Depth: 17 | EngineMove : f4d2
+4. Nc3 | Analysis: -15 | Depth: 15 | EngineMove : b7b6
+4... O-O | Analysis: +7 | Depth: 16 | EngineMove : e2e3
+5. Qd3 | Analysis: +39 | Depth: 14 | EngineMove : d7d5
+5... c5 | Analysis: +1 | Depth: 15 | EngineMove : f4d6
+6. dxc5 | Analysis: +52 | Depth: 16 | EngineMove : b8a6
+6... Bxc5 | Analysis: +1 | Depth: 15 | EngineMove : e2e3
+7. Ne4 | Analysis: +170 | Depth: 16 | EngineMove : f6e4
+7... Nxe4 | Analysis: -158 | Depth: 16 | EngineMove : d3e4
+8. Qxe4 | Analysis: +198 | Depth: 16 | EngineMove : c5b4
+8... Nc6 | Analysis: -137 | Depth: 15 | EngineMove : f4d2
+9. Nf3 | Analysis: +191 | Depth: 16 | EngineMove : d8b6
+9... f5 | Analysis: -91 | Depth: 15 | EngineMove : e4c2
+10. Qc2 | Analysis: +136 | Depth: 16 | EngineMove : d7d6

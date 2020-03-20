@@ -1,0 +1,22 @@
+**URL: https://lichess.org/Xy7yCLfO | Tag: Xy7yCLfO | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/Xy7yCLfO', Date='2019.10.05', Round='-', White='pawndemonium', Black='chittyct', Result='1-0', BlackElo='1607', BlackRatingDiff='-3', ECO='B32', Termination='Normal', TimeControl='480+8', UTCDate='2019.10.05', UTCTime='13:53:08', Variant='Standard', WhiteElo='1930', WhiteRatingDiff='+2')
+
+1. e4 | Analysis: -39 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +50 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -46 | Depth: 13 | EngineMove : b8c6
+2... Nc6 | Analysis: +52 | Depth: 12 | EngineMove : f1b5
+3. d4 | Analysis: -32 | Depth: 12 | EngineMove : c5d4
+3... cxd4 | Analysis: +22 | Depth: 13 | EngineMove : f3d4
+4. Nxd4 | Analysis: -15 | Depth: 13 | EngineMove : e7e5
+4... e5 | Analysis: +24 | Depth: 13 | EngineMove : d4b5
+5. Nb5 | Analysis: -32 | Depth: 13 | EngineMove : a7a6
+5... Nf6 | Analysis: +44 | Depth: 13 | EngineMove : b1c3
+6. N1c3 | Analysis: -18 | Depth: 14 | EngineMove : d7d6
+6... Bc5 | Analysis: +61 | Depth: 12 | EngineMove : b5d6
+7. Nd6+ | Analysis: -80 | Depth: 12 | EngineMove : e8e7
+7... Bxd6 | Analysis: +114 | Depth: 13 | EngineMove : d1d6
+8. Qxd6 | Analysis: -95 | Depth: 14 | EngineMove : d8b6
+8... a6 | Analysis: +171 | Depth: 13 | EngineMove : c1g5
+9. Nd5 | Analysis: -62 | Depth: 14 | EngineMove : f6d5
+9... Nxe4 | Analysis: +632 | Depth: 13 | EngineMove : d5c7
+10. Nc7+ | Analysis: -662 | Depth: 15 | EngineMove : d8c7

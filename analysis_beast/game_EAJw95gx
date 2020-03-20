@@ -1,0 +1,21 @@
+**URL: https://lichess.org/EAJw95gx | Tag: EAJw95gx | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/EAJw95gx', Date='2018.12.11', Round='-', White='chittyct', Black='iud', Result='0-1', BlackElo='1328', BlackRatingDiff='+10', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.11', UTCTime='17:09:51', Variant='Standard', WhiteElo='1324', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -26 | Depth: 13 | EngineMove : d7d5
+1... e6 | Analysis: +19 | Depth: 12 | EngineMove : e2e3
+2. Nf3 | Analysis: -11 | Depth: 13 | EngineMove : d7d5
+2... d5 | Analysis: +14 | Depth: 13 | EngineMove : c2c4
+3. e3 | Analysis: -18 | Depth: 13 | EngineMove : g8f6
+3... b6 | Analysis: +47 | Depth: 11 | EngineMove : c1d2
+4. c4 | Analysis: -30 | Depth: 13 | EngineMove : f8d6
+4... Ba6 | Analysis: +94 | Depth: 11 | EngineMove : f3e5
+5. Bd3 | Analysis: -30 | Depth: 11 | EngineMove : d5c4
+5... Bxc4 | Analysis: +36 | Depth: 12 | EngineMove : d3c4
+6. Bxc4 | Analysis: -36 | Depth: 13 | EngineMove : d5c4
+6... dxc4 | Analysis: +35 | Depth: 11 | EngineMove : b1c3
+7. Qa4+ | Analysis: -35 | Depth: 13 | EngineMove : b8d7
+7... c6 | Analysis: +50 | Depth: 14 | EngineMove : a4c4
+8. Qxc4 | Analysis: -44 | Depth: 14 | EngineMove : f8e7
+8... b5 | Analysis: +75 | Depth: 12 | EngineMove : c4c2
+9. Qxc6+ | Analysis: +925 | Depth: 14 | EngineMove : b8c6
+9... Nxc6 | Analysis: -936 | Depth: 13 | EngineMove : b1c3

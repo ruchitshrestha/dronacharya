@@ -1,0 +1,26 @@
+**URL: https://lichess.org/ztQ8IuE2 | Tag: ztQ8IuE2 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ztQ8IuE2', Date='2020.02.12', Round='-', White='chittyct', Black='Alex2667', Result='1-0', BlackElo='1544', BlackRatingDiff='-6', ECO='A45', Termination='Time forfeit', TimeControl='180+2', UTCDate='2020.02.12', UTCTime='04:52:15', Variant='Standard', WhiteElo='1556', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+1... Nf6 | Analysis: +11 | Depth: 14 | EngineMove : g1f3
+2. Bf4 | Analysis: -11 | Depth: 13 | EngineMove : e7e6
+2... g6 | Analysis: +39 | Depth: 11 | EngineMove : e2e3
+3. e3 | Analysis: -40 | Depth: 13 | EngineMove : f8g7
+3... Bg7 | Analysis: +28 | Depth: 12 | EngineMove : b1c3
+4. Nf3 | Analysis: -27 | Depth: 12 | EngineMove : e8g8
+4... d6 | Analysis: +37 | Depth: 13 | EngineMove : h2h3
+5. Be2 | Analysis: -12 | Depth: 13 | EngineMove : f6h5
+5... O-O | Analysis: +42 | Depth: 14 | EngineMove : h2h3
+6. O-O | Analysis: -4 | Depth: 13 | EngineMove : f6h5
+6... Nc6 | Analysis: +34 | Depth: 12 | EngineMove : b1c3
+7. d5 | Analysis: +51 | Depth: 13 | EngineMove : f6d5
+7... e5 | Analysis: +10 | Depth: 13 | EngineMove : f4g5
+8. dxe6 | Analysis: +9 | Depth: 13 | EngineMove : c8e6
+8... Bxe6 | Analysis: -7 | Depth: 14 | EngineMove : b1c3
+9. Nc3 | Analysis: +11 | Depth: 13 | EngineMove : f8e8
+9... Nh5 | Analysis: -9 | Depth: 14 | EngineMove : f4g5
+10. Bg5 | Analysis: 0 | Depth: 14 | EngineMove : f7f6
+10... Ne5 | Analysis: +696 | Depth: 12 | EngineMove : g5d8
+11. Bxd8 | Analysis: -653 | Depth: 12 | EngineMove : f8d8
+11... Raxd8 | Analysis: +667 | Depth: 13 | EngineMove : f3d4
+12. Nxe5 | Analysis: -636 | Depth: 14 | EngineMove : d6e5

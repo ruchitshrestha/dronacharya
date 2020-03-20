@@ -1,0 +1,38 @@
+**URL: https://lichess.org/vQvJ6mPx | Tag: vQvJ6mPx | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/vQvJ6mPx', Date='2018.09.29', Round='-', White='chittyct', Black='must10963', Result='0-1', BlackElo='1141', BlackRatingDiff='+10', ECO='A46', Termination='Normal', TimeControl='180+0', UTCDate='2018.09.29', UTCTime='08:05:47', Variant='Standard', WhiteElo='1127', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -20 | Depth: 18 | EngineMove : g8f6
+1... d6 | Analysis: +48 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -47 | Depth: 18 | EngineMove : g8f6
+2... Nf6 | Analysis: +38 | Depth: 16 | EngineMove : c1f4
+3. Bf4 | Analysis: -24 | Depth: 17 | EngineMove : c8f5
+3... h6 | Analysis: +30 | Depth: 18 | EngineMove : b1c3
+4. e3 | Analysis: -26 | Depth: 18 | EngineMove : c8f5
+4... Nc6 | Analysis: +43 | Depth: 16 | EngineMove : c2c4
+5. Bd3 | Analysis: -17 | Depth: 18 | EngineMove : c8g4
+5... e6 | Analysis: +40 | Depth: 17 | EngineMove : c2c4
+6. O-O | Analysis: -29 | Depth: 17 | EngineMove : f6h5
+6... d5 | Analysis: +51 | Depth: 18 | EngineMove : c2c3
+7. Ne5 | Analysis: -20 | Depth: 17 | EngineMove : f8d6
+7... Nxe5 | Analysis: +43 | Depth: 18 | EngineMove : f4e5
+8. Bxe5 | Analysis: -39 | Depth: 19 | EngineMove : f8d6
+8... Be7 | Analysis: +39 | Depth: 17 | EngineMove : b1d2
+9. Bxf6 | Analysis: +15 | Depth: 17 | EngineMove : e7f6
+9... Bxf6 | Analysis: -5 | Depth: 19 | EngineMove : b1d2
+10. Qg4 | Analysis: +38 | Depth: 18 | EngineMove : e6e5
+10... O-O | Analysis: -32 | Depth: 20 | EngineMove : c2c3
+11. e4 | Analysis: +114 | Depth: 18 | EngineMove : f6d4
+11... e5 | Analysis: -34 | Depth: 20 | EngineMove : g4f3
+12. exd5 | Analysis: +1052 | Depth: 18 | EngineMove : c8g4
+12... Bxg4 | Analysis: -1088 | Depth: 18 | EngineMove : c2c4
+13. f3 | Analysis: +1162 | Depth: 18 | EngineMove : d8d5
+13... Bc8 | Analysis: -1137 | Depth: 17 | EngineMove : b1c3
+14. f4 | Analysis: +1478 | Depth: 21 | EngineMove : e5e4
+14... Qxd5 | Analysis: -1093 | Depth: 18 | EngineMove : d4e5
+15. fxe5 | Analysis: +1299 | Depth: 18 | EngineMove : d5d4
+15... b6 | Analysis: -847 | Depth: 19 | EngineMove : e5f6
+16. Nc3 | Analysis: +1258 | Depth: 17 | EngineMove : d5d4
+16... Qc6 | Analysis: -598 | Depth: 18 | EngineMove : e5f6
+17. Rae1 | Analysis: +924 | Depth: 17 | EngineMove : f6h4
+17... Bb7 | Analysis: -727 | Depth: 18 | EngineMove : d3e4
+18. exf6 | Analysis: #+1 | Depth: 127 | EngineMove : c6g2

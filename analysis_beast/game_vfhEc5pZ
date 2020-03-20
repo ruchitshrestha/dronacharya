@@ -1,0 +1,16 @@
+**URL: https://lichess.org/vfhEc5pZ | Tag: vfhEc5pZ | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/vfhEc5pZ', Date='2018.09.24', Round='-', White='chittyct', Black='Ellepi', Result='1-0', BlackElo='1159', BlackRatingDiff='-15', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='07:25:42', Variant='Standard', WhiteElo='1105', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -19 | Depth: 12 | EngineMove : g8f6
+1... b6 | Analysis: +66 | Depth: 11 | EngineMove : e2e4
+2. Nf3 | Analysis: -40 | Depth: 13 | EngineMove : g8f6
+2... c6 | Analysis: +110 | Depth: 12 | EngineMove : e2e4
+3. Bf4 | Analysis: -77 | Depth: 13 | EngineMove : g8f6
+3... d6 | Analysis: +134 | Depth: 11 | EngineMove : e2e4
+4. e3 | Analysis: -60 | Depth: 13 | EngineMove : e7e6
+4... e6 | Analysis: +58 | Depth: 13 | EngineMove : f1d3
+5. Bd3 | Analysis: -52 | Depth: 15 | EngineMove : f8e7
+5... f6 | Analysis: +145 | Depth: 11 | EngineMove : b1d2
+6. O-O | Analysis: -160 | Depth: 12 | EngineMove : d8c7
+6... g6 | Analysis: +133 | Depth: 11 | EngineMove : e3e4
+7. c4 | Analysis: -106 | Depth: 12 | EngineMove : g8e7

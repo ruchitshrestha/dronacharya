@@ -1,0 +1,28 @@
+**URL: https://lichess.org/Rr60uMCo | Tag: Rr60uMCo | Side: black**
+HEADERS: Headers(Event='Rated UltraBullet game', Site='https://lichess.org/Rr60uMCo', Date='2018.12.19', Round='-', White='Knightshade97', Black='chittyct', Result='1-0', BlackElo='1203', BlackRatingDiff='-11', ECO='C24', Termination='Time forfeit', TimeControl='15+0', UTCDate='2018.12.19', UTCTime='05:07:49', Variant='Standard', WhiteElo='1659', WhiteRatingDiff='+2')
+
+1. e4 | Analysis: -30 | Depth: 15 | EngineMove : e7e5
+1... e5 | Analysis: +22 | Depth: 17 | EngineMove : g1f3
+2. Bc4 | Analysis: +7 | Depth: 15 | EngineMove : g8f6
+2... Nf6 | Analysis: +14 | Depth: 15 | EngineMove : b1c3
+3. Qh5 | Analysis: +1020 | Depth: 17 | EngineMove : f6h5
+3... Qe7 | Analysis: -2 | Depth: 17 | EngineMove : h5e2
+4. Qxf7+ | Analysis: +282 | Depth: 17 | EngineMove : e7f7
+4... Qxf7 | Analysis: -282 | Depth: 17 | EngineMove : c4f7
+5. Bxf7+ | Analysis: +273 | Depth: 19 | EngineMove : e8f7
+5... Kxf7 | Analysis: -277 | Depth: 20 | EngineMove : g1f3
+6. Nf3 | Analysis: +279 | Depth: 19 | EngineMove : d7d6
+6... d6 | Analysis: -277 | Depth: 20 | EngineMove : d2d3
+7. Nxe5+ | Analysis: +550 | Depth: 18 | EngineMove : d6e5
+7... Ke6 | Analysis: -227 | Depth: 17 | EngineMove : e5f3
+8. O-O | Analysis: +501 | Depth: 16 | EngineMove : d6e5
+8... Bd7 | Analysis: -149 | Depth: 18 | EngineMove : e5f3
+9. d3 | Analysis: +494 | Depth: 18 | EngineMove : d6e5
+9... Nc6 | Analysis: -153 | Depth: 16 | EngineMove : e5f3
+10. Bf4 | Analysis: +515 | Depth: 15 | EngineMove : d6e5
+10... b6 | Analysis: -143 | Depth: 17 | EngineMove : e5d7
+11. Nc4 | Analysis: +180 | Depth: 17 | EngineMove : c6d4
+11... Nh5 | Analysis: -125 | Depth: 16 | EngineMove : f4e3
+12. d4 | Analysis: +498 | Depth: 16 | EngineMove : c6d4
+12... Nxf4 | Analysis: -345 | Depth: 15 | EngineMove : d4d5
+13. d5+ | Analysis: +358 | Depth: 18 | EngineMove : f4d5

@@ -1,0 +1,23 @@
+**URL: https://lichess.org/PaCDorQG | Tag: PaCDorQG | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/PaCDorQG', Date='2020.03.06', Round='-', White='IceWarrez', Black='chittyct', Result='0-1', BlackElo='1293', BlackRatingDiff='+6', ECO='B30', Termination='Normal', TimeControl='120+1', UTCDate='2020.03.06', UTCTime='04:54:17', Variant='Standard', WhiteElo='1291', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -17 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +39 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -32 | Depth: 19 | EngineMove : e7e6
+2... Nc6 | Analysis: +30 | Depth: 17 | EngineMove : f1b5
+3. Bc4 | Analysis: +3 | Depth: 17 | EngineMove : g8f6
+3... e6 | Analysis: +8 | Depth: 19 | EngineMove : e1g1
+4. d3 | Analysis: +25 | Depth: 19 | EngineMove : d7d5
+4... a6 | Analysis: +2 | Depth: 18 | EngineMove : c4b3
+5. Be3 | Analysis: +30 | Depth: 20 | EngineMove : d7d5
+5... b5 | Analysis: -3 | Depth: 17 | EngineMove : c4b3
+6. Nc3 | Analysis: +248 | Depth: 19 | EngineMove : b5c4
+6... bxc4 | Analysis: -262 | Depth: 19 | EngineMove : d3c4
+7. Na4 | Analysis: +331 | Depth: 19 | EngineMove : d8a5
+7... Qa5+ | Analysis: -336 | Depth: 19 | EngineMove : c2c3
+8. Nc3 | Analysis: +348 | Depth: 20 | EngineMove : a8b8
+8... cxd3 | Analysis: -337 | Depth: 17 | EngineMove : d1d3
+9. Qxd3 | Analysis: +332 | Depth: 18 | EngineMove : g8f6
+9... Nb4 | Analysis: -288 | Depth: 16 | EngineMove : d3d1
+10. Qc4 | Analysis: +608 | Depth: 16 | EngineMove : b4c2
+10... Nxc2+ | Analysis: -615 | Depth: 19 | EngineMove : e1e2

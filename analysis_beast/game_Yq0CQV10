@@ -1,0 +1,31 @@
+**URL: https://lichess.org/Yq0CQV10 | Tag: Yq0CQV10 | Side: white**
+HEADERS: Headers(Event='Weekly Classical Arena', Site='https://lichess.org/Yq0CQV10', Date='2020.02.14', Round='-', White='chittyct', Black='IvanKrivich', Result='0-1', BlackElo='1707', BlackRatingDiff='+8', ECO='D00', Termination='Normal', TimeControl='1200+10', UTCDate='2020.02.14', UTCTime='19:53:30', Variant='Standard', WhiteElo='1632', WhiteRatingDiff='-14')
+
+1. d4 | Analysis: -23 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +15 | Depth: 14 | EngineMove : g1f3
+2. Bf4 | Analysis: -20 | Depth: 13 | EngineMove : e7e6
+2... Nf6 | Analysis: +26 | Depth: 13 | EngineMove : g1f3
+3. e3 | Analysis: -24 | Depth: 12 | EngineMove : e7e6
+3... c5 | Analysis: +22 | Depth: 11 | EngineMove : g1f3
+4. Nf3 | Analysis: -26 | Depth: 12 | EngineMove : e7e6
+4... c4 | Analysis: +71 | Depth: 12 | EngineMove : b2b3
+5. b3 | Analysis: -79 | Depth: 11 | EngineMove : d8a5
+5... b5 | Analysis: +87 | Depth: 12 | EngineMove : a2a4
+6. a4 | Analysis: -97 | Depth: 12 | EngineMove : b8d7
+6... bxa4 | Analysis: +141 | Depth: 12 | EngineMove : b3c4
+7. bxc4 | Analysis: -134 | Depth: 11 | EngineMove : e7e6
+7... Nc6 | Analysis: +169 | Depth: 12 | EngineMove : a1a4
+8. cxd5 | Analysis: -134 | Depth: 12 | EngineMove : f6d5
+8... Nxd5 | Analysis: +124 | Depth: 12 | EngineMove : c2c3
+9. Bg3 | Analysis: -131 | Depth: 10 | EngineMove : e7e6
+9... Qa5+ | Analysis: +170 | Depth: 12 | EngineMove : f3d2
+10. Nbd2 | Analysis: -27 | Depth: 13 | EngineMove : d5c3
+10... Nc3 | Analysis: 0 | Depth: 13 | EngineMove : d2c4
+11. Qc1 | Analysis: -7 | Depth: 13 | EngineMove : c8f5
+11... e6 | Analysis: 0 | Depth: 14 | EngineMove : d2c4
+12. Bd3 | Analysis: -33 | Depth: 13 | EngineMove : f8b4
+12... Ba6 | Analysis: +15 | Depth: 14 | EngineMove : d2b3
+13. O-O | Analysis: +451 | Depth: 13 | EngineMove : a6d3
+13... Bxd3 | Analysis: -454 | Depth: 13 | EngineMove : f1e1
+14. cxd3 | Analysis: +634 | Depth: 12 | EngineMove : c3e2
+14... Ne2+ | Analysis: -659 | Depth: 14 | EngineMove : g1h1

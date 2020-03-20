@@ -1,0 +1,28 @@
+**URL: https://lichess.org/fvTC7UTT | Tag: fvTC7UTT | Side: black**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/fvTC7UTT', Date='2018.08.05', Round='-', White='v2v7', Black='chittyct', Result='1-0', BlackElo='1674', BlackRatingDiff='-76', ECO='A04', Termination='Normal', TimeControl='900+15', UTCDate='2018.08.05', UTCTime='04:59:55', Variant='Standard', WhiteElo='1817', WhiteRatingDiff='+12')
+
+1. Nf3 | Analysis: -17 | Depth: 18 | EngineMove : g8f6
+1... b6 | Analysis: +39 | Depth: 16 | EngineMove : e2e4
+2. g3 | Analysis: -11 | Depth: 17 | EngineMove : c8b7
+2... d5 | Analysis: +20 | Depth: 17 | EngineMove : c2c4
+3. Bg2 | Analysis: -22 | Depth: 18 | EngineMove : c8b7
+3... Bb7 | Analysis: +12 | Depth: 18 | EngineMove : e1g1
+4. O-O | Analysis: -4 | Depth: 19 | EngineMove : e7e6
+4... Nf6 | Analysis: +13 | Depth: 19 | EngineMove : d2d4
+5. b3 | Analysis: -1 | Depth: 18 | EngineMove : e7e6
+5... Qd6 | Analysis: +42 | Depth: 16 | EngineMove : c2c4
+6. Ba3 | Analysis: -7 | Depth: 17 | EngineMove : c7c5
+6... Qe6 | Analysis: +99 | Depth: 15 | EngineMove : d2d4
+7. Nc3 | Analysis: -60 | Depth: 15 | EngineMove : c7c5
+7... Ng4 | Analysis: +116 | Depth: 15 | EngineMove : d2d4
+8. Nb5 | Analysis: -71 | Depth: 17 | EngineMove : e6d7
+8... Qh6 | Analysis: +474 | Depth: 17 | EngineMove : b5c7
+9. h3 | Analysis: -395 | Depth: 17 | EngineMove : h6c6
+9... Nf6 | Analysis: +454 | Depth: 18 | EngineMove : b5c7
+10. Nxc7+ | Analysis: -453 | Depth: 18 | EngineMove : e8d8
+10... Kd8 | Analysis: +466 | Depth: 19 | EngineMove : c7a8
+11. Nxa8 | Analysis: -481 | Depth: 18 | EngineMove : f6d7
+11... Bxa8 | Analysis: +581 | Depth: 18 | EngineMove : f3e5
+12. Ne5 | Analysis: -574 | Depth: 18 | EngineMove : d8e8
+12... Qg6 | Analysis: +1142 | Depth: 19 | EngineMove : e5g6
+13. Nxg6 | Analysis: -1168 | Depth: 19 | EngineMove : h7g6

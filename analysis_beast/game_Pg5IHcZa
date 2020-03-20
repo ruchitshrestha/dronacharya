@@ -1,0 +1,21 @@
+**URL: https://lichess.org/Pg5IHcZa | Tag: Pg5IHcZa | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Pg5IHcZa', Date='2018.09.21', Round='-', White='chittyct', Black='vespo', Result='0-1', BlackElo='907', BlackRatingDiff='+13', ECO='D00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.21', UTCTime='19:55:02', Variant='Standard', WhiteElo='983', WhiteRatingDiff='-14')
+
+1. d4 | Analysis: -13 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +12 | Depth: 14 | EngineMove : e2e3
+2. Bf4 | Analysis: -8 | Depth: 13 | EngineMove : e7e6
+2... Nf6 | Analysis: +6 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -25 | Depth: 13 | EngineMove : e7e6
+3... Ne4 | Analysis: +58 | Depth: 12 | EngineMove : f1d3
+4. c4 | Analysis: +194 | Depth: 11 | EngineMove : e7e5
+4... dxc4 | Analysis: +101 | Depth: 11 | EngineMove : f1c4
+5. Bxc4 | Analysis: -77 | Depth: 12 | EngineMove : b8c6
+5... Nc6 | Analysis: +67 | Depth: 12 | EngineMove : b1c3
+6. Nf3 | Analysis: -59 | Depth: 13 | EngineMove : e7e5
+6... e6 | Analysis: +84 | Depth: 13 | EngineMove : e1g1
+7. Nbd2 | Analysis: -51 | Depth: 14 | EngineMove : e4d2
+7... Bb4 | Analysis: +65 | Depth: 13 | EngineMove : d1c2
+8. a3 | Analysis: -53 | Depth: 14 | EngineMove : e4d2
+8... Bxd2+ | Analysis: +103 | Depth: 13 | EngineMove : f3d2
+9. Nxd2 | Analysis: -103 | Depth: 13 | EngineMove : e4d2
+9... Nxd2 | Analysis: +94 | Depth: 14 | EngineMove : d1d2

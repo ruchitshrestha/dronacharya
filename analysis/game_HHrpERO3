@@ -1,0 +1,32 @@
+**URL: https://lichess.org/HHrpERO3 | Tag: HHrpERO3 | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/HHrpERO3', Date='2018.08.31', Round='-', White='REELIX', Black='chittyct', Result='1-0', BlackElo='1286', BlackRatingDiff='-26', ECO='A45', Termination='Normal', TimeControl='600+0', UTCDate='2018.08.31', UTCTime='20:43:19', Variant='Standard', WhiteElo='1260', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -21 | Depth: 17 | EngineMove : e7e6
+1... Nf6 | Analysis: +10 | Depth: 18 | EngineMove : g1f3
+2. f3 | Analysis: +47 | Depth: 16 | EngineMove : d7d5
+2... e6 | Analysis: -30 | Depth: 18 | EngineMove : e2e4
+3. Nh3 | Analysis: +80 | Depth: 17 | EngineMove : c7c5
+3... d5 | Analysis: -62 | Depth: 16 | EngineMove : c1f4
+4. Bf4 | Analysis: +57 | Depth: 18 | EngineMove : c7c5
+4... Bd6 | Analysis: -39 | Depth: 17 | EngineMove : e2e3
+5. Bxd6 | Analysis: +58 | Depth: 17 | EngineMove : d8d6
+5... Qxd6 | Analysis: -62 | Depth: 18 | EngineMove : b1c3
+6. g3 | Analysis: +127 | Depth: 17 | EngineMove : d6b4
+6... e5 | Analysis: -96 | Depth: 17 | EngineMove : c2c3
+7. e3 | Analysis: +158 | Depth: 16 | EngineMove : e8g8
+7... exd4 | Analysis: -116 | Depth: 18 | EngineMove : d1d4
+8. Qxd4 | Analysis: +110 | Depth: 17 | EngineMove : e8g8
+8... O-O | Analysis: -103 | Depth: 18 | EngineMove : h3f4
+9. Nc3 | Analysis: +112 | Depth: 18 | EngineMove : b8c6
+9... c5 | Analysis: -27 | Depth: 20 | EngineMove : d4d2
+10. Qd3 | Analysis: +48 | Depth: 16 | EngineMove : b8c6
+10... Re8 | Analysis: 0 | Depth: 17 | EngineMove : e1c1
+11. Ng5 | Analysis: +100 | Depth: 17 | EngineMove : d6e5
+11... g6 | Analysis: +46 | Depth: 17 | EngineMove : e1c1
+12. g4 | Analysis: +343 | Depth: 19 | EngineMove : d6f4
+12... d4 | Analysis: -6 | Depth: 17 | EngineMove : e1c1
+13. Nce4 | Analysis: +27 | Depth: 17 | EngineMove : f6e4
+13... Qe5 | Analysis: +12 | Depth: 17 | EngineMove : e1c1
+14. f4 | Analysis: +191 | Depth: 18 | EngineMove : e5e7
+14... Qd5 | Analysis: +1439 | Depth: 15 | EngineMove : e4f6
+15. Nxf6+ | Analysis: -1457 | Depth: 17 | EngineMove : g8g7

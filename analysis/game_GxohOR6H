@@ -1,0 +1,12 @@
+**URL: https://lichess.org/GxohOR6H | Tag: GxohOR6H | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/GxohOR6H', Date='2018.09.25', Round='-', White='chittyct', Black='liliberte', Result='1-0', BlackElo='1202', BlackRatingDiff='-38', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.25', UTCTime='15:58:25', Variant='Standard', WhiteElo='1109', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: -22 | Depth: 17 | EngineMove : g8f6
+1... e5 | Analysis: +62 | Depth: 18 | EngineMove : d4e5
+2. dxe5 | Analysis: -74 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +80 | Depth: 18 | EngineMove : g1f3
+3. Bf4 | Analysis: -53 | Depth: 17 | EngineMove : g7g5
+3... d6 | Analysis: +85 | Depth: 18 | EngineMove : g1f3
+4. exd6 | Analysis: -85 | Depth: 18 | EngineMove : f8d6
+4... cxd6 | Analysis: +111 | Depth: 17 | EngineMove : b1c3
+5. Nc3 | Analysis: -106 | Depth: 18 | EngineMove : g8f6

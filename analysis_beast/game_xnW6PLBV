@@ -1,0 +1,20 @@
+**URL: https://lichess.org/xnW6PLBV | Tag: xnW6PLBV | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/xnW6PLBV', Date='2019.07.11', Round='-', White='sarisuvari', Black='chittyct', Result='0-1', BlackElo='1316', BlackRatingDiff='+11', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.11', UTCTime='22:01:57', Variant='Standard', WhiteElo='1360', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -32 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 13 | EngineMove : g1f3
+2. Bf4 | Analysis: -12 | Depth: 13 | EngineMove : g8f6
+2... Bf5 | Analysis: +27 | Depth: 13 | EngineMove : e2e3
+3. Nd2 | Analysis: +2 | Depth: 14 | EngineMove : b8c6
+3... Nf6 | Analysis: +9 | Depth: 13 | EngineMove : e2e3
+4. c3 | Analysis: +4 | Depth: 13 | EngineMove : e7e6
+4... e6 | Analysis: +1 | Depth: 14 | EngineMove : g1f3
+5. b4 | Analysis: +77 | Depth: 12 | EngineMove : f8e7
+5... Bd6 | Analysis: -40 | Depth: 14 | EngineMove : f4d6
+6. g3 | Analysis: +99 | Depth: 13 | EngineMove : b8d7
+6... Bxf4 | Analysis: -79 | Depth: 14 | EngineMove : g3f4
+7. gxf4 | Analysis: +81 | Depth: 14 | EngineMove : a7a5
+7... Nc6 | Analysis: -43 | Depth: 13 | EngineMove : g1f3
+8. f3 | Analysis: +196 | Depth: 13 | EngineMove : f6g4
+8... Ne4 | Analysis: -117 | Depth: 11 | EngineMove : d2e4
+9. fxe4 | Analysis: #+1 | Depth: 127 | EngineMove : d8h4

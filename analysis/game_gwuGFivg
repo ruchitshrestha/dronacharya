@@ -1,0 +1,20 @@
+**URL: https://lichess.org/gwuGFivg | Tag: gwuGFivg | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/gwuGFivg', Date='2018.10.10', Round='-', White='chittyct', Black='Shettysm4', Result='1-0', BlackElo='800', BlackRatingDiff='+0', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.10', UTCTime='23:08:43', Variant='Standard', WhiteElo='950', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -17 | Depth: 17 | EngineMove : g8f6
+1... e6 | Analysis: +34 | Depth: 17 | EngineMove : e2e4
+2. Nf3 | Analysis: -18 | Depth: 18 | EngineMove : g8f6
+2... Bb4+ | Analysis: +63 | Depth: 19 | EngineMove : c2c3
+3. c3 | Analysis: -72 | Depth: 19 | EngineMove : b4e7
+3... Ba5 | Analysis: +90 | Depth: 16 | EngineMove : e2e4
+4. Bf4 | Analysis: -72 | Depth: 18 | EngineMove : d7d5
+4... Nc6 | Analysis: +101 | Depth: 17 | EngineMove : e2e4
+5. e3 | Analysis: -89 | Depth: 18 | EngineMove : g8f6
+5... e5 | Analysis: +201 | Depth: 15 | EngineMove : d4e5
+6. Bg3 | Analysis: -56 | Depth: 17 | EngineMove : e5d4
+6... exd4 | Analysis: +60 | Depth: 18 | EngineMove : e3d4
+7. exd4 | Analysis: -74 | Depth: 17 | EngineMove : g8f6
+7... Nxd4 | Analysis: +298 | Depth: 18 | EngineMove : d1d4
+8. Qxd4 | Analysis: -313 | Depth: 19 | EngineMove : d8e7
+8... Bxc3+ | Analysis: +778 | Depth: 18 | EngineMove : b1c3
+9. Qxc3 | Analysis: -682 | Depth: 17 | EngineMove : d7d6

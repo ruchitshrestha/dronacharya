@@ -1,0 +1,29 @@
+**URL: https://lichess.org/BqMG4h7u | Tag: BqMG4h7u | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/BqMG4h7u', Date='2018.09.27', Round='-', White='KidFrank', Black='chittyct', Result='0-1', BlackElo='1056', BlackRatingDiff='+11', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.27', UTCTime='06:29:41', Variant='Standard', WhiteElo='1061', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -17 | Depth: 17 | EngineMove : g8f6
+1... g6 | Analysis: +72 | Depth: 17 | EngineMove : e2e4
+2. Bd2 | Analysis: -15 | Depth: 17 | EngineMove : f8g7
+2... Bg7 | Analysis: -1 | Depth: 18 | EngineMove : g1f3
+3. Bc3 | Analysis: +12 | Depth: 19 | EngineMove : g8f6
+3... Nc6 | Analysis: +46 | Depth: 18 | EngineMove : d4d5
+4. e3 | Analysis: -2 | Depth: 17 | EngineMove : g8f6
+4... d6 | Analysis: +27 | Depth: 19 | EngineMove : d4d5
+5. Ne2 | Analysis: +11 | Depth: 17 | EngineMove : g8f6
+5... Nf6 | Analysis: -16 | Depth: 20 | EngineMove : g2g3
+6. g4 | Analysis: +136 | Depth: 17 | EngineMove : c8g4
+6... Nd5 | Analysis: -58 | Depth: 17 | EngineMove : f1g2
+7. Nf4 | Analysis: +110 | Depth: 20 | EngineMove : d5f4
+7... Nxc3 | Analysis: -76 | Depth: 18 | EngineMove : b1c3
+8. bxc3 | Analysis: +148 | Depth: 17 | EngineMove : e7e5
+8... O-O | Analysis: -142 | Depth: 18 | EngineMove : f1e2
+9. h3 | Analysis: +148 | Depth: 18 | EngineMove : e7e5
+9... e6 | Analysis: -119 | Depth: 16 | EngineMove : f1g2
+10. Bb5 | Analysis: +145 | Depth: 17 | EngineMove : e6e5
+10... e5 | Analysis: -147 | Depth: 19 | EngineMove : f4g2
+11. Bxc6 | Analysis: +203 | Depth: 18 | EngineMove : e5f4
+11... exf4 | Analysis: -213 | Depth: 17 | EngineMove : c6g2
+12. Qf3 | Analysis: +435 | Depth: 16 | EngineMove : b7c6
+12... bxc6 | Analysis: -484 | Depth: 16 | EngineMove : f3f4
+13. Qxc6 | Analysis: +671 | Depth: 18 | EngineMove : a8b8
+13... Bd7 | Analysis: -581 | Depth: 18 | EngineMove : c6f3

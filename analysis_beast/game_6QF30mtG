@@ -1,0 +1,32 @@
+**URL: https://lichess.org/6QF30mtG | Tag: 6QF30mtG | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/6QF30mtG', Date='2018.07.25', Round='-', White='drogozor', Black='chittyct', Result='1-0', BlackElo='1500', BlackRatingDiff='-167', ECO='C30', Termination='Time forfeit', TimeControl='300+0', UTCDate='2018.07.25', UTCTime='02:30:19', Variant='Standard', WhiteElo='1517', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -31 | Depth: 12 | EngineMove : e7e5
+1... Nc6 | Analysis: +53 | Depth: 13 | EngineMove : d2d4
+2. f4 | Analysis: +4 | Depth: 11 | EngineMove : d7d5
+2... e5 | Analysis: +11 | Depth: 12 | EngineMove : g1f3
+3. d3 | Analysis: -5 | Depth: 11 | EngineMove : d7d5
+3... f6 | Analysis: +18 | Depth: 10 | EngineMove : g1f3
+4. Nc3 | Analysis: 0 | Depth: 12 | EngineMove : f8b4
+4... Nd4 | Analysis: +108 | Depth: 12 | EngineMove : f4e5
+5. Be3 | Analysis: -75 | Depth: 11 | EngineMove : f8b4
+5... Nc6 | Analysis: +93 | Depth: 11 | EngineMove : d1f3
+6. Nf3 | Analysis: -76 | Depth: 11 | EngineMove : f8b4
+6... Bd6 | Analysis: +80 | Depth: 11 | EngineMove : f4e5
+7. Qd2 | Analysis: -58 | Depth: 13 | EngineMove : e5f4
+7... Nge7 | Analysis: +80 | Depth: 12 | EngineMove : f4e5
+8. O-O-O | Analysis: -92 | Depth: 13 | EngineMove : e5f4
+8... O-O | Analysis: +77 | Depth: 13 | EngineMove : d3d4
+9. fxe5 | Analysis: -75 | Depth: 13 | EngineMove : f6e5
+9... fxe5 | Analysis: +81 | Depth: 13 | EngineMove : c1b1
+10. Bg5 | Analysis: -53 | Depth: 10 | EngineMove : a7a6
+10... b6 | Analysis: +101 | Depth: 13 | EngineMove : d3d4
+11. h4 | Analysis: -47 | Depth: 10 | EngineMove : c6d4
+11... Ba6 | Analysis: +77 | Depth: 12 | EngineMove : d3d4
+12. h5 | Analysis: -56 | Depth: 13 | EngineMove : h7h6
+12... Nb4 | Analysis: +316 | Depth: 13 | EngineMove : h5h6
+13. a3 | Analysis: -229 | Depth: 12 | EngineMove : b4c6
+13... h6 | Analysis: +305 | Depth: 11 | EngineMove : g5h6
+14. Bh4 | Analysis: -62 | Depth: 12 | EngineMove : b4c6
+14... Nf5 | Analysis: +1046 | Depth: 14 | EngineMove : h4d8
+15. g4 | Analysis: -5 | Depth: 15 | EngineMove : f5h4

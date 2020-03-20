@@ -1,0 +1,25 @@
+**URL: https://lichess.org/jiTmGsqS | Tag: jiTmGsqS | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/jiTmGsqS', Date='2019.01.17', Round='-', White='chittyct', Black='MrBungler', Result='0-1', BlackElo='1259', BlackRatingDiff='+14', ECO='A80', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.01.17', UTCTime='16:24:54', Variant='Standard', WhiteElo='1283', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -14 | Depth: 16 | EngineMove : g8f6
+1... f5 | Analysis: +53 | Depth: 16 | EngineMove : b1c3
+2. e3 | Analysis: -36 | Depth: 18 | EngineMove : e7e6
+2... Nf6 | Analysis: +44 | Depth: 18 | EngineMove : g1f3
+3. Bd3 | Analysis: -36 | Depth: 17 | EngineMove : e7e6
+3... e6 | Analysis: +34 | Depth: 18 | EngineMove : g1f3
+4. b4 | Analysis: +68 | Depth: 17 | EngineMove : f8b4
+4... b6 | Analysis: +13 | Depth: 16 | EngineMove : a2a3
+5. Bb2 | Analysis: +79 | Depth: 17 | EngineMove : f8b4
+5... Bxb4+ | Analysis: -82 | Depth: 19 | EngineMove : b1d2
+6. c3 | Analysis: +78 | Depth: 18 | EngineMove : b4e7
+6... Be7 | Analysis: -77 | Depth: 18 | EngineMove : c3c4
+7. Nd2 | Analysis: +92 | Depth: 18 | EngineMove : e8g8
+7... Bb7 | Analysis: -85 | Depth: 18 | EngineMove : g1f3
+8. Ngf3 | Analysis: +77 | Depth: 18 | EngineMove : e8g8
+8... O-O | Analysis: -87 | Depth: 18 | EngineMove : e1g1
+9. O-O | Analysis: +82 | Depth: 17 | EngineMove : c7c5
+9... c5 | Analysis: -89 | Depth: 15 | EngineMove : c3c4
+10. dxc5 | Analysis: +114 | Depth: 15 | EngineMove : e7c5
+10... bxc5 | Analysis: -79 | Depth: 15 | EngineMove : c3c4
+11. Qb3 | Analysis: +104 | Depth: 15 | EngineMove : d8c7
+11... Bd5 | Analysis: -76 | Depth: 17 | EngineMove : c3c4

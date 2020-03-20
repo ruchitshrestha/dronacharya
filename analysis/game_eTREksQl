@@ -1,0 +1,28 @@
+**URL: https://lichess.org/eTREksQl | Tag: eTREksQl | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/eTREksQl', Date='2018.12.11', Round='-', White='murphyasasi', Black='chittyct', Result='0-1', BlackElo='1295', BlackRatingDiff='+11', ECO='A29', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.11', UTCTime='15:34:01', Variant='Standard', WhiteElo='1366', WhiteRatingDiff='-55')
+
+1. c4 | Analysis: +5 | Depth: 17 | EngineMove : e7e5
+1... e5 | Analysis: +6 | Depth: 19 | EngineMove : b1c3
+2. Nc3 | Analysis: +2 | Depth: 19 | EngineMove : g8f6
+2... Nc6 | Analysis: +10 | Depth: 20 | EngineMove : e2e3
+3. g3 | Analysis: +3 | Depth: 16 | EngineMove : g8f6
+3... Nf6 | Analysis: -8 | Depth: 18 | EngineMove : f1g2
+4. Nf3 | Analysis: +1 | Depth: 17 | EngineMove : d7d5
+4... d5 | Analysis: +16 | Depth: 19 | EngineMove : c4d5
+5. Bg2 | Analysis: +95 | Depth: 18 | EngineMove : d5d4
+5... e4 | Analysis: -3 | Depth: 20 | EngineMove : f3g5
+6. cxd5 | Analysis: +146 | Depth: 20 | EngineMove : e4f3
+6... Nxd5 | Analysis: +92 | Depth: 18 | EngineMove : c3e4
+7. Nd4 | Analysis: +194 | Depth: 18 | EngineMove : c6d4
+7... Nxd4 | Analysis: -205 | Depth: 16 | EngineMove : d1a4
+8. Nxd5 | Analysis: +400 | Depth: 17 | EngineMove : d8d5
+8... Qxd5 | Analysis: -415 | Depth: 17 | EngineMove : e1g1
+9. e3 | Analysis: +481 | Depth: 19 | EngineMove : d4f3
+9... Nf3+ | Analysis: -488 | Depth: 19 | EngineMove : g2f3
+10. Bxf3 | Analysis: +480 | Depth: 20 | EngineMove : e4f3
+10... exf3 | Analysis: -482 | Depth: 20 | EngineMove : d1b3
+11. Qb3 | Analysis: +496 | Depth: 22 | EngineMove : d5b3
+11... Qc6 | Analysis: -471 | Depth: 16 | EngineMove : e1g1
+12. d4 | Analysis: +481 | Depth: 17 | EngineMove : c8e6
+12... Qa6 | Analysis: -450 | Depth: 20 | EngineMove : b3d1
+13. Bd2 | Analysis: #+1 | Depth: 127 | EngineMove : a6e2

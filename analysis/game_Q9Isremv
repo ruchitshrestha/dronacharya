@@ -1,0 +1,36 @@
+**URL: https://lichess.org/Q9Isremv | Tag: Q9Isremv | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Q9Isremv', Date='2020.01.18', Round='-', White='Deinoyi', Black='chittyct', Result='1-0', BlackElo='1467', BlackRatingDiff='-6', ECO='A21', Termination='Time forfeit', TimeControl='300+3', UTCDate='2020.01.18', UTCTime='10:45:25', Variant='Standard', WhiteElo='1537', WhiteRatingDiff='+5')
+
+1. c4 | Analysis: -7 | Depth: 19 | EngineMove : e7e5
+1... e5 | Analysis: +9 | Depth: 19 | EngineMove : b1c3
+2. Nc3 | Analysis: -1 | Depth: 19 | EngineMove : g8f6
+2... Bc5 | Analysis: +53 | Depth: 17 | EngineMove : g1f3
+3. Nf3 | Analysis: -39 | Depth: 18 | EngineMove : b8c6
+3... d6 | Analysis: +51 | Depth: 19 | EngineMove : e2e3
+4. g3 | Analysis: +3 | Depth: 17 | EngineMove : c8g4
+4... Nf6 | Analysis: +12 | Depth: 17 | EngineMove : f1g2
+5. Bg2 | Analysis: -9 | Depth: 19 | EngineMove : e8g8
+5... Nc6 | Analysis: -5 | Depth: 17 | EngineMove : e2e3
+6. O-O | Analysis: -5 | Depth: 18 | EngineMove : e8g8
+6... Be6 | Analysis: +5 | Depth: 19 | EngineMove : d2d3
+7. d3 | Analysis: -13 | Depth: 19 | EngineMove : e8g8
+7... O-O | Analysis: +12 | Depth: 20 | EngineMove : c1g5
+8. Rb1 | Analysis: +3 | Depth: 16 | EngineMove : h7h6
+8... Qd7 | Analysis: +30 | Depth: 16 | EngineMove : c1g5
+9. Re1 | Analysis: +27 | Depth: 16 | EngineMove : h7h6
+9... Bh3 | Analysis: -17 | Depth: 18 | EngineMove : e2e3
+10. Bh1 | Analysis: +39 | Depth: 14 | EngineMove : h7h6
+10... Ng4 | Analysis: -12 | Depth: 17 | EngineMove : e2e3
+11. Ne4 | Analysis: +33 | Depth: 17 | EngineMove : c5b4
+11... Bb6 | Analysis: -23 | Depth: 17 | EngineMove : c4c5
+12. b4 | Analysis: +193 | Depth: 18 | EngineMove : f7f5
+12... f5 | Analysis: -183 | Depth: 20 | EngineMove : c4c5
+13. c5 | Analysis: +188 | Depth: 21 | EngineMove : f5e4
+13... dxc5 | Analysis: -25 | Depth: 16 | EngineMove : e4g5
+14. bxc5 | Analysis: +175 | Depth: 18 | EngineMove : f5e4
+14... fxe4 | Analysis: -191 | Depth: 18 | EngineMove : c5b6
+15. cxb6 | Analysis: +171 | Depth: 18 | EngineMove : e4f3
+15... axb6 | Analysis: -84 | Depth: 17 | EngineMove : d1b3
+16. Ng5 | Analysis: +262 | Depth: 19 | EngineMove : g4f2
+16... Qf5 | Analysis: +36 | Depth: 17 | EngineMove : f2f3
+17. f3 | Analysis: -45 | Depth: 18 | EngineMove : e4f3

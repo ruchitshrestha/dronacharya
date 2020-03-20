@@ -1,0 +1,19 @@
+**URL: https://lichess.org/4l5hBDtU | Tag: 4l5hBDtU | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/4l5hBDtU', Date='2018.12.12', Round='-', White='Salforis', Black='chittyct', Result='0-1', BlackElo='1035', BlackRatingDiff='+10', ECO='B28', Termination='Normal', TimeControl='120+1', UTCDate='2018.12.12', UTCTime='22:42:28', Variant='Standard', WhiteElo='1023', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -23 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +60 | Depth: 13 | EngineMove : b1c3
+2. Nf3 | Analysis: -49 | Depth: 14 | EngineMove : e7e6
+2... a6 | Analysis: +61 | Depth: 12 | EngineMove : f1e2
+3. Bc4 | Analysis: -39 | Depth: 11 | EngineMove : e7e6
+3... b5 | Analysis: +32 | Depth: 12 | EngineMove : c4d5
+4. Bb3 | Analysis: +136 | Depth: 13 | EngineMove : c5c4
+4... c4 | Analysis: -149 | Depth: 13 | EngineMove : b3c4
+5. Bxc4 | Analysis: +162 | Depth: 14 | EngineMove : b5c4
+5... bxc4 | Analysis: -156 | Depth: 14 | EngineMove : b1c3
+6. Nc3 | Analysis: +168 | Depth: 14 | EngineMove : e7e6
+6... Nc6 | Analysis: -162 | Depth: 14 | EngineMove : e1g1
+7. O-O | Analysis: +170 | Depth: 14 | EngineMove : e7e6
+7... e6 | Analysis: -170 | Depth: 13 | EngineMove : d2d3
+8. Ne5 | Analysis: +504 | Depth: 13 | EngineMove : c6e5
+8... Nxe5 | Analysis: -536 | Depth: 12 | EngineMove : d2d3

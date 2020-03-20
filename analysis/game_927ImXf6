@@ -1,0 +1,14 @@
+**URL: https://lichess.org/927ImXf6 | Tag: 927ImXf6 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/927ImXf6', Date='2019.12.14', Round='-', White='Add779', Black='chittyct', Result='0-1', BlackElo='1323', BlackRatingDiff='+7', ECO='B30', Termination='Normal', TimeControl='120+1', UTCDate='2019.12.14', UTCTime='14:37:37', Variant='Standard', WhiteElo='1284', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -34 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +41 | Depth: 17 | EngineMove : b1c3
+2. Nf3 | Analysis: -31 | Depth: 17 | EngineMove : d7d6
+2... Nc6 | Analysis: +47 | Depth: 18 | EngineMove : f1b5
+3. Bb5 | Analysis: -31 | Depth: 19 | EngineMove : g8f6
+3... e6 | Analysis: +37 | Depth: 16 | EngineMove : e1g1
+4. Bxc6 | Analysis: 0 | Depth: 17 | EngineMove : b7c6
+4... bxc6 | Analysis: +5 | Depth: 19 | EngineMove : d2d3
+5. O-O | Analysis: +7 | Depth: 19 | EngineMove : d7d5
+5... d5 | Analysis: 0 | Depth: 19 | EngineMove : d2d3
+6. Re1 | Analysis: -1 | Depth: 20 | EngineMove : g8f6

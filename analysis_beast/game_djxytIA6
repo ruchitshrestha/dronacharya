@@ -1,0 +1,33 @@
+**URL: https://lichess.org/djxytIA6 | Tag: djxytIA6 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/djxytIA6', Date='2018.10.30', Round='-', White='chittyct', Black='mattmcn', Result='1-0', BlackElo='1167', BlackRatingDiff='-10', ECO='D02', Termination='Normal', TimeControl='180+0', UTCDate='2018.10.30', UTCTime='18:36:15', Variant='Standard', WhiteElo='1181', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -12 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +10 | Depth: 12 | EngineMove : e2e3
+2. Nf3 | Analysis: -24 | Depth: 13 | EngineMove : e7e6
+2... Bf5 | Analysis: +21 | Depth: 13 | EngineMove : c1f4
+3. Bf4 | Analysis: -28 | Depth: 12 | EngineMove : g8f6
+3... f6 | Analysis: +90 | Depth: 11 | EngineMove : c2c4
+4. e3 | Analysis: -51 | Depth: 12 | EngineMove : g7g5
+4... e5 | Analysis: +148 | Depth: 11 | EngineMove : d4e5
+5. Nxe5 | Analysis: +110 | Depth: 12 | EngineMove : f6e5
+5... fxe5 | Analysis: -119 | Depth: 14 | EngineMove : d4e5
+6. Bxe5 | Analysis: +151 | Depth: 12 | EngineMove : b8c6
+6... Bd6 | Analysis: +298 | Depth: 13 | EngineMove : e5g7
+7. Bxg7 | Analysis: -313 | Depth: 13 | EngineMove : d8g5
+7... Ne7 | Analysis: +370 | Depth: 13 | EngineMove : g7h8
+8. Bxh8 | Analysis: -360 | Depth: 13 | EngineMove : d8d7
+8... Kd7 | Analysis: +432 | Depth: 12 | EngineMove : h8e5
+9. Bf6 | Analysis: -421 | Depth: 12 | EngineMove : b8c6
+9... Qf8 | Analysis: +422 | Depth: 12 | EngineMove : f6e7
+10. Bxe7 | Analysis: -427 | Depth: 12 | EngineMove : f8e7
+10... Qxe7 | Analysis: +439 | Depth: 13 | EngineMove : b1c3
+11. c4 | Analysis: -416 | Depth: 12 | EngineMove : f5b1
+11... dxc4 | Analysis: +468 | Depth: 11 | EngineMove : b1c3
+12. Bxc4 | Analysis: -426 | Depth: 12 | EngineMove : b8c6
+12... a6 | Analysis: +502 | Depth: 13 | EngineMove : b1c3
+13. Qf3 | Analysis: -482 | Depth: 13 | EngineMove : e7e4
+13... Be4 | Analysis: +511 | Depth: 12 | EngineMove : f3g4
+14. Qg4+ | Analysis: -530 | Depth: 14 | EngineMove : d7c6
+14... Qe6 | Analysis: +1774 | Depth: 11 | EngineMove : g4e6
+15. Bxe6+ | Analysis: -1883 | Depth: 14 | EngineMove : d7c6
+15... Kc6 | Analysis: +1974 | Depth: 15 | EngineMove : b1d2

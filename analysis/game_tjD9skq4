@@ -1,0 +1,36 @@
+**URL: https://lichess.org/tjD9skq4 | Tag: tjD9skq4 | Side: black**
+HEADERS: Headers(Event='Casual Blitz game', Site='https://lichess.org/tjD9skq4', Date='2019.04.29', Round='-', White='Omegahorus', Black='chittyct', Result='1-0', BlackElo='1227', ECO='B40', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.04.29', UTCTime='23:24:43', Variant='Standard', WhiteElo='2021')
+
+1. e4 | Analysis: -22 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +42 | Depth: 16 | EngineMove : g1f3
+2. Nf3 | Analysis: -34 | Depth: 16 | EngineMove : d7d6
+2... a6 | Analysis: +49 | Depth: 16 | EngineMove : b1c3
+3. d4 | Analysis: -32 | Depth: 17 | EngineMove : c5d4
+3... e6 | Analysis: +63 | Depth: 16 | EngineMove : f1e2
+4. c3 | Analysis: -42 | Depth: 17 | EngineMove : d7d5
+4... cxd4 | Analysis: +51 | Depth: 19 | EngineMove : c3d4
+5. cxd4 | Analysis: -59 | Depth: 19 | EngineMove : d7d5
+5... b5 | Analysis: +92 | Depth: 16 | EngineMove : f1d3
+6. Bd3 | Analysis: -88 | Depth: 17 | EngineMove : b8c6
+6... Bb7 | Analysis: +79 | Depth: 17 | EngineMove : e1g1
+7. O-O | Analysis: -77 | Depth: 18 | EngineMove : b8c6
+7... d5 | Analysis: +89 | Depth: 17 | EngineMove : e4e5
+8. exd5 | Analysis: -94 | Depth: 17 | EngineMove : b7d5
+8... Bxd5 | Analysis: +107 | Depth: 19 | EngineMove : b1c3
+9. Nc3 | Analysis: -94 | Depth: 18 | EngineMove : g8f6
+9... Bb7 | Analysis: +117 | Depth: 17 | EngineMove : d4d5
+10. Re1 | Analysis: -72 | Depth: 18 | EngineMove : g8f6
+10... Nf6 | Analysis: +60 | Depth: 17 | EngineMove : c1g5
+11. Bg5 | Analysis: -49 | Depth: 18 | EngineMove : f8e7
+11... Be7 | Analysis: +45 | Depth: 18 | EngineMove : g5f6
+12. d5 | Analysis: +1 | Depth: 17 | EngineMove : f6d5
+12... Bxd5 | Analysis: +39 | Depth: 16 | EngineMove : g5f6
+13. Bxf6 | Analysis: -37 | Depth: 17 | EngineMove : e7f6
+13... Bxf3 | Analysis: +418 | Depth: 18 | EngineMove : d1f3
+14. Qxf3 | Analysis: -418 | Depth: 18 | EngineMove : e7f6
+14... Nd7 | Analysis: +713 | Depth: 20 | EngineMove : f6e7
+15. Bxe7 | Analysis: -718 | Depth: 21 | EngineMove : e8e7
+15... Kxe7 | Analysis: +733 | Depth: 21 | EngineMove : c3d5
+16. Nd5+ | Analysis: -728 | Depth: 22 | EngineMove : e7f8
+16... Kf8 | Analysis: +734 | Depth: 21 | EngineMove : d5c7
+17. Nc7 | Analysis: -737 | Depth: 21 | EngineMove : d8c7

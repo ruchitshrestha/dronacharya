@@ -1,0 +1,27 @@
+**URL: https://lichess.org/6brBWoaw | Tag: 6brBWoaw | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/6brBWoaw', Date='2019.04.23', Round='-', White='chittyct', Black='Domaltozor61', Result='0-1', BlackElo='1384', BlackRatingDiff='+9', ECO='A43', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.23', UTCTime='19:15:20', Variant='Standard', WhiteElo='1323', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -16 | Depth: 18 | EngineMove : g8f6
+1... c5 | Analysis: +40 | Depth: 17 | EngineMove : d4d5
+2. dxc5 | Analysis: -17 | Depth: 16 | EngineMove : b8c6
+2... e5 | Analysis: +35 | Depth: 17 | EngineMove : g1f3
+3. b4 | Analysis: +16 | Depth: 17 | EngineMove : a7a5
+3... a5 | Analysis: -20 | Depth: 17 | EngineMove : g1f3
+4. bxa5 | Analysis: +70 | Depth: 16 | EngineMove : g8f6
+4... Rxa5 | Analysis: -30 | Depth: 16 | EngineMove : g1f3
+5. Qd5 | Analysis: +149 | Depth: 17 | EngineMove : b8c6
+5... Rxc5 | Analysis: -71 | Depth: 17 | EngineMove : d5b3
+6. Qe4 | Analysis: +300 | Depth: 20 | EngineMove : d8c7
+6... Nf6 | Analysis: -185 | Depth: 16 | EngineMove : e4d3
+7. Qa4 | Analysis: +305 | Depth: 19 | EngineMove : d8c7
+7... Nc6 | Analysis: -148 | Depth: 17 | EngineMove : e2e3
+8. Be3 | Analysis: +362 | Depth: 20 | EngineMove : b7b5
+8... Ra5 | Analysis: -203 | Depth: 17 | EngineMove : a4b3
+9. Qb3 | Analysis: +193 | Depth: 16 | EngineMove : d7d5
+9... Bc5 | Analysis: -195 | Depth: 17 | EngineMove : e3c5
+10. Bxc5 | Analysis: +196 | Depth: 19 | EngineMove : a5c5
+10... Rxc5 | Analysis: -191 | Depth: 19 | EngineMove : e2e3
+11. e4 | Analysis: +859 | Depth: 16 | EngineMove : c6d4
+11... Nd4 | Analysis: -913 | Depth: 17 | EngineMove : f1c4
+12. Qd3 | Analysis: +927 | Depth: 15 | EngineMove : d4c2
+12... Nxc2+ | Analysis: -1022 | Depth: 17 | EngineMove : e1d1

@@ -1,0 +1,29 @@
+**URL: https://lichess.org/zCH16BxF | Tag: zCH16BxF | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/zCH16BxF', Date='2018.12.09', Round='-', White='mcagoentuvieja', Black='chittyct', Result='0-1', BlackElo='1224', BlackRatingDiff='+14', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.09', UTCTime='18:28:06', Variant='Standard', WhiteElo='1330', WhiteRatingDiff='-14')
+
+1. d4 | Analysis: -17 | Depth: 13 | EngineMove : d7d5
+1... g6 | Analysis: +87 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -63 | Depth: 12 | EngineMove : g8f6
+2... Bg7 | Analysis: +92 | Depth: 13 | EngineMove : e2e4
+3. Nbd2 | Analysis: -60 | Depth: 13 | EngineMove : d7d5
+3... d6 | Analysis: +56 | Depth: 12 | EngineMove : e2e4
+4. e4 | Analysis: -47 | Depth: 12 | EngineMove : e7e5
+4... e5 | Analysis: +70 | Depth: 13 | EngineMove : d4e5
+5. Bd3 | Analysis: +55 | Depth: 13 | EngineMove : e5d4
+5... exd4 | Analysis: -55 | Depth: 13 | EngineMove : e1g1
+6. b3 | Analysis: +70 | Depth: 12 | EngineMove : g8e7
+6... Ne7 | Analysis: -96 | Depth: 12 | EngineMove : e1g1
+7. Bb2 | Analysis: +97 | Depth: 12 | EngineMove : c7c5
+7... c5 | Analysis: -86 | Depth: 12 | EngineMove : d1c1
+8. O-O | Analysis: +75 | Depth: 13 | EngineMove : e8g8
+8... O-O | Analysis: -82 | Depth: 13 | EngineMove : a1c1
+9. e5 | Analysis: +232 | Depth: 12 | EngineMove : d6e5
+9... dxe5 | Analysis: -248 | Depth: 12 | EngineMove : f1e1
+10. Re1 | Analysis: +239 | Depth: 12 | EngineMove : b8c6
+10... Re8 | Analysis: -134 | Depth: 12 | EngineMove : f3e5
+11. Nxe5 | Analysis: +130 | Depth: 12 | EngineMove : e7d5
+11... Bxe5 | Analysis: -32 | Depth: 13 | EngineMove : e1e5
+12. Rxe5 | Analysis: +27 | Depth: 13 | EngineMove : b8d7
+12... Nd5 | Analysis: -37 | Depth: 12 | EngineMove : e5e8
+13. Qf3 | Analysis: +577 | Depth: 13 | EngineMove : e8e5
+13... Rxe5 | Analysis: -577 | Depth: 13 | EngineMove : d2c4

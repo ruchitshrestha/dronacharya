@@ -1,0 +1,8 @@
+**URL: https://lichess.org/AdyP0KQL | Tag: AdyP0KQL | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/AdyP0KQL', Date='2019.10.09', Round='-', White='chittyct', Black='easeystreet', Result='1-0', BlackElo='1394', BlackRatingDiff='-6', ECO='D10', Termination='Time forfeit', TimeControl='300+3', UTCDate='2019.10.09', UTCTime='16:34:53', Variant='Standard', WhiteElo='1444', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -11 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +23 | Depth: 19 | EngineMove : g1f3
+2. c4 | Analysis: -18 | Depth: 19 | EngineMove : e7e6
+2... c6 | Analysis: +41 | Depth: 17 | EngineMove : g1f3
+3. Bf4 | Analysis: -15 | Depth: 15 | EngineMove : g8f6

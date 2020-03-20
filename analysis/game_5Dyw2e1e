@@ -1,0 +1,17 @@
+**URL: https://lichess.org/5Dyw2e1e | Tag: 5Dyw2e1e | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/5Dyw2e1e', Date='2020.01.23', Round='-', White='LeoGalleguillos', Black='chittyct', Result='0-1', BlackElo='1505', BlackRatingDiff='+6', ECO='A00', Termination='Normal', TimeControl='180+2', UTCDate='2020.01.23', UTCTime='02:08:25', Variant='Standard', WhiteElo='1505', WhiteRatingDiff='-16')
+
+1. h4 | Analysis: +27 | Depth: 17 | EngineMove : e7e5
+1... d5 | Analysis: -9 | Depth: 15 | EngineMove : d2d4
+2. a4 | Analysis: +77 | Depth: 16 | EngineMove : e7e5
+2... e5 | Analysis: -72 | Depth: 16 | EngineMove : e2e3
+3. c3 | Analysis: +99 | Depth: 15 | EngineMove : g8f6
+3... Be7 | Analysis: -81 | Depth: 16 | EngineMove : d2d4
+4. a5 | Analysis: +107 | Depth: 15 | EngineMove : g8f6
+4... Bxh4 | Analysis: +197 | Depth: 16 | EngineMove : d1a4
+5. g3 | Analysis: +137 | Depth: 16 | EngineMove : h4e7
+5... Bg5 | Analysis: -94 | Depth: 15 | EngineMove : d2d3
+6. g4 | Analysis: +203 | Depth: 16 | EngineMove : c8g4
+6... Nc6 | Analysis: -137 | Depth: 15 | EngineMove : g1f3
+7. f3 | Analysis: #+2 | Depth: 127 | EngineMove : g5h4
+7... Bh4+ | Analysis: #-1 | Depth: 127 | EngineMove : h1h4

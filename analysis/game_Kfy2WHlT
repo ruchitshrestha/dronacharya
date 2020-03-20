@@ -1,0 +1,30 @@
+**URL: https://lichess.org/Kfy2WHlT | Tag: Kfy2WHlT | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Kfy2WHlT', Date='2018.12.18', Round='-', White='semichki', Black='chittyct', Result='0-1', BlackElo='1094', BlackRatingDiff='+32', ECO='D00', Termination='Normal', TimeControl='60+2', UTCDate='2018.12.18', UTCTime='03:56:11', Variant='Standard', WhiteElo='1399', WhiteRatingDiff='-20')
+
+1. d4 | Analysis: -13 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +13 | Depth: 18 | EngineMove : e2e3
+2. Bf4 | Analysis: -23 | Depth: 18 | EngineMove : e7e6
+2... Bf5 | Analysis: +11 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -17 | Depth: 17 | EngineMove : e7e6
+3... Nf6 | Analysis: +9 | Depth: 17 | EngineMove : g1f3
+4. c4 | Analysis: 0 | Depth: 16 | EngineMove : b8c6
+4... c6 | Analysis: +28 | Depth: 16 | EngineMove : g1f3
+5. Nc3 | Analysis: -24 | Depth: 18 | EngineMove : b8d7
+5... e6 | Analysis: +26 | Depth: 19 | EngineMove : d1b3
+6. Nf3 | Analysis: -5 | Depth: 17 | EngineMove : b8d7
+6... Bb4 | Analysis: +47 | Depth: 18 | EngineMove : d1b3
+7. Nh4 | Analysis: +5 | Depth: 15 | EngineMove : d8a5
+7... Bg6 | Analysis: +58 | Depth: 18 | EngineMove : h4g6
+8. Nxg6 | Analysis: -63 | Depth: 16 | EngineMove : h7g6
+8... hxg6 | Analysis: +44 | Depth: 17 | EngineMove : d1b3
+9. Qc2 | Analysis: 0 | Depth: 16 | EngineMove : f6h5
+9... Bd6 | Analysis: +25 | Depth: 18 | EngineMove : f4d6
+10. Bxd6 | Analysis: -15 | Depth: 19 | EngineMove : d8d6
+10... Qxd6 | Analysis: +14 | Depth: 19 | EngineMove : c4d5
+11. cxd5 | Analysis: -8 | Depth: 19 | EngineMove : f6d5
+11... cxd5 | Analysis: +36 | Depth: 19 | EngineMove : c3b5
+12. Bd3 | Analysis: 0 | Depth: 20 | EngineMove : b8c6
+12... Nc6 | Analysis: 0 | Depth: 20 | EngineMove : h2h3
+13. Nb5 | Analysis: +14 | Depth: 16 | EngineMove : d6e7
+13... Qb8 | Analysis: +9 | Depth: 19 | EngineMove : c2c5
+14. O-O | Analysis: #+1 | Depth: 127 | EngineMove : b8h2

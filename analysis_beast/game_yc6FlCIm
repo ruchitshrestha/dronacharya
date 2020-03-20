@@ -1,0 +1,19 @@
+**URL: https://lichess.org/yc6FlCIm | Tag: yc6FlCIm | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/yc6FlCIm', Date='2018.11.30', Round='-', White='UltraZver', Black='chittyct', Result='0-1', BlackElo='1025', BlackRatingDiff='+10', ECO='D00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.11.30', UTCTime='12:36:08', Variant='Standard', WhiteElo='994', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -18 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +12 | Depth: 13 | EngineMove : g1f3
+2. e3 | Analysis: -15 | Depth: 15 | EngineMove : g8f6
+2... Nc6 | Analysis: +30 | Depth: 13 | EngineMove : c2c4
+3. c4 | Analysis: -34 | Depth: 12 | EngineMove : e7e6
+3... e6 | Analysis: +33 | Depth: 14 | EngineMove : g1f3
+4. c5 | Analysis: +6 | Depth: 14 | EngineMove : f8e7
+4... Nf6 | Analysis: +1 | Depth: 14 | EngineMove : g1f3
+5. Bd2 | Analysis: +8 | Depth: 12 | EngineMove : c8d7
+5... Be7 | Analysis: -10 | Depth: 13 | EngineMove : g1f3
+6. b4 | Analysis: +15 | Depth: 13 | EngineMove : a7a6
+6... O-O | Analysis: -3 | Depth: 13 | EngineMove : g1f3
+7. b5 | Analysis: +22 | Depth: 13 | EngineMove : c6b8
+7... Nb8 | Analysis: -22 | Depth: 12 | EngineMove : g1f3
+8. a4 | Analysis: +44 | Depth: 12 | EngineMove : c7c6
+8... a6 | Analysis: +9 | Depth: 11 | EngineMove : b1c3

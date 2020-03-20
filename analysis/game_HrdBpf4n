@@ -1,0 +1,19 @@
+**URL: https://lichess.org/HrdBpf4n | Tag: HrdBpf4n | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/HrdBpf4n', Date='2019.02.07', Round='-', White='chittyct', Black='samvo', Result='0-1', BlackElo='1046', BlackRatingDiff='+11', ECO='A80', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.02.07', UTCTime='00:08:51', Variant='Standard', WhiteElo='1045', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -16 | Depth: 18 | EngineMove : g8f6
+1... f5 | Analysis: +50 | Depth: 17 | EngineMove : g1f3
+2. Nc3 | Analysis: -38 | Depth: 17 | EngineMove : g8f6
+2... Nf6 | Analysis: +36 | Depth: 17 | EngineMove : c1g5
+3. Bg5 | Analysis: -32 | Depth: 19 | EngineMove : d7d5
+3... Ne4 | Analysis: +68 | Depth: 16 | EngineMove : c3e4
+4. Nxe4 | Analysis: -68 | Depth: 18 | EngineMove : f5e4
+4... fxe4 | Analysis: +72 | Depth: 18 | EngineMove : f2f3
+5. c4 | Analysis: -32 | Depth: 17 | EngineMove : c7c6
+5... d5 | Analysis: +76 | Depth: 18 | EngineMove : e2e3
+6. Qc2 | Analysis: -30 | Depth: 15 | EngineMove : c7c6
+6... Nc6 | Analysis: +56 | Depth: 17 | EngineMove : e2e3
+7. e3 | Analysis: -54 | Depth: 19 | EngineMove : d8d7
+7... dxc4 | Analysis: +130 | Depth: 17 | EngineMove : f1c4
+8. Qxe4 | Analysis: -82 | Depth: 18 | EngineMove : d8d6
+8... h6 | Analysis: +764 | Depth: 20 | EngineMove : e4g6

@@ -1,0 +1,17 @@
+**URL: https://lichess.org/NjJl4rRN | Tag: NjJl4rRN | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/NjJl4rRN', Date='2018.09.24', Round='-', White='chittyct', Black='Ellepi', Result='1-0', BlackElo='1192', BlackRatingDiff='-17', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='07:24:32', Variant='Standard', WhiteElo='1078', WhiteRatingDiff='+14')
+
+1. d4 | Analysis: -22 | Depth: 12 | EngineMove : g8f6
+1... b6 | Analysis: +74 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -36 | Depth: 13 | EngineMove : g8f6
+2... Bb7 | Analysis: +44 | Depth: 12 | EngineMove : e2e3
+3. Bf4 | Analysis: -22 | Depth: 13 | EngineMove : g8f6
+3... Nc6 | Analysis: +80 | Depth: 12 | EngineMove : d4d5
+4. e3 | Analysis: -37 | Depth: 12 | EngineMove : g8f6
+4... d6 | Analysis: +119 | Depth: 11 | EngineMove : d4d5
+5. Bd3 | Analysis: -70 | Depth: 12 | EngineMove : g8f6
+5... e6 | Analysis: +70 | Depth: 13 | EngineMove : c2c4
+6. c4 | Analysis: -78 | Depth: 13 | EngineMove : g8f6
+6... g6 | Analysis: +94 | Depth: 10 | EngineMove : b1c3
+7. Nc3 | Analysis: -77 | Depth: 11 | EngineMove : f8g7
+7... Bg7 | Analysis: +78 | Depth: 12 | EngineMove : d4d5

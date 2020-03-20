@@ -1,0 +1,14 @@
+**URL: https://lichess.org/hknIAzkf | Tag: hknIAzkf | Side: white**
+HEADERS: Headers(Event='Casual Rapid game', Site='https://lichess.org/hknIAzkf', Date='2019.09.12', Round='-', White='chittyct', Black='Boxi-cz', Result='0-1', BlackElo='1924', ECO='D15', Termination='Normal', TimeControl='420+3', UTCDate='2019.09.12', UTCTime='15:48:08', Variant='Standard', WhiteElo='1481')
+
+1. d4 | Analysis: -17 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +12 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -13 | Depth: 14 | EngineMove : e7e6
+2... c6 | Analysis: +37 | Depth: 12 | EngineMove : e2e3
+3. Nf3 | Analysis: -27 | Depth: 12 | EngineMove : c8f5
+3... Nf6 | Analysis: +42 | Depth: 13 | EngineMove : e2e3
+4. Nc3 | Analysis: -20 | Depth: 13 | EngineMove : d5c4
+4... Bf5 | Analysis: +56 | Depth: 12 | EngineMove : c4d5
+5. cxd5 | Analysis: -43 | Depth: 13 | EngineMove : c6d5
+5... Nxd5 | Analysis: +46 | Depth: 12 | EngineMove : d1b3
+6. Bf4 | Analysis: +258 | Depth: 13 | EngineMove : d5f4

@@ -1,0 +1,24 @@
+**URL: https://lichess.org/AjNKAPpj | Tag: AjNKAPpj | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/AjNKAPpj', Date='2019.12.16', Round='-', White='chittyct', Black='therealness', Result='1-0', BlackElo='1411', BlackRatingDiff='-8', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.12.16', UTCTime='18:52:39', Variant='Standard', WhiteElo='1354', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -18 | Depth: 13 | EngineMove : g8f6
+1... e6 | Analysis: +28 | Depth: 12 | EngineMove : e2e4
+2. Bf4 | Analysis: -20 | Depth: 11 | EngineMove : g7g5
+2... Nf6 | Analysis: +8 | Depth: 12 | EngineMove : e2e3
+3. e4 | Analysis: +33 | Depth: 12 | EngineMove : f6e4
+3... d5 | Analysis: -10 | Depth: 12 | EngineMove : e4e5
+4. e5 | Analysis: +2 | Depth: 13 | EngineMove : f6d7
+4... Nfd7 | Analysis: -5 | Depth: 12 | EngineMove : g1f3
+5. c4 | Analysis: +24 | Depth: 12 | EngineMove : d5c4
+5... Nb6 | Analysis: +44 | Depth: 12 | EngineMove : c4c5
+6. c5 | Analysis: -43 | Depth: 12 | EngineMove : b6d7
+6... Nc4 | Analysis: +74 | Depth: 11 | EngineMove : b2b3
+7. b3 | Analysis: -56 | Depth: 13 | EngineMove : c4a5
+7... Nb2 | Analysis: +291 | Depth: 13 | EngineMove : d1d2
+8. Qc2 | Analysis: -280 | Depth: 13 | EngineMove : b7b6
+8... b6 | Analysis: +284 | Depth: 14 | EngineMove : c5b6
+9. cxb6 | Analysis: -291 | Depth: 13 | EngineMove : a7b6
+9... Bb4+ | Analysis: +310 | Depth: 14 | EngineMove : f4d2
+10. Nc3 | Analysis: -278 | Depth: 13 | EngineMove : c7c5
+10... Bxc3+ | Analysis: +340 | Depth: 14 | EngineMove : c2c3
+11. Qxc3 | Analysis: -350 | Depth: 14 | EngineMove : a7b6

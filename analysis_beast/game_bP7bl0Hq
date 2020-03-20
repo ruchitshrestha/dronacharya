@@ -1,0 +1,32 @@
+**URL: https://lichess.org/bP7bl0Hq | Tag: bP7bl0Hq | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/bP7bl0Hq', Date='2020.02.06', Round='-', White='Floriii', Black='chittyct', Result='1-0', BlackElo='1316', BlackRatingDiff='-5', ECO='B20', Termination='Time forfeit', TimeControl='120+1', UTCDate='2020.02.06', UTCTime='22:05:44', Variant='Standard', WhiteElo='1330', WhiteRatingDiff='+6')
+
+1. e4 | Analysis: -48 | Depth: 11 | EngineMove : c7c5
+1... c5 | Analysis: +61 | Depth: 12 | EngineMove : b1c3
+2. Bc4 | Analysis: -33 | Depth: 12 | EngineMove : e7e6
+2... e6 | Analysis: -1 | Depth: 12 | EngineMove : b1c3
+3. Nc3 | Analysis: -4 | Depth: 13 | EngineMove : b8c6
+3... a6 | Analysis: +25 | Depth: 12 | EngineMove : g1f3
+4. a3 | Analysis: +1 | Depth: 12 | EngineMove : g8f6
+4... b5 | Analysis: +17 | Depth: 13 | EngineMove : c4a2
+5. Be2 | Analysis: +1 | Depth: 12 | EngineMove : d7d5
+5... Bb7 | Analysis: +48 | Depth: 12 | EngineMove : g1f3
+6. d3 | Analysis: +2 | Depth: 12 | EngineMove : d7d5
+6... b4 | Analysis: +65 | Depth: 13 | EngineMove : a3b4
+7. axb4 | Analysis: -74 | Depth: 14 | EngineMove : c5b4
+7... cxb4 | Analysis: +72 | Depth: 15 | EngineMove : c3a4
+8. Na2 | Analysis: -17 | Depth: 12 | EngineMove : d7d5
+8... d5 | Analysis: +3 | Depth: 12 | EngineMove : e4e5
+9. exd5 | Analysis: +7 | Depth: 13 | EngineMove : e6d5
+9... Bxd5 | Analysis: +14 | Depth: 13 | EngineMove : g1f3
+10. Bf3 | Analysis: +28 | Depth: 13 | EngineMove : g8f6
+10... Nf6 | Analysis: -6 | Depth: 14 | EngineMove : f3d5
+11. Bxd5 | Analysis: +19 | Depth: 15 | EngineMove : d8d5
+11... Nxd5 | Analysis: -8 | Depth: 13 | EngineMove : c2c4
+12. Qf3 | Analysis: +125 | Depth: 11 | EngineMove : b8c6
+12... Be7 | Analysis: -58 | Depth: 13 | EngineMove : c2c4
+13. c4 | Analysis: +53 | Depth: 15 | EngineMove : b4c3
+13... bxc3 | Analysis: -46 | Depth: 15 | EngineMove : a2c3
+14. Nxc3 | Analysis: +44 | Depth: 14 | EngineMove : e8g8
+14... O-O | Analysis: -37 | Depth: 15 | EngineMove : c3d5
+15. Nge2 | Analysis: +56 | Depth: 13 | EngineMove : d5b4

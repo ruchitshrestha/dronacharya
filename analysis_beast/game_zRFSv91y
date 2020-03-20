@@ -1,0 +1,26 @@
+**URL: https://lichess.org/zRFSv91y | Tag: zRFSv91y | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/zRFSv91y', Date='2018.11.05', Round='-', White='chittyct', Black='MMCCRRMM', Result='1-0', BlackElo='1227', BlackRatingDiff='-12', ECO='D02', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.05', UTCTime='04:49:34', Variant='Standard', WhiteElo='1161', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -8 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +19 | Depth: 14 | EngineMove : g1f3
+2. Nf3 | Analysis: -15 | Depth: 14 | EngineMove : g8f6
+2... Nc6 | Analysis: +35 | Depth: 12 | EngineMove : c1f4
+3. Bf4 | Analysis: -21 | Depth: 13 | EngineMove : g8f6
+3... f6 | Analysis: +44 | Depth: 11 | EngineMove : b1c3
+4. e3 | Analysis: -39 | Depth: 13 | EngineMove : g7g5
+4... g5 | Analysis: +44 | Depth: 12 | EngineMove : f4g3
+5. Bg3 | Analysis: -41 | Depth: 12 | EngineMove : h7h5
+5... Bf5 | Analysis: +53 | Depth: 12 | EngineMove : f1d3
+6. Bd3 | Analysis: -29 | Depth: 12 | EngineMove : f5d3
+6... Bg4 | Analysis: +153 | Depth: 11 | EngineMove : h2h3
+7. h3 | Analysis: -134 | Depth: 12 | EngineMove : g4h5
+7... Bh5 | Analysis: +140 | Depth: 12 | EngineMove : c2c4
+8. c4 | Analysis: -130 | Depth: 13 | EngineMove : e7e6
+8... e5 | Analysis: +140 | Depth: 12 | EngineMove : b1c3
+9. dxe5 | Analysis: -72 | Depth: 11 | EngineMove : d5c4
+9... fxe5 | Analysis: +324 | Depth: 12 | EngineMove : c4d5
+10. cxd5 | Analysis: -294 | Depth: 14 | EngineMove : c6b4
+10... e4 | Analysis: +383 | Depth: 14 | EngineMove : d5c6
+11. Bxe4 | Analysis: -329 | Depth: 13 | EngineMove : f8b4
+11... Ne5 | Analysis: +970 | Depth: 12 | EngineMove : g3e5
+12. Qd4 | Analysis: -345 | Depth: 12 | EngineMove : e5f3

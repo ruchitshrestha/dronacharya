@@ -1,0 +1,16 @@
+**URL: https://lichess.org/NiY1MMMD | Tag: NiY1MMMD | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/NiY1MMMD', Date='2019.11.07', Round='-', White='chittyct', Black='gashsh', Result='0-1', BlackElo='1308', BlackRatingDiff='+6', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.07', UTCTime='21:09:24', Variant='Standard', WhiteElo='1259', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -19 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 17 | EngineMove : g1f3
+2. Bf4 | Analysis: -21 | Depth: 18 | EngineMove : c8f5
+2... f6 | Analysis: +70 | Depth: 15 | EngineMove : e2e4
+3. e3 | Analysis: -62 | Depth: 16 | EngineMove : c8f5
+3... g5 | Analysis: +177 | Depth: 16 | EngineMove : d1h5
+4. Bg3 | Analysis: -108 | Depth: 16 | EngineMove : c8e6
+4... h5 | Analysis: +127 | Depth: 17 | EngineMove : h2h4
+5. h3 | Analysis: -64 | Depth: 15 | EngineMove : h5h4
+5... h4 | Analysis: +85 | Depth: 17 | EngineMove : g3h2
+6. Bh2 | Analysis: -54 | Depth: 17 | EngineMove : c8f5
+6... e6 | Analysis: +95 | Depth: 18 | EngineMove : c2c4
+7. Qh5+ | Analysis: +975 | Depth: 19 | EngineMove : h8h5

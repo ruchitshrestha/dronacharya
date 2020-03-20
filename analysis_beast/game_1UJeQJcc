@@ -1,0 +1,29 @@
+**URL: https://lichess.org/1UJeQJcc | Tag: 1UJeQJcc | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/1UJeQJcc', Date='2018.08.28', Round='-', White='chittyct', Black='scottspeidel', Result='0-1', BlackElo='943', BlackRatingDiff='+13', ECO='A43', Termination='Normal', TimeControl='60+0', UTCDate='2018.08.28', UTCTime='18:25:44', Variant='Standard', WhiteElo='995', WhiteRatingDiff='-21')
+
+1. d4 | Analysis: -13 | Depth: 13 | EngineMove : d7d5
+1... c5 | Analysis: +60 | Depth: 13 | EngineMove : d4d5
+2. Bf4 | Analysis: +20 | Depth: 12 | EngineMove : c5d4
+2... cxd4 | Analysis: -34 | Depth: 13 | EngineMove : f4b8
+3. Qxd4 | Analysis: +72 | Depth: 12 | EngineMove : b8c6
+3... Nc6 | Analysis: -81 | Depth: 13 | EngineMove : d4d2
+4. e3 | Analysis: +813 | Depth: 13 | EngineMove : c6d4
+4... Nxd4 | Analysis: -743 | Depth: 13 | EngineMove : e3d4
+5. exd4 | Analysis: +743 | Depth: 14 | EngineMove : d8b6
+5... Nf6 | Analysis: -662 | Depth: 13 | EngineMove : b1c3
+6. Be2 | Analysis: +756 | Depth: 14 | EngineMove : d8b6
+6... e6 | Analysis: -660 | Depth: 12 | EngineMove : g1f3
+7. Nf3 | Analysis: +681 | Depth: 13 | EngineMove : f6d5
+7... d5 | Analysis: -663 | Depth: 14 | EngineMove : b1d2
+8. O-O | Analysis: +663 | Depth: 13 | EngineMove : f8e7
+8... Bd7 | Analysis: -634 | Depth: 14 | EngineMove : b1d2
+9. Nbd2 | Analysis: +644 | Depth: 14 | EngineMove : d7a4
+9... Nh5 | Analysis: -639 | Depth: 14 | EngineMove : f4e3
+10. Rae1 | Analysis: +1058 | Depth: 14 | EngineMove : h5f4
+10... Nxf4 | Analysis: -1053 | Depth: 15 | EngineMove : e2d1
+11. g3 | Analysis: +1184 | Depth: 14 | EngineMove : f4e2
+11... Nh3+ | Analysis: -914 | Depth: 13 | EngineMove : g1g2
+12. Kh1 | Analysis: +1007 | Depth: 14 | EngineMove : f8d6
+12... h5 | Analysis: -937 | Depth: 12 | EngineMove : h1g2
+13. Ng5 | Analysis: +1438 | Depth: 13 | EngineMove : h3g5
+13... Qxg5 | Analysis: -1365 | Depth: 13 | EngineMove : d2f3

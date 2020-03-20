@@ -1,0 +1,11 @@
+**URL: https://lichess.org/1F9eq3ot | Tag: 1F9eq3ot | Side: white**
+HEADERS: Headers(Event='Casual Correspondence game', Site='https://lichess.org/1F9eq3ot', Date='2018.08.06', Round='-', White='chittyct', Black='rckclmber35', Result='0-1', BlackElo='1412', ECO='D00', Termination='Time forfeit', TimeControl='-', UTCDate='2018.08.06', UTCTime='17:22:30', Variant='Standard', WhiteElo='1500')
+
+1. d4 | Analysis: -21 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +18 | Depth: 18 | EngineMove : c2c4
+2. Bf4 | Analysis: -15 | Depth: 18 | EngineMove : c8f5
+2... Nc6 | Analysis: +22 | Depth: 18 | EngineMove : g1f3
+3. e3 | Analysis: -16 | Depth: 18 | EngineMove : c8f5
+3... Bf5 | Analysis: +20 | Depth: 18 | EngineMove : g1f3
+4. Nf3 | Analysis: -9 | Depth: 19 | EngineMove : e7e6
+4... Nf6 | Analysis: +43 | Depth: 19 | EngineMove : f1b5

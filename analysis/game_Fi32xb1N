@@ -1,0 +1,25 @@
+**URL: https://lichess.org/Fi32xb1N | Tag: Fi32xb1N | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Fi32xb1N', Date='2018.09.01', Round='-', White='chittyct', Black='MrMitekk', Result='1-0', BlackElo='898', BlackRatingDiff='-12', ECO='D00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.01', UTCTime='06:51:21', Variant='Standard', WhiteElo='900', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -16 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +16 | Depth: 18 | EngineMove : c1f4
+2. Bf4 | Analysis: -15 | Depth: 19 | EngineMove : e7e6
+2... Nf6 | Analysis: +16 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -14 | Depth: 19 | EngineMove : c8f5
+3... e6 | Analysis: +20 | Depth: 18 | EngineMove : g1f3
+4. Bd3 | Analysis: -12 | Depth: 19 | EngineMove : f8d6
+4... Bd6 | Analysis: +18 | Depth: 20 | EngineMove : g1f3
+5. Nf3 | Analysis: -17 | Depth: 20 | EngineMove : e8g8
+5... Bxf4 | Analysis: +2 | Depth: 19 | EngineMove : e3f4
+6. exf4 | Analysis: -11 | Depth: 21 | EngineMove : d8d6
+6... O-O | Analysis: +10 | Depth: 19 | EngineMove : e1g1
+7. Qe2 | Analysis: -3 | Depth: 17 | EngineMove : c7c5
+7... e5 | Analysis: +140 | Depth: 15 | EngineMove : d4e5
+8. fxe5 | Analysis: -136 | Depth: 18 | EngineMove : b8c6
+8... Nfd7 | Analysis: +184 | Depth: 16 | EngineMove : e1g1
+9. O-O | Analysis: -152 | Depth: 17 | EngineMove : f8e8
+9... Qe8 | Analysis: +243 | Depth: 16 | EngineMove : d3h7
+10. Ng5 | Analysis: -216 | Depth: 19 | EngineMove : f7f5
+10... Qd8 | Analysis: +836 | Depth: 20 | EngineMove : d3h7
+11. Qh5 | Analysis: -229 | Depth: 18 | EngineMove : h7h6
+11... Qe7 | Analysis: #+1 | Depth: 127 | EngineMove : h5h7

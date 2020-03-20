@@ -1,0 +1,5 @@
+**URL: https://lichess.org/V9KEl4fd | Tag: V9KEl4fd | Side: black**
+HEADERS: Headers(Event='Casual Rapid game', Site='https://lichess.org/V9KEl4fd', Date='2019.06.16', Round='-', White='amoghg7', Black='chittyct', Result='0-1', BlackElo='1417', ECO='A04', Termination='Time forfeit', TimeControl='420+5', UTCDate='2019.06.16', UTCTime='04:41:29', Variant='Standard', WhiteElo='1500')
+
+1. Nf3 | Analysis: -7 | Depth: 12 | EngineMove : d7d5
+1... c5 | Analysis: +39 | Depth: 12 | EngineMove : e2e4

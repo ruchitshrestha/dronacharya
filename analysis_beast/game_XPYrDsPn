@@ -1,0 +1,23 @@
+**URL: https://lichess.org/XPYrDsPn | Tag: XPYrDsPn | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/XPYrDsPn', Date='2019.05.31', Round='-', White='King_Emir', Black='chittyct', Result='0-1', BlackElo='1298', BlackRatingDiff='+13', ECO='B30', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.31', UTCTime='19:38:08', Variant='Standard', WhiteElo='1350', WhiteRatingDiff='-12')
+
+1. e4 | Analysis: -46 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +46 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -54 | Depth: 13 | EngineMove : b8c6
+2... Nc6 | Analysis: +50 | Depth: 12 | EngineMove : f1b5
+3. Bc4 | Analysis: -12 | Depth: 12 | EngineMove : e7e6
+3... e6 | Analysis: +7 | Depth: 12 | EngineMove : b1c3
+4. c3 | Analysis: +25 | Depth: 12 | EngineMove : g8f6
+4... a6 | Analysis: +25 | Depth: 13 | EngineMove : e1g1
+5. d4 | Analysis: -24 | Depth: 12 | EngineMove : d7d5
+5... b5 | Analysis: +56 | Depth: 12 | EngineMove : c4b3
+6. Qe2 | Analysis: +253 | Depth: 12 | EngineMove : b5c4
+6... bxc4 | Analysis: -248 | Depth: 12 | EngineMove : d4d5
+7. Qxc4 | Analysis: +316 | Depth: 12 | EngineMove : a6a5
+7... cxd4 | Analysis: -284 | Depth: 12 | EngineMove : c3d4
+8. cxd4 | Analysis: +285 | Depth: 13 | EngineMove : a6a5
+8... d5 | Analysis: +8 | Depth: 12 | EngineMove : c4c6
+9. exd5 | Analysis: +269 | Depth: 13 | EngineMove : d8d5
+9... Qxd5 | Analysis: -260 | Depth: 15 | EngineMove : c4d5
+10. Qc3 | Analysis: +846 | Depth: 15 | EngineMove : f8b4
+10... Bb4 | Analysis: -829 | Depth: 14 | EngineMove : b1d2

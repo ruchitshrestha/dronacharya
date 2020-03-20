@@ -1,0 +1,18 @@
+**URL: https://lichess.org/CETjTyhA | Tag: CETjTyhA | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/CETjTyhA', Date='2019.07.01', Round='-', White='chittyct', Black='emmetttt', Result='1-0', BlackElo='1216', BlackRatingDiff='-11', ECO='D07', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.07.01', UTCTime='18:15:48', Variant='Standard', WhiteElo='1199', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -17 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +19 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -11 | Depth: 13 | EngineMove : e7e6
+2... dxc4 | Analysis: +44 | Depth: 12 | EngineMove : e2e3
+3. Nc3 | Analysis: -20 | Depth: 12 | EngineMove : e7e5
+3... Nc6 | Analysis: +71 | Depth: 11 | EngineMove : g1f3
+4. Nf3 | Analysis: -79 | Depth: 13 | EngineMove : e7e6
+4... Bf5 | Analysis: +126 | Depth: 12 | EngineMove : d4d5
+5. e4 | Analysis: -134 | Depth: 13 | EngineMove : f5g4
+5... Bg6 | Analysis: +194 | Depth: 13 | EngineMove : d4d5
+6. Bxc4 | Analysis: -155 | Depth: 11 | EngineMove : e7e6
+6... e6 | Analysis: +165 | Depth: 12 | EngineMove : e1g1
+7. O-O | Analysis: -172 | Depth: 11 | EngineMove : a7a6
+7... Bb4 | Analysis: +220 | Depth: 12 | EngineMove : d4d5
+8. Ne2 | Analysis: +38 | Depth: 13 | EngineMove : g6e4

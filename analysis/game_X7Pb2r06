@@ -1,0 +1,16 @@
+**URL: https://lichess.org/X7Pb2r06 | Tag: X7Pb2r06 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/X7Pb2r06', Date='2019.06.26', Round='-', White='chittyct', Black='gokberkyar', Result='1-0', BlackElo='1386', BlackRatingDiff='-11', ECO='D30', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.06.26', UTCTime='04:37:33', Variant='Standard', WhiteElo='1336', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -15 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +15 | Depth: 19 | EngineMove : e2e3
+2. c4 | Analysis: -21 | Depth: 19 | EngineMove : e7e6
+2... e6 | Analysis: +21 | Depth: 19 | EngineMove : g1f3
+3. cxd5 | Analysis: -3 | Depth: 18 | EngineMove : e6d5
+3... exd5 | Analysis: -1 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -1 | Depth: 19 | EngineMove : f8d6
+4... Nc6 | Analysis: +20 | Depth: 18 | EngineMove : b1c3
+5. Bf4 | Analysis: -15 | Depth: 16 | EngineMove : g8f6
+5... Nf6 | Analysis: +15 | Depth: 17 | EngineMove : e2e3
+6. Nc3 | Analysis: 0 | Depth: 17 | EngineMove : f8b4
+6... Bg4 | Analysis: +24 | Depth: 16 | EngineMove : h2h3
+7. e3 | Analysis: -12 | Depth: 18 | EngineMove : f6h5

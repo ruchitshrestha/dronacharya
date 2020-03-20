@@ -1,0 +1,13 @@
+**URL: https://lichess.org/hhYga6ZB | Tag: hhYga6ZB | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/hhYga6ZB', Date='2018.12.02', Round='-', White='tair76', Black='chittyct', Result='0-1', BlackElo='1399', BlackRatingDiff='+12', ECO='B21', Termination='Normal', TimeControl='600+0', UTCDate='2018.12.02', UTCTime='17:24:15', Variant='Standard', WhiteElo='1374', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -10 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +57 | Depth: 11 | EngineMove : b1c3
+2. d4 | Analysis: -19 | Depth: 13 | EngineMove : c5d4
+2... cxd4 | Analysis: -2 | Depth: 12 | EngineMove : g1f3
+3. Qxd4 | Analysis: -18 | Depth: 13 | EngineMove : b8c6
+3... Nc6 | Analysis: +26 | Depth: 13 | EngineMove : d4a4
+4. Qd1 | Analysis: +25 | Depth: 12 | EngineMove : g8f6
+4... e6 | Analysis: 0 | Depth: 13 | EngineMove : f1d3
+5. Bb5 | Analysis: +36 | Depth: 12 | EngineMove : g8f6
+5... Qa5+ | Analysis: +15 | Depth: 13 | EngineMove : b1c3

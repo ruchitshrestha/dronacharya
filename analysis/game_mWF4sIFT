@@ -1,0 +1,25 @@
+**URL: https://lichess.org/mWF4sIFT | Tag: mWF4sIFT | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/mWF4sIFT', Date='2019.06.14', Round='-', White='Billonder', Black='chittyct', Result='1-0', BlackElo='1347', BlackRatingDiff='-11', ECO='B30', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.14', UTCTime='02:04:37', Variant='Standard', WhiteElo='1330', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -21 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +33 | Depth: 16 | EngineMove : b1c3
+2. Nf3 | Analysis: -34 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +34 | Depth: 18 | EngineMove : f1b5
+3. Bb5 | Analysis: -31 | Depth: 18 | EngineMove : g8f6
+3... a6 | Analysis: +50 | Depth: 18 | EngineMove : b5c6
+4. Bxc6 | Analysis: -48 | Depth: 19 | EngineMove : d7c6
+4... bxc6 | Analysis: +46 | Depth: 18 | EngineMove : e1g1
+5. Nc3 | Analysis: -41 | Depth: 18 | EngineMove : d7d5
+5... e5 | Analysis: +98 | Depth: 20 | EngineMove : f3e5
+6. d3 | Analysis: 0 | Depth: 21 | EngineMove : d7d6
+6... d5 | Analysis: +111 | Depth: 17 | EngineMove : f3e5
+7. exd5 | Analysis: -49 | Depth: 18 | EngineMove : c6d5
+7... cxd5 | Analysis: +68 | Depth: 20 | EngineMove : e1g1
+8. Nxe5 | Analysis: -35 | Depth: 18 | EngineMove : f8d6
+8... d4 | Analysis: +278 | Depth: 18 | EngineMove : d1f3
+9. Ne4 | Analysis: -185 | Depth: 15 | EngineMove : c8e6
+9... Bb7 | Analysis: +219 | Depth: 17 | EngineMove : c2c4
+10. Qg4 | Analysis: -99 | Depth: 19 | EngineMove : d8d5
+10... f6 | Analysis: +1758 | Depth: 20 | EngineMove : g4e6
+11. Qh5+ | Analysis: -401 | Depth: 19 | EngineMove : g7g6
+11... Ke7 | Analysis: #+1 | Depth: 127 | EngineMove : h5f7

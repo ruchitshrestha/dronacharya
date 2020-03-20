@@ -1,0 +1,24 @@
+**URL: https://lichess.org/xmZlxNYG | Tag: xmZlxNYG | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/xmZlxNYG', Date='2018.10.25', Round='-', White='Wlysses', Black='chittyct', Result='1-0', BlackElo='1037', BlackRatingDiff='-6', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2018.10.25', UTCTime='03:29:15', Variant='Standard', WhiteElo='1212', WhiteRatingDiff='+6')
+
+1. e4 | Analysis: -34 | Depth: 11 | EngineMove : d7d5
+1... c5 | Analysis: +58 | Depth: 13 | EngineMove : b1c3
+2. Bc4 | Analysis: -12 | Depth: 13 | EngineMove : g8f6
+2... Nf6 | Analysis: +29 | Depth: 13 | EngineMove : b1c3
+3. Bxf7+ | Analysis: +61 | Depth: 13 | EngineMove : e8f7
+3... Kxf7 | Analysis: -63 | Depth: 13 | EngineMove : e4e5
+4. Nf3 | Analysis: +225 | Depth: 12 | EngineMove : f6e4
+4... Nxe4 | Analysis: -231 | Depth: 11 | EngineMove : d2d4
+5. d3 | Analysis: +265 | Depth: 13 | EngineMove : e4f6
+5... Ng5 | Analysis: +144 | Depth: 13 | EngineMove : f3g5
+6. Nxg5+ | Analysis: -121 | Depth: 14 | EngineMove : f7g8
+6... Kg6 | Analysis: +1143 | Depth: 11 | EngineMove : d1g4
+7. O-O | Analysis: -155 | Depth: 12 | EngineMove : h7h6
+7... e6 | Analysis: +646 | Depth: 11 | EngineMove : d1g4
+8. Qg4 | Analysis: -568 | Depth: 13 | EngineMove : d8e7
+8... h5 | Analysis: +894 | Depth: 12 | EngineMove : g4e4
+9. Qe4+ | Analysis: -849 | Depth: 13 | EngineMove : g6f6
+9... Kh6 | Analysis: #+1 | Depth: 127 | EngineMove : g5f7
+10. Nxe6+ | Analysis: -1834 | Depth: 15 | EngineMove : g7g5
+10... g5 | Analysis: +1878 | Depth: 15 | EngineMove : e6d8
+11. Nxd8 | Analysis: -1885 | Depth: 12 | EngineMove : d7d6

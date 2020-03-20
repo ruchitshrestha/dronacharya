@@ -1,0 +1,23 @@
+**URL: https://lichess.org/3GIH0INW | Tag: 3GIH0INW | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/3GIH0INW', Date='2018.11.27', Round='-', White='chittyct', Black='Commander_Tharth', Result='1-0', BlackElo='919', BlackRatingDiff='-10', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.11.27', UTCTime='04:10:27', Variant='Standard', WhiteElo='964', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -31 | Depth: 13 | EngineMove : d7d5
+1... e6 | Analysis: +24 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -13 | Depth: 13 | EngineMove : d7d5
+2... Bb4+ | Analysis: +84 | Depth: 14 | EngineMove : c2c3
+3. c3 | Analysis: -75 | Depth: 15 | EngineMove : b4e7
+3... Bd6 | Analysis: +110 | Depth: 13 | EngineMove : e2e4
+4. e4 | Analysis: -103 | Depth: 14 | EngineMove : d6e7
+4... Nf6 | Analysis: +314 | Depth: 14 | EngineMove : e4e5
+5. Bf4 | Analysis: +275 | Depth: 13 | EngineMove : d6f4
+5... Bxf4 | Analysis: -276 | Depth: 13 | EngineMove : e4e5
+6. g3 | Analysis: +295 | Depth: 13 | EngineMove : f4h6
+6... Bxg3 | Analysis: -74 | Depth: 12 | EngineMove : h2g3
+7. hxg3 | Analysis: +87 | Depth: 13 | EngineMove : f6e4
+7... Nxe4 | Analysis: -95 | Depth: 13 | EngineMove : b1d2
+8. Qd3 | Analysis: +83 | Depth: 13 | EngineMove : e4f6
+8... d5 | Analysis: -81 | Depth: 13 | EngineMove : b1d2
+9. Ne5 | Analysis: +137 | Depth: 13 | EngineMove : b8d7
+9... Nxf2 | Analysis: +148 | Depth: 12 | EngineMove : e1f2
+10. Kxf2 | Analysis: -143 | Depth: 13 | EngineMove : b8d7
+10... O-O | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

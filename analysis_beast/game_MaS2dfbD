@@ -1,0 +1,22 @@
+**URL: https://lichess.org/MaS2dfbD | Tag: MaS2dfbD | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/MaS2dfbD', Date='2019.11.12', Round='-', White='chittyct', Black='nisar64', Result='1-0', BlackElo='1290', BlackRatingDiff='-10', ECO='A40', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.11.12', UTCTime='16:31:06', Variant='Standard', WhiteElo='1252', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -15 | Depth: 13 | EngineMove : g8f6
+1... g6 | Analysis: +87 | Depth: 12 | EngineMove : e2e4
+2. Bf4 | Analysis: -37 | Depth: 12 | EngineMove : g8f6
+2... Bg7 | Analysis: +33 | Depth: 12 | EngineMove : e2e3
+3. e3 | Analysis: -28 | Depth: 13 | EngineMove : g8f6
+3... d6 | Analysis: +37 | Depth: 13 | EngineMove : b1c3
+4. Bd3 | Analysis: +52 | Depth: 13 | EngineMove : e7e5
+4... e5 | Analysis: -32 | Depth: 13 | EngineMove : f4g3
+5. dxe5 | Analysis: +113 | Depth: 13 | EngineMove : d6e5
+5... dxe5 | Analysis: -113 | Depth: 12 | EngineMove : f4g3
+6. Bg3 | Analysis: +143 | Depth: 13 | EngineMove : e5e4
+6... Nc6 | Analysis: +5 | Depth: 11 | EngineMove : b1c3
+7. e4 | Analysis: +37 | Depth: 12 | EngineMove : h7h5
+7... Nf6 | Analysis: -32 | Depth: 12 | EngineMove : g1f3
+8. Nc3 | Analysis: +36 | Depth: 12 | EngineMove : f6h5
+8... O-O | Analysis: -24 | Depth: 13 | EngineMove : g1f3
+9. h3 | Analysis: +53 | Depth: 12 | EngineMove : f6h5
+9... Nxe4 | Analysis: +197 | Depth: 12 | EngineMove : d3e4
+10. Nxe4 | Analysis: -134 | Depth: 12 | EngineMove : d8e7

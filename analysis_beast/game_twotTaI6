@@ -1,0 +1,16 @@
+**URL: https://lichess.org/twotTaI6 | Tag: twotTaI6 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/twotTaI6', Date='2019.05.09', Round='-', White='Nurik-1984_04', Black='chittyct', Result='1-0', BlackElo='1357', BlackRatingDiff='-11', ECO='B28', Termination='Normal', TimeControl='300+3', UTCDate='2019.05.09', UTCTime='22:40:42', Variant='Standard', WhiteElo='1360', WhiteRatingDiff='+12')
+
+1. e4 | Analysis: -29 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +37 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -50 | Depth: 13 | EngineMove : e7e6
+2... a6 | Analysis: +71 | Depth: 12 | EngineMove : b1c3
+3. a3 | Analysis: -21 | Depth: 13 | EngineMove : b8c6
+3... b5 | Analysis: +83 | Depth: 11 | EngineMove : d2d4
+4. Nc3 | Analysis: -63 | Depth: 12 | EngineMove : d7d6
+4... Bb7 | Analysis: +68 | Depth: 12 | EngineMove : d2d4
+5. d3 | Analysis: -32 | Depth: 13 | EngineMove : b8c6
+5... e5 | Analysis: +108 | Depth: 13 | EngineMove : f3e5
+6. Bg5 | Analysis: -25 | Depth: 12 | EngineMove : f8e7
+6... f5 | Analysis: +859 | Depth: 13 | EngineMove : g5d8
+7. Bxd8 | Analysis: -869 | Depth: 13 | EngineMove : e8d8

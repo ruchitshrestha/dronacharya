@@ -1,0 +1,22 @@
+**URL: https://lichess.org/C6ha5DT2 | Tag: C6ha5DT2 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/C6ha5DT2', Date='2018.12.30', Round='-', White='jackymichel', Black='chittyct', Result='1-0', BlackElo='1365', BlackRatingDiff='-10', ECO='A85', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.30', UTCTime='17:28:26', Variant='Standard', WhiteElo='1402', WhiteRatingDiff='+10')
+
+1. c4 | Analysis: -1 | Depth: 19 | EngineMove : e7e5
+1... f5 | Analysis: +53 | Depth: 20 | EngineMove : g1f3
+2. d4 | Analysis: -43 | Depth: 20 | EngineMove : e7e6
+2... Nf6 | Analysis: +43 | Depth: 19 | EngineMove : e2e3
+3. Nc3 | Analysis: -36 | Depth: 19 | EngineMove : e7e6
+3... d6 | Analysis: +55 | Depth: 19 | EngineMove : g1f3
+4. e4 | Analysis: +8 | Depth: 17 | EngineMove : f6e4
+4... e5 | Analysis: +15 | Depth: 17 | EngineMove : d4e5
+5. dxe5 | Analysis: +6 | Depth: 19 | EngineMove : f6e4
+5... Nxe4 | Analysis: -17 | Depth: 18 | EngineMove : c3e4
+6. Nxe4 | Analysis: +28 | Depth: 18 | EngineMove : f5e4
+6... fxe4 | Analysis: -23 | Depth: 17 | EngineMove : c1e3
+7. exd6 | Analysis: +18 | Depth: 16 | EngineMove : d8d6
+7... Qxd6 | Analysis: -23 | Depth: 18 | EngineMove : d1d5
+8. Be3 | Analysis: +12 | Depth: 17 | EngineMove : d6b4
+8... Qb4+ | Analysis: -14 | Depth: 18 | EngineMove : d1d2
+9. Qd2 | Analysis: +11 | Depth: 17 | EngineMove : b4d2
+9... Qxc4 | Analysis: +1374 | Depth: 20 | EngineMove : f1c4
+10. Bxc4 | Analysis: -1385 | Depth: 20 | EngineMove : b8c6

@@ -1,0 +1,5 @@
+**URL: https://lichess.org/YXogRSmj | Tag: YXogRSmj | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/YXogRSmj', Date='2018.09.29', Round='-', White='chittyct', Black='BVM60', Result='0-1', BlackElo='1094', BlackRatingDiff='+10', ECO='D00', Termination='Normal', TimeControl='300+0', UTCDate='2018.09.29', UTCTime='22:16:27', Variant='Standard', WhiteElo='1089', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -15 | Depth: 19 | EngineMove : g8f6
+1... d5 | Analysis: +20 | Depth: 18 | EngineMove : c1f4

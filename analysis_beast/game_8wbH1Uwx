@@ -1,0 +1,30 @@
+**URL: https://lichess.org/8wbH1Uwx | Tag: 8wbH1Uwx | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/8wbH1Uwx', Date='2018.12.17', Round='-', White='Nikolai-Zhavko-1995', Black='chittyct', Result='1-0', BlackElo='968', BlackRatingDiff='-1', ECO='A00', Termination='Normal', TimeControl='30+0', UTCDate='2018.12.17', UTCTime='09:16:29', Variant='Standard', WhiteElo='1621', WhiteRatingDiff='+1')
+
+1. g3 | Analysis: +58 | Depth: 12 | EngineMove : e7e5
+1... b6 | Analysis: +32 | Depth: 11 | EngineMove : g1f3
+2. f3 | Analysis: +30 | Depth: 11 | EngineMove : e7e5
+2... Bb7 | Analysis: -31 | Depth: 12 | EngineMove : e2e4
+3. Bg2 | Analysis: +28 | Depth: 12 | EngineMove : d7d5
+3... a6 | Analysis: +18 | Depth: 12 | EngineMove : e2e4
+4. Bf1 | Analysis: +79 | Depth: 12 | EngineMove : d7d5
+4... a5 | Analysis: -25 | Depth: 11 | EngineMove : f1g2
+5. Bg2 | Analysis: +41 | Depth: 12 | EngineMove : d7d5
+5... Ra6 | Analysis: +33 | Depth: 12 | EngineMove : e2e4
+6. Bf1 | Analysis: +34 | Depth: 12 | EngineMove : a6a8
+6... Nc6 | Analysis: +5 | Depth: 12 | EngineMove : d2d4
+7. Bg2 | Analysis: +63 | Depth: 11 | EngineMove : d7d5
+7... Qa8 | Analysis: +28 | Depth: 13 | EngineMove : d2d4
+8. a3 | Analysis: +38 | Depth: 12 | EngineMove : e7e5
+8... b5 | Analysis: +13 | Depth: 11 | EngineMove : d2d4
+9. Nc3 | Analysis: +20 | Depth: 12 | EngineMove : b5b4
+9... b4 | Analysis: 0 | Depth: 12 | EngineMove : c3b5
+10. axb4 | Analysis: +39 | Depth: 14 | EngineMove : a5b4
+10... axb4 | Analysis: -38 | Depth: 14 | EngineMove : c3d5
+11. Rxa6 | Analysis: +60 | Depth: 14 | EngineMove : b7a6
+11... Qxa6 | Analysis: -16 | Depth: 13 | EngineMove : c3d5
+12. d3 | Analysis: +322 | Depth: 13 | EngineMove : b4c3
+12... Ne5 | Analysis: -40 | Depth: 11 | EngineMove : c3e4
+13. Nd5 | Analysis: +281 | Depth: 12 | EngineMove : b7d5
+13... e6 | Analysis: +850 | Depth: 13 | EngineMove : d5c7
+14. Nxc7+ | Analysis: -859 | Depth: 14 | EngineMove : e8d8

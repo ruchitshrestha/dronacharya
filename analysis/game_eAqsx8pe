@@ -1,0 +1,30 @@
+**URL: https://lichess.org/eAqsx8pe | Tag: eAqsx8pe | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/eAqsx8pe', Date='2018.08.31', Round='-', White='sdiners', Black='chittyct', Result='1-0', BlackElo='1343', BlackRatingDiff='-25', ECO='D06', Termination='Normal', TimeControl='600+0', UTCDate='2018.08.31', UTCTime='20:25:51', Variant='Standard', WhiteElo='1407', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : d7d5
+1... Nf6 | Analysis: +18 | Depth: 19 | EngineMove : c2c4
+2. c4 | Analysis: -21 | Depth: 19 | EngineMove : e7e6
+2... d5 | Analysis: +29 | Depth: 18 | EngineMove : c4d5
+3. Nc3 | Analysis: -23 | Depth: 18 | EngineMove : e7e6
+3... dxc4 | Analysis: +32 | Depth: 18 | EngineMove : e2e3
+4. e4 | Analysis: +4 | Depth: 16 | EngineMove : e7e5
+4... e6 | Analysis: +43 | Depth: 16 | EngineMove : g1f3
+5. Bxc4 | Analysis: -72 | Depth: 17 | EngineMove : f8b4
+5... Bb4 | Analysis: +47 | Depth: 17 | EngineMove : e4e5
+6. Qa4+ | Analysis: +36 | Depth: 20 | EngineMove : b8c6
+6... c6 | Analysis: +371 | Depth: 19 | EngineMove : a4b4
+7. Qxb4 | Analysis: -366 | Depth: 20 | EngineMove : a7a5
+7... b5 | Analysis: +360 | Depth: 21 | EngineMove : c4e2
+8. Bb3 | Analysis: -313 | Depth: 18 | EngineMove : a7a5
+8... Nbd7 | Analysis: +422 | Depth: 17 | EngineMove : b4d6
+9. Bg5 | Analysis: -370 | Depth: 16 | EngineMove : d8c7
+9... Nd5 | Analysis: +623 | Depth: 19 | EngineMove : b3d5
+10. exd5 | Analysis: -491 | Depth: 19 | EngineMove : d8g5
+10... Qxg5 | Analysis: +505 | Depth: 18 | EngineMove : d5c6
+11. Nge2 | Analysis: -284 | Depth: 18 | EngineMove : e6d5
+11... cxd5 | Analysis: +688 | Depth: 18 | EngineMove : c3b5
+12. O-O | Analysis: -338 | Depth: 18 | EngineMove : g5e7
+12... Qd2 | Analysis: +627 | Depth: 18 | EngineMove : b3d5
+13. Nxd5 | Analysis: -366 | Depth: 18 | EngineMove : d2b4
+13... Qg5 | Analysis: +1058 | Depth: 18 | EngineMove : d5c7
+14. Nc7+ | Analysis: -1084 | Depth: 19 | EngineMove : e8d8

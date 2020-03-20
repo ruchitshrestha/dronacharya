@@ -1,0 +1,21 @@
+**URL: https://lichess.org/mpO3uG7Y | Tag: mpO3uG7Y | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/mpO3uG7Y', Date='2018.12.03', Round='-', White='Munthir10', Black='chittyct', Result='0-1', BlackElo='1056', BlackRatingDiff='+8', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.12.03', UTCTime='18:57:16', Variant='Standard', WhiteElo='967', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -12 | Depth: 18 | EngineMove : g8f6
+1... g6 | Analysis: +75 | Depth: 16 | EngineMove : e2e4
+2. Nf3 | Analysis: -51 | Depth: 18 | EngineMove : g8f6
+2... Bg7 | Analysis: +59 | Depth: 17 | EngineMove : e2e4
+3. e3 | Analysis: -25 | Depth: 18 | EngineMove : g8f6
+3... Nc6 | Analysis: +48 | Depth: 17 | EngineMove : c2c4
+4. Nc3 | Analysis: -19 | Depth: 19 | EngineMove : d7d5
+4... Nf6 | Analysis: +32 | Depth: 19 | EngineMove : d4d5
+5. Be2 | Analysis: -15 | Depth: 19 | EngineMove : d7d5
+5... O-O | Analysis: +44 | Depth: 20 | EngineMove : d4d5
+6. Bd2 | Analysis: 0 | Depth: 16 | EngineMove : d7d5
+6... d6 | Analysis: +1 | Depth: 18 | EngineMove : d4d5
+7. Bd3 | Analysis: +24 | Depth: 17 | EngineMove : c8g4
+7... e5 | Analysis: -17 | Depth: 19 | EngineMove : d4e5
+8. a3 | Analysis: +35 | Depth: 17 | EngineMove : e5d4
+8... exd4 | Analysis: -39 | Depth: 19 | EngineMove : e3d4
+9. exd4 | Analysis: +37 | Depth: 17 | EngineMove : f8e8
+9... Re8+ | Analysis: -34 | Depth: 19 | EngineMove : c3e2

@@ -1,0 +1,16 @@
+**URL: https://lichess.org/7Th0W1Ip | Tag: 7Th0W1Ip | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/7Th0W1Ip', Date='2018.10.11', Round='-', White='AYSFER', Black='chittyct', Result='1-0', BlackElo='1112', BlackRatingDiff='-8', ECO='B50', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.11', UTCTime='19:04:11', Variant='Standard', WhiteElo='1202', WhiteRatingDiff='+8')
+
+1. e4 | Analysis: -25 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +43 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -43 | Depth: 13 | EngineMove : e7e6
+2... d6 | Analysis: +40 | Depth: 12 | EngineMove : f1c4
+3. Bc4 | Analysis: -47 | Depth: 12 | EngineMove : g8f6
+3... Nf6 | Analysis: +24 | Depth: 13 | EngineMove : b1c3
+4. Bd5 | Analysis: +82 | Depth: 14 | EngineMove : e7e6
+4... g6 | Analysis: -15 | Depth: 13 | EngineMove : b1c3
+5. d3 | Analysis: +17 | Depth: 13 | EngineMove : f6d5
+5... Bg7 | Analysis: 0 | Depth: 13 | EngineMove : d5b3
+6. c3 | Analysis: +46 | Depth: 13 | EngineMove : f6d5
+6... Kf8 | Analysis: +50 | Depth: 13 | EngineMove : d5b3
+7. O-O | Analysis: -1 | Depth: 12 | EngineMove : f6d5

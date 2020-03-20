@@ -1,0 +1,14 @@
+**URL: https://lichess.org/bhYQenSC | Tag: bhYQenSC | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/bhYQenSC', Date='2020.02.10', Round='-', White='chittyct', Black='rakanyasser', Result='1-0', BlackElo='1513', BlackRatingDiff='-5', ECO='D00', Termination='Time forfeit', TimeControl='180+2', UTCDate='2020.02.10', UTCTime='10:30:04', Variant='Standard', WhiteElo='1554', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -17 | Depth: 14 | EngineMove : d7d5
+1... d5 | Analysis: +10 | Depth: 15 | EngineMove : g1f3
+2. Bf4 | Analysis: -18 | Depth: 13 | EngineMove : g8f6
+2... Nc6 | Analysis: +32 | Depth: 13 | EngineMove : g1f3
+3. e3 | Analysis: -29 | Depth: 14 | EngineMove : g8f6
+3... a6 | Analysis: +36 | Depth: 14 | EngineMove : f1d3
+4. Nf3 | Analysis: -26 | Depth: 13 | EngineMove : g8f6
+4... Nf6 | Analysis: +39 | Depth: 13 | EngineMove : f1d3
+5. Bd3 | Analysis: -27 | Depth: 14 | EngineMove : f6h5
+5... Bg4 | Analysis: +34 | Depth: 14 | EngineMove : b1d2
+6. h3 | Analysis: -15 | Depth: 13 | EngineMove : g4f3

@@ -1,0 +1,31 @@
+**URL: https://lichess.org/5SfarvGx | Tag: 5SfarvGx | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/5SfarvGx', Date='2019.10.06', Round='-', White='kamaleon2016', Black='chittyct', Result='1-0', BlackElo='1465', BlackRatingDiff='-6', ECO='B30', Termination='Normal', TimeControl='300+3', UTCDate='2019.10.06', UTCTime='14:07:28', Variant='Standard', WhiteElo='1510', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -24 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +38 | Depth: 16 | EngineMove : g1f3
+2. Nf3 | Analysis: -36 | Depth: 17 | EngineMove : d7d6
+2... Nc6 | Analysis: +33 | Depth: 18 | EngineMove : f1b5
+3. Bc4 | Analysis: +1 | Depth: 18 | EngineMove : g8f6
+3... a6 | Analysis: +32 | Depth: 16 | EngineMove : d2d4
+4. Nc3 | Analysis: -22 | Depth: 16 | EngineMove : g8f6
+4... e6 | Analysis: +15 | Depth: 17 | EngineMove : d2d4
+5. a3 | Analysis: +15 | Depth: 18 | EngineMove : g8f6
+5... b5 | Analysis: 0 | Depth: 16 | EngineMove : c4a2
+6. Ba2 | Analysis: +5 | Depth: 19 | EngineMove : g8f6
+6... Bb7 | Analysis: -4 | Depth: 17 | EngineMove : d2d4
+7. d3 | Analysis: +8 | Depth: 17 | EngineMove : g8f6
+7... Nf6 | Analysis: -8 | Depth: 17 | EngineMove : e1g1
+8. h3 | Analysis: +20 | Depth: 17 | EngineMove : f8d6
+8... h6 | Analysis: -13 | Depth: 17 | EngineMove : e1g1
+9. Be3 | Analysis: +16 | Depth: 17 | EngineMove : d8c7
+9... Be7 | Analysis: -20 | Depth: 18 | EngineMove : e1g1
+10. Qd2 | Analysis: +35 | Depth: 18 | EngineMove : d7d5
+10... O-O | Analysis: -31 | Depth: 19 | EngineMove : e1g1
+11. Bxh6 | Analysis: +110 | Depth: 18 | EngineMove : g7h6
+11... gxh6 | Analysis: -108 | Depth: 19 | EngineMove : d2h6
+12. Qxh6 | Analysis: +107 | Depth: 18 | EngineMove : c6d4
+12... Nh7 | Analysis: -67 | Depth: 16 | EngineMove : h3h4
+13. h4 | Analysis: +16 | Depth: 18 | EngineMove : c6d4
+13... Ne5 | Analysis: +203 | Depth: 17 | EngineMove : f3e5
+14. Ng5 | Analysis: +95 | Depth: 18 | EngineMove : h7f6
+14... Ng4 | Analysis: #+1 | Depth: 127 | EngineMove : h6h7

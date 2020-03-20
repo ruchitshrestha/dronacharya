@@ -1,0 +1,27 @@
+**URL: https://lichess.org/ENM3cjmp | Tag: ENM3cjmp | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ENM3cjmp', Date='2020.01.23', Round='-', White='megaplini', Black='chittyct', Result='0-1', BlackElo='1350', BlackRatingDiff='+7', ECO='A00', Termination='Normal', TimeControl='120+1', UTCDate='2020.01.23', UTCTime='15:08:00', Variant='Standard', WhiteElo='1393', WhiteRatingDiff='-7')
+
+1. b4 | Analysis: +69 | Depth: 11 | EngineMove : e7e5
+1... g6 | Analysis: +20 | Depth: 11 | EngineMove : e2e4
+2. Bb2 | Analysis: +6 | Depth: 12 | EngineMove : g8f6
+2... Nf6 | Analysis: +1 | Depth: 12 | EngineMove : e2e3
+3. e4 | Analysis: 0 | Depth: 12 | EngineMove : f8g7
+3... Bg7 | Analysis: -8 | Depth: 13 | EngineMove : d2d3
+4. g4 | Analysis: +96 | Depth: 12 | EngineMove : e8g8
+4... O-O | Analysis: -102 | Depth: 12 | EngineMove : f2f3
+5. g5 | Analysis: +128 | Depth: 13 | EngineMove : f6e4
+5... Nxe4 | Analysis: -151 | Depth: 13 | EngineMove : b2g7
+6. Bxg7 | Analysis: +164 | Depth: 13 | EngineMove : g8g7
+6... Kxg7 | Analysis: -141 | Depth: 12 | EngineMove : h2h4
+7. f4 | Analysis: +204 | Depth: 12 | EngineMove : d7d5
+7... e5 | Analysis: -142 | Depth: 11 | EngineMove : d2d3
+8. Qf3 | Analysis: +222 | Depth: 11 | EngineMove : f8e8
+8... d5 | Analysis: -208 | Depth: 11 | EngineMove : d2d3
+9. Bd3 | Analysis: +260 | Depth: 11 | EngineMove : b8c6
+9... Nxd2 | Analysis: -68 | Depth: 13 | EngineMove : b1d2
+10. Nxd2 | Analysis: +56 | Depth: 13 | EngineMove : e5e4
+10... e4 | Analysis: -43 | Depth: 13 | EngineMove : d3e4
+11. Bxe4 | Analysis: +52 | Depth: 13 | EngineMove : d5e4
+11... dxe4 | Analysis: -50 | Depth: 12 | EngineMove : f3e3
+12. Qxe4 | Analysis: +712 | Depth: 13 | EngineMove : f8e8
+12... Re8 | Analysis: -729 | Depth: 12 | EngineMove : g1e2

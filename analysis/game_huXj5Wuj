@@ -1,0 +1,32 @@
+**URL: https://lichess.org/huXj5Wuj | Tag: huXj5Wuj | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/huXj5Wuj', Date='2020.01.26', Round='-', White='nccoimbra', Black='chittyct', Result='1-0', BlackElo='1340', BlackRatingDiff='-6', ECO='B30', Termination='Time forfeit', TimeControl='120+1', UTCDate='2020.01.26', UTCTime='14:38:28', Variant='Standard', WhiteElo='1322', WhiteRatingDiff='+6')
+
+1. e4 | Analysis: -24 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +36 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -34 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +28 | Depth: 18 | EngineMove : f1b5
+3. Bc4 | Analysis: -6 | Depth: 18 | EngineMove : g8f6
+3... e5 | Analysis: +27 | Depth: 16 | EngineMove : e1g1
+4. c3 | Analysis: -27 | Depth: 18 | EngineMove : g8f6
+4... Nf6 | Analysis: +27 | Depth: 18 | EngineMove : f3g5
+5. d3 | Analysis: -7 | Depth: 19 | EngineMove : f8e7
+5... Be7 | Analysis: +1 | Depth: 19 | EngineMove : e1g1
+6. O-O | Analysis: -4 | Depth: 19 | EngineMove : e8g8
+6... O-O | Analysis: +7 | Depth: 20 | EngineMove : c1g5
+7. Re1 | Analysis: -7 | Depth: 18 | EngineMove : d7d6
+7... h6 | Analysis: +25 | Depth: 19 | EngineMove : a2a4
+8. Nbd2 | Analysis: -11 | Depth: 19 | EngineMove : d7d6
+8... d5 | Analysis: +87 | Depth: 18 | EngineMove : e4d5
+9. exd5 | Analysis: -94 | Depth: 20 | EngineMove : f6d5
+9... Nxd5 | Analysis: +94 | Depth: 21 | EngineMove : f3e5
+10. Nf1 | Analysis: -31 | Depth: 15 | EngineMove : e7f6
+10... Nf6 | Analysis: +37 | Depth: 18 | EngineMove : f3e5
+11. Nxe5 | Analysis: -44 | Depth: 19 | EngineMove : c6e5
+11... Nxe5 | Analysis: +39 | Depth: 19 | EngineMove : e1e5
+12. Rxe5 | Analysis: -41 | Depth: 18 | EngineMove : e7d6
+12... Qd6 | Analysis: +136 | Depth: 18 | EngineMove : d1e2
+13. Re1 | Analysis: -86 | Depth: 17 | EngineMove : e7d8
+13... b6 | Analysis: +98 | Depth: 17 | EngineMove : f1g3
+14. Ng3 | Analysis: -93 | Depth: 18 | EngineMove : c8g4
+14... Bb7 | Analysis: +486 | Depth: 18 | EngineMove : g3f5
+15. Nf5 | Analysis: -491 | Depth: 20 | EngineMove : d6d7

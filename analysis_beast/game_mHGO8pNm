@@ -1,0 +1,24 @@
+**URL: https://lichess.org/mHGO8pNm | Tag: mHGO8pNm | Side: black**
+HEADERS: Headers(Event='Weekly SuperBlitz Arena', Site='https://lichess.org/mHGO8pNm', Date='2018.12.11', Round='-', White='Zov_Hax', Black='chittyct', Result='1-0', BlackElo='1328', BlackRatingDiff='-1', ECO='B20', Termination='Time forfeit', TimeControl='180+0', UTCDate='2018.12.11', UTCTime='17:34:26', Variant='Standard', WhiteElo='1778', WhiteRatingDiff='+2')
+
+1. e4 | Analysis: -21 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +66 | Depth: 12 | EngineMove : b1c3
+2. e5 | Analysis: -10 | Depth: 11 | EngineMove : e7e6
+2... Nc6 | Analysis: -2 | Depth: 12 | EngineMove : g1f3
+3. Nf3 | Analysis: +5 | Depth: 13 | EngineMove : d7d6
+3... d6 | Analysis: +1 | Depth: 13 | EngineMove : f1b5
+4. exd6 | Analysis: +11 | Depth: 12 | EngineMove : e7e5
+4... exd6 | Analysis: +22 | Depth: 12 | EngineMove : d2d4
+5. a3 | Analysis: +23 | Depth: 11 | EngineMove : g8f6
+5... Nf6 | Analysis: -31 | Depth: 13 | EngineMove : f1b5
+6. Nc3 | Analysis: +30 | Depth: 12 | EngineMove : d6d5
+6... Bg4 | Analysis: -26 | Depth: 12 | EngineMove : f1e2
+7. Bd3 | Analysis: +86 | Depth: 11 | EngineMove : d6d5
+7... Bxf3 | Analysis: -36 | Depth: 13 | EngineMove : d1f3
+8. Qxf3 | Analysis: +20 | Depth: 13 | EngineMove : f8e7
+8... Nd4 | Analysis: +75 | Depth: 13 | EngineMove : f3b7
+9. Qd1 | Analysis: +25 | Depth: 12 | EngineMove : f8e7
+9... Qe7+ | Analysis: +55 | Depth: 13 | EngineMove : c3e2
+10. Ne2 | Analysis: -43 | Depth: 13 | EngineMove : d4c6
+10... O-O-O | Analysis: +51 | Depth: 14 | EngineMove : e1g1
+11. O-O | Analysis: -43 | Depth: 14 | EngineMove : d4e6

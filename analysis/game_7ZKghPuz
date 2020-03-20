@@ -1,0 +1,15 @@
+**URL: https://lichess.org/7ZKghPuz | Tag: 7ZKghPuz | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/7ZKghPuz', Date='2019.05.19', Round='-', White='sh1344', Black='chittyct', Result='0-1', BlackElo='1291', BlackRatingDiff='+11', ECO='D00', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.05.19', UTCTime='06:14:40', Variant='Standard', WhiteElo='1301', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -20 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +15 | Depth: 18 | EngineMove : c1f4
+2. e3 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+2... Bf5 | Analysis: +19 | Depth: 16 | EngineMove : g1f3
+3. Bb5+ | Analysis: +10 | Depth: 19 | EngineMove : c7c6
+3... c6 | Analysis: -8 | Depth: 20 | EngineMove : b5e2
+4. Be2 | Analysis: +5 | Depth: 20 | EngineMove : e7e6
+4... Nf6 | Analysis: 0 | Depth: 21 | EngineMove : g1f3
+5. Nf3 | Analysis: 0 | Depth: 22 | EngineMove : b8d7
+5... e6 | Analysis: 0 | Depth: 22 | EngineMove : b1d2
+6. Nc3 | Analysis: +20 | Depth: 19 | EngineMove : h7h6
+6... Bd6 | Analysis: -24 | Depth: 20 | EngineMove : f3h4

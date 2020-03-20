@@ -1,0 +1,28 @@
+**URL: https://lichess.org/yva5xhrn | Tag: yva5xhrn | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/yva5xhrn', Date='2018.12.14', Round='-', White='saadhajkhaleel', Black='chittyct', Result='1-0', BlackElo='1409', BlackRatingDiff='-10', ECO='B30', Termination='Normal', TimeControl='600+0', UTCDate='2018.12.14', UTCTime='19:26:17', Variant='Standard', WhiteElo='1420', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -29 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +38 | Depth: 18 | EngineMove : b1c3
+2. Nf3 | Analysis: -21 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +36 | Depth: 17 | EngineMove : f1b5
+3. Bc4 | Analysis: +1 | Depth: 17 | EngineMove : g8f6
+3... e6 | Analysis: +3 | Depth: 18 | EngineMove : e1g1
+4. d3 | Analysis: +24 | Depth: 21 | EngineMove : d7d5
+4... a6 | Analysis: +13 | Depth: 17 | EngineMove : b1c3
+5. Ng5 | Analysis: +74 | Depth: 18 | EngineMove : h7h6
+5... b5 | Analysis: -42 | Depth: 18 | EngineMove : c4b3
+6. Bb3 | Analysis: +45 | Depth: 18 | EngineMove : f8e7
+6... Be7 | Analysis: -51 | Depth: 18 | EngineMove : g5f3
+7. Qg4 | Analysis: +108 | Depth: 16 | EngineMove : g8f6
+7... Nh6 | Analysis: +8 | Depth: 16 | EngineMove : g4h5
+8. Qg3 | Analysis: +12 | Depth: 15 | EngineMove : d7d5
+8... O-O | Analysis: +15 | Depth: 17 | EngineMove : g5f3
+9. Nf3 | Analysis: -2 | Depth: 19 | EngineMove : g8h8
+9... Re8 | Analysis: +303 | Depth: 17 | EngineMove : c1h6
+10. Bxh6 | Analysis: -308 | Depth: 16 | EngineMove : e7f8
+10... g6 | Analysis: +371 | Depth: 17 | EngineMove : e1g1
+11. Ng5 | Analysis: -294 | Depth: 16 | EngineMove : d7d5
+11... Bxg5 | Analysis: +384 | Depth: 18 | EngineMove : h6g5
+12. Bxg5 | Analysis: -391 | Depth: 18 | EngineMove : f7f6
+12... Qc7 | Analysis: +1482 | Depth: 18 | EngineMove : g3c7
+13. Qxc7 | Analysis: -1510 | Depth: 18 | EngineMove : a8a7

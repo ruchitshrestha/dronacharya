@@ -1,0 +1,7 @@
+**URL: https://lichess.org/Mzc3pM1n | Tag: Mzc3pM1n | Side: white**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/Mzc3pM1n', Date='2018.09.01', Round='-', White='chittyct', Black='Mr-Raphael', Result='0-1', BlackElo='1320', BlackRatingDiff='+10', ECO='A40', Termination='Normal', TimeControl='600+0', UTCDate='2018.09.01', UTCTime='18:14:45', Variant='Standard', WhiteElo='1317', WhiteRatingDiff='-14')
+
+1. d4 | Analysis: -24 | Depth: 12 | EngineMove : g8f6
+1... e5 | Analysis: +70 | Depth: 12 | EngineMove : d4e5
+2. Bf4 | Analysis: +325 | Depth: 11 | EngineMove : e5f4
+2... exf4 | Analysis: -333 | Depth: 11 | EngineMove : g1h3

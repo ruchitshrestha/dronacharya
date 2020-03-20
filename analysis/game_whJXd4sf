@@ -1,0 +1,13 @@
+**URL: https://lichess.org/whJXd4sf | Tag: whJXd4sf | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/whJXd4sf', Date='2018.08.31', Round='-', White='Iggy_Ignowski', Black='chittyct', Result='1-0', BlackElo='1055', BlackRatingDiff='-15', ECO='D06', Termination='Normal', TimeControl='300+3', UTCDate='2018.08.31', UTCTime='03:15:47', Variant='Standard', WhiteElo='987', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: -10 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+2. c4 | Analysis: -20 | Depth: 18 | EngineMove : e7e6
+2... Nf6 | Analysis: +31 | Depth: 18 | EngineMove : c4d5
+3. cxd5 | Analysis: -32 | Depth: 18 | EngineMove : c7c6
+3... Qxd5 | Analysis: +63 | Depth: 16 | EngineMove : g1f3
+4. Nc3 | Analysis: -41 | Depth: 17 | EngineMove : d5a5
+4... Qc4 | Analysis: +145 | Depth: 16 | EngineMove : e2e4
+5. e3 | Analysis: -120 | Depth: 16 | EngineMove : c4b4
+5... Qe6 | Analysis: +141 | Depth: 15 | EngineMove : g1f3

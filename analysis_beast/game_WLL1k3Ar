@@ -1,0 +1,18 @@
+**URL: https://lichess.org/WLL1k3Ar | Tag: WLL1k3Ar | Side: black**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/WLL1k3Ar', Date='2019.07.07', Round='-', White='SpiffySpats', Black='chittyct', Result='0-1', BlackElo='1536', BlackRatingDiff='+12', ECO='D00', Termination='Normal', TimeControl='900+15', UTCDate='2019.07.07', UTCTime='02:48:35', Variant='Standard', WhiteElo='1582', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -22 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 13 | EngineMove : g1f3
+2. b3 | Analysis: +14 | Depth: 11 | EngineMove : c7c5
+2... Nf6 | Analysis: -3 | Depth: 13 | EngineMove : g1f3
+3. h3 | Analysis: +48 | Depth: 11 | EngineMove : c7c5
+3... c5 | Analysis: -24 | Depth: 12 | EngineMove : e2e3
+4. dxc5 | Analysis: +88 | Depth: 11 | EngineMove : e7e6
+4... e5 | Analysis: -70 | Depth: 11 | EngineMove : c1a3
+5. Qd2 | Analysis: +206 | Depth: 12 | EngineMove : f6e4
+5... Bxc5 | Analysis: -170 | Depth: 12 | EngineMove : e2e3
+6. Bb2 | Analysis: +727 | Depth: 15 | EngineMove : f6e4
+6... Nc6 | Analysis: -272 | Depth: 12 | EngineMove : e2e3
+7. f4 | Analysis: +916 | Depth: 13 | EngineMove : f6e4
+7... Ne4 | Analysis: -877 | Depth: 14 | EngineMove : f4e5
+8. Qd3 | Analysis: +1056 | Depth: 13 | EngineMove : c6b4

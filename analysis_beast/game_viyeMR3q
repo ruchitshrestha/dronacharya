@@ -1,0 +1,16 @@
+**URL: https://lichess.org/viyeMR3q | Tag: viyeMR3q | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/viyeMR3q', Date='2018.11.08', Round='-', White='leejin24', Black='chittyct', Result='1-0', BlackElo='1263', BlackRatingDiff='-12', ECO='B20', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.11.08', UTCTime='15:23:19', Variant='Standard', WhiteElo='1207', WhiteRatingDiff='+12')
+
+1. e4 | Analysis: -29 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +61 | Depth: 11 | EngineMove : g1f3
+2. Bc4 | Analysis: -24 | Depth: 12 | EngineMove : g8f6
+2... e5 | Analysis: +106 | Depth: 11 | EngineMove : d1h5
+3. Nf3 | Analysis: -44 | Depth: 12 | EngineMove : b8c6
+3... d6 | Analysis: +59 | Depth: 12 | EngineMove : c2c3
+4. d3 | Analysis: -32 | Depth: 15 | EngineMove : f8e7
+4... Nf6 | Analysis: +140 | Depth: 13 | EngineMove : f3g5
+5. Ng5 | Analysis: -106 | Depth: 14 | EngineMove : d6d5
+5... d5 | Analysis: +125 | Depth: 14 | EngineMove : e4d5
+6. exd5 | Analysis: -108 | Depth: 15 | EngineMove : h7h6
+6... Nxd5 | Analysis: +394 | Depth: 13 | EngineMove : d1f3
+7. Nc3 | Analysis: -336 | Depth: 12 | EngineMove : d5c3

@@ -1,0 +1,16 @@
+**URL: https://lichess.org/EtUjXkjd | Tag: EtUjXkjd | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/EtUjXkjd', Date='2018.09.24', Round='-', White='chittyct', Black='Ellepi', Result='1-0', BlackElo='1105', BlackRatingDiff='-11', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='07:26:31', Variant='Standard', WhiteElo='1149', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -14 | Depth: 18 | EngineMove : d7d5
+1... b6 | Analysis: +65 | Depth: 16 | EngineMove : e2e4
+2. Bf4 | Analysis: -36 | Depth: 17 | EngineMove : g8f6
+2... c6 | Analysis: +77 | Depth: 17 | EngineMove : e2e4
+3. e3 | Analysis: -54 | Depth: 18 | EngineMove : g8f6
+3... d6 | Analysis: +81 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -63 | Depth: 18 | EngineMove : g8f6
+4... e6 | Analysis: +64 | Depth: 20 | EngineMove : f1d3
+5. Bd3 | Analysis: -56 | Depth: 20 | EngineMove : g8f6
+5... f6 | Analysis: +146 | Depth: 14 | EngineMove : e1g1
+6. c3 | Analysis: -100 | Depth: 16 | EngineMove : g7g5
+6... g6 | Analysis: +114 | Depth: 16 | EngineMove : f4g3
+7. Nbd2 | Analysis: -103 | Depth: 16 | EngineMove : f8g7

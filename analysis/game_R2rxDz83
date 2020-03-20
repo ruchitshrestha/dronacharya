@@ -1,0 +1,21 @@
+**URL: https://lichess.org/R2rxDz83 | Tag: R2rxDz83 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/R2rxDz83', Date='2019.11.06', Round='-', White='micoud04', Black='chittyct', Result='0-1', BlackElo='1313', BlackRatingDiff='+8', ECO='B32', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.06', UTCTime='15:20:04', Variant='Standard', WhiteElo='1329', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -15 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +41 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -33 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +37 | Depth: 19 | EngineMove : f1b5
+3. d4 | Analysis: -16 | Depth: 18 | EngineMove : c5d4
+3... cxd4 | Analysis: +19 | Depth: 17 | EngineMove : f3d4
+4. Nxd4 | Analysis: -5 | Depth: 18 | EngineMove : g8f6
+4... e5 | Analysis: +17 | Depth: 19 | EngineMove : d4b5
+5. Nxc6 | Analysis: +1 | Depth: 18 | EngineMove : b7c6
+5... bxc6 | Analysis: +5 | Depth: 19 | EngineMove : f1d3
+6. Nc3 | Analysis: 0 | Depth: 18 | EngineMove : g8f6
+6... Nf6 | Analysis: 0 | Depth: 18 | EngineMove : d1f3
+7. Be3 | Analysis: +58 | Depth: 16 | EngineMove : f8b4
+7... d5 | Analysis: +13 | Depth: 18 | EngineMove : e4d5
+8. Be2 | Analysis: +265 | Depth: 18 | EngineMove : d5d4
+8... d4 | Analysis: -262 | Depth: 19 | EngineMove : e3d2
+9. Bxd4 | Analysis: +321 | Depth: 17 | EngineMove : e5d4
+9... exd4 | Analysis: -336 | Depth: 17 | EngineMove : c3a4

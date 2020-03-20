@@ -1,0 +1,30 @@
+**URL: https://lichess.org/hE7r61DW | Tag: hE7r61DW | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/hE7r61DW', Date='2019.08.30', Round='-', White='mihsan586', Black='chittyct', Result='0-1', BlackElo='1226', BlackRatingDiff='+8', ECO='B21', Termination='Normal', TimeControl='60+0', UTCDate='2019.08.30', UTCTime='08:44:23', Variant='Standard', WhiteElo='1260', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -35 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +32 | Depth: 18 | EngineMove : g1f3
+2. d4 | Analysis: -7 | Depth: 16 | EngineMove : c5d4
+2... Nc6 | Analysis: +111 | Depth: 16 | EngineMove : d4d5
+3. dxc5 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+3... e5 | Analysis: +76 | Depth: 17 | EngineMove : c1e3
+4. c4 | Analysis: +5 | Depth: 18 | EngineMove : f8c5
+4... Bxc5 | Analysis: -1 | Depth: 20 | EngineMove : b1c3
+5. Nf3 | Analysis: +12 | Depth: 17 | EngineMove : d8b6
+5... Qf6 | Analysis: +59 | Depth: 16 | EngineMove : b1c3
+6. Bg5 | Analysis: -17 | Depth: 16 | EngineMove : f6g6
+6... Qg6 | Analysis: +10 | Depth: 18 | EngineMove : b1c3
+7. h4 | Analysis: +93 | Depth: 18 | EngineMove : g6e4
+7... Qxe4+ | Analysis: -39 | Depth: 18 | EngineMove : f1e2
+8. Be2 | Analysis: +53 | Depth: 18 | EngineMove : h7h6
+8... h6 | Analysis: -27 | Depth: 18 | EngineMove : b1c3
+9. Nc3 | Analysis: +39 | Depth: 19 | EngineMove : e4g4
+9... Qf5 | Analysis: -28 | Depth: 18 | EngineMove : g5e3
+10. Be3 | Analysis: +28 | Depth: 19 | EngineMove : c5b4
+10... Nd4 | Analysis: +172 | Depth: 18 | EngineMove : f3d4
+11. Nxd4 | Analysis: -182 | Depth: 20 | EngineMove : e5d4
+11... exd4 | Analysis: +183 | Depth: 20 | EngineMove : e3d4
+12. Nd5 | Analysis: +325 | Depth: 18 | EngineMove : d4e3
+12... dxe3 | Analysis: -340 | Depth: 19 | EngineMove : f2f4
+13. Nc7+ | Analysis: +741 | Depth: 20 | EngineMove : e8d8
+13... Kd8 | Analysis: -755 | Depth: 20 | EngineMove : d1d5
+14. Nxa8 | Analysis: #+1 | Depth: 127 | EngineMove : f5f2

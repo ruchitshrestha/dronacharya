@@ -1,0 +1,26 @@
+**URL: https://lichess.org/1xBADv1L | Tag: 1xBADv1L | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/1xBADv1L', Date='2018.12.15', Round='-', White='chittyct', Black='oinkoinkoink', Result='0-1', BlackElo='1256', BlackRatingDiff='+11', ECO='D07', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.15', UTCTime='20:20:33', Variant='Standard', WhiteElo='1277', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 18 | EngineMove : c2c4
+2. c4 | Analysis: -17 | Depth: 18 | EngineMove : e7e6
+2... dxc4 | Analysis: +42 | Depth: 16 | EngineMove : g1f3
+3. Nf3 | Analysis: -34 | Depth: 16 | EngineMove : g8f6
+3... Nc6 | Analysis: +91 | Depth: 16 | EngineMove : d4d5
+4. Nc3 | Analysis: -44 | Depth: 16 | EngineMove : g8f6
+4... Bg4 | Analysis: +132 | Depth: 16 | EngineMove : d4d5
+5. e4 | Analysis: +44 | Depth: 17 | EngineMove : g4f3
+5... Nxd4 | Analysis: +277 | Depth: 18 | EngineMove : d1d4
+6. Bxc4 | Analysis: +229 | Depth: 17 | EngineMove : d4f3
+6... Nxf3+ | Analysis: -237 | Depth: 19 | EngineMove : g2f3
+7. gxf3 | Analysis: +234 | Depth: 18 | EngineMove : d8d1
+7... Qxd1+ | Analysis: -231 | Depth: 18 | EngineMove : c3d1
+8. Nxd1 | Analysis: +243 | Depth: 19 | EngineMove : g4f3
+8... Bxf3 | Analysis: -243 | Depth: 18 | EngineMove : e1g1
+9. Rg1 | Analysis: +240 | Depth: 18 | EngineMove : f3e4
+9... O-O-O | Analysis: -166 | Depth: 17 | EngineMove : d1c3
+10. Nc3 | Analysis: +173 | Depth: 18 | EngineMove : e7e6
+10... Nf6 | Analysis: -130 | Depth: 17 | EngineMove : c4f7
+11. Bxf7 | Analysis: +140 | Depth: 18 | EngineMove : e7e5
+11... Nxe4 | Analysis: -139 | Depth: 17 | EngineMove : f7e6
+12. Nxe4 | Analysis: #+1 | Depth: 127 | EngineMove : d8d1

@@ -1,0 +1,16 @@
+**URL: https://lichess.org/n8OY6aSB | Tag: n8OY6aSB | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/n8OY6aSB', Date='2018.12.10', Round='-', White='Carloscelta', Black='chittyct', Result='1-0', BlackElo='1273', BlackRatingDiff='-9', ECO='C42', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.10', UTCTime='21:02:11', Variant='Standard', WhiteElo='1297', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -29 | Depth: 16 | EngineMove : e7e5
+1... e5 | Analysis: +27 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -16 | Depth: 19 | EngineMove : g8f6
+2... Nf6 | Analysis: +20 | Depth: 18 | EngineMove : f3e5
+3. Nxe5 | Analysis: -31 | Depth: 18 | EngineMove : d7d6
+3... Nxe4 | Analysis: +55 | Depth: 18 | EngineMove : d1e2
+4. Qe2 | Analysis: -45 | Depth: 19 | EngineMove : d8e7
+4... Nf6 | Analysis: +663 | Depth: 19 | EngineMove : e5c6
+5. Nc6+ | Analysis: -665 | Depth: 20 | EngineMove : d8e7
+5... Be7 | Analysis: +728 | Depth: 19 | EngineMove : c6d8
+6. Nxd8 | Analysis: -720 | Depth: 18 | EngineMove : e8d8
+6... O-O | Analysis: +880 | Depth: 20 | EngineMove : e2e7
+7. Qxe7 | Analysis: -886 | Depth: 20 | EngineMove : f8e8

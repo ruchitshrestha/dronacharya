@@ -1,0 +1,36 @@
+**URL: https://lichess.org/bFGo3STB | Tag: bFGo3STB | Side: white**
+HEADERS: Headers(Event='Casual Correspondence game', Site='https://lichess.org/bFGo3STB', Date='2018.09.04', Round='-', White='chittyct', Black='Anonymous', Result='0-1', BlackElo='?', ECO='D00', Termination='Normal', TimeControl='-', UTCDate='2018.09.04', UTCTime='03:14:03', Variant='Standard', WhiteElo='1500')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +13 | Depth: 13 | EngineMove : e2e3
+2. Bf4 | Analysis: -15 | Depth: 13 | EngineMove : e7e6
+2... Nf6 | Analysis: +17 | Depth: 14 | EngineMove : e2e3
+3. e3 | Analysis: -18 | Depth: 14 | EngineMove : e7e6
+3... Nc6 | Analysis: +28 | Depth: 14 | EngineMove : b1c3
+4. Bd3 | Analysis: -34 | Depth: 14 | EngineMove : c8g4
+4... e6 | Analysis: +29 | Depth: 14 | EngineMove : g1f3
+5. c3 | Analysis: -27 | Depth: 15 | EngineMove : f8e7
+5... Bd6 | Analysis: +28 | Depth: 13 | EngineMove : g1f3
+6. Bg3 | Analysis: +39 | Depth: 12 | EngineMove : d6g3
+6... Ne4 | Analysis: +29 | Depth: 13 | EngineMove : d3e4
+7. Ne2 | Analysis: -13 | Depth: 12 | EngineMove : e4g3
+7... Qf6 | Analysis: +113 | Depth: 13 | EngineMove : d3e4
+8. O-O | Analysis: -28 | Depth: 13 | EngineMove : e4g3
+8... h5 | Analysis: +150 | Depth: 13 | EngineMove : d3e4
+9. Bxd6 | Analysis: -58 | Depth: 13 | EngineMove : e4d6
+9... cxd6 | Analysis: +151 | Depth: 12 | EngineMove : c3c4
+10. Nf4 | Analysis: -95 | Depth: 13 | EngineMove : g7g5
+10... e5 | Analysis: +491 | Depth: 12 | EngineMove : f4d5
+11. Nxh5 | Analysis: +99 | Depth: 12 | EngineMove : f6h4
+11... Qh6 | Analysis: -103 | Depth: 11 | EngineMove : d3e2
+12. Be2 | Analysis: +76 | Depth: 13 | EngineMove : e5d4
+12... g6 | Analysis: -70 | Depth: 12 | EngineMove : d4e5
+13. Nf6+ | Analysis: +662 | Depth: 12 | EngineMove : e4f6
+13... Nxf6 | Analysis: -621 | Depth: 11 | EngineMove : f2f3
+14. h3 | Analysis: +1064 | Depth: 13 | EngineMove : c8h3
+14... Bxh3 | Analysis: -1227 | Depth: 12 | EngineMove : e2h5
+15. f4 | Analysis: +1551 | Depth: 12 | EngineMove : h3g2
+15... Bxg2 | Analysis: -1602 | Depth: 14 | EngineMove : e2h5
+16. Kxg2 | Analysis: #+2 | Depth: 127 | EngineMove : h6h2
+16... Qh2+ | Analysis: #-1 | Depth: 127 | EngineMove : g2f3
+17. Kf3 | Analysis: #+1 | Depth: 127 | EngineMove : e5e4

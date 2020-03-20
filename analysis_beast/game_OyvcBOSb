@@ -1,0 +1,28 @@
+**URL: https://lichess.org/OyvcBOSb | Tag: OyvcBOSb | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/OyvcBOSb', Date='2018.11.29', Round='-', White='AncientPie', Black='chittyct', Result='1-0', BlackElo='1030', BlackRatingDiff='-10', ECO='B20', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.11.29', UTCTime='03:20:41', Variant='Standard', WhiteElo='1060', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -37 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +64 | Depth: 12 | EngineMove : g1f3
+2. Bc4 | Analysis: -29 | Depth: 13 | EngineMove : b8c6
+2... a6 | Analysis: +39 | Depth: 12 | EngineMove : g1f3
+3. Qh5 | Analysis: +79 | Depth: 13 | EngineMove : e7e6
+3... e6 | Analysis: -58 | Depth: 14 | EngineMove : c4b3
+4. d3 | Analysis: +68 | Depth: 14 | EngineMove : b8c6
+4... Nf6 | Analysis: -32 | Depth: 15 | EngineMove : h5e2
+5. Qe2 | Analysis: +31 | Depth: 15 | EngineMove : d7d6
+5... Bd6 | Analysis: +169 | Depth: 12 | EngineMove : e4e5
+6. e5 | Analysis: -58 | Depth: 13 | EngineMove : b7b5
+6... Bxe5 | Analysis: +176 | Depth: 13 | EngineMove : e2e5
+7. Qxe5 | Analysis: -185 | Depth: 14 | EngineMove : d7d5
+7... O-O | Analysis: +276 | Depth: 13 | EngineMove : e5c5
+8. Qg5 | Analysis: -146 | Depth: 12 | EngineMove : d7d5
+8... Nc6 | Analysis: +223 | Depth: 13 | EngineMove : g5c5
+9. Qg3 | Analysis: -154 | Depth: 12 | EngineMove : c6d4
+9... Nd4 | Analysis: +145 | Depth: 13 | EngineMove : c4b3
+10. Bh6 | Analysis: +319 | Depth: 13 | EngineMove : f6h5
+10... g6 | Analysis: +182 | Depth: 14 | EngineMove : c4b3
+11. Ne2 | Analysis: +136 | Depth: 14 | EngineMove : d4c2
+11... Nxc2+ | Analysis: -129 | Depth: 15 | EngineMove : e1d2
+12. Kd2 | Analysis: +144 | Depth: 15 | EngineMove : c2a1
+12... Nxa1 | Analysis: -118 | Depth: 16 | EngineMove : h6f8
+13. Nbc3 | Analysis: +195 | Depth: 13 | EngineMove : d7d5

@@ -1,0 +1,35 @@
+**URL: https://lichess.org/Um10zQQm | Tag: Um10zQQm | Side: white**
+HEADERS: Headers(Event='Casual Blitz game', Site='https://lichess.org/Um10zQQm', Date='2019.09.02', Round='-', White='chittyct', Black='Kakasparov', Result='0-1', BlackElo='1325', ECO='D00', Termination='Time forfeit', TimeControl='240+4', UTCDate='2019.09.02', UTCTime='04:39:58', Variant='Standard', WhiteElo='1381')
+
+1. d4 | Analysis: -10 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +21 | Depth: 14 | EngineMove : e2e3
+2. e3 | Analysis: -8 | Depth: 14 | EngineMove : e7e6
+2... h6 | Analysis: +39 | Depth: 13 | EngineMove : g1f3
+3. c4 | Analysis: -26 | Depth: 14 | EngineMove : e7e6
+3... e6 | Analysis: +37 | Depth: 14 | EngineMove : g1f3
+4. cxd5 | Analysis: -24 | Depth: 14 | EngineMove : e6d5
+4... exd5 | Analysis: +9 | Depth: 14 | EngineMove : b1c3
+5. Nc3 | Analysis: -1 | Depth: 14 | EngineMove : g8f6
+5... c6 | Analysis: 0 | Depth: 14 | EngineMove : g1f3
+6. g4 | Analysis: +42 | Depth: 11 | EngineMove : f8d6
+6... Nf6 | Analysis: -51 | Depth: 14 | EngineMove : h2h3
+7. Bg2 | Analysis: +139 | Depth: 12 | EngineMove : f6g4
+7... Bxg4 | Analysis: -122 | Depth: 12 | EngineMove : f2f3
+8. f3 | Analysis: +145 | Depth: 12 | EngineMove : g4e6
+8... Bf5 | Analysis: -100 | Depth: 11 | EngineMove : g1e2
+9. e4 | Analysis: +53 | Depth: 11 | EngineMove : f5e6
+9... dxe4 | Analysis: -50 | Depth: 12 | EngineMove : f3e4
+10. fxe4 | Analysis: +43 | Depth: 13 | EngineMove : f5g4
+10... Be6 | Analysis: -25 | Depth: 13 | EngineMove : g1e2
+11. Bf4 | Analysis: +65 | Depth: 11 | EngineMove : b8d7
+11... Bb4 | Analysis: -46 | Depth: 11 | EngineMove : g1e2
+12. Ne2 | Analysis: +65 | Depth: 12 | EngineMove : b8d7
+12... O-O | Analysis: -85 | Depth: 12 | EngineMove : e1g1
+13. O-O | Analysis: +82 | Depth: 12 | EngineMove : b8d7
+13... Nbd7 | Analysis: -72 | Depth: 13 | EngineMove : e2g3
+14. a3 | Analysis: +77 | Depth: 13 | EngineMove : b4a5
+14... Be7 | Analysis: -80 | Depth: 12 | EngineMove : e2g3
+15. Nd5 | Analysis: +434 | Depth: 12 | EngineMove : c6d5
+15... cxd5 | Analysis: -425 | Depth: 12 | EngineMove : e4e5
+16. e5 | Analysis: +450 | Depth: 13 | EngineMove : f6e4
+16... Ne8 | Analysis: -343 | Depth: 10 | EngineMove : f4g3

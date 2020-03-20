@@ -1,0 +1,27 @@
+**URL: https://lichess.org/8E93ja54 | Tag: 8E93ja54 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/8E93ja54', Date='2019.06.23', Round='-', White='chittyct', Black='pajaraca_salgueiro', Result='0-1', BlackElo='1281', BlackRatingDiff='+14', ECO='A43', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.06.23', UTCTime='03:49:03', Variant='Standard', WhiteElo='1377', WhiteRatingDiff='-13')
+
+1. d4 | Analysis: -21 | Depth: 18 | EngineMove : g8f6
+1... c5 | Analysis: +46 | Depth: 18 | EngineMove : d4d5
+2. dxc5 | Analysis: -18 | Depth: 18 | EngineMove : e7e6
+2... Nf6 | Analysis: +17 | Depth: 18 | EngineMove : b1c3
+3. b3 | Analysis: +26 | Depth: 15 | EngineMove : e7e6
+3... e5 | Analysis: -4 | Depth: 16 | EngineMove : c1a3
+4. Bb2 | Analysis: +22 | Depth: 17 | EngineMove : f8c5
+4... Nc6 | Analysis: -10 | Depth: 18 | EngineMove : e2e3
+5. Nf3 | Analysis: +61 | Depth: 18 | EngineMove : e5e4
+5... Bxc5 | Analysis: -16 | Depth: 19 | EngineMove : e2e3
+6. Nxe5 | Analysis: +174 | Depth: 19 | EngineMove : c6e5
+6... O-O | Analysis: +26 | Depth: 17 | EngineMove : e5d3
+7. Nd3 | Analysis: -24 | Depth: 19 | EngineMove : c5b6
+7... Bb6 | Analysis: +18 | Depth: 20 | EngineMove : g2g3
+8. e3 | Analysis: -10 | Depth: 19 | EngineMove : d7d5
+8... d5 | Analysis: +12 | Depth: 19 | EngineMove : c2c3
+9. Be2 | Analysis: +22 | Depth: 17 | EngineMove : d5d4
+9... Be6 | Analysis: +45 | Depth: 18 | EngineMove : c2c3
+10. O-O | Analysis: -26 | Depth: 16 | EngineMove : d5d4
+10... Qd6 | Analysis: +136 | Depth: 18 | EngineMove : b2a3
+11. Ba3 | Analysis: -139 | Depth: 19 | EngineMove : d6c7
+11... Qd7 | Analysis: +164 | Depth: 19 | EngineMove : a3f8
+12. Bxf8 | Analysis: -162 | Depth: 19 | EngineMove : a8f8
+12... Kxf8 | Analysis: +177 | Depth: 17 | EngineMove : b1d2

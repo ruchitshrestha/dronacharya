@@ -1,0 +1,23 @@
+**URL: https://lichess.org/ryIRdG0f | Tag: ryIRdG0f | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ryIRdG0f', Date='2019.01.04', Round='-', White='chittyct', Black='ashley19', Result='0-1', BlackElo='1063', BlackRatingDiff='+12', ECO='D02', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.01.04', UTCTime='12:25:39', Variant='Standard', WhiteElo='1073', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -22 | Depth: 16 | EngineMove : g8f6
+1... d5 | Analysis: +20 | Depth: 17 | EngineMove : c1f4
+2. Nf3 | Analysis: -14 | Depth: 17 | EngineMove : g8f6
+2... Bf5 | Analysis: +15 | Depth: 16 | EngineMove : c1f4
+3. Bf4 | Analysis: -10 | Depth: 16 | EngineMove : g8f6
+3... Nc6 | Analysis: +12 | Depth: 16 | EngineMove : e2e3
+4. e3 | Analysis: -8 | Depth: 18 | EngineMove : e7e6
+4... Nb4 | Analysis: +49 | Depth: 17 | EngineMove : f1b5
+5. Na3 | Analysis: -34 | Depth: 17 | EngineMove : a7a6
+5... c6 | Analysis: +98 | Depth: 15 | EngineMove : f1e2
+6. c3 | Analysis: -75 | Depth: 17 | EngineMove : b4a6
+6... Qa5 | Analysis: +222 | Depth: 16 | EngineMove : c3b4
+7. cxb4 | Analysis: -247 | Depth: 18 | EngineMove : a5b4
+7... Qxb4+ | Analysis: +248 | Depth: 20 | EngineMove : d1d2
+8. Nd2 | Analysis: -78 | Depth: 17 | EngineMove : e7e5
+8... e6 | Analysis: +267 | Depth: 18 | EngineMove : d1c1
+9. Rb1 | Analysis: -127 | Depth: 21 | EngineMove : f5b1
+9... h6 | Analysis: +204 | Depth: 18 | EngineMove : a3c2
+10. Be2 | Analysis: -129 | Depth: 21 | EngineMove : f5b1
+10... g5 | Analysis: +220 | Depth: 18 | EngineMove : f4e5

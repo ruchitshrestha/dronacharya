@@ -1,0 +1,12 @@
+**URL: https://lichess.org/fDIa05TF | Tag: fDIa05TF | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/fDIa05TF', Date='2018.10.27', Round='-', White='imtiaz1144', Black='chittyct', Result='1-0', BlackElo='1125', BlackRatingDiff='-12', ECO='A01', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.27', UTCTime='17:36:21', Variant='Standard', WhiteElo='1082', WhiteRatingDiff='+12')
+
+1. b3 | Analysis: +32 | Depth: 12 | EngineMove : e7e5
+1... d5 | Analysis: -13 | Depth: 13 | EngineMove : g1f3
+2. Bb2 | Analysis: +1 | Depth: 12 | EngineMove : c7c5
+2... e5 | Analysis: +26 | Depth: 13 | EngineMove : b2e5
+3. Bxe5 | Analysis: -32 | Depth: 13 | EngineMove : c8e6
+3... Nc6 | Analysis: +45 | Depth: 15 | EngineMove : e5b2
+4. Bb2 | Analysis: -48 | Depth: 13 | EngineMove : g8f6
+4... Bd6 | Analysis: +232 | Depth: 14 | EngineMove : b2g7
+5. Bxg7 | Analysis: -244 | Depth: 14 | EngineMove : d6e5

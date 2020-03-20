@@ -1,0 +1,31 @@
+**URL: https://lichess.org/6ndQbYU7 | Tag: 6ndQbYU7 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/6ndQbYU7', Date='2019.07.20', Round='-', White='chittyct', Black='iSuckDogeNutz', Result='1-0', BlackElo='930', BlackRatingDiff='-4', ECO='D35', Termination='Normal', TimeControl='60+0', UTCDate='2019.07.20', UTCTime='02:43:50', Variant='Standard', WhiteElo='1188', WhiteRatingDiff='+4')
+
+1. d4 | Analysis: -24 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +16 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -14 | Depth: 13 | EngineMove : e7e6
+2... e6 | Analysis: +22 | Depth: 13 | EngineMove : e2e3
+3. cxd5 | Analysis: -1 | Depth: 14 | EngineMove : e6d5
+3... exd5 | Analysis: +3 | Depth: 13 | EngineMove : g1f3
+4. Nc3 | Analysis: +1 | Depth: 12 | EngineMove : g8f6
+4... Nf6 | Analysis: +2 | Depth: 13 | EngineMove : g1f3
+5. Bg5 | Analysis: +2 | Depth: 12 | EngineMove : c7c6
+5... Be7 | Analysis: +21 | Depth: 13 | EngineMove : e2e3
+6. Bxf6 | Analysis: -14 | Depth: 13 | EngineMove : e7f6
+6... Bxf6 | Analysis: +5 | Depth: 13 | EngineMove : e2e3
+7. e3 | Analysis: +13 | Depth: 13 | EngineMove : e8g8
+7... Nc6 | Analysis: +12 | Depth: 12 | EngineMove : g1e2
+8. Rc1 | Analysis: +1 | Depth: 13 | EngineMove : e8g8
+8... Nb4 | Analysis: +96 | Depth: 12 | EngineMove : d1b3
+9. a3 | Analysis: -22 | Depth: 14 | EngineMove : b4c6
+9... Nc6 | Analysis: +40 | Depth: 14 | EngineMove : g1e2
+10. b4 | Analysis: -7 | Depth: 14 | EngineMove : e8g8
+10... Bf5 | Analysis: +15 | Depth: 14 | EngineMove : f1d3
+11. Bd3 | Analysis: -18 | Depth: 16 | EngineMove : f5d3
+11... Bxd3 | Analysis: +24 | Depth: 16 | EngineMove : d1d3
+12. Qxd3 | Analysis: -24 | Depth: 15 | EngineMove : e8g8
+12... O-O | Analysis: +15 | Depth: 14 | EngineMove : g1f3
+13. h4 | Analysis: -11 | Depth: 11 | EngineMove : a7a6
+13... Bxh4 | Analysis: +279 | Depth: 14 | EngineMove : g2g3
+14. Nf3 | Analysis: -265 | Depth: 13 | EngineMove : g7g5
+14... Bf6 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

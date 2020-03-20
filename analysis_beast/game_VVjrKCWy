@@ -1,0 +1,12 @@
+**URL: https://lichess.org/VVjrKCWy | Tag: VVjrKCWy | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/VVjrKCWy', Date='2018.09.14', Round='-', White='BigZmoky', Black='chittyct', Result='1-0', BlackElo='967', BlackRatingDiff='-7', ECO='C25', Termination='Time forfeit', TimeControl='120+1', UTCDate='2018.09.14', UTCTime='20:02:05', Variant='Standard', WhiteElo='1096', WhiteRatingDiff='+8')
+
+1. e4 | Analysis: -24 | Depth: 12 | EngineMove : d7d5
+1... e5 | Analysis: +21 | Depth: 12 | EngineMove : g1f3
+2. Nc3 | Analysis: +3 | Depth: 12 | EngineMove : g8f6
+2... Bc5 | Analysis: +44 | Depth: 12 | EngineMove : g1f3
+3. Nf3 | Analysis: -33 | Depth: 14 | EngineMove : d7d6
+3... d6 | Analysis: +30 | Depth: 14 | EngineMove : c3a4
+4. d4 | Analysis: +3 | Depth: 13 | EngineMove : e5d4
+4... Be6 | Analysis: +411 | Depth: 12 | EngineMove : d4c5
+5. dxc5 | Analysis: -403 | Depth: 13 | EngineMove : b8c6

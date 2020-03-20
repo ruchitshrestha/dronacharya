@@ -1,0 +1,5 @@
+**URL: https://lichess.org/DwyyXcbb | Tag: DwyyXcbb | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/DwyyXcbb', Date='2019.02.01', Round='-', White='chittyct', Black='agingjedi', Result='0-1', BlackElo='1309', BlackRatingDiff='+9', ECO='D00', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.02.01', UTCTime='17:00:14', Variant='Standard', WhiteElo='1250', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -12 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +24 | Depth: 13 | EngineMove : c1f4

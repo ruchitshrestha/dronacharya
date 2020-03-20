@@ -1,0 +1,31 @@
+**URL: https://lichess.org/Y4YtbZhH | Tag: Y4YtbZhH | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Y4YtbZhH', Date='2019.10.11', Round='-', White='chittyct', Black='thestruggleisreal', Result='1-0', BlackElo='1090', BlackRatingDiff='-6', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.10.11', UTCTime='13:41:17', Variant='Standard', WhiteElo='1114', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -11 | Depth: 14 | EngineMove : g8f6
+1... d5 | Analysis: +11 | Depth: 14 | EngineMove : g1f3
+2. Bf4 | Analysis: -15 | Depth: 13 | EngineMove : g8f6
+2... e6 | Analysis: +17 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -7 | Depth: 14 | EngineMove : g8f6
+3... Nc6 | Analysis: +25 | Depth: 13 | EngineMove : g1f3
+4. c4 | Analysis: 0 | Depth: 12 | EngineMove : g8f6
+4... b6 | Analysis: +60 | Depth: 12 | EngineMove : c4d5
+5. cxd5 | Analysis: -74 | Depth: 13 | EngineMove : e6d5
+5... Qxd5 | Analysis: +80 | Depth: 11 | EngineMove : g1f3
+6. Nc3 | Analysis: -81 | Depth: 14 | EngineMove : f8b4
+6... Qd8 | Analysis: +151 | Depth: 11 | EngineMove : d4d5
+7. Rc1 | Analysis: -74 | Depth: 12 | EngineMove : g8f6
+7... Bb7 | Analysis: +104 | Depth: 12 | EngineMove : d4d5
+8. Nb5 | Analysis: 0 | Depth: 13 | EngineMove : f8b4
+8... Qe7 | Analysis: +720 | Depth: 11 | EngineMove : b5c7
+9. Nxc7+ | Analysis: -466 | Depth: 11 | EngineMove : e8d8
+9... Kd8 | Analysis: +441 | Depth: 12 | EngineMove : f1b5
+10. Nxa8 | Analysis: -410 | Depth: 12 | EngineMove : e7b4
+10... e5 | Analysis: +696 | Depth: 11 | EngineMove : d4e5
+11. dxe5+ | Analysis: -727 | Depth: 14 | EngineMove : e7d7
+11... Kc8 | Analysis: +848 | Depth: 13 | EngineMove : a2a3
+12. Bb5 | Analysis: -434 | Depth: 11 | EngineMove : e7b4
+12... Qb4+ | Analysis: +479 | Depth: 14 | EngineMove : d1d2
+13. Rc3 | Analysis: -257 | Depth: 12 | EngineMove : b4b5
+13... Qxb5 | Analysis: +238 | Depth: 12 | EngineMove : a8c7
+14. e6 | Analysis: -181 | Depth: 13 | EngineMove : g8f6
+14... Bxa8 | Analysis: #+1 | Depth: 127 | EngineMove : d1d7

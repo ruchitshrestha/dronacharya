@@ -1,0 +1,28 @@
+**URL: https://lichess.org/QA9U40Ce | Tag: QA9U40Ce | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/QA9U40Ce', Date='2019.07.20', Round='-', White='khalilf', Black='chittyct', Result='0-1', BlackElo='1401', BlackRatingDiff='+10', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.20', UTCTime='22:35:38', Variant='Standard', WhiteElo='1396', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -22 | Depth: 16 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 17 | EngineMove : e2e3
+2. Nc3 | Analysis: -13 | Depth: 16 | EngineMove : g8f6
+2... Bf5 | Analysis: +15 | Depth: 15 | EngineMove : f2f3
+3. Nf3 | Analysis: -10 | Depth: 17 | EngineMove : e7e6
+3... c5 | Analysis: +88 | Depth: 14 | EngineMove : d4c5
+4. dxc5 | Analysis: -86 | Depth: 17 | EngineMove : g8f6
+4... e6 | Analysis: +151 | Depth: 17 | EngineMove : e2e4
+5. Ne5 | Analysis: -25 | Depth: 16 | EngineMove : d8f6
+5... Bxc5 | Analysis: +153 | Depth: 15 | EngineMove : e2e4
+6. e3 | Analysis: +39 | Depth: 15 | EngineMove : b8c6
+6... a6 | Analysis: -6 | Depth: 16 | EngineMove : e3e4
+7. a3 | Analysis: +59 | Depth: 18 | EngineMove : c5d6
+7... Qf6 | Analysis: -17 | Depth: 16 | EngineMove : e5d3
+8. f4 | Analysis: +54 | Depth: 16 | EngineMove : g8e7
+8... Nc6 | Analysis: -44 | Depth: 17 | EngineMove : e5c6
+9. Nxc6 | Analysis: +52 | Depth: 17 | EngineMove : b7c6
+9... bxc6 | Analysis: -53 | Depth: 18 | EngineMove : f1d3
+10. b4 | Analysis: +160 | Depth: 18 | EngineMove : f6c3
+10... Bb6 | Analysis: -108 | Depth: 17 | EngineMove : d1d2
+11. Bb2 | Analysis: +137 | Depth: 16 | EngineMove : b6e3
+11... Bxe3 | Analysis: -120 | Depth: 17 | EngineMove : c3d5
+12. g4 | Analysis: #+2 | Depth: 127 | EngineMove : f6h4
+12... Qh4+ | Analysis: #-1 | Depth: 127 | EngineMove : e1e2
+13. Ke2 | Analysis: #+1 | Depth: 127 | EngineMove : h4f2

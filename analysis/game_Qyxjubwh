@@ -1,0 +1,32 @@
+**URL: https://lichess.org/Qyxjubwh | Tag: Qyxjubwh | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Qyxjubwh', Date='2018.12.24', Round='-', White='paquiles', Black='chittyct', Result='1/2-1/2', BlackElo='1352', BlackRatingDiff='+1', ECO='B32', Termination='Normal', TimeControl='300+3', UTCDate='2018.12.24', UTCTime='13:16:13', Variant='Standard', WhiteElo='1373', WhiteRatingDiff='+0')
+
+1. e4 | Analysis: -23 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +38 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -27 | Depth: 17 | EngineMove : e7e6
+2... Nc6 | Analysis: +32 | Depth: 18 | EngineMove : f1b5
+3. d4 | Analysis: -18 | Depth: 18 | EngineMove : c5d4
+3... e6 | Analysis: +144 | Depth: 18 | EngineMove : d4d5
+4. Bb5 | Analysis: +5 | Depth: 18 | EngineMove : c5d4
+4... a6 | Analysis: +12 | Depth: 18 | EngineMove : b5e2
+5. Bxc6 | Analysis: -31 | Depth: 18 | EngineMove : d7c6
+5... bxc6 | Analysis: +15 | Depth: 16 | EngineMove : b1c3
+6. Be3 | Analysis: +11 | Depth: 17 | EngineMove : c5d4
+6... cxd4 | Analysis: -6 | Depth: 18 | EngineMove : d1d4
+7. Bxd4 | Analysis: +21 | Depth: 18 | EngineMove : c6c5
+7... Bb7 | Analysis: -10 | Depth: 18 | EngineMove : b1c3
+8. O-O | Analysis: +66 | Depth: 19 | EngineMove : c6c5
+8... c5 | Analysis: -62 | Depth: 18 | EngineMove : d4e5
+9. Bc3 | Analysis: +61 | Depth: 18 | EngineMove : b7e4
+9... Bxe4 | Analysis: -77 | Depth: 19 | EngineMove : b1d2
+10. Re1 | Analysis: +55 | Depth: 18 | EngineMove : e4b7
+10... Bxf3 | Analysis: -12 | Depth: 19 | EngineMove : d1f3
+11. Qxf3 | Analysis: +10 | Depth: 19 | EngineMove : g8f6
+11... Nf6 | Analysis: -5 | Depth: 18 | EngineMove : c3f6
+12. Nd2 | Analysis: +49 | Depth: 20 | EngineMove : f8e7
+12... d5 | Analysis: 0 | Depth: 19 | EngineMove : c3f6
+13. Bxf6 | Analysis: -10 | Depth: 19 | EngineMove : g7f6
+13... gxf6 | Analysis: +11 | Depth: 20 | EngineMove : c2c4
+14. c3 | Analysis: +51 | Depth: 19 | EngineMove : f8g7
+14... Bh6 | Analysis: +19 | Depth: 19 | EngineMove : d2b3
+15. Nb3 | Analysis: -12 | Depth: 20 | EngineMove : e8g8

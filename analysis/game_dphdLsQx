@@ -1,0 +1,5 @@
+**URL: https://lichess.org/dphdLsQx | Tag: dphdLsQx | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/dphdLsQx', Date='2018.12.14', Round='-', White='chittyct', Black='rowdyho', Result='0-1', BlackElo='1273', BlackRatingDiff='+10', ECO='D00', Termination='Time forfeit', TimeControl='300+3', UTCDate='2018.12.14', UTCTime='21:01:27', Variant='Standard', WhiteElo='1251', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -16 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 18 | EngineMove : c1f4

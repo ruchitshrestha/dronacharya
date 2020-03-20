@@ -1,0 +1,22 @@
+**URL: https://lichess.org/YYtmCLT9 | Tag: YYtmCLT9 | Side: black**
+HEADERS: Headers(Event='Casual Correspondence game', Site='https://lichess.org/YYtmCLT9', Date='2018.08.20', Round='-', White='lichess AI level 8', Black='chittyct', Result='1-0', BlackElo='1500', ECO='C40', Termination='Normal', TimeControl='-', UTCDate='2018.08.20', UTCTime='03:26:53', Variant='Standard', WhiteElo='?')
+
+1. e4 | Analysis: -33 | Depth: 16 | EngineMove : e7e6
+1... e5 | Analysis: +24 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -26 | Depth: 18 | EngineMove : g8f6
+2... Bd6 | Analysis: +59 | Depth: 17 | EngineMove : c2c3
+3. c3 | Analysis: -55 | Depth: 18 | EngineMove : g8f6
+3... c5 | Analysis: +114 | Depth: 17 | EngineMove : d2d4
+4. d4 | Analysis: -91 | Depth: 17 | EngineMove : d8e7
+4... cxd4 | Analysis: +108 | Depth: 17 | EngineMove : c3d4
+5. cxd4 | Analysis: -99 | Depth: 18 | EngineMove : d6b4
+5... Bb4+ | Analysis: +120 | Depth: 18 | EngineMove : b1c3
+6. Bd2 | Analysis: -98 | Depth: 17 | EngineMove : b4d2
+6... Qb6 | Analysis: +189 | Depth: 17 | EngineMove : a2a3
+7. Bxb4 | Analysis: -179 | Depth: 18 | EngineMove : b6b4
+7... Qxb4+ | Analysis: +187 | Depth: 19 | EngineMove : b1c3
+8. Nc3 | Analysis: -180 | Depth: 19 | EngineMove : b8c6
+8... exd4 | Analysis: +210 | Depth: 18 | EngineMove : a2a3
+9. a3 | Analysis: -212 | Depth: 18 | EngineMove : b4e7
+9... Qxb2 | Analysis: +531 | Depth: 20 | EngineMove : c3a4
+10. Na4 | Analysis: -533 | Depth: 21 | EngineMove : b2a1

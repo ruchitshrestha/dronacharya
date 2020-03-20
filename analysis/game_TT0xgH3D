@@ -1,0 +1,30 @@
+**URL: https://lichess.org/TT0xgH3D | Tag: TT0xgH3D | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/TT0xgH3D', Date='2019.10.11', Round='-', White='chittyct', Black='MrFix0r', Result='1-0', BlackElo='966', BlackRatingDiff='-10', ECO='A40', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.10.11', UTCTime='14:10:01', Variant='Standard', WhiteElo='1132', WhiteRatingDiff='+4')
+
+1. d4 | Analysis: -11 | Depth: 17 | EngineMove : g8f6
+1... e6 | Analysis: +21 | Depth: 17 | EngineMove : e2e4
+2. Bf4 | Analysis: -20 | Depth: 18 | EngineMove : g8f6
+2... b6 | Analysis: +20 | Depth: 16 | EngineMove : e2e4
+3. Nc3 | Analysis: -11 | Depth: 18 | EngineMove : f8b4
+3... Bb7 | Analysis: +6 | Depth: 18 | EngineMove : e2e4
+4. Nf3 | Analysis: -4 | Depth: 20 | EngineMove : f8b4
+4... d5 | Analysis: +8 | Depth: 17 | EngineMove : a2a3
+5. Nb5 | Analysis: -3 | Depth: 20 | EngineMove : b8a6
+5... Na6 | Analysis: +7 | Depth: 20 | EngineMove : e2e3
+6. a4 | Analysis: +1 | Depth: 19 | EngineMove : g8f6
+6... Qe7 | Analysis: +80 | Depth: 17 | EngineMove : c2c3
+7. Ne5 | Analysis: -20 | Depth: 16 | EngineMove : g7g6
+7... Nf6 | Analysis: +74 | Depth: 18 | EngineMove : e2e3
+8. e3 | Analysis: -70 | Depth: 19 | EngineMove : f6e4
+8... Qb4+ | Analysis: +231 | Depth: 17 | EngineMove : c2c3
+9. c3 | Analysis: -224 | Depth: 20 | EngineMove : b4e7
+9... Qxb2 | Analysis: +539 | Depth: 18 | EngineMove : e5d3
+10. Rb1 | Analysis: -442 | Depth: 20 | EngineMove : b2a2
+10... Qa3 | Analysis: +737 | Depth: 17 | EngineMove : b5a3
+11. Nxa3 | Analysis: -747 | Depth: 18 | EngineMove : f8a3
+11... Ne4 | Analysis: +1165 | Depth: 18 | EngineMove : f1b5
+12. Nb5 | Analysis: -1083 | Depth: 17 | EngineMove : f8e7
+12... c6 | Analysis: +1224 | Depth: 19 | EngineMove : f2f3
+13. Nc7+ | Analysis: -726 | Depth: 18 | EngineMove : a6c7
+13... Nxc7 | Analysis: +770 | Depth: 19 | EngineMove : e5f7
+14. Qc2 | Analysis: -674 | Depth: 16 | EngineMove : f8d6

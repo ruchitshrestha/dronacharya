@@ -1,0 +1,34 @@
+**URL: https://lichess.org/0W03gGc8 | Tag: 0W03gGc8 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/0W03gGc8', Date='2020.01.27', Round='-', White='briyac', Black='chittyct', Result='1-0', BlackElo='1352', BlackRatingDiff='-6', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2020.01.27', UTCTime='23:50:21', Variant='Standard', WhiteElo='1328', WhiteRatingDiff='+6')
+
+1. e4 | Analysis: -14 | Depth: 15 | EngineMove : e7e6
+1... c5 | Analysis: +38 | Depth: 16 | EngineMove : g1f3
+2. Bc4 | Analysis: -6 | Depth: 16 | EngineMove : g8f6
+2... Nc6 | Analysis: +5 | Depth: 15 | EngineMove : g1f3
+3. Nf3 | Analysis: -4 | Depth: 19 | EngineMove : g8f6
+3... e6 | Analysis: +10 | Depth: 18 | EngineMove : e1g1
+4. d3 | Analysis: +17 | Depth: 20 | EngineMove : d7d5
+4... a6 | Analysis: -2 | Depth: 17 | EngineMove : b1c3
+5. Ng5 | Analysis: +72 | Depth: 18 | EngineMove : h7h6
+5... b5 | Analysis: -41 | Depth: 19 | EngineMove : c4b3
+6. Bb3 | Analysis: +51 | Depth: 19 | EngineMove : f8e7
+6... Nd4 | Analysis: -4 | Depth: 17 | EngineMove : g5f3
+7. c3 | Analysis: +34 | Depth: 18 | EngineMove : d4b3
+7... Nxb3 | Analysis: -36 | Depth: 19 | EngineMove : a2b3
+8. Qxb3 | Analysis: +46 | Depth: 16 | EngineMove : c8b7
+8... Bd6 | Analysis: -20 | Depth: 15 | EngineMove : a2a4
+9. O-O | Analysis: +27 | Depth: 17 | EngineMove : c8b7
+9... Bb7 | Analysis: -22 | Depth: 16 | EngineMove : a2a4
+10. f4 | Analysis: +43 | Depth: 16 | EngineMove : d6e7
+10... Qb6 | Analysis: -23 | Depth: 17 | EngineMove : c3c4
+11. c4 | Analysis: +29 | Depth: 20 | EngineMove : f7f6
+11... bxc4 | Analysis: +1075 | Depth: 19 | EngineMove : b3b6
+12. Qxb6 | Analysis: -1079 | Depth: 19 | EngineMove : b7c6
+12... cxd3 | Analysis: +1434 | Depth: 18 | EngineMove : b6b7
+13. Qxb7 | Analysis: -1472 | Depth: 18 | EngineMove : a8b8
+13... Rb8 | Analysis: +1472 | Depth: 20 | EngineMove : b7a6
+14. Qxa6 | Analysis: -1477 | Depth: 19 | EngineMove : d6e7
+14... Nf6 | Analysis: +2206 | Depth: 19 | EngineMove : a6d6
+15. Qxd6 | Analysis: -2230 | Depth: 20 | EngineMove : b8c8
+15... Nxe4 | Analysis: +3236 | Depth: 14 | EngineMove : d6b8
+16. Nxe4 | Analysis: -2792 | Depth: 18 | EngineMove : b8b6

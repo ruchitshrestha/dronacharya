@@ -1,0 +1,36 @@
+**URL: https://lichess.org/hsW9MbXZ | Tag: hsW9MbXZ | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/hsW9MbXZ', Date='2020.01.21', Round='-', White='NewRonggo-ireng', Black='chittyct', Result='0-1', BlackElo='1487', BlackRatingDiff='+7', ECO='A27', Termination='Normal', TimeControl='180+2', UTCDate='2020.01.21', UTCTime='15:24:13', Variant='Standard', WhiteElo='1486', WhiteRatingDiff='-5')
+
+1. c4 | Analysis: -1 | Depth: 17 | EngineMove : e7e5
+1... e5 | Analysis: +1 | Depth: 18 | EngineMove : b1c3
+2. Nf3 | Analysis: +3 | Depth: 19 | EngineMove : e5e4
+2... Nc6 | Analysis: -2 | Depth: 19 | EngineMove : b1c3
+3. Nc3 | Analysis: -4 | Depth: 19 | EngineMove : g8f6
+3... Bc5 | Analysis: +42 | Depth: 17 | EngineMove : e2e3
+4. g3 | Analysis: +10 | Depth: 16 | EngineMove : g8f6
+4... d6 | Analysis: +7 | Depth: 16 | EngineMove : f1g2
+5. e3 | Analysis: -3 | Depth: 17 | EngineMove : c5b4
+5... Nf6 | Analysis: 0 | Depth: 18 | EngineMove : f1g2
+6. Bg2 | Analysis: -6 | Depth: 18 | EngineMove : c8g4
+6... O-O | Analysis: +4 | Depth: 17 | EngineMove : d2d4
+7. d4 | Analysis: 0 | Depth: 19 | EngineMove : c5b4
+7... exd4 | Analysis: +21 | Depth: 18 | EngineMove : e3d4
+8. exd4 | Analysis: -21 | Depth: 18 | EngineMove : c5b6
+8... Re8+ | Analysis: +17 | Depth: 18 | EngineMove : c1e3
+9. Be3 | Analysis: -10 | Depth: 18 | EngineMove : c5b4
+9... Bb4 | Analysis: 0 | Depth: 18 | EngineMove : e1g1
+10. O-O | Analysis: 0 | Depth: 17 | EngineMove : b4c3
+10... Ng4 | Analysis: +114 | Depth: 17 | EngineMove : e3g5
+11. Re1 | Analysis: -5 | Depth: 18 | EngineMove : g4e3
+11... Nxe3 | Analysis: 0 | Depth: 20 | EngineMove : f2e3
+12. fxe3 | Analysis: 0 | Depth: 19 | EngineMove : c8f5
+12... Bg4 | Analysis: +18 | Depth: 18 | EngineMove : d1d3
+13. Qc2 | Analysis: 0 | Depth: 17 | EngineMove : d8d7
+13... Qf6 | Analysis: +39 | Depth: 17 | EngineMove : c3d5
+14. Nd5 | Analysis: -50 | Depth: 20 | EngineMove : f6h6
+14... Qf5 | Analysis: +134 | Depth: 22 | EngineMove : c2f5
+15. Nxc7 | Analysis: +1091 | Depth: 18 | EngineMove : f5c2
+15... Qxc2 | Analysis: -1096 | Depth: 18 | EngineMove : e1c1
+16. Nxe8 | Analysis: +1249 | Depth: 19 | EngineMove : b4e1
+16... Bxf3 | Analysis: -1196 | Depth: 19 | EngineMove : g2f3
+17. Rec1 | Analysis: #+1 | Depth: 127 | EngineMove : c2g2

@@ -1,0 +1,32 @@
+**URL: https://lichess.org/XYwtFzUR | Tag: XYwtFzUR | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/XYwtFzUR', Date='2020.02.18', Round='-', White='chittyct', Black='Zignast', Result='0-1', BlackElo='1533', BlackRatingDiff='+6', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2020.02.18', UTCTime='02:11:30', Variant='Standard', WhiteElo='1553', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -20 | Depth: 12 | EngineMove : d7d5
+1... e5 | Analysis: +37 | Depth: 11 | EngineMove : d4e5
+2. Bf4 | Analysis: +312 | Depth: 12 | EngineMove : e5f4
+2... exf4 | Analysis: -328 | Depth: 12 | EngineMove : g1h3
+3. c4 | Analysis: +364 | Depth: 11 | EngineMove : d7d5
+3... Bb4+ | Analysis: -343 | Depth: 13 | EngineMove : b1d2
+4. Nc3 | Analysis: +367 | Depth: 12 | EngineMove : d7d5
+4... Bxc3+ | Analysis: -292 | Depth: 12 | EngineMove : b2c3
+5. bxc3 | Analysis: +327 | Depth: 12 | EngineMove : d7d5
+5... Nf6 | Analysis: -304 | Depth: 13 | EngineMove : g1h3
+6. Qd2 | Analysis: +333 | Depth: 13 | EngineMove : d7d5
+6... f3 | Analysis: -237 | Depth: 12 | EngineMove : d2e3
+7. exf3 | Analysis: +268 | Depth: 14 | EngineMove : e8g8
+7... O-O | Analysis: -263 | Depth: 16 | EngineMove : f1d3
+8. Be2 | Analysis: +303 | Depth: 14 | EngineMove : b7b6
+8... Re8 | Analysis: -296 | Depth: 13 | EngineMove : g1h3
+9. Nh3 | Analysis: +363 | Depth: 15 | EngineMove : d7d5
+9... d5 | Analysis: -358 | Depth: 14 | EngineMove : h3f4
+10. cxd5 | Analysis: +409 | Depth: 13 | EngineMove : c8h3
+10... Bxh3 | Analysis: -413 | Depth: 15 | EngineMove : g2h3
+11. gxh3 | Analysis: +432 | Depth: 13 | EngineMove : f6d5
+11... Nxd5 | Analysis: -449 | Depth: 14 | EngineMove : c3c4
+12. O-O | Analysis: +455 | Depth: 12 | EngineMove : d8f6
+12... Qf6 | Analysis: -402 | Depth: 12 | EngineMove : f1e1
+13. Kh1 | Analysis: +506 | Depth: 12 | EngineMove : d5c3
+13... Nf4 | Analysis: -425 | Depth: 12 | EngineMove : e2d3
+14. Rae1 | Analysis: +731 | Depth: 12 | EngineMove : f4e2
+14... Nxh3 | Analysis: -396 | Depth: 12 | EngineMove : e2d1
+15. Rg1 | Analysis: +594 | Depth: 14 | EngineMove : h3g1

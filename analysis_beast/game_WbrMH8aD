@@ -1,0 +1,21 @@
+**URL: https://lichess.org/WbrMH8aD | Tag: WbrMH8aD | Side: white**
+HEADERS: Headers(Event='Monthly HyperBullet Arena', Site='https://lichess.org/WbrMH8aD', Date='2018.12.01', Round='-', White='chittyct', Black='x2k_Paul_xx', Result='0-1', BlackElo='1149', BlackRatingDiff='+10', ECO='D02', Termination='Time forfeit', TimeControl='30+0', UTCDate='2018.12.01', UTCTime='18:29:01', Variant='Standard', WhiteElo='1085', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -14 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 13 | EngineMove : c1f4
+2. Nf3 | Analysis: -12 | Depth: 14 | EngineMove : e7e6
+2... c5 | Analysis: +25 | Depth: 11 | EngineMove : d4c5
+3. Bf4 | Analysis: -6 | Depth: 12 | EngineMove : c5d4
+3... Bf5 | Analysis: +57 | Depth: 11 | EngineMove : e2e3
+4. e3 | Analysis: -67 | Depth: 12 | EngineMove : b8c6
+4... Nf6 | Analysis: +81 | Depth: 12 | EngineMove : d4c5
+5. Bd3 | Analysis: -31 | Depth: 11 | EngineMove : f5d3
+5... e6 | Analysis: +86 | Depth: 12 | EngineMove : d3f5
+6. Bxf5 | Analysis: -61 | Depth: 14 | EngineMove : e6f5
+6... exf5 | Analysis: +68 | Depth: 13 | EngineMove : b1c3
+7. dxc5 | Analysis: -53 | Depth: 13 | EngineMove : f8c5
+7... Bxc5 | Analysis: +72 | Depth: 14 | EngineMove : b1c3
+8. O-O | Analysis: -47 | Depth: 13 | EngineMove : e8g8
+8... Ne4 | Analysis: +139 | Depth: 12 | EngineMove : d1d3
+9. b4 | Analysis: +38 | Depth: 14 | EngineMove : c5b4
+9... Bxb4 | Analysis: -28 | Depth: 13 | EngineMove : f3d4

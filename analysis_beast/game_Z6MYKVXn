@@ -1,0 +1,32 @@
+**URL: https://lichess.org/Z6MYKVXn | Tag: Z6MYKVXn | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Z6MYKVXn', Date='2019.10.24', Round='-', White='chittyct', Black='irkandrey', Result='1-0', BlackElo='1521', BlackRatingDiff='-7', ECO='A45', Termination='Normal', TimeControl='300+3', UTCDate='2019.10.24', UTCTime='12:14:59', Variant='Standard', WhiteElo='1489', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -12 | Depth: 12 | EngineMove : d7d5
+1... Nf6 | Analysis: +24 | Depth: 14 | EngineMove : g1f3
+2. Bf4 | Analysis: -13 | Depth: 13 | EngineMove : e7e6
+2... g6 | Analysis: +53 | Depth: 11 | EngineMove : g1f3
+3. c4 | Analysis: -23 | Depth: 12 | EngineMove : f8g7
+3... Bg7 | Analysis: +25 | Depth: 12 | EngineMove : b1c3
+4. Nc3 | Analysis: -31 | Depth: 13 | EngineMove : f6h5
+4... d5 | Analysis: +55 | Depth: 12 | EngineMove : e2e3
+5. cxd5 | Analysis: +11 | Depth: 13 | EngineMove : f6d5
+5... Nxd5 | Analysis: -18 | Depth: 13 | EngineMove : c3d5
+6. Nf3 | Analysis: +300 | Depth: 12 | EngineMove : d5f4
+6... Nxf4 | Analysis: -310 | Depth: 13 | EngineMove : e2e3
+7. d5 | Analysis: +356 | Depth: 12 | EngineMove : g7c3
+7... Bf5 | Analysis: -118 | Depth: 12 | EngineMove : d1a4
+8. Qa4+ | Analysis: +114 | Depth: 14 | EngineMove : c7c6
+8... c6 | Analysis: -105 | Depth: 14 | EngineMove : a4f4
+9. Qxf4 | Analysis: +101 | Depth: 13 | EngineMove : c6d5
+9... cxd5 | Analysis: -110 | Depth: 14 | EngineMove : a1d1
+10. Rd1 | Analysis: +106 | Depth: 14 | EngineMove : g7c3
+10... e5 | Analysis: -43 | Depth: 12 | EngineMove : f3e5
+11. Nxe5 | Analysis: +64 | Depth: 13 | EngineMove : b8c6
+11... Be6 | Analysis: +17 | Depth: 12 | EngineMove : e2e4
+12. e4 | Analysis: -16 | Depth: 13 | EngineMove : b8c6
+12... d4 | Analysis: +25 | Depth: 11 | EngineMove : f1b5
+13. Bb5+ | Analysis: -22 | Depth: 13 | EngineMove : e8f8
+13... Kf8 | Analysis: +4 | Depth: 14 | EngineMove : e5f3
+14. O-O | Analysis: +147 | Depth: 12 | EngineMove : d8f6
+14... Qc7 | Analysis: +1076 | Depth: 14 | EngineMove : e5g6
+15. Nxg6+ | Analysis: -1057 | Depth: 14 | EngineMove : h7g6

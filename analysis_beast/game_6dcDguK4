@@ -1,0 +1,18 @@
+**URL: https://lichess.org/6dcDguK4 | Tag: 6dcDguK4 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/6dcDguK4', Date='2019.09.02', Round='-', White='chittyct', Black='Lykarl', Result='0-1', BlackElo='1371', BlackRatingDiff='+7', ECO='A52', Termination='Normal', TimeControl='180+2', UTCDate='2019.09.02', UTCTime='10:18:26', Variant='Standard', WhiteElo='1384', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -31 | Depth: 12 | EngineMove : d7d5
+1... Nf6 | Analysis: +20 | Depth: 13 | EngineMove : g1f3
+2. c4 | Analysis: -13 | Depth: 13 | EngineMove : e7e6
+2... e5 | Analysis: +21 | Depth: 12 | EngineMove : d4e5
+3. dxe5 | Analysis: -20 | Depth: 13 | EngineMove : f6g4
+3... Ng4 | Analysis: +27 | Depth: 12 | EngineMove : e2e4
+4. Bf4 | Analysis: -44 | Depth: 12 | EngineMove : f8b4
+4... Nc6 | Analysis: +31 | Depth: 13 | EngineMove : g1f3
+5. Nf3 | Analysis: -46 | Depth: 12 | EngineMove : f8b4
+5... Bb4+ | Analysis: +31 | Depth: 14 | EngineMove : b1d2
+6. Nbd2 | Analysis: -28 | Depth: 14 | EngineMove : d7d6
+6... Qe7 | Analysis: +42 | Depth: 15 | EngineMove : e2e3
+7. a3 | Analysis: -27 | Depth: 14 | EngineMove : g4e5
+7... Ncxe5 | Analysis: +26 | Depth: 15 | EngineMove : f3e5
+8. axb4 | Analysis: #+1 | Depth: 127 | EngineMove : e5d3

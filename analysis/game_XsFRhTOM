@@ -1,0 +1,33 @@
+**URL: https://lichess.org/XsFRhTOM | Tag: XsFRhTOM | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/XsFRhTOM', Date='2018.10.23', Round='-', White='chittyct', Black='ClauGod', Result='1-0', BlackElo='1056', BlackRatingDiff='-10', ECO='D02', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.23', UTCTime='08:52:21', Variant='Standard', WhiteElo='1072', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -12 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +11 | Depth: 16 | EngineMove : g1f3
+2. Nf3 | Analysis: -21 | Depth: 17 | EngineMove : e7e6
+2... Nc6 | Analysis: +29 | Depth: 18 | EngineMove : c2c4
+3. Bf4 | Analysis: -13 | Depth: 16 | EngineMove : c8g4
+3... Bf5 | Analysis: +27 | Depth: 16 | EngineMove : e2e3
+4. a3 | Analysis: 0 | Depth: 19 | EngineMove : e7e6
+4... Nf6 | Analysis: +9 | Depth: 18 | EngineMove : e2e3
+5. e3 | Analysis: -7 | Depth: 19 | EngineMove : e7e6
+5... Ne4 | Analysis: +36 | Depth: 16 | EngineMove : f1b5
+6. c4 | Analysis: -24 | Depth: 14 | EngineMove : e7e6
+6... dxc4 | Analysis: +59 | Depth: 16 | EngineMove : f1c4
+7. Bxc4 | Analysis: -59 | Depth: 17 | EngineMove : e7e6
+7... e6 | Analysis: +64 | Depth: 18 | EngineMove : c4d3
+8. Nc3 | Analysis: -27 | Depth: 16 | EngineMove : e4c3
+8... Bd6 | Analysis: +29 | Depth: 17 | EngineMove : c3e4
+9. Bg3 | Analysis: -13 | Depth: 18 | EngineMove : e4c3
+9... Bxg3 | Analysis: +31 | Depth: 18 | EngineMove : c3e4
+10. hxg3 | Analysis: -24 | Depth: 17 | EngineMove : e4c3
+10... O-O | Analysis: +55 | Depth: 18 | EngineMove : c3e4
+11. Nxe4 | Analysis: -62 | Depth: 18 | EngineMove : f5e4
+11... Bxe4 | Analysis: +65 | Depth: 18 | EngineMove : c4d3
+12. Bd3 | Analysis: -60 | Depth: 18 | EngineMove : d8d5
+12... Bxf3 | Analysis: +975 | Depth: 19 | EngineMove : d3h7
+13. Qxf3 | Analysis: -103 | Depth: 17 | EngineMove : f7f5
+13... e5 | Analysis: #+6 | Depth: 38 | EngineMove : d3h7
+14. Qf5 | Analysis: -84 | Depth: 18 | EngineMove : g7g6
+14... g6 | Analysis: +90 | Depth: 19 | EngineMove : f5h3
+15. Qh3 | Analysis: -77 | Depth: 19 | EngineMove : h7h5
+15... exd4 | Analysis: #+1 | Depth: 127 | EngineMove : h3h7

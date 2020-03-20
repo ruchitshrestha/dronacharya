@@ -1,0 +1,23 @@
+**URL: https://lichess.org/taAhvr0b | Tag: taAhvr0b | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/taAhvr0b', Date='2019.09.24', Round='-', White='joelevahans', Black='chittyct', Result='1-0', BlackElo='1172', BlackRatingDiff='-9', ECO='B21', Termination='Normal', TimeControl='120+1', UTCDate='2019.09.24', UTCTime='07:46:01', Variant='Standard', WhiteElo='1066', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -39 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +52 | Depth: 12 | EngineMove : g1f3
+2. d4 | Analysis: -10 | Depth: 12 | EngineMove : c5d4
+2... Nc6 | Analysis: +130 | Depth: 13 | EngineMove : d4d5
+3. dxc5 | Analysis: +1 | Depth: 12 | EngineMove : g8f6
+3... e5 | Analysis: +28 | Depth: 13 | EngineMove : c1e3
+4. Nf3 | Analysis: -10 | Depth: 14 | EngineMove : f8c5
+4... Bxc5 | Analysis: +19 | Depth: 15 | EngineMove : f1c4
+5. Bb5 | Analysis: +11 | Depth: 12 | EngineMove : g8f6
+5... Qa5+ | Analysis: +74 | Depth: 11 | EngineMove : b1c3
+6. Nc3 | Analysis: -76 | Depth: 12 | EngineMove : a7a6
+6... Bb4 | Analysis: +68 | Depth: 11 | EngineMove : d1d3
+7. Bd2 | Analysis: +139 | Depth: 14 | EngineMove : b4c3
+7... Bxc3 | Analysis: -161 | Depth: 15 | EngineMove : d2c3
+8. Bxc6 | Analysis: +252 | Depth: 13 | EngineMove : c3d2
+8... Bxd2+ | Analysis: -237 | Depth: 14 | EngineMove : d1d2
+9. Nxd2 | Analysis: +346 | Depth: 14 | EngineMove : d7c6
+9... Qxd2+ | Analysis: +519 | Depth: 14 | EngineMove : d1d2
+10. Qxd2 | Analysis: -520 | Depth: 15 | EngineMove : d7c6
+10... bxc6 | Analysis: +550 | Depth: 16 | EngineMove : d2g5

@@ -1,0 +1,15 @@
+**URL: https://lichess.org/aBzW2yQx | Tag: aBzW2yQx | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/aBzW2yQx', Date='2020.02.03', Round='-', White='TiTo1001', Black='chittyct', Result='0-1', BlackElo='1313', BlackRatingDiff='+5', ECO='D02', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.03', UTCTime='17:03:17', Variant='Standard', WhiteElo='1235', WhiteRatingDiff='-4')
+
+1. d4 | Analysis: -20 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 19 | EngineMove : g1f3
+2. Nf3 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+2... Bf5 | Analysis: +15 | Depth: 18 | EngineMove : e2e3
+3. Nbd2 | Analysis: -7 | Depth: 19 | EngineMove : e7e6
+3... e6 | Analysis: +15 | Depth: 18 | EngineMove : e2e3
+4. c4 | Analysis: -6 | Depth: 18 | EngineMove : b8c6
+4... c5 | Analysis: +18 | Depth: 16 | EngineMove : c4d5
+5. cxd5 | Analysis: 0 | Depth: 17 | EngineMove : e6d5
+5... Qxd5 | Analysis: +110 | Depth: 20 | EngineMove : e2e4
+6. Qc2 | Analysis: +1039 | Depth: 19 | EngineMove : f5c2
+6... Bxc2 | Analysis: -1047 | Depth: 20 | EngineMove : e2e3

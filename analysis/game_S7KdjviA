@@ -1,0 +1,29 @@
+**URL: https://lichess.org/S7KdjviA | Tag: S7KdjviA | Side: black**
+HEADERS: Headers(Event='<2000 Rapid Arena', Site='https://lichess.org/S7KdjviA', Date='2019.07.15', Round='-', White='pretty_hate', Black='chittyct', Result='1-0', BlackElo='1434', BlackRatingDiff='-4', ECO='B33', Termination='Normal', TimeControl='600+0', UTCDate='2019.07.15', UTCTime='01:21:12', Variant='Standard', WhiteElo='1676', WhiteRatingDiff='+5')
+
+1. e4 | Analysis: -28 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +31 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -33 | Depth: 19 | EngineMove : e7e6
+2... Nc6 | Analysis: +33 | Depth: 18 | EngineMove : f1b5
+3. d4 | Analysis: -20 | Depth: 18 | EngineMove : c5d4
+3... cxd4 | Analysis: +24 | Depth: 20 | EngineMove : f3d4
+4. Nxd4 | Analysis: -22 | Depth: 20 | EngineMove : g8f6
+4... Nf6 | Analysis: +18 | Depth: 20 | EngineMove : b1c3
+5. f3 | Analysis: +22 | Depth: 17 | EngineMove : e7e5
+5... e5 | Analysis: -24 | Depth: 18 | EngineMove : d4b5
+6. Nb5 | Analysis: +18 | Depth: 17 | EngineMove : d7d6
+6... d6 | Analysis: -20 | Depth: 18 | EngineMove : c1e3
+7. N1c3 | Analysis: +38 | Depth: 17 | EngineMove : a7a6
+7... a6 | Analysis: -37 | Depth: 18 | EngineMove : b5a3
+8. Na3 | Analysis: +31 | Depth: 19 | EngineMove : b7b5
+8... b5 | Analysis: -39 | Depth: 19 | EngineMove : c3d5
+9. Nd5 | Analysis: +38 | Depth: 20 | EngineMove : f6d5
+9... Bb7 | Analysis: +12 | Depth: 18 | EngineMove : c1g5
+10. Bg5 | Analysis: -11 | Depth: 17 | EngineMove : d8a5
+10... Rc8 | Analysis: +56 | Depth: 16 | EngineMove : g5f6
+11. c3 | Analysis: -21 | Depth: 17 | EngineMove : f8e7
+11... h6 | Analysis: +136 | Depth: 18 | EngineMove : g5f6
+12. Bxf6 | Analysis: -105 | Depth: 19 | EngineMove : g7f6
+12... gxf6 | Analysis: +131 | Depth: 19 | EngineMove : a3c2
+13. Nc2 | Analysis: -117 | Depth: 20 | EngineMove : f6f5
+13... Ne7 | Analysis: #+1 | Depth: 127 | EngineMove : d5f6

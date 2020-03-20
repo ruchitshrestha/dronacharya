@@ -1,0 +1,44 @@
+**URL: https://lichess.org/f87lsabl | Tag: f87lsabl | Side: white**
+HEADERS: Headers(Event='Casual Rapid game', Site='https://lichess.org/f87lsabl', Date='2018.08.24', Round='-', White='chittyct', Black='nch2012', Result='1-0', BlackElo='1500', ECO='A49', Termination='Normal', TimeControl='600+0', UTCDate='2018.08.24', UTCTime='17:48:36', Variant='Standard', WhiteElo='1598')
+
+1. d4 | Analysis: -15 | Depth: 13 | EngineMove : d7d5
+1... Nf6 | Analysis: +16 | Depth: 14 | EngineMove : g1f3
+2. Nf3 | Analysis: -16 | Depth: 14 | EngineMove : e7e6
+2... g6 | Analysis: +60 | Depth: 11 | EngineMove : c2c4
+3. e3 | Analysis: -50 | Depth: 13 | EngineMove : f8g7
+3... Bg7 | Analysis: +34 | Depth: 13 | EngineMove : f1e2
+4. c3 | Analysis: -12 | Depth: 13 | EngineMove : e8g8
+4... d5 | Analysis: +16 | Depth: 13 | EngineMove : c3c4
+5. Bd3 | Analysis: +3 | Depth: 13 | EngineMove : e8g8
+5... O-O | Analysis: -3 | Depth: 12 | EngineMove : e1g1
+6. O-O | Analysis: +3 | Depth: 12 | EngineMove : b8c6
+6... Bd7 | Analysis: +60 | Depth: 12 | EngineMove : b1d2
+7. Nbd2 | Analysis: -33 | Depth: 13 | EngineMove : d7f5
+7... Nc6 | Analysis: +58 | Depth: 14 | EngineMove : e3e4
+8. b4 | Analysis: -11 | Depth: 12 | EngineMove : a7a6
+8... a6 | Analysis: +25 | Depth: 13 | EngineMove : h2h3
+9. c4 | Analysis: +44 | Depth: 12 | EngineMove : c6b4
+9... e6 | Analysis: +37 | Depth: 12 | EngineMove : d1b3
+10. Ba3 | Analysis: -13 | Depth: 12 | EngineMove : f8e8
+10... Qe7 | Analysis: +48 | Depth: 13 | EngineMove : d1b3
+11. Qb3 | Analysis: -46 | Depth: 13 | EngineMove : d5c4
+11... Rfd8 | Analysis: +265 | Depth: 13 | EngineMove : b4b5
+12. b5 | Analysis: -232 | Depth: 14 | EngineMove : c6d4
+12... Na5 | Analysis: +403 | Depth: 14 | EngineMove : a3e7
+13. Bxe7 | Analysis: -407 | Depth: 14 | EngineMove : a5b3
+13... Nxb3 | Analysis: +405 | Depth: 15 | EngineMove : a2b3
+14. axb3 | Analysis: -412 | Depth: 16 | EngineMove : d8e8
+14... Rdc8 | Analysis: +485 | Depth: 14 | EngineMove : f3e5
+15. c5 | Analysis: -287 | Depth: 15 | EngineMove : d7b5
+15... Bxb5 | Analysis: +282 | Depth: 16 | EngineMove : d3b5
+16. Bxb5 | Analysis: -298 | Depth: 16 | EngineMove : a6b5
+16... axb5 | Analysis: +293 | Depth: 17 | EngineMove : f3e5
+17. b4 | Analysis: -218 | Depth: 15 | EngineMove : a8a4
+17... b6 | Analysis: +289 | Depth: 13 | EngineMove : a1a8
+18. Ne5 | Analysis: -266 | Depth: 14 | EngineMove : b6c5
+18... Re8 | Analysis: +270 | Depth: 14 | EngineMove : c5b6
+19. cxb6 | Analysis: -274 | Depth: 14 | EngineMove : c7b6
+19... Rxe7 | Analysis: +1716 | Depth: 14 | EngineMove : a1a8
+20. Rxa8+ | Analysis: -1796 | Depth: 16 | EngineMove : e7e8
+20... Bf8 | Analysis: +1885 | Depth: 18 | EngineMove : b6b7
+21. b7 | Analysis: -1950 | Depth: 18 | EngineMove : g8g7

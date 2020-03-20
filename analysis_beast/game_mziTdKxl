@@ -1,0 +1,30 @@
+**URL: https://lichess.org/mziTdKxl | Tag: mziTdKxl | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/mziTdKxl', Date='2019.06.10', Round='-', White='chittyct', Black='housam369', Result='1-0', BlackElo='1185', BlackRatingDiff='-12', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2019.06.10', UTCTime='12:38:33', Variant='Standard', WhiteElo='1130', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: -12 | Depth: 12 | EngineMove : g8f6
+1... b6 | Analysis: +62 | Depth: 12 | EngineMove : e2e4
+2. Bf4 | Analysis: -39 | Depth: 13 | EngineMove : g8f6
+2... Bb7 | Analysis: +43 | Depth: 15 | EngineMove : e2e3
+3. Nf3 | Analysis: -39 | Depth: 14 | EngineMove : g8f6
+3... e6 | Analysis: +25 | Depth: 12 | EngineMove : e2e3
+4. h3 | Analysis: -24 | Depth: 13 | EngineMove : g8f6
+4... c5 | Analysis: +38 | Depth: 11 | EngineMove : b1c3
+5. dxc5 | Analysis: +3 | Depth: 14 | EngineMove : f8c5
+5... Bxc5 | Analysis: -3 | Depth: 14 | EngineMove : e2e3
+6. e3 | Analysis: +9 | Depth: 13 | EngineMove : g8f6
+6... h6 | Analysis: +30 | Depth: 12 | EngineMove : b1c3
+7. a3 | Analysis: -3 | Depth: 12 | EngineMove : g8f6
+7... Nc6 | Analysis: +29 | Depth: 13 | EngineMove : c2c4
+8. b4 | Analysis: -10 | Depth: 13 | EngineMove : c5e7
+8... Be7 | Analysis: +18 | Depth: 13 | EngineMove : c2c4
+9. Bb5 | Analysis: +62 | Depth: 12 | EngineMove : a7a5
+9... a6 | Analysis: -39 | Depth: 12 | EngineMove : b5c6
+10. Ba4 | Analysis: +67 | Depth: 13 | EngineMove : b6b5
+10... b5 | Analysis: -44 | Depth: 13 | EngineMove : a4b3
+11. Bb3 | Analysis: +40 | Depth: 13 | EngineMove : g8f6
+11... Qc7 | Analysis: +990 | Depth: 13 | EngineMove : f4c7
+12. Nc3 | Analysis: +60 | Depth: 13 | EngineMove : d7d6
+12... Bd6 | Analysis: +514 | Depth: 13 | EngineMove : f4d6
+13. Bxd6 | Analysis: -511 | Depth: 12 | EngineMove : c7c8
+13... Qxd6 | Analysis: +1150 | Depth: 13 | EngineMove : d1d6
+14. Qxd6 | Analysis: -1141 | Depth: 13 | EngineMove : g8e7

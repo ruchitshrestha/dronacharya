@@ -1,0 +1,24 @@
+**URL: https://lichess.org/Qi5canTD | Tag: Qi5canTD | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Qi5canTD', Date='2019.04.19', Round='-', White='chittyct', Black='takurou', Result='1-0', BlackElo='1279', BlackRatingDiff='-11', ECO='A50', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.19', UTCTime='01:32:16', Variant='Standard', WhiteElo='1267', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -17 | Depth: 13 | EngineMove : g8f6
+1... Nf6 | Analysis: +12 | Depth: 14 | EngineMove : e2e3
+2. c4 | Analysis: -11 | Depth: 14 | EngineMove : e7e6
+2... c6 | Analysis: +42 | Depth: 13 | EngineMove : b1c3
+3. Bg5 | Analysis: +17 | Depth: 11 | EngineMove : d7d5
+3... h6 | Analysis: -3 | Depth: 12 | EngineMove : g5d2
+4. Bxf6 | Analysis: -19 | Depth: 13 | EngineMove : e7f6
+4... exf6 | Analysis: +24 | Depth: 13 | EngineMove : a2a3
+5. Nc3 | Analysis: -23 | Depth: 13 | EngineMove : f8b4
+5... Bb4 | Analysis: +36 | Depth: 13 | EngineMove : e2e3
+6. Qb3 | Analysis: -13 | Depth: 12 | EngineMove : a7a5
+6... Qa5 | Analysis: +53 | Depth: 13 | EngineMove : e2e3
+7. a3 | Analysis: -26 | Depth: 14 | EngineMove : b4c3
+7... O-O | Analysis: +370 | Depth: 15 | EngineMove : b3b4
+8. e3 | Analysis: -45 | Depth: 13 | EngineMove : b4c3
+8... d5 | Analysis: +359 | Depth: 14 | EngineMove : b3b4
+9. cxd5 | Analysis: -44 | Depth: 15 | EngineMove : b4c3
+9... cxd5 | Analysis: +418 | Depth: 14 | EngineMove : b3b4
+10. Rc1 | Analysis: -63 | Depth: 14 | EngineMove : b4c3
+10... Be6 | Analysis: +423 | Depth: 12 | EngineMove : a3b4
+11. axb4 | Analysis: -402 | Depth: 14 | EngineMove : a5d8

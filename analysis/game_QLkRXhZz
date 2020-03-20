@@ -1,0 +1,33 @@
+**URL: https://lichess.org/QLkRXhZz | Tag: QLkRXhZz | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/QLkRXhZz', Date='2019.04.28', Round='-', White='chittyct', Black='megakamela', Result='1-0', BlackElo='1225', BlackRatingDiff='-11', ECO='D06', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.28', UTCTime='17:34:42', Variant='Standard', WhiteElo='1216', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -15 | Depth: 16 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 16 | EngineMove : c1f4
+2. c4 | Analysis: -5 | Depth: 17 | EngineMove : e7e6
+2... Nf6 | Analysis: +13 | Depth: 16 | EngineMove : c4d5
+3. cxd5 | Analysis: -20 | Depth: 17 | EngineMove : c7c6
+3... Nxd5 | Analysis: +63 | Depth: 15 | EngineMove : e2e4
+4. e4 | Analysis: -34 | Depth: 16 | EngineMove : d5f6
+4... Nb4 | Analysis: +225 | Depth: 17 | EngineMove : d1a4
+5. Qa4+ | Analysis: -215 | Depth: 18 | EngineMove : b8c6
+5... N4c6 | Analysis: +239 | Depth: 17 | EngineMove : d4d5
+6. d5 | Analysis: -249 | Depth: 17 | EngineMove : e7e5
+6... Bd7 | Analysis: +242 | Depth: 18 | EngineMove : d5c6
+7. dxc6 | Analysis: -251 | Depth: 18 | EngineMove : b8c6
+7... Bxc6 | Analysis: +282 | Depth: 16 | EngineMove : a4c2
+8. Bb5 | Analysis: -245 | Depth: 17 | EngineMove : a7a6
+8... g6 | Analysis: +280 | Depth: 17 | EngineMove : g1f3
+9. Bxc6+ | Analysis: -252 | Depth: 18 | EngineMove : b8c6
+9... Nxc6 | Analysis: +265 | Depth: 19 | EngineMove : g1e2
+10. Nf3 | Analysis: -261 | Depth: 17 | EngineMove : d8d3
+10... Qd7 | Analysis: +302 | Depth: 17 | EngineMove : e1g1
+11. O-O | Analysis: -299 | Depth: 20 | EngineMove : c6e5
+11... O-O-O | Analysis: +328 | Depth: 17 | EngineMove : b1c3
+12. Nc3 | Analysis: -346 | Depth: 17 | EngineMove : f8g7
+12... e5 | Analysis: +421 | Depth: 16 | EngineMove : c3d5
+13. Nb5 | Analysis: -306 | Depth: 19 | EngineMove : a7a6
+13... Kb8 | Analysis: +811 | Depth: 19 | EngineMove : f3e5
+14. Nxe5 | Analysis: -832 | Depth: 19 | EngineMove : d7e8
+14... Nxe5 | Analysis: #+2 | Depth: 127 | EngineMove : a4a7
+15. Qxa7+ | Analysis: #-1 | Depth: 127 | EngineMove : b8c8
+15... Kc8 | Analysis: #+1 | Depth: 127 | EngineMove : a7a8

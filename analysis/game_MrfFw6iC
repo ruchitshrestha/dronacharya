@@ -1,0 +1,20 @@
+**URL: https://lichess.org/MrfFw6iC | Tag: MrfFw6iC | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/MrfFw6iC', Date='2018.11.05', Round='-', White='reaperaj', Black='chittyct', Result='1-0', BlackElo='1169', BlackRatingDiff='-11', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.05', UTCTime='04:35:28', Variant='Standard', WhiteElo='1160', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -27 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +43 | Depth: 18 | EngineMove : g1f3
+2. Bc4 | Analysis: -2 | Depth: 18 | EngineMove : g8f6
+2... Nc6 | Analysis: 0 | Depth: 19 | EngineMove : g1f3
+3. Nf3 | Analysis: +1 | Depth: 18 | EngineMove : g8f6
+3... e5 | Analysis: +49 | Depth: 18 | EngineMove : d2d3
+4. d3 | Analysis: -62 | Depth: 19 | EngineMove : f8e7
+4... Nf6 | Analysis: +160 | Depth: 19 | EngineMove : f3g5
+5. Ng5 | Analysis: -144 | Depth: 20 | EngineMove : d7d5
+5... d5 | Analysis: +155 | Depth: 20 | EngineMove : e4d5
+6. exd5 | Analysis: -142 | Depth: 20 | EngineMove : c6d4
+6... Nxd5 | Analysis: +168 | Depth: 16 | EngineMove : g5f7
+7. Qf3 | Analysis: -93 | Depth: 18 | EngineMove : c8e6
+7... f6 | Analysis: +142 | Depth: 18 | EngineMove : f3d5
+8. Bxd5 | Analysis: -115 | Depth: 19 | EngineMove : c6d4
+8... Qxd5 | Analysis: +857 | Depth: 18 | EngineMove : f3d5
+9. Qxd5 | Analysis: -881 | Depth: 20 | EngineMove : f6g5

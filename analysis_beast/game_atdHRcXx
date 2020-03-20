@@ -1,0 +1,21 @@
+**URL: https://lichess.org/atdHRcXx | Tag: atdHRcXx | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/atdHRcXx', Date='2020.01.31', Round='-', White='TobyBC', Black='chittyct', Result='0-1', BlackElo='1342', BlackRatingDiff='+4', ECO='A06', Termination='Normal', TimeControl='120+1', UTCDate='2020.01.31', UTCTime='04:05:05', Variant='Standard', WhiteElo='1208', WhiteRatingDiff='-3')
+
+1. Nc3 | Analysis: 0 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +5 | Depth: 13 | EngineMove : d2d4
+2. Nf3 | Analysis: -1 | Depth: 12 | EngineMove : d5d4
+2... Nf6 | Analysis: -12 | Depth: 13 | EngineMove : d2d4
+3. d4 | Analysis: -16 | Depth: 13 | EngineMove : e7e6
+3... c5 | Analysis: +10 | Depth: 12 | EngineMove : e2e3
+4. Bf4 | Analysis: +10 | Depth: 12 | EngineMove : c5d4
+4... cxd4 | Analysis: +14 | Depth: 13 | EngineMove : d1d4
+5. Nxd4 | Analysis: +41 | Depth: 12 | EngineMove : b8d7
+5... Nbd7 | Analysis: -19 | Depth: 14 | EngineMove : d4f3
+6. Bg3 | Analysis: +93 | Depth: 12 | EngineMove : e7e5
+6... e5 | Analysis: -102 | Depth: 13 | EngineMove : d4b3
+7. Nf3 | Analysis: +150 | Depth: 13 | EngineMove : d5d4
+7... d4 | Analysis: -144 | Depth: 15 | EngineMove : f3d4
+8. Nb5 | Analysis: +371 | Depth: 12 | EngineMove : d8a5
+8... Qa5+ | Analysis: -362 | Depth: 14 | EngineMove : f3d2
+9. c3 | Analysis: +362 | Depth: 13 | EngineMove : a5b5
+9... Qxb5 | Analysis: -341 | Depth: 13 | EngineMove : d1b3

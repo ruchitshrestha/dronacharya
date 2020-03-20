@@ -1,0 +1,29 @@
+**URL: https://lichess.org/kJsTNWeL | Tag: kJsTNWeL | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/kJsTNWeL', Date='2020.02.10', Round='-', White='chittyct', Black='tinwoodman', Result='0-1', BlackElo='1524', BlackRatingDiff='+6', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2020.02.10', UTCTime='20:29:07', Variant='Standard', WhiteElo='1553', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -17 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +31 | Depth: 13 | EngineMove : c1f4
+2. Bf4 | Analysis: -23 | Depth: 13 | EngineMove : e7e6
+2... c6 | Analysis: +42 | Depth: 12 | EngineMove : b1d2
+3. e3 | Analysis: -40 | Depth: 12 | EngineMove : d8b6
+3... Nf6 | Analysis: +44 | Depth: 12 | EngineMove : f1d3
+4. Nf3 | Analysis: -44 | Depth: 13 | EngineMove : f6h5
+4... g6 | Analysis: +59 | Depth: 11 | EngineMove : f1d3
+5. c4 | Analysis: -58 | Depth: 13 | EngineMove : f8g7
+5... dxc4 | Analysis: +72 | Depth: 12 | EngineMove : f1c4
+6. Bxc4 | Analysis: -84 | Depth: 13 | EngineMove : f8g7
+6... Bg7 | Analysis: +93 | Depth: 13 | EngineMove : e1g1
+7. Ng5 | Analysis: -23 | Depth: 12 | EngineMove : e8g8
+7... O-O | Analysis: +27 | Depth: 12 | EngineMove : b1c3
+8. O-O | Analysis: -16 | Depth: 13 | EngineMove : f6d5
+8... Nd5 | Analysis: +25 | Depth: 13 | EngineMove : f4e5
+9. Qb3 | Analysis: +44 | Depth: 12 | EngineMove : d5f4
+9... Nxf4 | Analysis: -31 | Depth: 11 | EngineMove : e3f4
+10. Bxf7+ | Analysis: +6 | Depth: 14 | EngineMove : g8h8
+10... Kh8 | Analysis: -20 | Depth: 14 | EngineMove : e3f4
+11. exf4 | Analysis: +27 | Depth: 13 | EngineMove : d8d4
+11... e5 | Analysis: +244 | Depth: 13 | EngineMove : d4e5
+12. Bxg6 | Analysis: -53 | Depth: 12 | EngineMove : h7g6
+12... hxg6 | Analysis: +67 | Depth: 12 | EngineMove : d4e5
+13. Qh3+ | Analysis: +1039 | Depth: 14 | EngineMove : c8h3
+13... Bxh3 | Analysis: -1043 | Depth: 14 | EngineMove : g5h3

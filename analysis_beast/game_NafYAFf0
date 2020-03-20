@@ -1,0 +1,24 @@
+**URL: https://lichess.org/NafYAFf0 | Tag: NafYAFf0 | Side: white**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/NafYAFf0', Date='2018.08.22', Round='-', White='chittyct', Black='fathergo', Result='1-0', BlackElo='1267', BlackRatingDiff='-13', ECO='C20', Termination='Time forfeit', TimeControl='900+15', UTCDate='2018.08.22', UTCTime='17:53:38', Variant='Standard', WhiteElo='1316', WhiteRatingDiff='+41')
+
+1. d3 | Analysis: +11 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: -10 | Depth: 12 | EngineMove : e2e4
+2. e4 | Analysis: +15 | Depth: 13 | EngineMove : b8c6
+2... Nc6 | Analysis: 0 | Depth: 13 | EngineMove : b1c3
+3. Nf3 | Analysis: +18 | Depth: 13 | EngineMove : g8f6
+3... Bc5 | Analysis: +15 | Depth: 12 | EngineMove : f1e2
+4. Nc3 | Analysis: -8 | Depth: 14 | EngineMove : g8e7
+4... Nf6 | Analysis: +13 | Depth: 14 | EngineMove : c1g5
+5. d4 | Analysis: +81 | Depth: 12 | EngineMove : e5d4
+5... exd4 | Analysis: -70 | Depth: 13 | EngineMove : c3d5
+6. Nd5 | Analysis: +62 | Depth: 13 | EngineMove : f6d5
+6... Nxd5 | Analysis: -60 | Depth: 13 | EngineMove : e4d5
+7. exd5 | Analysis: +70 | Depth: 13 | EngineMove : c6b4
+7... Qe7+ | Analysis: -5 | Depth: 14 | EngineMove : f1e2
+8. Be2 | Analysis: -1 | Depth: 14 | EngineMove : c6b4
+8... Nb4 | Analysis: -12 | Depth: 15 | EngineMove : e1g1
+9. O-O | Analysis: +7 | Depth: 12 | EngineMove : e8g8
+9... d6 | Analysis: +143 | Depth: 12 | EngineMove : e2b5
+10. Bg5 | Analysis: -47 | Depth: 11 | EngineMove : f7f6
+10... Qf6 | Analysis: +829 | Depth: 14 | EngineMove : g5f6
+11. Bxf6 | Analysis: -847 | Depth: 14 | EngineMove : g7f6

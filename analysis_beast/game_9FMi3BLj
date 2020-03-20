@@ -1,0 +1,28 @@
+**URL: https://lichess.org/9FMi3BLj | Tag: 9FMi3BLj | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/9FMi3BLj', Date='2018.10.10', Round='-', White='NicolasVioque', Black='chittyct', Result='1-0', BlackElo='972', BlackRatingDiff='-12', ECO='A00', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.10', UTCTime='22:01:24', Variant='Standard', WhiteElo='961', WhiteRatingDiff='+11')
+
+1. e3 | Analysis: -29 | Depth: 12 | EngineMove : e7e5
+1... d5 | Analysis: +11 | Depth: 13 | EngineMove : g1f3
+2. d3 | Analysis: +27 | Depth: 12 | EngineMove : e7e5
+2... e5 | Analysis: -29 | Depth: 14 | EngineMove : g1f3
+3. Be2 | Analysis: +39 | Depth: 14 | EngineMove : g8f6
+3... Bf5 | Analysis: -11 | Depth: 14 | EngineMove : b1c3
+4. Bd2 | Analysis: +39 | Depth: 12 | EngineMove : c7c5
+4... Bc5 | Analysis: +2 | Depth: 14 | EngineMove : g1f3
+5. h3 | Analysis: +43 | Depth: 13 | EngineMove : b8c6
+5... Nc6 | Analysis: -52 | Depth: 14 | EngineMove : b1c3
+6. a3 | Analysis: +37 | Depth: 12 | EngineMove : a7a5
+6... Nf6 | Analysis: -40 | Depth: 13 | EngineMove : b2b4
+7. b4 | Analysis: +24 | Depth: 12 | EngineMove : c5b6
+7... Nxb4 | Analysis: +236 | Depth: 13 | EngineMove : a3b4
+8. axb4 | Analysis: -228 | Depth: 13 | EngineMove : c5d6
+8... Bb6 | Analysis: +271 | Depth: 13 | EngineMove : g1f3
+9. Nc3 | Analysis: -229 | Depth: 11 | EngineMove : c7c6
+9... a5 | Analysis: +316 | Depth: 11 | EngineMove : b4a5
+10. Na4 | Analysis: -296 | Depth: 12 | EngineMove : b6a7
+10... axb4 | Analysis: +429 | Depth: 14 | EngineMove : a4b6
+11. Nxb6 | Analysis: -430 | Depth: 15 | EngineMove : c7b6
+11... Ra2 | Analysis: +1016 | Depth: 13 | EngineMove : a1a2
+12. Rxa2 | Analysis: -1022 | Depth: 14 | EngineMove : c7b6
+12... cxb6 | Analysis: +1037 | Depth: 15 | EngineMove : d2b4
+13. c3 | Analysis: -787 | Depth: 13 | EngineMove : e8g8

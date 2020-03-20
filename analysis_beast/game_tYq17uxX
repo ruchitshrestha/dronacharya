@@ -1,0 +1,27 @@
+**URL: https://lichess.org/tYq17uxX | Tag: tYq17uxX | Side: black**
+HEADERS: Headers(Event='<1500 Rapid Arena', Site='https://lichess.org/tYq17uxX', Date='2019.06.01', Round='-', White='td522285', Black='chittyct', Result='0-1', BlackElo='1423', BlackRatingDiff='+6', ECO='B21', Termination='Normal', TimeControl='600+0', UTCDate='2019.06.01', UTCTime='03:45:31', Variant='Standard', WhiteElo='1242', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -32 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +70 | Depth: 12 | EngineMove : b1c3
+2. d4 | Analysis: -30 | Depth: 12 | EngineMove : c5d4
+2... cxd4 | Analysis: +8 | Depth: 12 | EngineMove : g1f3
+3. c3 | Analysis: -6 | Depth: 11 | EngineMove : e7e5
+3... dxc3 | Analysis: -6 | Depth: 13 | EngineMove : b1c3
+4. Nxc3 | Analysis: -6 | Depth: 13 | EngineMove : b8c6
+4... Nc6 | Analysis: +10 | Depth: 12 | EngineMove : g1f3
+5. Nf3 | Analysis: -3 | Depth: 12 | EngineMove : e7e6
+5... e5 | Analysis: +76 | Depth: 12 | EngineMove : f1c4
+6. Bb5 | Analysis: +15 | Depth: 12 | EngineMove : g8f6
+6... Nf6 | Analysis: -3 | Depth: 12 | EngineMove : e1g1
+7. Bxc6 | Analysis: 0 | Depth: 13 | EngineMove : d7c6
+7... bxc6 | Analysis: 0 | Depth: 13 | EngineMove : f3e5
+8. Nxe5 | Analysis: -3 | Depth: 13 | EngineMove : f8e7
+8... Bb4 | Analysis: +16 | Depth: 14 | EngineMove : e1g1
+9. f3 | Analysis: +34 | Depth: 10 | EngineMove : e8g8
+9... Bxc3+ | Analysis: -46 | Depth: 12 | EngineMove : b2c3
+10. bxc3 | Analysis: +32 | Depth: 13 | EngineMove : e8g8
+10... Qa5 | Analysis: +5 | Depth: 13 | EngineMove : d1d4
+11. Nd3 | Analysis: +330 | Depth: 13 | EngineMove : a5c3
+11... Qxc3+ | Analysis: -343 | Depth: 13 | EngineMove : c1d2
+12. Bd2 | Analysis: +342 | Depth: 14 | EngineMove : c3d3
+12... Qxd3 | Analysis: -322 | Depth: 14 | EngineMove : d1e2

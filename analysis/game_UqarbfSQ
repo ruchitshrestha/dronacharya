@@ -1,0 +1,29 @@
+**URL: https://lichess.org/UqarbfSQ | Tag: UqarbfSQ | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/UqarbfSQ', Date='2019.11.02', Round='-', White='chittyct', Black='endgame-madness', Result='1-0', BlackElo='1210', BlackRatingDiff='-7', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.02', UTCTime='06:09:55', Variant='Standard', WhiteElo='1199', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -15 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +18 | Depth: 18 | EngineMove : e2e3
+2. Bf4 | Analysis: -8 | Depth: 17 | EngineMove : c8f5
+2... Bf5 | Analysis: +11 | Depth: 19 | EngineMove : g1f3
+3. e3 | Analysis: -9 | Depth: 18 | EngineMove : e7e6
+3... Nc6 | Analysis: +8 | Depth: 17 | EngineMove : f1b5
+4. c4 | Analysis: -15 | Depth: 16 | EngineMove : g8f6
+4... dxc4 | Analysis: +27 | Depth: 17 | EngineMove : b1c3
+5. Bxc4 | Analysis: -36 | Depth: 17 | EngineMove : e7e6
+5... Nb4 | Analysis: +206 | Depth: 17 | EngineMove : d1a4
+6. Na3 | Analysis: -6 | Depth: 18 | EngineMove : c7c6
+6... Nc6 | Analysis: +158 | Depth: 16 | EngineMove : a3b5
+7. Rc1 | Analysis: -39 | Depth: 17 | EngineMove : e7e6
+7... e6 | Analysis: +38 | Depth: 16 | EngineMove : f2f3
+8. Bb5 | Analysis: -10 | Depth: 16 | EngineMove : f8b4
+8... Bxa3 | Analysis: +60 | Depth: 17 | EngineMove : b2a3
+9. bxa3 | Analysis: -57 | Depth: 18 | EngineMove : g8e7
+9... Qd5 | Analysis: +82 | Depth: 18 | EngineMove : b5c6
+10. Bd3 | Analysis: +371 | Depth: 18 | EngineMove : f5d3
+10... Bxd3 | Analysis: -372 | Depth: 19 | EngineMove : d1b3
+11. Qxd3 | Analysis: +470 | Depth: 17 | EngineMove : d5g2
+11... Qxa2 | Analysis: +48 | Depth: 17 | EngineMove : g1e2
+12. Nf3 | Analysis: -47 | Depth: 17 | EngineMove : a8c8
+12... Nge7 | Analysis: +48 | Depth: 18 | EngineMove : e1g1
+13. Ng5 | Analysis: +34 | Depth: 17 | EngineMove : a2d5
+13... O-O | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

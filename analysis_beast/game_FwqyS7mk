@@ -1,0 +1,23 @@
+**URL: https://lichess.org/FwqyS7mk | Tag: FwqyS7mk | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/FwqyS7mk', Date='2019.06.02', Round='-', White='chittyct', Black='Do_m', Result='1-0', BlackElo='1017', BlackRatingDiff='-10', ECO='D20', Termination='Normal', TimeControl='60+0', UTCDate='2019.06.02', UTCTime='16:35:31', Variant='Standard', WhiteElo='1028', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -24 | Depth: 13 | EngineMove : d7d5
+1... d5 | Analysis: +27 | Depth: 14 | EngineMove : e2e3
+2. c4 | Analysis: -17 | Depth: 14 | EngineMove : e7e6
+2... dxc4 | Analysis: +46 | Depth: 11 | EngineMove : e2e3
+3. e4 | Analysis: +15 | Depth: 12 | EngineMove : e7e5
+3... Nc6 | Analysis: +46 | Depth: 11 | EngineMove : g1f3
+4. Bxc4 | Analysis: +28 | Depth: 12 | EngineMove : d8d4
+4... Nxd4 | Analysis: -1 | Depth: 11 | EngineMove : c1e3
+5. Nf3 | Analysis: -22 | Depth: 12 | EngineMove : d4f3
+5... Nxf3+ | Analysis: -7 | Depth: 14 | EngineMove : d1f3
+6. Qxf3 | Analysis: -1 | Depth: 14 | EngineMove : g8f6
+6... b6 | Analysis: +2231 | Depth: 15 | EngineMove : c4f7
+7. Qxf7+ | Analysis: -1224 | Depth: 13 | EngineMove : e8d7
+7... Kd7 | Analysis: +1289 | Depth: 15 | EngineMove : e1g1
+8. Qe6+ | Analysis: -233 | Depth: 13 | EngineMove : d7e8
+8... Ke8 | Analysis: +229 | Depth: 13 | EngineMove : c4b5
+9. Qc6+ | Analysis: -158 | Depth: 13 | EngineMove : c8d7
+9... Bd7 | Analysis: +166 | Depth: 13 | EngineMove : c6d5
+10. Qd5 | Analysis: -161 | Depth: 14 | EngineMove : e7e6
+10... c6 | Analysis: #+1 | Depth: 127 | EngineMove : d5f7

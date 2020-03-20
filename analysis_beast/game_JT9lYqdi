@@ -1,0 +1,22 @@
+**URL: https://lichess.org/JT9lYqdi | Tag: JT9lYqdi | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/JT9lYqdi', Date='2018.10.18', Round='-', White='lucasapdossantos', Black='chittyct', Result='1-0', BlackElo='980', BlackRatingDiff='-8', ECO='C70', Termination='Time forfeit', TimeControl='120+1', UTCDate='2018.10.18', UTCTime='03:18:31', Variant='Standard', WhiteElo='1093', WhiteRatingDiff='+8')
+
+1. e4 | Analysis: -36 | Depth: 11 | EngineMove : e7e6
+1... e5 | Analysis: +27 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -33 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +31 | Depth: 14 | EngineMove : f1b5
+3. Bb5 | Analysis: -41 | Depth: 12 | EngineMove : a7a6
+3... a6 | Analysis: +40 | Depth: 14 | EngineMove : b5c6
+4. Ba4 | Analysis: -22 | Depth: 11 | EngineMove : g8f6
+4... Nge7 | Analysis: +60 | Depth: 12 | EngineMove : e1g1
+5. d4 | Analysis: -37 | Depth: 12 | EngineMove : c6d4
+5... Nxd4 | Analysis: +36 | Depth: 13 | EngineMove : f3e5
+6. Nxd4 | Analysis: -14 | Depth: 12 | EngineMove : e5d4
+6... exd4 | Analysis: +14 | Depth: 14 | EngineMove : d1d4
+7. Qxd4 | Analysis: -15 | Depth: 14 | EngineMove : e7c6
+7... b5 | Analysis: +22 | Depth: 12 | EngineMove : a4b3
+8. Bb3 | Analysis: -34 | Depth: 13 | EngineMove : c8b7
+8... d6 | Analysis: +45 | Depth: 13 | EngineMove : d4d1
+9. Nc3 | Analysis: +137 | Depth: 12 | EngineMove : c7c5
+9... c5 | Analysis: -153 | Depth: 13 | EngineMove : d4d2
+10. Qe3 | Analysis: +146 | Depth: 13 | EngineMove : c5c4

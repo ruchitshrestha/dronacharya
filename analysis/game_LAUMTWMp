@@ -1,0 +1,29 @@
+**URL: https://lichess.org/LAUMTWMp | Tag: LAUMTWMp | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/LAUMTWMp', Date='2019.10.13', Round='-', White='Rinat99901', Black='chittyct', Result='1-0', BlackElo='1467', BlackRatingDiff='-8', ECO='B32', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.13', UTCTime='20:04:06', Variant='Standard', WhiteElo='1409', WhiteRatingDiff='+8')
+
+1. e4 | Analysis: -29 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +36 | Depth: 16 | EngineMove : g1f3
+2. Nf3 | Analysis: -24 | Depth: 17 | EngineMove : e7e6
+2... Nc6 | Analysis: +36 | Depth: 16 | EngineMove : f1b5
+3. d4 | Analysis: -22 | Depth: 16 | EngineMove : c5d4
+3... cxd4 | Analysis: +15 | Depth: 17 | EngineMove : f3d4
+4. Nxd4 | Analysis: -11 | Depth: 17 | EngineMove : e7e6
+4... e5 | Analysis: +46 | Depth: 16 | EngineMove : d4b5
+5. Nxc6 | Analysis: +3 | Depth: 16 | EngineMove : b7c6
+5... bxc6 | Analysis: +2 | Depth: 17 | EngineMove : b1c3
+6. Bc4 | Analysis: -5 | Depth: 18 | EngineMove : g8f6
+6... Nf6 | Analysis: -10 | Depth: 17 | EngineMove : b1c3
+7. Nc3 | Analysis: -6 | Depth: 17 | EngineMove : f8c5
+7... Bb4 | Analysis: +4 | Depth: 17 | EngineMove : e1g1
+8. Bg5 | Analysis: +5 | Depth: 18 | EngineMove : h7h6
+8... d5 | Analysis: +48 | Depth: 17 | EngineMove : e4d5
+9. exd5 | Analysis: -50 | Depth: 18 | EngineMove : b4c3
+9... cxd5 | Analysis: +51 | Depth: 17 | EngineMove : g5f6
+10. Bxd5 | Analysis: +281 | Depth: 17 | EngineMove : d8d5
+10... Qxd5 | Analysis: -276 | Depth: 18 | EngineMove : d1d5
+11. Qxd5 | Analysis: +287 | Depth: 19 | EngineMove : f6d5
+11... Nxd5 | Analysis: -278 | Depth: 20 | EngineMove : e1c1
+12. O-O-O | Analysis: +274 | Depth: 20 | EngineMove : b4c3
+12... Nxc3 | Analysis: #+1 | Depth: 127 | EngineMove : d1d8
+13. bxc3 | Analysis: +445 | Depth: 17 | EngineMove : b4a3
+13... Bxc3 | Analysis: #+1 | Depth: 127 | EngineMove : d1d8

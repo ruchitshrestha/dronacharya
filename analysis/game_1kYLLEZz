@@ -1,0 +1,28 @@
+**URL: https://lichess.org/1kYLLEZz | Tag: 1kYLLEZz | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/1kYLLEZz', Date='2020.02.29', Round='-', White='sevensha', Black='chittyct', Result='0-1', BlackElo='1261', BlackRatingDiff='+6', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.29', UTCTime='22:07:05', Variant='Standard', WhiteElo='1237', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -16 | Depth: 17 | EngineMove : d7d5
+1... g6 | Analysis: +75 | Depth: 15 | EngineMove : e2e4
+2. Bf4 | Analysis: -23 | Depth: 16 | EngineMove : g8f6
+2... Bg7 | Analysis: +17 | Depth: 17 | EngineMove : b1c3
+3. Nf3 | Analysis: -22 | Depth: 18 | EngineMove : g8f6
+3... Nc6 | Analysis: +51 | Depth: 18 | EngineMove : b1c3
+4. e3 | Analysis: -27 | Depth: 18 | EngineMove : d7d6
+4... d5 | Analysis: +53 | Depth: 17 | EngineMove : f1e2
+5. Nbd2 | Analysis: -25 | Depth: 17 | EngineMove : g8f6
+5... e6 | Analysis: +53 | Depth: 17 | EngineMove : c2c3
+6. Bd3 | Analysis: -52 | Depth: 19 | EngineMove : g8e7
+6... Nge7 | Analysis: +45 | Depth: 18 | EngineMove : e1g1
+7. O-O | Analysis: -34 | Depth: 19 | EngineMove : e8g8
+7... O-O | Analysis: +43 | Depth: 20 | EngineMove : c2c3
+8. c4 | Analysis: -30 | Depth: 19 | EngineMove : c6b4
+8... dxc4 | Analysis: +81 | Depth: 17 | EngineMove : d3c4
+9. Nxc4 | Analysis: -38 | Depth: 18 | EngineMove : c6b4
+9... b5 | Analysis: +85 | Depth: 17 | EngineMove : c4e5
+10. Nce5 | Analysis: -84 | Depth: 18 | EngineMove : c6e5
+10... Nxe5 | Analysis: +81 | Depth: 18 | EngineMove : f4e5
+11. Nxe5 | Analysis: -74 | Depth: 17 | EngineMove : c8b7
+11... Qd5 | Analysis: +106 | Depth: 18 | EngineMove : f2f3
+12. Rc1 | Analysis: -87 | Depth: 16 | EngineMove : c8b7
+12... Bb7 | Analysis: +121 | Depth: 17 | EngineMove : e3e4
+13. Rxc7 | Analysis: #+1 | Depth: 127 | EngineMove : d5g2

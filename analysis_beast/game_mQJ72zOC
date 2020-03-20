@@ -1,0 +1,34 @@
+**URL: https://lichess.org/mQJ72zOC | Tag: mQJ72zOC | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/mQJ72zOC', Date='2020.02.25', Round='-', White='Nasradine', Black='chittyct', Result='1-0', BlackElo='1255', BlackRatingDiff='-7', ECO='D00', Termination='Time forfeit', TimeControl='120+1', UTCDate='2020.02.25', UTCTime='21:53:26', Variant='Standard', WhiteElo='1197', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -28 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +19 | Depth: 12 | EngineMove : e2e3
+2. Bf4 | Analysis: -12 | Depth: 13 | EngineMove : e7e6
+2... Bf5 | Analysis: +23 | Depth: 12 | EngineMove : e2e3
+3. e3 | Analysis: -12 | Depth: 13 | EngineMove : e7e6
+3... e6 | Analysis: +16 | Depth: 13 | EngineMove : g1f3
+4. c3 | Analysis: 0 | Depth: 13 | EngineMove : f8d6
+4... Nf6 | Analysis: +7 | Depth: 14 | EngineMove : b1d2
+5. Nf3 | Analysis: 0 | Depth: 14 | EngineMove : f8d6
+5... Bd6 | Analysis: -7 | Depth: 15 | EngineMove : f4d6
+6. Bg3 | Analysis: +25 | Depth: 13 | EngineMove : d6g3
+6... O-O | Analysis: -15 | Depth: 14 | EngineMove : g3d6
+7. Nbd2 | Analysis: +23 | Depth: 14 | EngineMove : d6g3
+7... c5 | Analysis: -3 | Depth: 12 | EngineMove : d4c5
+8. Nh4 | Analysis: +34 | Depth: 14 | EngineMove : f5g4
+8... Bg4 | Analysis: -13 | Depth: 13 | EngineMove : f2f3
+9. f3 | Analysis: +23 | Depth: 13 | EngineMove : g4h5
+9... Bh5 | Analysis: -10 | Depth: 14 | EngineMove : g3d6
+10. Bf2 | Analysis: +33 | Depth: 12 | EngineMove : b8c6
+10... cxd4 | Analysis: -28 | Depth: 14 | EngineMove : e3d4
+11. exd4 | Analysis: +27 | Depth: 13 | EngineMove : b8c6
+11... Qb6 | Analysis: +8 | Depth: 14 | EngineMove : g2g4
+12. Nb3 | Analysis: 0 | Depth: 12 | EngineMove : a7a6
+12... Ne4 | Analysis: -97 | Depth: 11 | EngineMove : g2g3
+13. Be3 | Analysis: +198 | Depth: 14 | EngineMove : d6e7
+13... e5 | Analysis: +181 | Depth: 11 | EngineMove : g2g4
+14. Be2 | Analysis: -124 | Depth: 13 | EngineMove : e4f6
+14... exd4 | Analysis: +174 | Depth: 15 | EngineMove : e3d4
+15. Bxd4 | Analysis: -172 | Depth: 15 | EngineMove : b6d8
+15... Nc5 | Analysis: +105 | Depth: 12 | EngineMove : h4f5
+16. Nf5 | Analysis: -115 | Depth: 14 | EngineMove : b8d7

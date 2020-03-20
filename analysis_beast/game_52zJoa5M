@@ -1,0 +1,15 @@
+**URL: https://lichess.org/52zJoa5M | Tag: 52zJoa5M | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/52zJoa5M', Date='2018.10.04', Round='-', White='bono62', Black='chittyct', Result='0-1', BlackElo='1110', BlackRatingDiff='+10', ECO='B20', Termination='Normal', TimeControl='300+0', UTCDate='2018.10.04', UTCTime='19:32:50', Variant='Standard', WhiteElo='1097', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -17 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +51 | Depth: 13 | EngineMove : g1f3
+2. Qf3 | Analysis: +53 | Depth: 11 | EngineMove : b8c6
+2... d6 | Analysis: -20 | Depth: 11 | EngineMove : f1b5
+3. d3 | Analysis: +50 | Depth: 12 | EngineMove : g8f6
+3... Nf6 | Analysis: -51 | Depth: 12 | EngineMove : f3g3
+4. Be2 | Analysis: +42 | Depth: 13 | EngineMove : b8c6
+4... Nc6 | Analysis: -45 | Depth: 13 | EngineMove : f3g3
+5. h3 | Analysis: +518 | Depth: 12 | EngineMove : c6d4
+5... Qa5+ | Analysis: -117 | Depth: 13 | EngineMove : c1d2
+6. c3 | Analysis: +395 | Depth: 12 | EngineMove : c6d4
+6... Nd4 | Analysis: -358 | Depth: 14 | EngineMove : f3f4

@@ -1,0 +1,17 @@
+**URL: https://lichess.org/TCW4b2yj | Tag: TCW4b2yj | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/TCW4b2yj', Date='2018.09.01', Round='-', White='shudurum', Black='chittyct', Result='0-1', BlackElo='1319', BlackRatingDiff='+20', ECO='C50', Termination='Normal', TimeControl='600+0', UTCDate='2018.09.01', UTCTime='01:14:59', Variant='Standard', WhiteElo='1371', WhiteRatingDiff='-13')
+
+1. e4 | Analysis: -28 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: +22 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -24 | Depth: 13 | EngineMove : g8f6
+2... Nc6 | Analysis: +27 | Depth: 12 | EngineMove : f1b5
+3. Bc4 | Analysis: -10 | Depth: 12 | EngineMove : g8f6
+3... g6 | Analysis: +105 | Depth: 10 | EngineMove : e1g1
+4. Ng5 | Analysis: +264 | Depth: 12 | EngineMove : d8g5
+4... Qxg5 | Analysis: -284 | Depth: 13 | EngineMove : e1g1
+5. d4 | Analysis: +714 | Depth: 14 | EngineMove : g5g2
+5... Qe7 | Analysis: -211 | Depth: 12 | EngineMove : d4d5
+6. d5 | Analysis: +239 | Depth: 13 | EngineMove : c6a5
+6... Qb4+ | Analysis: -193 | Depth: 14 | EngineMove : b1d2
+7. c3 | Analysis: +485 | Depth: 13 | EngineMove : b4c4
+7... Qxc4 | Analysis: -466 | Depth: 14 | EngineMove : b1d2

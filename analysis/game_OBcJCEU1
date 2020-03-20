@@ -1,0 +1,31 @@
+**URL: https://lichess.org/OBcJCEU1 | Tag: OBcJCEU1 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/OBcJCEU1', Date='2018.10.05', Round='-', White='chittyct', Black='Pianobutter', Result='1-0', BlackElo='800', BlackRatingDiff='+0', ECO='D05', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.05', UTCTime='02:50:57', Variant='Standard', WhiteElo='991', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -16 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +20 | Depth: 18 | EngineMove : e2e4
+2. Nf3 | Analysis: -21 | Depth: 19 | EngineMove : g8f6
+2... d5 | Analysis: +13 | Depth: 19 | EngineMove : c2c4
+3. e3 | Analysis: -14 | Depth: 19 | EngineMove : g8f6
+3... Nf6 | Analysis: +7 | Depth: 19 | EngineMove : c2c4
+4. b3 | Analysis: -5 | Depth: 18 | EngineMove : c7c5
+4... Nc6 | Analysis: +24 | Depth: 19 | EngineMove : f1e2
+5. Bb2 | Analysis: -32 | Depth: 18 | EngineMove : f8d6
+5... Bb4+ | Analysis: +43 | Depth: 18 | EngineMove : b1d2
+6. Nc3 | Analysis: +75 | Depth: 19 | EngineMove : f6e4
+6... Bxc3+ | Analysis: +52 | Depth: 21 | EngineMove : b2c3
+7. Bxc3 | Analysis: -50 | Depth: 20 | EngineMove : a7a5
+7... Qd7 | Analysis: +80 | Depth: 18 | EngineMove : f1d3
+8. Bd3 | Analysis: -73 | Depth: 20 | EngineMove : b7b6
+8... Qd6 | Analysis: +76 | Depth: 20 | EngineMove : c3b2
+9. O-O | Analysis: -77 | Depth: 19 | EngineMove : e8g8
+9... O-O | Analysis: +71 | Depth: 20 | EngineMove : c3b2
+10. Ne5 | Analysis: -66 | Depth: 20 | EngineMove : b7b6
+10... Nxe5 | Analysis: +199 | Depth: 21 | EngineMove : d4e5
+11. dxe5 | Analysis: -207 | Depth: 21 | EngineMove : d6c6
+11... Qa3 | Analysis: +631 | Depth: 19 | EngineMove : e5f6
+12. exf6 | Analysis: -590 | Depth: 22 | EngineMove : g7g6
+12... gxf6 | Analysis: #+2 | Depth: 127 | EngineMove : d1g4
+13. Qg4+ | Analysis: #-1 | Depth: 127 | EngineMove : g8h8
+13... Kh8 | Analysis: #+1 | Depth: 127 | EngineMove : c3f6
+14. Qh4 | Analysis: #-2 | Depth: 127 | EngineMove : h7h5
+14... e5 | Analysis: #+1 | Depth: 127 | EngineMove : h4h7

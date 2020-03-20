@@ -1,0 +1,34 @@
+**URL: https://lichess.org/un8e2Lyc | Tag: un8e2Lyc | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/un8e2Lyc', Date='2019.04.04', Round='-', White='chittyct', Black='Iwaszkiw', Result='1-0', BlackElo='1152', BlackRatingDiff='-8', ECO='A40', Termination='Normal', TimeControl='180+0', UTCDate='2019.04.04', UTCTime='15:23:37', Variant='Standard', WhiteElo='1202', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -24 | Depth: 18 | EngineMove : d7d5
+1... g6 | Analysis: +75 | Depth: 16 | EngineMove : e2e4
+2. c4 | Analysis: -57 | Depth: 18 | EngineMove : g8f6
+2... Bg7 | Analysis: +46 | Depth: 19 | EngineMove : g1f3
+3. Nc3 | Analysis: -41 | Depth: 17 | EngineMove : e7e5
+3... e5 | Analysis: +37 | Depth: 18 | EngineMove : d4e5
+4. dxe5 | Analysis: -27 | Depth: 19 | EngineMove : g7e5
+4... Nc6 | Analysis: +62 | Depth: 17 | EngineMove : f2f4
+5. Nf3 | Analysis: -35 | Depth: 18 | EngineMove : c6e5
+5... Nxe5 | Analysis: +35 | Depth: 18 | EngineMove : f3e5
+6. Nxe5 | Analysis: -45 | Depth: 19 | EngineMove : g7e5
+6... Bxe5 | Analysis: +45 | Depth: 18 | EngineMove : g2g3
+7. Qb3 | Analysis: -22 | Depth: 17 | EngineMove : g8e7
+7... Ne7 | Analysis: +25 | Depth: 15 | EngineMove : g2g3
+8. e4 | Analysis: -25 | Depth: 16 | EngineMove : e7c6
+8... O-O | Analysis: +32 | Depth: 17 | EngineMove : c1g5
+9. Bd3 | Analysis: -7 | Depth: 18 | EngineMove : e7c6
+9... b6 | Analysis: +36 | Depth: 17 | EngineMove : c1g5
+10. O-O | Analysis: -16 | Depth: 18 | EngineMove : e7c6
+10... Bb7 | Analysis: +38 | Depth: 17 | EngineMove : c1g5
+11. Na4 | Analysis: +33 | Depth: 17 | EngineMove : e7c6
+11... d5 | Analysis: +47 | Depth: 16 | EngineMove : c4d5
+12. c5 | Analysis: +200 | Depth: 17 | EngineMove : d5e4
+12... d4 | Analysis: -14 | Depth: 16 | EngineMove : b3c2
+13. cxb6 | Analysis: +77 | Depth: 17 | EngineMove : a7b6
+13... axb6 | Analysis: -63 | Depth: 17 | EngineMove : b3c2
+14. Rd1 | Analysis: +210 | Depth: 19 | EngineMove : b7c6
+14... c5 | Analysis: +85 | Depth: 19 | EngineMove : b3b6
+15. Nxb6 | Analysis: +20 | Depth: 18 | EngineMove : a8b8
+15... Nc8 | Analysis: +339 | Depth: 18 | EngineMove : b6c4
+16. Nxa8 | Analysis: -288 | Depth: 19 | EngineMove : b7a8

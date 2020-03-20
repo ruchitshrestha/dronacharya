@@ -1,0 +1,33 @@
+**URL: https://lichess.org/duyO3dJ6 | Tag: duyO3dJ6 | Side: black**
+HEADERS: Headers(Event='Casual Correspondence game', Site='https://lichess.org/duyO3dJ6', Date='2018.09.09', Round='-', White='Anonymous', Black='chittyct', Result='1-0', BlackElo='1500', ECO='C40', Termination='Normal', TimeControl='-', UTCDate='2018.09.09', UTCTime='15:04:18', Variant='Standard', WhiteElo='?')
+
+1. e4 | Analysis: -25 | Depth: 17 | EngineMove : e7e5
+1... e5 | Analysis: +27 | Depth: 18 | EngineMove : g1f3
+2. Nf3 | Analysis: -24 | Depth: 18 | EngineMove : g8f6
+2... d5 | Analysis: +82 | Depth: 16 | EngineMove : e4d5
+3. exd5 | Analysis: -72 | Depth: 17 | EngineMove : g8f6
+3... Qxd5 | Analysis: +91 | Depth: 16 | EngineMove : b1c3
+4. Nc3 | Analysis: -65 | Depth: 17 | EngineMove : d5e6
+4... Qd8 | Analysis: +125 | Depth: 16 | EngineMove : f1c4
+5. Bc4 | Analysis: -110 | Depth: 17 | EngineMove : b8c6
+5... f6 | Analysis: +158 | Depth: 17 | EngineMove : d2d4
+6. Nxe5 | Analysis: +35 | Depth: 16 | EngineMove : f6e5
+6... fxe5 | Analysis: -50 | Depth: 17 | EngineMove : d1h5
+7. Qh5+ | Analysis: +52 | Depth: 17 | EngineMove : g7g6
+7... g6 | Analysis: -51 | Depth: 19 | EngineMove : h5e5
+8. Qxe5+ | Analysis: +50 | Depth: 20 | EngineMove : d8e7
+8... Be7 | Analysis: +845 | Depth: 18 | EngineMove : e5h8
+9. Qxh8 | Analysis: -853 | Depth: 18 | EngineMove : c8f5
+9... Kd7 | Analysis: +956 | Depth: 19 | EngineMove : c4g8
+10. Qxg8 | Analysis: -782 | Depth: 17 | EngineMove : d8g8
+10... Nc6 | Analysis: +2498 | Depth: 21 | EngineMove : g8d5
+11. Be6+ | Analysis: -786 | Depth: 18 | EngineMove : d7d6
+11... Kd6 | Analysis: +800 | Depth: 18 | EngineMove : c3e4
+12. Nb5+ | Analysis: -726 | Depth: 20 | EngineMove : d6c5
+12... Kc5 | Analysis: +737 | Depth: 21 | EngineMove : g8d8
+13. a4 | Analysis: -703 | Depth: 17 | EngineMove : d8g8
+13... Bxe6 | Analysis: +1099 | Depth: 17 | EngineMove : g8e6
+14. Qxe6 | Analysis: -1162 | Depth: 18 | EngineMove : a7a5
+14... Nb4 | Analysis: #+8 | Depth: 28 | EngineMove : d2d4
+15. d4+ | Analysis: #-7 | Depth: 33 | EngineMove : d8d4
+15... Qxd4 | Analysis: #+7 | Depth: 35 | EngineMove : b5d4

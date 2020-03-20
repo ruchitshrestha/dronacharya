@@ -1,0 +1,32 @@
+**URL: https://lichess.org/TgQiABsY | Tag: TgQiABsY | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/TgQiABsY', Date='2018.09.27', Round='-', White='chittyct', Black='RABBIO', Result='1-0', BlackElo='859', BlackRatingDiff='-4', ECO='D02', Termination='Time forfeit', TimeControl='180+0', UTCDate='2018.09.27', UTCTime='02:29:58', Variant='Standard', WhiteElo='1147', WhiteRatingDiff='+3')
+
+1. d4 | Analysis: -12 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +24 | Depth: 14 | EngineMove : e2e3
+2. Nf3 | Analysis: -17 | Depth: 14 | EngineMove : g8f6
+2... c5 | Analysis: +20 | Depth: 11 | EngineMove : c2c4
+3. Bf4 | Analysis: +15 | Depth: 12 | EngineMove : c5d4
+3... e6 | Analysis: +27 | Depth: 12 | EngineMove : e2e3
+4. e3 | Analysis: -27 | Depth: 12 | EngineMove : c5d4
+4... g5 | Analysis: +168 | Depth: 11 | EngineMove : f3g5
+5. Bxg5 | Analysis: -158 | Depth: 12 | EngineMove : f8e7
+5... Qxg5 | Analysis: +758 | Depth: 11 | EngineMove : f3g5
+6. Nxg5 | Analysis: -754 | Depth: 13 | EngineMove : g8f6
+6... f6 | Analysis: +1412 | Depth: 12 | EngineMove : d1h5
+7. Nf3 | Analysis: -848 | Depth: 11 | EngineMove : c5c4
+7... Nc6 | Analysis: +846 | Depth: 13 | EngineMove : c2c4
+8. c4 | Analysis: -885 | Depth: 12 | EngineMove : d5c4
+8... dxc4 | Analysis: +917 | Depth: 14 | EngineMove : d4d5
+9. Bxc4 | Analysis: -888 | Depth: 12 | EngineMove : c8d7
+9... e5 | Analysis: +1118 | Depth: 12 | EngineMove : d4e5
+10. dxe5 | Analysis: -1144 | Depth: 14 | EngineMove : f8e7
+10... fxe5 | Analysis: +1268 | Depth: 14 | EngineMove : d1d5
+11. O-O | Analysis: -1004 | Depth: 13 | EngineMove : g8f6
+11... e4 | Analysis: +1309 | Depth: 14 | EngineMove : d1d5
+12. Ng5 | Analysis: -1184 | Depth: 12 | EngineMove : g8f6
+12... Bf5 | Analysis: +1353 | Depth: 12 | EngineMove : g5f7
+13. Ne6 | Analysis: -1091 | Depth: 13 | EngineMove : f5e6
+13... Rd8 | Analysis: +1748 | Depth: 12 | EngineMove : e6d8
+14. Nxd8 | Analysis: -1796 | Depth: 13 | EngineMove : c6d8
+14... Nxd8 | Analysis: +1851 | Depth: 13 | EngineMove : d1h5
+15. Nc3 | Analysis: -1346 | Depth: 12 | EngineMove : g8f6

@@ -1,0 +1,38 @@
+**URL: https://lichess.org/i4eMp8DO | Tag: i4eMp8DO | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/i4eMp8DO', Date='2020.02.04', Round='-', White='Bobby_Swisher', Black='chittyct', Result='0-1', BlackElo='1318', BlackRatingDiff='+5', ECO='C30', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.04', UTCTime='22:16:41', Variant='Standard', WhiteElo='1284', WhiteRatingDiff='-24')
+
+1. e4 | Analysis: -40 | Depth: 11 | EngineMove : e7e6
+1... e5 | Analysis: +24 | Depth: 12 | EngineMove : g1f3
+2. f4 | Analysis: +1 | Depth: 12 | EngineMove : e5f4
+2... Bc5 | Analysis: +41 | Depth: 11 | EngineMove : g1f3
+3. Nf3 | Analysis: -46 | Depth: 11 | EngineMove : d7d6
+3... d6 | Analysis: 0 | Depth: 12 | EngineMove : c2c3
+4. f5 | Analysis: +97 | Depth: 12 | EngineMove : g8f6
+4... Nc6 | Analysis: -44 | Depth: 13 | EngineMove : d2d3
+5. Bc4 | Analysis: +56 | Depth: 11 | EngineMove : g8f6
+5... Nge7 | Analysis: -13 | Depth: 12 | EngineMove : b1c3
+6. Nc3 | Analysis: +5 | Depth: 12 | EngineMove : e8g8
+6... O-O | Analysis: -18 | Depth: 11 | EngineMove : c3a4
+7. d3 | Analysis: +26 | Depth: 13 | EngineMove : c6a5
+7... a6 | Analysis: +55 | Depth: 12 | EngineMove : f5f6
+8. Qe2 | Analysis: +17 | Depth: 12 | EngineMove : c6a5
+8... b5 | Analysis: +21 | Depth: 14 | EngineMove : c4b3
+9. Bb3 | Analysis: -11 | Depth: 14 | EngineMove : c6a5
+9... Nb4 | Analysis: +111 | Depth: 12 | EngineMove : h1f1
+10. Be3 | Analysis: -50 | Depth: 11 | EngineMove : b4c6
+10... Bxe3 | Analysis: +100 | Depth: 11 | EngineMove : e2e3
+11. Qxe3 | Analysis: -67 | Depth: 12 | EngineMove : c7c5
+11... d5 | Analysis: +91 | Depth: 11 | EngineMove : e3c5
+12. exd5 | Analysis: -44 | Depth: 12 | EngineMove : a6a5
+12... Nexd5 | Analysis: +47 | Depth: 12 | EngineMove : c3d5
+13. Nxd5 | Analysis: -29 | Depth: 14 | EngineMove : b4d5
+13... Nxd5 | Analysis: +34 | Depth: 13 | EngineMove : e3e4
+14. Bxd5 | Analysis: -41 | Depth: 13 | EngineMove : d8d5
+14... Qxd5 | Analysis: +36 | Depth: 14 | EngineMove : f5f6
+15. Nxe5 | Analysis: +270 | Depth: 12 | EngineMove : f8e8
+15... Re8 | Analysis: -267 | Depth: 14 | EngineMove : d3d4
+16. d4 | Analysis: +312 | Depth: 14 | EngineMove : f7f6
+16... Qxg2 | Analysis: -139 | Depth: 11 | EngineMove : h1g1
+17. O-O-O | Analysis: +106 | Depth: 12 | EngineMove : c8f5
+17... Bxf5 | Analysis: -123 | Depth: 13 | EngineMove : e3b3
+18. Rhg1 | Analysis: #+1 | Depth: 127 | EngineMove : g2c2

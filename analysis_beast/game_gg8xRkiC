@@ -1,0 +1,28 @@
+**URL: https://lichess.org/gg8xRkiC | Tag: gg8xRkiC | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/gg8xRkiC', Date='2019.12.16', Round='-', White='Adnieeel', Black='chittyct', Result='0-1', BlackElo='1347', BlackRatingDiff='+7', ECO='B32', Termination='Normal', TimeControl='120+1', UTCDate='2019.12.16', UTCTime='15:55:07', Variant='Standard', WhiteElo='1326', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -38 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +51 | Depth: 11 | EngineMove : g1f3
+2. Nf3 | Analysis: -47 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +51 | Depth: 13 | EngineMove : b1c3
+3. d4 | Analysis: -22 | Depth: 12 | EngineMove : c5d4
+3... cxd4 | Analysis: +15 | Depth: 12 | EngineMove : f3d4
+4. Nxd4 | Analysis: -25 | Depth: 13 | EngineMove : e7e5
+4... e5 | Analysis: +22 | Depth: 13 | EngineMove : d4b5
+5. Nxc6 | Analysis: 0 | Depth: 13 | EngineMove : b7c6
+5... bxc6 | Analysis: +2 | Depth: 12 | EngineMove : d1h5
+6. Bd3 | Analysis: +6 | Depth: 13 | EngineMove : g8f6
+6... d5 | Analysis: +70 | Depth: 13 | EngineMove : e4d5
+7. exd5 | Analysis: -66 | Depth: 13 | EngineMove : d8d5
+7... cxd5 | Analysis: +163 | Depth: 13 | EngineMove : d3b5
+8. Bb5+ | Analysis: -170 | Depth: 15 | EngineMove : c8d7
+8... Bd7 | Analysis: +174 | Depth: 16 | EngineMove : d1d5
+9. Qxd5 | Analysis: -171 | Depth: 16 | EngineMove : g8f6
+9... Bxb5 | Analysis: +212 | Depth: 11 | EngineMove : d5b5
+10. Qxb5+ | Analysis: -141 | Depth: 14 | EngineMove : d8d7
+10... Qd7 | Analysis: +161 | Depth: 14 | EngineMove : b5e5
+11. Qxe5+ | Analysis: -145 | Depth: 15 | EngineMove : f8e7
+11... Be7 | Analysis: +162 | Depth: 14 | EngineMove : b1c3
+12. Qxg7 | Analysis: -136 | Depth: 12 | EngineMove : d7e6
+12... Rd8 | Analysis: +365 | Depth: 15 | EngineMove : e1g1
+13. Qxh8 | Analysis: #+1 | Depth: 127 | EngineMove : d7d1

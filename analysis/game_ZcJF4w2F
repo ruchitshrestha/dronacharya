@@ -1,0 +1,26 @@
+**URL: https://lichess.org/ZcJF4w2F | Tag: ZcJF4w2F | Side: white**
+HEADERS: Headers(Event='Casual Blitz game', Site='https://lichess.org/ZcJF4w2F', Date='2019.04.29', Round='-', White='chittyct', Black='TheHyperborean1986', Result='0-1', BlackElo='1556', ECO='D15', Termination='Normal', TimeControl='180+0', UTCDate='2019.04.29', UTCTime='23:22:03', Variant='Standard', WhiteElo='1227')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 20 | EngineMove : g1f3
+2. c4 | Analysis: -13 | Depth: 19 | EngineMove : e7e6
+2... c6 | Analysis: +24 | Depth: 18 | EngineMove : g1f3
+3. Nc3 | Analysis: -4 | Depth: 17 | EngineMove : d5c4
+3... Nf6 | Analysis: +24 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -17 | Depth: 20 | EngineMove : d5c4
+4... Bf5 | Analysis: +51 | Depth: 17 | EngineMove : c4d5
+5. e3 | Analysis: -18 | Depth: 17 | EngineMove : e7e6
+5... e6 | Analysis: +21 | Depth: 17 | EngineMove : f3h4
+6. a3 | Analysis: +10 | Depth: 17 | EngineMove : b8d7
+6... Nbd7 | Analysis: -5 | Depth: 17 | EngineMove : h2h3
+7. b4 | Analysis: +6 | Depth: 18 | EngineMove : d5c4
+7... Be7 | Analysis: -16 | Depth: 19 | EngineMove : c4c5
+8. Bd3 | Analysis: +35 | Depth: 17 | EngineMove : d5c4
+8... Ne4 | Analysis: +13 | Depth: 18 | EngineMove : d3e4
+9. Bb2 | Analysis: +12 | Depth: 18 | EngineMove : e4c3
+9... O-O | Analysis: +15 | Depth: 19 | EngineMove : d3e4
+10. O-O | Analysis: +9 | Depth: 18 | EngineMove : e4c3
+10... a5 | Analysis: +10 | Depth: 18 | EngineMove : d3e4
+11. cxd5 | Analysis: +31 | Depth: 19 | EngineMove : c6d5
+11... cxd5 | Analysis: -28 | Depth: 19 | EngineMove : b4b5
+12. Nh4 | Analysis: +346 | Depth: 19 | EngineMove : e7h4

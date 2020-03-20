@@ -1,0 +1,27 @@
+**URL: https://lichess.org/zvABynnZ | Tag: zvABynnZ | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/zvABynnZ', Date='2018.09.29', Round='-', White='chittyct', Black='Euclideslozano', Result='0-1', BlackElo='1080', BlackRatingDiff='+10', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.29', UTCTime='01:20:57', Variant='Standard', WhiteElo='1079', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -24 | Depth: 14 | EngineMove : g8f6
+1... e6 | Analysis: +33 | Depth: 12 | EngineMove : e2e4
+2. Bf4 | Analysis: -9 | Depth: 12 | EngineMove : d7d5
+2... Nc6 | Analysis: +24 | Depth: 12 | EngineMove : e2e3
+3. Nf3 | Analysis: -15 | Depth: 13 | EngineMove : g8f6
+3... Bb4+ | Analysis: +66 | Depth: 12 | EngineMove : c2c3
+4. c3 | Analysis: -67 | Depth: 14 | EngineMove : b4e7
+4... Bd6 | Analysis: +61 | Depth: 13 | EngineMove : f4d6
+5. Bg3 | Analysis: -23 | Depth: 13 | EngineMove : d6g3
+5... Bxg3 | Analysis: +17 | Depth: 14 | EngineMove : h2g3
+6. hxg3 | Analysis: -33 | Depth: 14 | EngineMove : g8f6
+6... b6 | Analysis: +59 | Depth: 11 | EngineMove : e2e4
+7. e3 | Analysis: -25 | Depth: 14 | EngineMove : g8f6
+7... a5 | Analysis: +52 | Depth: 11 | EngineMove : b1d2
+8. Bd3 | Analysis: -53 | Depth: 13 | EngineMove : g8f6
+8... Ba6 | Analysis: +121 | Depth: 15 | EngineMove : d3a6
+9. Bxh7 | Analysis: +14 | Depth: 12 | EngineMove : g8f6
+9... Nf6 | Analysis: -51 | Depth: 12 | EngineMove : f3g5
+10. Bd3 | Analysis: +1382 | Depth: 14 | EngineMove : h8h1
+10... Rxh1+ | Analysis: -1369 | Depth: 15 | EngineMove : e1e2
+11. Bf1 | Analysis: +1750 | Depth: 14 | EngineMove : h1f1
+11... Rxf1+ | Analysis: -1782 | Depth: 16 | EngineMove : e1d2
+12. Kd2 | Analysis: +1806 | Depth: 15 | EngineMove : f6e4
+12... Rxd1+ | Analysis: -1613 | Depth: 13 | EngineMove : d2d1

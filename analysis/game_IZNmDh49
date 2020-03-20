@@ -1,0 +1,32 @@
+**URL: https://lichess.org/IZNmDh49 | Tag: IZNmDh49 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/IZNmDh49', Date='2019.11.12', Round='-', White='blazej_Sz', Black='chittyct', Result='1-0', BlackElo='1252', BlackRatingDiff='-6', ECO='B30', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.11.12', UTCTime='12:25:44', Variant='Standard', WhiteElo='1257', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -25 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +29 | Depth: 18 | EngineMove : g1f3
+2. Nf3 | Analysis: -31 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +39 | Depth: 18 | EngineMove : f1b5
+3. Bc4 | Analysis: -5 | Depth: 18 | EngineMove : g8f6
+3... a6 | Analysis: +62 | Depth: 16 | EngineMove : d2d4
+4. d4 | Analysis: -20 | Depth: 17 | EngineMove : c5d4
+4... e6 | Analysis: +71 | Depth: 17 | EngineMove : d4d5
+5. d5 | Analysis: -75 | Depth: 18 | EngineMove : c6a5
+5... exd5 | Analysis: +109 | Depth: 19 | EngineMove : e4d5
+6. exd5 | Analysis: -100 | Depth: 18 | EngineMove : c6a5
+6... Na5 | Analysis: +93 | Depth: 19 | EngineMove : c4d3
+7. Bd3 | Analysis: -102 | Depth: 18 | EngineMove : g8f6
+7... Bd6 | Analysis: +163 | Depth: 17 | EngineMove : e1g1
+8. O-O | Analysis: -146 | Depth: 18 | EngineMove : g8e7
+8... Nf6 | Analysis: +190 | Depth: 17 | EngineMove : f1e1
+9. Nc3 | Analysis: -127 | Depth: 17 | EngineMove : e8g8
+9... O-O | Analysis: +135 | Depth: 19 | EngineMove : c1g5
+10. Ng5 | Analysis: -33 | Depth: 15 | EngineMove : d8c7
+10... b5 | Analysis: +68 | Depth: 17 | EngineMove : c3e4
+11. Qf3 | Analysis: -70 | Depth: 18 | EngineMove : g7g6
+11... Bb7 | Analysis: +198 | Depth: 18 | EngineMove : c3e4
+12. Qh3 | Analysis: -133 | Depth: 18 | EngineMove : h7h6
+12... h6 | Analysis: +136 | Depth: 19 | EngineMove : g5e4
+13. Nge4 | Analysis: -144 | Depth: 19 | EngineMove : d6e5
+13... Nxd5 | Analysis: +520 | Depth: 18 | EngineMove : e4d6
+14. Nxd6 | Analysis: -519 | Depth: 18 | EngineMove : d5c3
+14... Bc6 | Analysis: +985 | Depth: 18 | EngineMove : c3d5
+15. Qg3 | Analysis: -458 | Depth: 20 | EngineMove : d8f6

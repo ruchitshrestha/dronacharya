@@ -1,0 +1,29 @@
+**URL: https://lichess.org/HJEpG7Sd | Tag: HJEpG7Sd | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/HJEpG7Sd', Date='2019.11.22', Round='-', White='SirAbounagl', Black='chittyct', Result='0-1', BlackElo='1215', BlackRatingDiff='+9', ECO='B30', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.22', UTCTime='00:05:23', Variant='Standard', WhiteElo='1270', WhiteRatingDiff='-8')
+
+1. e4 | Analysis: -48 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +55 | Depth: 12 | EngineMove : b1c3
+2. Nf3 | Analysis: -41 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +38 | Depth: 12 | EngineMove : f1b5
+3. Bc4 | Analysis: -29 | Depth: 11 | EngineMove : g8f6
+3... a6 | Analysis: +63 | Depth: 12 | EngineMove : d2d4
+4. Ng5 | Analysis: +70 | Depth: 12 | EngineMove : e7e6
+4... e6 | Analysis: -83 | Depth: 13 | EngineMove : d2d4
+5. d3 | Analysis: +85 | Depth: 13 | EngineMove : d7d5
+5... b5 | Analysis: -57 | Depth: 13 | EngineMove : c4b3
+6. Bb3 | Analysis: +48 | Depth: 13 | EngineMove : f8e7
+6... Nd4 | Analysis: +13 | Depth: 12 | EngineMove : e1g1
+7. c3 | Analysis: +27 | Depth: 13 | EngineMove : d4b3
+7... Nxb3 | Analysis: -31 | Depth: 13 | EngineMove : a2b3
+8. axb3 | Analysis: +34 | Depth: 13 | EngineMove : c8b7
+8... Bb7 | Analysis: -29 | Depth: 12 | EngineMove : c1e3
+9. Qf3 | Analysis: +47 | Depth: 12 | EngineMove : g8f6
+9... Nh6 | Analysis: -7 | Depth: 11 | EngineMove : f3h5
+10. Nh3 | Analysis: +9 | Depth: 12 | EngineMove : d7d5
+10... Ng8 | Analysis: 0 | Depth: 19 | EngineMove : h3g5
+11. Ng5 | Analysis: +50 | Depth: 13 | EngineMove : g8f6
+11... Nf6 | Analysis: -42 | Depth: 14 | EngineMove : f3g3
+12. e5 | Analysis: +691 | Depth: 13 | EngineMove : b7f3
+12... Bxf3 | Analysis: -694 | Depth: 14 | EngineMove : g5f3
+13. exf6 | Analysis: +834 | Depth: 13 | EngineMove : f3g2
+13... Bxg2 | Analysis: -817 | Depth: 14 | EngineMove : f6g7

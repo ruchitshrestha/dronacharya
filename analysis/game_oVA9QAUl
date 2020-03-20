@@ -1,0 +1,29 @@
+**URL: https://lichess.org/oVA9QAUl | Tag: oVA9QAUl | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/oVA9QAUl', Date='2018.09.24', Round='-', White='roge83', Black='chittyct', Result='1-0', BlackElo='1039', BlackRatingDiff='-7', ECO='C20', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='06:45:37', Variant='Standard', WhiteElo='1162', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -41 | Depth: 15 | EngineMove : e7e6
+1... e5 | Analysis: +30 | Depth: 18 | EngineMove : g1f3
+2. h4 | Analysis: +31 | Depth: 17 | EngineMove : g8f6
+2... Nc6 | Analysis: -17 | Depth: 17 | EngineMove : g1f3
+3. h5 | Analysis: +50 | Depth: 17 | EngineMove : g8f6
+3... g6 | Analysis: +33 | Depth: 16 | EngineMove : b1c3
+4. h6 | Analysis: +68 | Depth: 17 | EngineMove : f8h6
+4... Bxh6 | Analysis: -76 | Depth: 18 | EngineMove : b1c3
+5. d3 | Analysis: +100 | Depth: 17 | EngineMove : h6c1
+5... Nd4 | Analysis: +246 | Depth: 18 | EngineMove : c1h6
+6. Bxh6 | Analysis: -239 | Depth: 19 | EngineMove : g8h6
+6... Nxh6 | Analysis: +240 | Depth: 19 | EngineMove : h1h6
+7. Rxh6 | Analysis: -239 | Depth: 19 | EngineMove : d7d5
+7... O-O | Analysis: +244 | Depth: 16 | EngineMove : c2c3
+8. c3 | Analysis: -251 | Depth: 19 | EngineMove : d4e6
+8... Nb5 | Analysis: +315 | Depth: 18 | EngineMove : g1f3
+9. Nf3 | Analysis: -309 | Depth: 19 | EngineMove : d7d5
+9... d6 | Analysis: +547 | Depth: 18 | EngineMove : a2a4
+10. Ng5 | Analysis: +99 | Depth: 21 | EngineMove : d8g5
+10... Bg4 | Analysis: +870 | Depth: 18 | EngineMove : d1g4
+11. Qxg4 | Analysis: -866 | Depth: 18 | EngineMove : c7c6
+11... f6 | Analysis: #+3 | Depth: 127 | EngineMove : g4e6
+12. Nxh7 | Analysis: -2255 | Depth: 18 | EngineMove : d8e8
+12... f5 | Analysis: #+2 | Depth: 127 | EngineMove : g4g6
+13. Qxg6+ | Analysis: #-1 | Depth: 127 | EngineMove : g8h8
+13... Kh8 | Analysis: #+1 | Depth: 127 | EngineMove : h7f8

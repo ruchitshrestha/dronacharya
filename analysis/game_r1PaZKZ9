@@ -1,0 +1,7 @@
+**URL: https://lichess.org/r1PaZKZ9 | Tag: r1PaZKZ9 | Side: white**
+HEADERS: Headers(Event='Casual Rapid game', Site='https://lichess.org/r1PaZKZ9', Date='2018.07.31', Round='-', White='chittyct', Black='Anonymous', Result='0-1', BlackElo='?', ECO='D02', Termination='Time forfeit', TimeControl='1200+0', UTCDate='2018.07.31', UTCTime='01:11:12', Variant='Standard', WhiteElo='1500')
+
+1. d4 | Analysis: -11 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -18 | Depth: 17 | EngineMove : c8f5
+2... e6 | Analysis: +10 | Depth: 18 | EngineMove : e2e3

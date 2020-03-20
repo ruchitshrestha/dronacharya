@@ -1,0 +1,28 @@
+**URL: https://lichess.org/6FFerO59 | Tag: 6FFerO59 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/6FFerO59', Date='2018.12.29', Round='-', White='brianyu', Black='chittyct', Result='1-0', BlackElo='1095', BlackRatingDiff='-9', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.12.29', UTCTime='00:28:21', Variant='Standard', WhiteElo='1137', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -15 | Depth: 17 | EngineMove : d7d5
+1... Nc6 | Analysis: +45 | Depth: 17 | EngineMove : e2e4
+2. c4 | Analysis: -32 | Depth: 17 | EngineMove : g8f6
+2... b6 | Analysis: +68 | Depth: 17 | EngineMove : g1f3
+3. Nc3 | Analysis: -62 | Depth: 18 | EngineMove : e7e6
+3... Bb7 | Analysis: +72 | Depth: 16 | EngineMove : g1f3
+4. e3 | Analysis: -40 | Depth: 17 | EngineMove : e7e6
+4... e6 | Analysis: +45 | Depth: 17 | EngineMove : a2a3
+5. Nf3 | Analysis: -32 | Depth: 19 | EngineMove : f8b4
+5... d5 | Analysis: +65 | Depth: 18 | EngineMove : c4d5
+6. Bd2 | Analysis: -33 | Depth: 19 | EngineMove : g8f6
+6... dxc4 | Analysis: +55 | Depth: 19 | EngineMove : f1c4
+7. Bxc4 | Analysis: -71 | Depth: 19 | EngineMove : g8f6
+7... Bb4 | Analysis: +87 | Depth: 17 | EngineMove : e1g1
+8. O-O | Analysis: -61 | Depth: 18 | EngineMove : g8f6
+8... Bxc3 | Analysis: +70 | Depth: 18 | EngineMove : d2c3
+9. Bxc3 | Analysis: -82 | Depth: 19 | EngineMove : g8f6
+9... Nf6 | Analysis: +90 | Depth: 18 | EngineMove : d1c2
+10. Qc2 | Analysis: -80 | Depth: 18 | EngineMove : c6e7
+10... Qe7 | Analysis: +129 | Depth: 17 | EngineMove : e3e4
+11. a3 | Analysis: -120 | Depth: 17 | EngineMove : e8g8
+11... O-O-O | Analysis: +148 | Depth: 15 | EngineMove : f1e1
+12. Bb4 | Analysis: -83 | Depth: 18 | EngineMove : c6b4
+12... Kb8 | Analysis: +856 | Depth: 18 | EngineMove : b4e7
+13. Bxe7 | Analysis: -866 | Depth: 19 | EngineMove : c6e7

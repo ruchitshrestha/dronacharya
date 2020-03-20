@@ -1,0 +1,44 @@
+**URL: https://lichess.org/KBQtLKyi | Tag: KBQtLKyi | Side: black**
+HEADERS: Headers(Event='Eastern Blitz Arena', Site='https://lichess.org/KBQtLKyi', Date='2018.11.27', Round='-', White='Teega', Black='chittyct', Result='0-1', BlackElo='1150', BlackRatingDiff='+16', ECO='B20', Termination='Normal', TimeControl='300+0', UTCDate='2018.11.27', UTCTime='06:53:26', Variant='Standard', WhiteElo='1346', WhiteRatingDiff='-17')
+
+1. e4 | Analysis: -21 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +36 | Depth: 12 | EngineMove : g1f3
+2. c4 | Analysis: -16 | Depth: 14 | EngineMove : b8c6
+2... Nc6 | Analysis: +11 | Depth: 14 | EngineMove : g1f3
+3. Nf3 | Analysis: -9 | Depth: 15 | EngineMove : g8f6
+3... b6 | Analysis: +11 | Depth: 12 | EngineMove : d2d4
+4. d3 | Analysis: -1 | Depth: 13 | EngineMove : g8f6
+4... Bb7 | Analysis: +6 | Depth: 13 | EngineMove : b1c3
+5. Bf4 | Analysis: +10 | Depth: 14 | EngineMove : g8f6
+5... e5 | Analysis: +6 | Depth: 14 | EngineMove : f4d2
+6. Bg3 | Analysis: -3 | Depth: 14 | EngineMove : d7d6
+6... Bd6 | Analysis: +2 | Depth: 14 | EngineMove : b1c3
+7. h3 | Analysis: +10 | Depth: 13 | EngineMove : g8f6
+7... Nd4 | Analysis: 0 | Depth: 11 | EngineMove : f3d4
+8. Nxd4 | Analysis: +13 | Depth: 14 | EngineMove : c5d4
+8... cxd4 | Analysis: -9 | Depth: 14 | EngineMove : f1e2
+9. Be2 | Analysis: 0 | Depth: 15 | EngineMove : g8e7
+9... Nf6 | Analysis: +15 | Depth: 12 | EngineMove : e1g1
+10. O-O | Analysis: -21 | Depth: 13 | EngineMove : e8g8
+10... O-O | Analysis: +16 | Depth: 15 | EngineMove : f2f4
+11. Bh4 | Analysis: -9 | Depth: 13 | EngineMove : a8c8
+11... Be7 | Analysis: +3 | Depth: 14 | EngineMove : f2f4
+12. a3 | Analysis: -3 | Depth: 13 | EngineMove : d7d6
+12... Nxe4 | Analysis: +118 | Depth: 14 | EngineMove : h4e7
+13. dxe4 | Analysis: +143 | Depth: 13 | EngineMove : e7h4
+13... Bxh4 | Analysis: -144 | Depth: 13 | EngineMove : b1d2
+14. Re1 | Analysis: +413 | Depth: 13 | EngineMove : f7f5
+14... Bxe4 | Analysis: -194 | Depth: 12 | EngineMove : b1d2
+15. f3 | Analysis: +385 | Depth: 13 | EngineMove : h4e1
+15... Bf5 | Analysis: -324 | Depth: 14 | EngineMove : e1f1
+16. Rf1 | Analysis: +313 | Depth: 13 | EngineMove : h4g5
+16... Bxh3 | Analysis: -301 | Depth: 14 | EngineMove : f3f4
+17. gxh3 | Analysis: +520 | Depth: 13 | EngineMove : d8g5
+17... Qg5+ | Analysis: -525 | Depth: 15 | EngineMove : g1h1
+18. Kh1 | Analysis: +512 | Depth: 14 | EngineMove : g5g3
+18... Qf5 | Analysis: -532 | Depth: 15 | EngineMove : h1g2
+19. Kh2 | Analysis: +500 | Depth: 14 | EngineMove : f5f4
+19... Qf4+ | Analysis: -507 | Depth: 18 | EngineMove : h2h1
+20. Kh1 | Analysis: +516 | Depth: 18 | EngineMove : f4g3
+20... Qg3 | Analysis: -517 | Depth: 18 | EngineMove : e2d3
+21. Rg1 | Analysis: #+1 | Depth: 127 | EngineMove : g3h3

@@ -1,0 +1,29 @@
+**URL: https://lichess.org/ZMw6HR4T | Tag: ZMw6HR4T | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ZMw6HR4T', Date='2018.11.26', Round='-', White='chittyct', Black='TheVizWiz', Result='1-0', BlackElo='1181', BlackRatingDiff='-12', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.26', UTCTime='02:53:04', Variant='Standard', WhiteElo='1180', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -21 | Depth: 12 | EngineMove : g8f6
+1... e6 | Analysis: +29 | Depth: 11 | EngineMove : e2e4
+2. Nf3 | Analysis: -11 | Depth: 12 | EngineMove : d7d5
+2... d5 | Analysis: +29 | Depth: 14 | EngineMove : c1f4
+3. Bf4 | Analysis: -16 | Depth: 13 | EngineMove : g8f6
+3... Nf6 | Analysis: +10 | Depth: 14 | EngineMove : e2e3
+4. e3 | Analysis: -17 | Depth: 14 | EngineMove : f8e7
+4... Nh5 | Analysis: +60 | Depth: 13 | EngineMove : f4g5
+5. Bg3 | Analysis: 0 | Depth: 12 | EngineMove : f8e7
+5... Nxg3 | Analysis: +15 | Depth: 13 | EngineMove : h2g3
+6. hxg3 | Analysis: -15 | Depth: 12 | EngineMove : c7c5
+6... Bd6 | Analysis: +35 | Depth: 13 | EngineMove : c2c4
+7. Bd3 | Analysis: -8 | Depth: 11 | EngineMove : h7h6
+7... O-O | Analysis: +262 | Depth: 10 | EngineMove : d3h7
+8. c4 | Analysis: -16 | Depth: 13 | EngineMove : h7h6
+8... b6 | Analysis: +800 | Depth: 11 | EngineMove : d3h7
+9. c5 | Analysis: -273 | Depth: 12 | EngineMove : h7h6
+9... bxc5 | Analysis: +932 | Depth: 13 | EngineMove : d3h7
+10. dxc5 | Analysis: -230 | Depth: 12 | EngineMove : h7h6
+10... Bxc5 | Analysis: +929 | Depth: 15 | EngineMove : d3h7
+11. a3 | Analysis: +141 | Depth: 12 | EngineMove : h7h6
+11... Na6 | Analysis: +492 | Depth: 12 | EngineMove : d3h7
+12. Bxa6 | Analysis: -187 | Depth: 13 | EngineMove : h7h6
+12... Bxa6 | Analysis: +241 | Depth: 15 | EngineMove : d1c2
+13. Qc2 | Analysis: -256 | Depth: 12 | EngineMove : h7h6
+13... c6 | Analysis: #+1 | Depth: 127 | EngineMove : c2h7

@@ -1,0 +1,10 @@
+**URL: https://lichess.org/e3JXMl7l | Tag: e3JXMl7l | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/e3JXMl7l', Date='2018.11.27', Round='-', White='chittyct', Black='sekolord', Result='1-0', BlackElo='884', BlackRatingDiff='-20', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.11.27', UTCTime='10:11:39', Variant='Standard', WhiteElo='1004', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -27 | Depth: 13 | EngineMove : d7d5
+1... e5 | Analysis: +70 | Depth: 12 | EngineMove : d4e5
+2. Nf3 | Analysis: -22 | Depth: 13 | EngineMove : e5e4
+2... Qg5 | Analysis: +1099 | Depth: 13 | EngineMove : c1g5
+3. Nxg5 | Analysis: -1082 | Depth: 11 | EngineMove : h7h6
+3... f5 | Analysis: +1269 | Depth: 11 | EngineMove : e2e4
+4. dxe5 | Analysis: -1214 | Depth: 12 | EngineMove : h7h6

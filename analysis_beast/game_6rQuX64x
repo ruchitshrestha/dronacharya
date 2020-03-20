@@ -1,0 +1,13 @@
+**URL: https://lichess.org/6rQuX64x | Tag: 6rQuX64x | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/6rQuX64x', Date='2018.09.24', Round='-', White='Ellepi', Black='chittyct', Result='0-1', BlackElo='1139', BlackRatingDiff='+10', ECO='A00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='07:26:19', Variant='Standard', WhiteElo='1117', WhiteRatingDiff='-12')
+
+1. g3 | Analysis: +39 | Depth: 13 | EngineMove : e7e5
+1... d5 | Analysis: -9 | Depth: 12 | EngineMove : d2d4
+2. f3 | Analysis: +108 | Depth: 11 | EngineMove : e7e5
+2... e5 | Analysis: -98 | Depth: 12 | EngineMove : e2e3
+3. e3 | Analysis: +87 | Depth: 11 | EngineMove : b8c6
+3... Bb4 | Analysis: -70 | Depth: 12 | EngineMove : g1e2
+4. c3 | Analysis: +99 | Depth: 13 | EngineMove : b4d6
+4... Bxc3 | Analysis: +191 | Depth: 12 | EngineMove : b2c3
+5. dxc3 | Analysis: -173 | Depth: 13 | EngineMove : g8f6
+5... c6 | Analysis: +191 | Depth: 13 | EngineMove : g1e2

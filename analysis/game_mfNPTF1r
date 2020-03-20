@@ -1,0 +1,29 @@
+**URL: https://lichess.org/mfNPTF1r | Tag: mfNPTF1r | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/mfNPTF1r', Date='2018.09.26', Round='-', White='Gecko69', Black='chittyct', Result='0-1', BlackElo='1074', BlackRatingDiff='+9', ECO='B06', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.26', UTCTime='04:07:14', Variant='Standard', WhiteElo='985', WhiteRatingDiff='-13')
+
+1. e4 | Analysis: -33 | Depth: 16 | EngineMove : e7e5
+1... g6 | Analysis: +76 | Depth: 15 | EngineMove : d2d4
+2. Nc3 | Analysis: -61 | Depth: 17 | EngineMove : c7c6
+2... Bg7 | Analysis: +58 | Depth: 17 | EngineMove : d2d4
+3. b3 | Analysis: -3 | Depth: 16 | EngineMove : e7e5
+3... e5 | Analysis: +1 | Depth: 16 | EngineMove : g1f3
+4. Bb2 | Analysis: +9 | Depth: 18 | EngineMove : g8f6
+4... d5 | Analysis: +98 | Depth: 18 | EngineMove : c3d5
+5. exd5 | Analysis: -50 | Depth: 17 | EngineMove : a7a6
+5... c6 | Analysis: +71 | Depth: 19 | EngineMove : d5c6
+6. dxc6 | Analysis: -73 | Depth: 19 | EngineMove : b8c6
+6... bxc6 | Analysis: +156 | Depth: 16 | EngineMove : f1c4
+7. Qf3 | Analysis: -92 | Depth: 16 | EngineMove : g8e7
+7... Nf6 | Analysis: +72 | Depth: 17 | EngineMove : b2a3
+8. Bb5 | Analysis: -18 | Depth: 15 | EngineMove : e8g8
+8... Bg4 | Analysis: +20 | Depth: 16 | EngineMove : b5c6
+9. Bxc6+ | Analysis: -5 | Depth: 18 | EngineMove : e8f8
+9... Nxc6 | Analysis: +147 | Depth: 17 | EngineMove : f3c6
+10. Qxc6+ | Analysis: -163 | Depth: 18 | EngineMove : f6d7
+10... Nd7 | Analysis: +176 | Depth: 18 | EngineMove : b2a3
+11. Ba3 | Analysis: -153 | Depth: 18 | EngineMove : g7f8
+11... Bf8 | Analysis: +150 | Depth: 20 | EngineMove : c6a4
+12. Bxf8 | Analysis: -134 | Depth: 19 | EngineMove : e8f8
+12... Rxf8 | Analysis: +237 | Depth: 17 | EngineMove : c3b5
+13. Nd5 | Analysis: -161 | Depth: 18 | EngineMove : a8c8
+13... Rc8 | Analysis: +173 | Depth: 18 | EngineMove : c6a4

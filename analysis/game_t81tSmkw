@@ -1,0 +1,29 @@
+**URL: https://lichess.org/t81tSmkw | Tag: t81tSmkw | Side: white**
+HEADERS: Headers(Event='Casual UltraBullet game', Site='https://lichess.org/t81tSmkw', Date='2019.04.29', Round='-', White='chittyct', Black='BNKookie', Result='0-1', BlackElo='1647', ECO='A40', Termination='Time forfeit', TimeControl='15+0', UTCDate='2019.04.29', UTCTime='23:45:53', Variant='Standard', WhiteElo='1183')
+
+1. d4 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+1... e6 | Analysis: +27 | Depth: 17 | EngineMove : e2e4
+2. Nf3 | Analysis: -14 | Depth: 17 | EngineMove : g8f6
+2... d5 | Analysis: +25 | Depth: 17 | EngineMove : c2c4
+3. e3 | Analysis: -19 | Depth: 18 | EngineMove : g8f6
+3... c5 | Analysis: +19 | Depth: 18 | EngineMove : c2c4
+4. dxc5 | Analysis: +6 | Depth: 19 | EngineMove : f8c5
+4... Bxc5 | Analysis: 0 | Depth: 19 | EngineMove : c2c4
+5. Nc3 | Analysis: +25 | Depth: 18 | EngineMove : g8f6
+5... Nc6 | Analysis: -32 | Depth: 19 | EngineMove : f1d3
+6. Bb5 | Analysis: +37 | Depth: 18 | EngineMove : g8f6
+6... Bb4 | Analysis: +10 | Depth: 17 | EngineMove : d1d4
+7. Bxc6+ | Analysis: +15 | Depth: 17 | EngineMove : b7c6
+7... bxc6 | Analysis: -1 | Depth: 18 | EngineMove : d1d4
+8. b3 | Analysis: +453 | Depth: 18 | EngineMove : b4c3
+8... Nf6 | Analysis: -94 | Depth: 18 | EngineMove : c1d2
+9. Bb2 | Analysis: +352 | Depth: 19 | EngineMove : d8a5
+9... Ba3 | Analysis: +326 | Depth: 18 | EngineMove : b2a3
+10. Bxa3 | Analysis: -331 | Depth: 19 | EngineMove : d8a5
+10... Bb7 | Analysis: +467 | Depth: 17 | EngineMove : d1d4
+11. O-O | Analysis: -441 | Depth: 17 | EngineMove : d8a5
+11... Rb8 | Analysis: +521 | Depth: 15 | EngineMove : d1d4
+12. Re1 | Analysis: -433 | Depth: 17 | EngineMove : d8a5
+12... a5 | Analysis: +544 | Depth: 17 | EngineMove : d1d4
+13. Rc1 | Analysis: -523 | Depth: 17 | EngineMove : h7h5
+13... a4 | Analysis: +565 | Depth: 17 | EngineMove : c3a4

@@ -1,0 +1,24 @@
+**URL: https://lichess.org/87qJ03kg | Tag: 87qJ03kg | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/87qJ03kg', Date='2019.04.08', Round='-', White='chittyct', Black='Gasparov86', Result='1-0', BlackElo='1274', BlackRatingDiff='-11', ECO='D20', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.08', UTCTime='18:08:46', Variant='Standard', WhiteElo='1252', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -17 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +10 | Depth: 19 | EngineMove : c1f4
+2. c4 | Analysis: -26 | Depth: 18 | EngineMove : e7e6
+2... dxc4 | Analysis: +36 | Depth: 17 | EngineMove : e2e3
+3. Nc3 | Analysis: -10 | Depth: 16 | EngineMove : c7c6
+3... Nf6 | Analysis: +24 | Depth: 17 | EngineMove : g1f3
+4. e4 | Analysis: +14 | Depth: 17 | EngineMove : e7e5
+4... e5 | Analysis: -23 | Depth: 18 | EngineMove : g1f3
+5. d5 | Analysis: +27 | Depth: 15 | EngineMove : b7b5
+5... Bb4 | Analysis: +274 | Depth: 17 | EngineMove : d1a4
+6. Qa4+ | Analysis: -275 | Depth: 20 | EngineMove : b8c6
+6... Qd7 | Analysis: +425 | Depth: 16 | EngineMove : a4b4
+7. Qxb4 | Analysis: -414 | Depth: 18 | EngineMove : c7c6
+7... a5 | Analysis: +408 | Depth: 17 | EngineMove : b4c4
+8. Qxc4 | Analysis: -403 | Depth: 19 | EngineMove : e8g8
+8... b5 | Analysis: +455 | Depth: 18 | EngineMove : c4b5
+9. Nxb5 | Analysis: -467 | Depth: 18 | EngineMove : c7c6
+9... Ba6 | Analysis: +674 | Depth: 17 | EngineMove : b5c7
+10. Qxc7 | Analysis: -523 | Depth: 18 | EngineMove : e8g8
+10... Qxb5 | Analysis: +1680 | Depth: 17 | EngineMove : f1b5
+11. Bxb5+ | Analysis: -1707 | Depth: 18 | EngineMove : a6b5

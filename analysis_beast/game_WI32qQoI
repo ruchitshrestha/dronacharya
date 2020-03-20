@@ -1,0 +1,33 @@
+**URL: https://lichess.org/WI32qQoI | Tag: WI32qQoI | Side: black**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/WI32qQoI', Date='2018.08.05', Round='-', White='justincha456', Black='chittyct', Result='1-0', BlackElo='1598', BlackRatingDiff='-100', ECO='D02', Termination='Normal', TimeControl='900+15', UTCDate='2018.08.05', UTCTime='05:04:53', Variant='Standard', WhiteElo='1536', WhiteRatingDiff='+87')
+
+1. Nf3 | Analysis: -13 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 12 | EngineMove : e2e3
+2. d4 | Analysis: -14 | Depth: 13 | EngineMove : g8f6
+2... Bf5 | Analysis: +23 | Depth: 11 | EngineMove : e2e3
+3. g3 | Analysis: -10 | Depth: 12 | EngineMove : b8c6
+3... e6 | Analysis: +2 | Depth: 12 | EngineMove : f3h4
+4. Bg2 | Analysis: -12 | Depth: 12 | EngineMove : f8e7
+4... Bd6 | Analysis: +36 | Depth: 12 | EngineMove : f3h4
+5. O-O | Analysis: -31 | Depth: 12 | EngineMove : g8f6
+5... Bg4 | Analysis: +68 | Depth: 11 | EngineMove : c2c4
+6. c4 | Analysis: -61 | Depth: 12 | EngineMove : c7c6
+6... dxc4 | Analysis: +76 | Depth: 12 | EngineMove : f3d2
+7. Ne5 | Analysis: -60 | Depth: 13 | EngineMove : d6e5
+7... c6 | Analysis: +374 | Depth: 12 | EngineMove : e5g4
+8. Nxg4 | Analysis: -384 | Depth: 13 | EngineMove : g8e7
+8... Nf6 | Analysis: +427 | Depth: 13 | EngineMove : g4f6
+9. Bg5 | Analysis: -407 | Depth: 12 | EngineMove : b8d7
+9... O-O | Analysis: +445 | Depth: 13 | EngineMove : g4f6
+10. Nxf6+ | Analysis: -437 | Depth: 15 | EngineMove : g7f6
+10... gxf6 | Analysis: +463 | Depth: 15 | EngineMove : g5h6
+11. Bh6 | Analysis: -456 | Depth: 15 | EngineMove : f8e8
+11... Re8 | Analysis: +463 | Depth: 15 | EngineMove : b1d2
+12. e4 | Analysis: -454 | Depth: 13 | EngineMove : d6f8
+12... f5 | Analysis: +455 | Depth: 14 | EngineMove : b1d2
+13. e5 | Analysis: -418 | Depth: 13 | EngineMove : d6e7
+13... Bc7 | Analysis: +456 | Depth: 13 | EngineMove : d1h5
+14. Qh5 | Analysis: -466 | Depth: 14 | EngineMove : b8d7
+14... Qxd4 | Analysis: #+2 | Depth: 127 | EngineMove : h5g5
+15. Qg5+ | Analysis: #-1 | Depth: 127 | EngineMove : g8h8
+15... Kh8 | Analysis: #+1 | Depth: 127 | EngineMove : g5g7

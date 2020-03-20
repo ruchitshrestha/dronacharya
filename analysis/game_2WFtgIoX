@@ -1,0 +1,28 @@
+**URL: https://lichess.org/2WFtgIoX | Tag: 2WFtgIoX | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/2WFtgIoX', Date='2019.07.20', Round='-', White='chittyct', Black='minahae', Result='1-0', BlackElo='1116', BlackRatingDiff='-7', ECO='D20', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.07.20', UTCTime='04:46:57', Variant='Standard', WhiteElo='1257', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -20 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 19 | EngineMove : c1f4
+2. c4 | Analysis: -22 | Depth: 18 | EngineMove : e7e6
+2... dxc4 | Analysis: +34 | Depth: 16 | EngineMove : g1f3
+3. e4 | Analysis: 0 | Depth: 18 | EngineMove : e7e5
+3... e6 | Analysis: +48 | Depth: 16 | EngineMove : f1c4
+4. Bxc4 | Analysis: -38 | Depth: 17 | EngineMove : g8f6
+4... Nc6 | Analysis: +76 | Depth: 17 | EngineMove : g1e2
+5. Nf3 | Analysis: -100 | Depth: 17 | EngineMove : g8f6
+5... Nf6 | Analysis: +100 | Depth: 19 | EngineMove : b1c3
+6. e5 | Analysis: -53 | Depth: 18 | EngineMove : f8b4
+6... Nd7 | Analysis: +72 | Depth: 18 | EngineMove : a2a3
+7. O-O | Analysis: -78 | Depth: 17 | EngineMove : d7b6
+7... a6 | Analysis: +82 | Depth: 19 | EngineMove : b1c3
+8. a3 | Analysis: -80 | Depth: 20 | EngineMove : h7h6
+8... b5 | Analysis: +93 | Depth: 16 | EngineMove : c4d3
+9. Bd3 | Analysis: -78 | Depth: 17 | EngineMove : c8b7
+9... Be7 | Analysis: +87 | Depth: 19 | EngineMove : d1c2
+10. Bc2 | Analysis: -80 | Depth: 17 | EngineMove : c8b7
+10... f6 | Analysis: +222 | Depth: 17 | EngineMove : c2e4
+11. exf6 | Analysis: -169 | Depth: 16 | EngineMove : d7f6
+11... Nxf6 | Analysis: +170 | Depth: 17 | EngineMove : b1c3
+12. Nc3 | Analysis: -158 | Depth: 16 | EngineMove : e8g8
+12... O-O | Analysis: +144 | Depth: 18 | EngineMove : d1d3
+13. Qd3 | Analysis: -150 | Depth: 20 | EngineMove : d8d6

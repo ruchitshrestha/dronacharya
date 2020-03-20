@@ -1,0 +1,11 @@
+**URL: https://lichess.org/42b1nWOp | Tag: 42b1nWOp | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/42b1nWOp', Date='2019.05.21', Round='-', White='Karacabeey', Black='chittyct', Result='0-1', BlackElo='1290', BlackRatingDiff='+8', ECO='B30', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.21', UTCTime='18:04:42', Variant='Standard', WhiteElo='1231', WhiteRatingDiff='-8')
+
+1. e4 | Analysis: -22 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +38 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -32 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +32 | Depth: 17 | EngineMove : f1b5
+3. Bb5 | Analysis: -29 | Depth: 19 | EngineMove : g8f6
+3... a6 | Analysis: +52 | Depth: 20 | EngineMove : b5c6
+4. Ba4 | Analysis: +171 | Depth: 18 | EngineMove : b7b5
+4... b5 | Analysis: -182 | Depth: 18 | EngineMove : a4b3

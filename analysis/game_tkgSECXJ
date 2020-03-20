@@ -1,0 +1,21 @@
+**URL: https://lichess.org/tkgSECXJ | Tag: tkgSECXJ | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/tkgSECXJ', Date='2018.12.02', Round='-', White='chittyct', Black='franz2411', Result='1-0', BlackElo='1127', BlackRatingDiff='-12', ECO='D02', Termination='Normal', TimeControl='120+1', UTCDate='2018.12.02', UTCTime='16:53:53', Variant='Standard', WhiteElo='1072', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -19 | Depth: 19 | EngineMove : g8f6
+1... d5 | Analysis: +12 | Depth: 18 | EngineMove : e2e3
+2. Nf3 | Analysis: -15 | Depth: 19 | EngineMove : e7e6
+2... Nf6 | Analysis: +17 | Depth: 17 | EngineMove : c1f4
+3. Bf4 | Analysis: -1 | Depth: 17 | EngineMove : c8f5
+3... Nc6 | Analysis: +17 | Depth: 18 | EngineMove : b1c3
+4. e3 | Analysis: -13 | Depth: 18 | EngineMove : f6h5
+4... e6 | Analysis: +31 | Depth: 18 | EngineMove : c2c3
+5. c4 | Analysis: -29 | Depth: 16 | EngineMove : f8e7
+5... Bd6 | Analysis: +27 | Depth: 19 | EngineMove : f4d6
+6. Bg3 | Analysis: -25 | Depth: 16 | EngineMove : e8g8
+6... Bxg3 | Analysis: +29 | Depth: 18 | EngineMove : h2g3
+7. hxg3 | Analysis: -21 | Depth: 18 | EngineMove : e8g8
+7... O-O | Analysis: +25 | Depth: 17 | EngineMove : b1d2
+8. cxd5 | Analysis: -4 | Depth: 18 | EngineMove : e6d5
+8... Nxd5 | Analysis: +42 | Depth: 16 | EngineMove : b1c3
+9. Qc2 | Analysis: -48 | Depth: 16 | EngineMove : h7h6
+9... Ndb4 | Analysis: #+1 | Depth: 127 | EngineMove : c2h7

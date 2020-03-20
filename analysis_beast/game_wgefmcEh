@@ -1,0 +1,24 @@
+**URL: https://lichess.org/wgefmcEh | Tag: wgefmcEh | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/wgefmcEh', Date='2019.11.03', Round='-', White='Jvuong33', Black='chittyct', Result='1-0', BlackElo='1503', BlackRatingDiff='-8', ECO='B30', Termination='Normal', TimeControl='180+2', UTCDate='2019.11.03', UTCTime='22:31:39', Variant='Standard', WhiteElo='1428', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -42 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +66 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -44 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +47 | Depth: 13 | EngineMove : f1b5
+3. c3 | Analysis: -24 | Depth: 11 | EngineMove : d7d5
+3... e6 | Analysis: +34 | Depth: 13 | EngineMove : d2d4
+4. d4 | Analysis: -33 | Depth: 12 | EngineMove : c5d4
+4... cxd4 | Analysis: +27 | Depth: 13 | EngineMove : c3d4
+5. cxd4 | Analysis: -31 | Depth: 13 | EngineMove : d7d5
+5... Nf6 | Analysis: +45 | Depth: 13 | EngineMove : d4d5
+6. Nc3 | Analysis: -15 | Depth: 13 | EngineMove : d7d5
+6... Bb4 | Analysis: +38 | Depth: 14 | EngineMove : d4d5
+7. Bd3 | Analysis: -34 | Depth: 14 | EngineMove : d7d5
+7... O-O | Analysis: +101 | Depth: 13 | EngineMove : e4e5
+8. Bg5 | Analysis: -29 | Depth: 13 | EngineMove : h7h6
+8... a6 | Analysis: +269 | Depth: 13 | EngineMove : e4e5
+9. e5 | Analysis: -287 | Depth: 13 | EngineMove : b4e7
+9... h6 | Analysis: +279 | Depth: 13 | EngineMove : g5h4
+10. exf6 | Analysis: -77 | Depth: 12 | EngineMove : h6g5
+10... gxf6 | Analysis: +527 | Depth: 12 | EngineMove : g5h6
+11. Bxh6 | Analysis: -498 | Depth: 12 | EngineMove : f8e8

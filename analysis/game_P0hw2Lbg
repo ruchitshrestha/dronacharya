@@ -1,0 +1,18 @@
+**URL: https://lichess.org/P0hw2Lbg | Tag: P0hw2Lbg | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/P0hw2Lbg', Date='2019.10.18', Round='-', White='chittyct', Black='navsheen007', Result='0-1', BlackElo='1518', BlackRatingDiff='+7', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.18', UTCTime='14:53:00', Variant='Standard', WhiteElo='1498', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -18 | Depth: 18 | EngineMove : g8f6
+1... e5 | Analysis: +70 | Depth: 19 | EngineMove : d4e5
+2. dxe5 | Analysis: -71 | Depth: 18 | EngineMove : b8c6
+2... Nc6 | Analysis: +86 | Depth: 19 | EngineMove : g1f3
+3. Nf3 | Analysis: -74 | Depth: 20 | EngineMove : d7d6
+3... Qe7 | Analysis: +117 | Depth: 19 | EngineMove : b1c3
+4. Bf4 | Analysis: -84 | Depth: 17 | EngineMove : f7f6
+4... Qb4+ | Analysis: +159 | Depth: 17 | EngineMove : b1c3
+5. Bd2 | Analysis: -92 | Depth: 17 | EngineMove : b4c5
+5... Qxb2 | Analysis: +187 | Depth: 17 | EngineMove : b1c3
+6. Bc3 | Analysis: +418 | Depth: 19 | EngineMove : f8b4
+6... Bb4 | Analysis: -427 | Depth: 18 | EngineMove : c3b4
+7. Qd2 | Analysis: +589 | Depth: 19 | EngineMove : b4c3
+7... Bxc3 | Analysis: -591 | Depth: 20 | EngineMove : b1c3
+8. Qxc3 | Analysis: #+1 | Depth: 127 | EngineMove : b2c1

@@ -1,0 +1,33 @@
+**URL: https://lichess.org/gCitaevW | Tag: gCitaevW | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/gCitaevW', Date='2019.07.09', Round='-', White='Kruizz', Black='chittyct', Result='0-1', BlackElo='1317', BlackRatingDiff='+11', ECO='A10', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.09', UTCTime='09:08:58', Variant='Standard', WhiteElo='1343', WhiteRatingDiff='-11')
+
+1. c4 | Analysis: -13 | Depth: 11 | EngineMove : e7e6
+1... g6 | Analysis: +85 | Depth: 12 | EngineMove : b1c3
+2. e4 | Analysis: -33 | Depth: 13 | EngineMove : c7c5
+2... Bg7 | Analysis: +50 | Depth: 13 | EngineMove : d2d4
+3. Nc3 | Analysis: -16 | Depth: 14 | EngineMove : b8c6
+3... e5 | Analysis: +13 | Depth: 14 | EngineMove : g1f3
+4. Nd5 | Analysis: +4 | Depth: 12 | EngineMove : d7d6
+4... c6 | Analysis: 0 | Depth: 12 | EngineMove : d5c3
+5. Ne3 | Analysis: +60 | Depth: 13 | EngineMove : g8f6
+5... d5 | Analysis: -19 | Depth: 12 | EngineMove : c4d5
+6. cxd5 | Analysis: +2 | Depth: 13 | EngineMove : g8f6
+6... cxd5 | Analysis: +18 | Depth: 11 | EngineMove : e4d5
+7. exd5 | Analysis: 0 | Depth: 11 | EngineMove : g8e7
+7... Ne7 | Analysis: +23 | Depth: 13 | EngineMove : f1c4
+8. Qb3 | Analysis: +18 | Depth: 13 | EngineMove : e8g8
+8... O-O | Analysis: -16 | Depth: 13 | EngineMove : f1c4
+9. Nf3 | Analysis: +41 | Depth: 12 | EngineMove : b8d7
+9... e4 | Analysis: -56 | Depth: 12 | EngineMove : f3g5
+10. Ng5 | Analysis: +41 | Depth: 13 | EngineMove : e7f5
+10... f5 | Analysis: +224 | Depth: 13 | EngineMove : d5d6
+11. Bc4 | Analysis: -56 | Depth: 11 | EngineMove : d8d6
+11... Qd6 | Analysis: +39 | Depth: 12 | EngineMove : d2d3
+12. O-O | Analysis: +1 | Depth: 12 | EngineMove : g7f6
+12... h6 | Analysis: -8 | Depth: 14 | EngineMove : g5e6
+13. Ne6 | Analysis: +39 | Depth: 14 | EngineMove : c8e6
+13... Bxe6 | Analysis: -29 | Depth: 14 | EngineMove : d5e6
+14. dxe6 | Analysis: +36 | Depth: 13 | EngineMove : b8c6
+14... Kh7 | Analysis: +122 | Depth: 11 | EngineMove : d2d3
+15. Qb4 | Analysis: +1048 | Depth: 12 | EngineMove : d6b4
+15... Qxb4 | Analysis: -1019 | Depth: 12 | EngineMove : d2d3

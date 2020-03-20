@@ -1,0 +1,10 @@
+**URL: https://lichess.org/RZxDsODS | Tag: RZxDsODS | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/RZxDsODS', Date='2018.12.20', Round='-', White='Illescas1997', Black='chittyct', Result='1-0', BlackElo='1377', BlackRatingDiff='-7', ECO='B20', Termination='Normal', TimeControl='420+0', UTCDate='2018.12.20', UTCTime='05:05:25', Variant='Standard', WhiteElo='1498', WhiteRatingDiff='+7')
+
+1. e4 | Analysis: -18 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +32 | Depth: 19 | EngineMove : b1c3
+2. b3 | Analysis: -14 | Depth: 17 | EngineMove : b8c6
+2... e6 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+3. Bb2 | Analysis: -3 | Depth: 16 | EngineMove : d7d6
+3... Be7 | Analysis: +215 | Depth: 18 | EngineMove : b2g7
+4. Bxg7 | Analysis: -225 | Depth: 18 | EngineMove : e7f6

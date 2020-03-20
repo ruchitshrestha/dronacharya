@@ -1,0 +1,34 @@
+**URL: https://lichess.org/rWny4Kr5 | Tag: rWny4Kr5 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/rWny4Kr5', Date='2018.11.14', Round='-', White='ferenjidotno', Black='chittyct', Result='0-1', BlackElo='1022', BlackRatingDiff='+9', ECO='B30', Termination='Normal', TimeControl='120+1', UTCDate='2018.11.14', UTCTime='23:46:02', Variant='Standard', WhiteElo='988', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -46 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +35 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -39 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +62 | Depth: 13 | EngineMove : f1b5
+3. c3 | Analysis: -9 | Depth: 12 | EngineMove : d7d5
+3... d6 | Analysis: +63 | Depth: 11 | EngineMove : d2d4
+4. Bb5 | Analysis: -13 | Depth: 11 | EngineMove : g8f6
+4... Nf6 | Analysis: +13 | Depth: 12 | EngineMove : d1e2
+5. Bxc6+ | Analysis: +9 | Depth: 15 | EngineMove : b7c6
+5... bxc6 | Analysis: -18 | Depth: 14 | EngineMove : d2d3
+6. e5 | Analysis: +71 | Depth: 12 | EngineMove : d6e5
+6... dxe5 | Analysis: -78 | Depth: 13 | EngineMove : d1a4
+7. Nxe5 | Analysis: +165 | Depth: 13 | EngineMove : d8d5
+7... e6 | Analysis: -40 | Depth: 12 | EngineMove : e1g1
+8. Nxc6 | Analysis: +324 | Depth: 14 | EngineMove : d8c7
+8... Qd7 | Analysis: -58 | Depth: 14 | EngineMove : c6e5
+9. Ne5 | Analysis: +36 | Depth: 14 | EngineMove : d7d5
+9... Qc7 | Analysis: +13 | Depth: 11 | EngineMove : e5f3
+10. Nf3 | Analysis: +5 | Depth: 12 | EngineMove : c5c4
+10... Bb7 | Analysis: +25 | Depth: 13 | EngineMove : b1a3
+11. O-O | Analysis: +48 | Depth: 12 | EngineMove : c5c4
+11... Bd6 | Analysis: +12 | Depth: 13 | EngineMove : d2d3
+12. g3 | Analysis: +292 | Depth: 14 | EngineMove : c7c6
+12... O-O | Analysis: -84 | Depth: 13 | EngineMove : d2d3
+13. d4 | Analysis: +187 | Depth: 13 | EngineMove : c7c6
+13... cxd4 | Analysis: -174 | Depth: 12 | EngineMove : f3d4
+14. Nxd4 | Analysis: +145 | Depth: 13 | EngineMove : d6c5
+14... e5 | Analysis: -152 | Depth: 13 | EngineMove : d4f5
+15. Nf5 | Analysis: +113 | Depth: 14 | EngineMove : c7c6
+15... Qc6 | Analysis: -178 | Depth: 14 | EngineMove : f2f3
+16. Nxd6 | Analysis: #+1 | Depth: 127 | EngineMove : c6h1

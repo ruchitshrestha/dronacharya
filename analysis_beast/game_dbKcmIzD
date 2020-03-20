@@ -1,0 +1,9 @@
+**URL: https://lichess.org/dbKcmIzD | Tag: dbKcmIzD | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/dbKcmIzD', Date='2019.11.13', Round='-', White='Ralf1', Black='chittyct', Result='1-0', BlackElo='1273', BlackRatingDiff='-5', ECO='A00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.13', UTCTime='10:27:58', Variant='Standard', WhiteElo='1339', WhiteRatingDiff='+6')
+
+1. e3 | Analysis: -13 | Depth: 13 | EngineMove : g8f6
+1... c5 | Analysis: +22 | Depth: 13 | EngineMove : g1f3
+2. Bc4 | Analysis: +50 | Depth: 12 | EngineMove : d7d5
+2... Nc6 | Analysis: -15 | Depth: 12 | EngineMove : g1f3
+3. Qf3 | Analysis: +89 | Depth: 13 | EngineMove : g8f6
+3... a6 | Analysis: #+1 | Depth: 127 | EngineMove : c4f7

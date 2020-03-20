@@ -1,0 +1,29 @@
+**URL: https://lichess.org/FEEi7Uil | Tag: FEEi7Uil | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/FEEi7Uil', Date='2018.10.09', Round='-', White='chittyct', Black='santiagoros20', Result='1-0', BlackElo='992', BlackRatingDiff='-45', ECO='D02', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.09', UTCTime='17:50:55', Variant='Standard', WhiteElo='938', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -3 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +19 | Depth: 14 | EngineMove : g1f3
+2. Nf3 | Analysis: -14 | Depth: 13 | EngineMove : g8f6
+2... Nf6 | Analysis: +7 | Depth: 14 | EngineMove : e2e3
+3. Bf4 | Analysis: -18 | Depth: 13 | EngineMove : e7e6
+3... Nc6 | Analysis: +20 | Depth: 12 | EngineMove : b1c3
+4. e3 | Analysis: -25 | Depth: 13 | EngineMove : f6h5
+4... e5 | Analysis: +88 | Depth: 12 | EngineMove : f3e5
+5. Bg3 | Analysis: +7 | Depth: 12 | EngineMove : e5d4
+5... Qe7 | Analysis: +111 | Depth: 11 | EngineMove : f3e5
+6. dxe5 | Analysis: -63 | Depth: 11 | EngineMove : f6e4
+6... Nxe5 | Analysis: +349 | Depth: 12 | EngineMove : g3e5
+7. Nxe5 | Analysis: -302 | Depth: 13 | EngineMove : e7b4
+7... Qxe5 | Analysis: +1055 | Depth: 13 | EngineMove : g3e5
+8. Bxe5 | Analysis: -1048 | Depth: 15 | EngineMove : c7c6
+8... Ng4 | Analysis: +1256 | Depth: 15 | EngineMove : e5c7
+9. Qxd5 | Analysis: -1196 | Depth: 14 | EngineMove : c7c6
+9... f6 | Analysis: +1711 | Depth: 13 | EngineMove : e5c7
+10. Bc4 | Analysis: -855 | Depth: 14 | EngineMove : g4e5
+10... fxe5 | Analysis: +1373 | Depth: 13 | EngineMove : b1c3
+11. Qf7+ | Analysis: -1398 | Depth: 14 | EngineMove : e8d8
+11... Kd8 | Analysis: +1493 | Depth: 14 | EngineMove : b1c3
+12. O-O | Analysis: -1246 | Depth: 14 | EngineMove : c8d7
+12... Nh6 | Analysis: +1677 | Depth: 14 | EngineMove : f1d1
+13. Rd1+ | Analysis: -1701 | Depth: 16 | EngineMove : f8d6
+13... Bd7 | Analysis: #+1 | Depth: 127 | EngineMove : f7d7

@@ -1,0 +1,25 @@
+**URL: https://lichess.org/PdRsVp4M | Tag: PdRsVp4M | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/PdRsVp4M', Date='2019.10.17', Round='-', White='chittyct', Black='DinamoK', Result='0-1', BlackElo='1587', BlackRatingDiff='+6', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.17', UTCTime='14:09:42', Variant='Standard', WhiteElo='1503', WhiteRatingDiff='-5')
+
+1. d4 | Analysis: -13 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 17 | EngineMove : g1f3
+2. Bf4 | Analysis: -15 | Depth: 18 | EngineMove : c8f5
+2... Nc6 | Analysis: +21 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -15 | Depth: 19 | EngineMove : c8f5
+3... Nf6 | Analysis: +16 | Depth: 18 | EngineMove : f1d3
+4. Nf3 | Analysis: -13 | Depth: 16 | EngineMove : f6h5
+4... Bf5 | Analysis: +49 | Depth: 19 | EngineMove : f1b5
+5. c4 | Analysis: -10 | Depth: 16 | EngineMove : e7e6
+5... e6 | Analysis: +16 | Depth: 19 | EngineMove : c4c5
+6. Nc3 | Analysis: +7 | Depth: 16 | EngineMove : f8b4
+6... dxc4 | Analysis: +32 | Depth: 17 | EngineMove : f1c4
+7. Bxc4 | Analysis: -34 | Depth: 18 | EngineMove : f8e7
+7... Bb4 | Analysis: +42 | Depth: 17 | EngineMove : e1g1
+8. a3 | Analysis: -3 | Depth: 17 | EngineMove : b4c3
+8... Bxc3+ | Analysis: +12 | Depth: 18 | EngineMove : b2c3
+9. bxc3 | Analysis: -11 | Depth: 18 | EngineMove : f6d5
+9... Nd5 | Analysis: +19 | Depth: 18 | EngineMove : e1g1
+10. O-O | Analysis: -24 | Depth: 18 | EngineMove : e8g8
+10... Nxc3 | Analysis: +87 | Depth: 19 | EngineMove : d1b3
+11. Rc1 | Analysis: +662 | Depth: 19 | EngineMove : c3d1
+11... Nxd1 | Analysis: -666 | Depth: 22 | EngineMove : f1d1

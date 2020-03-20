@@ -1,0 +1,20 @@
+**URL: https://lichess.org/kBaBZONa | Tag: kBaBZONa | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/kBaBZONa', Date='2019.06.25', Round='-', White='chittyct', Black='Dankly', Result='1-0', BlackElo='1201', BlackRatingDiff='-7', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.25', UTCTime='14:54:36', Variant='Standard', WhiteElo='1338', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -31 | Depth: 13 | EngineMove : d7d5
+1... g5 | Analysis: +143 | Depth: 13 | EngineMove : c1g5
+2. c4 | Analysis: -103 | Depth: 11 | EngineMove : g5g4
+2... h6 | Analysis: +112 | Depth: 11 | EngineMove : b1c3
+3. Nf3 | Analysis: -56 | Depth: 13 | EngineMove : g5g4
+3... d5 | Analysis: +117 | Depth: 11 | EngineMove : b1c3
+4. cxd5 | Analysis: -108 | Depth: 12 | EngineMove : g8f6
+4... Qxd5 | Analysis: +180 | Depth: 10 | EngineMove : b1c3
+5. Nc3 | Analysis: -139 | Depth: 12 | EngineMove : d5d8
+5... Qf5 | Analysis: +235 | Depth: 11 | EngineMove : e2e4
+6. e4 | Analysis: -227 | Depth: 13 | EngineMove : f5h7
+6... Qa5 | Analysis: +263 | Depth: 12 | EngineMove : f3e5
+7. Bd2 | Analysis: -191 | Depth: 12 | EngineMove : c7c6
+7... Bg4 | Analysis: +837 | Depth: 12 | EngineMove : c3d5
+8. Nd5 | Analysis: -866 | Depth: 13 | EngineMove : a5d5
+8... Bxf3 | Analysis: +920 | Depth: 13 | EngineMove : d1f3
+9. gxf3 | Analysis: -863 | Depth: 12 | EngineMove : a5d5

@@ -1,0 +1,35 @@
+**URL: https://lichess.org/qONaqKZ9 | Tag: qONaqKZ9 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/qONaqKZ9', Date='2019.06.22', Round='-', White='MDsEkin', Black='chittyct', Result='0-1', BlackElo='1378', BlackRatingDiff='+6', ECO='A00', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.22', UTCTime='01:07:23', Variant='Standard', WhiteElo='1195', WhiteRatingDiff='-5')
+
+1. e3 | Analysis: -27 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +20 | Depth: 12 | EngineMove : g1f3
+2. c4 | Analysis: -17 | Depth: 14 | EngineMove : g8f6
+2... Nc6 | Analysis: +29 | Depth: 13 | EngineMove : d2d4
+3. a3 | Analysis: +5 | Depth: 13 | EngineMove : e7e5
+3... Nf6 | Analysis: -2 | Depth: 13 | EngineMove : g1f3
+4. Ne2 | Analysis: +15 | Depth: 13 | EngineMove : d7d5
+4... e6 | Analysis: -12 | Depth: 14 | EngineMove : b1c3
+5. d4 | Analysis: +24 | Depth: 14 | EngineMove : d7d5
+5... cxd4 | Analysis: 0 | Depth: 13 | EngineMove : e2d4
+6. exd4 | Analysis: +28 | Depth: 13 | EngineMove : d7d5
+6... d5 | Analysis: -23 | Depth: 14 | EngineMove : c4d5
+7. Nec3 | Analysis: +46 | Depth: 12 | EngineMove : f8e7
+7... Be7 | Analysis: -46 | Depth: 14 | EngineMove : c1e3
+8. Be3 | Analysis: +38 | Depth: 14 | EngineMove : e8g8
+8... O-O | Analysis: -43 | Depth: 14 | EngineMove : b1d2
+9. Nd2 | Analysis: +48 | Depth: 14 | EngineMove : e6e5
+9... e5 | Analysis: -68 | Depth: 14 | EngineMove : d2f3
+10. Qb3 | Analysis: +429 | Depth: 12 | EngineMove : e5d4
+10... exd4 | Analysis: -462 | Depth: 13 | EngineMove : c3d5
+11. Nxd5 | Analysis: +476 | Depth: 14 | EngineMove : d4e3
+11... dxe3 | Analysis: -484 | Depth: 13 | EngineMove : f2e3
+12. fxe3 | Analysis: +497 | Depth: 13 | EngineMove : f8e8
+12... Nxd5 | Analysis: -401 | Depth: 12 | EngineMove : c4d5
+13. cxd5 | Analysis: +424 | Depth: 14 | EngineMove : c6a5
+13... Na5 | Analysis: -432 | Depth: 14 | EngineMove : b3d3
+14. Qa4 | Analysis: +489 | Depth: 11 | EngineMove : d8d5
+14... Qxd5 | Analysis: -479 | Depth: 12 | EngineMove : a4e4
+15. O-O-O | Analysis: +798 | Depth: 14 | EngineMove : c8d7
+15... Qc6+ | Analysis: -422 | Depth: 13 | EngineMove : a4c6
+16. Nc4 | Analysis: +1957 | Depth: 15 | EngineMove : c6a4
+16... Qxa4 | Analysis: -1997 | Depth: 15 | EngineMove : c4a5

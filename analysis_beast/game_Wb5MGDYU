@@ -1,0 +1,27 @@
+**URL: https://lichess.org/Wb5MGDYU | Tag: Wb5MGDYU | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Wb5MGDYU', Date='2018.12.06', Round='-', White='chittyct', Black='bjkeren', Result='0-1', BlackElo='1301', BlackRatingDiff='+8', ECO='D20', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.06', UTCTime='20:39:50', Variant='Standard', WhiteElo='1231', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -11 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +20 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -12 | Depth: 13 | EngineMove : e7e6
+2... dxc4 | Analysis: +41 | Depth: 12 | EngineMove : g1f3
+3. Nc3 | Analysis: -36 | Depth: 12 | EngineMove : c7c6
+3... e6 | Analysis: +45 | Depth: 12 | EngineMove : e2e3
+4. e3 | Analysis: -22 | Depth: 14 | EngineMove : g8f6
+4... b5 | Analysis: +124 | Depth: 11 | EngineMove : c3b5
+5. Nxb5 | Analysis: -97 | Depth: 13 | EngineMove : g8f6
+5... Ba6 | Analysis: +125 | Depth: 14 | EngineMove : d1a4
+6. Bxc4 | Analysis: +139 | Depth: 13 | EngineMove : c7c6
+6... Bxb5 | Analysis: +171 | Depth: 15 | EngineMove : c4b5
+7. Bxb5+ | Analysis: -168 | Depth: 15 | EngineMove : c7c6
+7... c6 | Analysis: +164 | Depth: 16 | EngineMove : b5d3
+8. Ba4 | Analysis: -161 | Depth: 13 | EngineMove : f8b4
+8... Qa5+ | Analysis: +171 | Depth: 15 | EngineMove : c1d2
+9. Bd2 | Analysis: -170 | Depth: 14 | EngineMove : f8b4
+9... Qxa4 | Analysis: +882 | Depth: 13 | EngineMove : d1a4
+10. b3 | Analysis: +199 | Depth: 13 | EngineMove : a4a6
+10... Qa6 | Analysis: -208 | Depth: 13 | EngineMove : g1e2
+11. Rc1 | Analysis: +210 | Depth: 14 | EngineMove : f8d6
+11... Ba3 | Analysis: -196 | Depth: 13 | EngineMove : c1c4
+12. Ne2 | Analysis: +371 | Depth: 14 | EngineMove : a3c1
+12... Bxc1 | Analysis: -378 | Depth: 14 | EngineMove : e2c1

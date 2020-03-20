@@ -1,0 +1,27 @@
+**URL: https://lichess.org/wcs2JyTG | Tag: wcs2JyTG | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/wcs2JyTG', Date='2019.12.12', Round='-', White='chittyct', Black='vhitex_80', Result='0-1', BlackElo='1427', BlackRatingDiff='+6', ECO='A45', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.12.12', UTCTime='10:27:35', Variant='Standard', WhiteElo='1336', WhiteRatingDiff='-5')
+
+1. d4 | Analysis: -22 | Depth: 16 | EngineMove : d7d5
+1... Nf6 | Analysis: +19 | Depth: 18 | EngineMove : c2c4
+2. Bf4 | Analysis: -17 | Depth: 18 | EngineMove : e7e6
+2... e6 | Analysis: +12 | Depth: 19 | EngineMove : e2e3
+3. e3 | Analysis: -10 | Depth: 18 | EngineMove : f8e7
+3... d5 | Analysis: +27 | Depth: 18 | EngineMove : g1f3
+4. Nf3 | Analysis: -20 | Depth: 18 | EngineMove : f8e7
+4... c5 | Analysis: +14 | Depth: 17 | EngineMove : f1e2
+5. c4 | Analysis: -10 | Depth: 16 | EngineMove : c5d4
+5... Nc6 | Analysis: +15 | Depth: 18 | EngineMove : b1c3
+6. cxd5 | Analysis: +13 | Depth: 16 | EngineMove : f6d5
+6... Nxd5 | Analysis: -13 | Depth: 18 | EngineMove : d4c5
+7. Bg3 | Analysis: +22 | Depth: 16 | EngineMove : c5d4
+7... cxd4 | Analysis: -22 | Depth: 19 | EngineMove : f3d4
+8. Nxd4 | Analysis: +29 | Depth: 19 | EngineMove : f8b4
+8... Qa5+ | Analysis: -27 | Depth: 19 | EngineMove : b1d2
+9. Qd2 | Analysis: +379 | Depth: 21 | EngineMove : f8b4
+9... Bb4 | Analysis: -398 | Depth: 22 | EngineMove : b1c3
+10. Nc3 | Analysis: +391 | Depth: 22 | EngineMove : d5c3
+10... Nxc3 | Analysis: -391 | Depth: 22 | EngineMove : d4c6
+11. bxc3 | Analysis: +937 | Depth: 18 | EngineMove : b4c3
+11... Bxc3 | Analysis: -956 | Depth: 21 | EngineMove : d4b3
+12. Qxc3 | Analysis: +1665 | Depth: 17 | EngineMove : a5c3
+12... Qxc3+ | Analysis: -1696 | Depth: 19 | EngineMove : e1e2

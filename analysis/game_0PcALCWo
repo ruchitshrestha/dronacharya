@@ -1,0 +1,27 @@
+**URL: https://lichess.org/0PcALCWo | Tag: 0PcALCWo | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/0PcALCWo', Date='2020.02.21', Round='-', White='chittyct', Black='mufti', Result='1-0', BlackElo='1643', BlackRatingDiff='-6', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2020.02.21', UTCTime='00:41:57', Variant='Standard', WhiteElo='1577', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -9 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +19 | Depth: 18 | EngineMove : c1f4
+2. Bf4 | Analysis: -16 | Depth: 19 | EngineMove : c8f5
+2... g6 | Analysis: +58 | Depth: 16 | EngineMove : c2c4
+3. e3 | Analysis: -39 | Depth: 17 | EngineMove : g8f6
+3... Bg7 | Analysis: +29 | Depth: 16 | EngineMove : g1f3
+4. Nf3 | Analysis: -32 | Depth: 17 | EngineMove : c7c5
+4... Nd7 | Analysis: +42 | Depth: 16 | EngineMove : c2c4
+5. c4 | Analysis: -45 | Depth: 19 | EngineMove : g8f6
+5... c6 | Analysis: +82 | Depth: 18 | EngineMove : c4d5
+6. cxd5 | Analysis: -74 | Depth: 18 | EngineMove : c6d5
+6... cxd5 | Analysis: +79 | Depth: 18 | EngineMove : b1d2
+7. Nc3 | Analysis: -75 | Depth: 19 | EngineMove : g8f6
+7... e6 | Analysis: +224 | Depth: 18 | EngineMove : c3b5
+8. Rc1 | Analysis: -105 | Depth: 19 | EngineMove : a7a6
+8... Nb6 | Analysis: +312 | Depth: 17 | EngineMove : c3b5
+9. Bb5+ | Analysis: -77 | Depth: 17 | EngineMove : c8d7
+9... Bd7 | Analysis: +91 | Depth: 18 | EngineMove : e1g1
+10. Bxd7+ | Analysis: -66 | Depth: 21 | EngineMove : d8d7
+10... Qxd7 | Analysis: +63 | Depth: 21 | EngineMove : d1b3
+11. O-O | Analysis: -53 | Depth: 17 | EngineMove : g8e7
+11... O-O-O | Analysis: +1391 | Depth: 23 | EngineMove : c3b5
+12. Nb5+ | Analysis: -1461 | Depth: 23 | EngineMove : d7c6
+12... Nc4 | Analysis: #+1 | Depth: 127 | EngineMove : b5a7

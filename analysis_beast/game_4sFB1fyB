@@ -1,0 +1,24 @@
+**URL: https://lichess.org/4sFB1fyB | Tag: 4sFB1fyB | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/4sFB1fyB', Date='2018.10.06', Round='-', White='chittyct', Black='AFPS_bloke', Result='1-0', BlackElo='800', BlackRatingDiff='+0', ECO='D02', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.06', UTCTime='19:01:22', Variant='Standard', WhiteElo='958', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -18 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +20 | Depth: 14 | EngineMove : e2e3
+2. Nf3 | Analysis: -9 | Depth: 13 | EngineMove : g8f6
+2... Nc6 | Analysis: +37 | Depth: 13 | EngineMove : c2c4
+3. Bf4 | Analysis: -18 | Depth: 14 | EngineMove : e7e6
+3... e5 | Analysis: +88 | Depth: 12 | EngineMove : d4e5
+4. dxe5 | Analysis: -88 | Depth: 13 | EngineMove : f8c5
+4... Bb4+ | Analysis: +125 | Depth: 13 | EngineMove : c2c3
+5. c3 | Analysis: -127 | Depth: 14 | EngineMove : b4e7
+5... Bf5 | Analysis: +393 | Depth: 13 | EngineMove : c3b4
+6. cxb4 | Analysis: -388 | Depth: 13 | EngineMove : c6b4
+6... Nxb4 | Analysis: +404 | Depth: 13 | EngineMove : d1a4
+7. Nd4 | Analysis: -386 | Depth: 13 | EngineMove : g8e7
+7... Be4 | Analysis: +585 | Depth: 14 | EngineMove : d1a4
+8. Qa4+ | Analysis: -596 | Depth: 16 | EngineMove : b4c6
+8... Kf8 | Analysis: +849 | Depth: 12 | EngineMove : a4b4
+9. Qxb4+ | Analysis: -845 | Depth: 14 | EngineMove : g8e7
+9... Ke8 | Analysis: +1019 | Depth: 12 | EngineMove : e5e6
+10. e3 | Analysis: -955 | Depth: 11 | EngineMove : g8e7
+10... c5 | Analysis: +1052 | Depth: 11 | EngineMove : b4c5
+11. Qxc5 | Analysis: -1080 | Depth: 13 | EngineMove : d8e7

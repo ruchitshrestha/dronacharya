@@ -1,0 +1,30 @@
+**URL: https://lichess.org/ehi8l58X | Tag: ehi8l58X | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ehi8l58X', Date='2019.12.10', Round='-', White='RichterJaecar', Black='chittyct', Result='0-1', BlackElo='1292', BlackRatingDiff='+8', ECO='D02', Termination='Normal', TimeControl='60+0', UTCDate='2019.12.10', UTCTime='20:31:05', Variant='Standard', WhiteElo='1337', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -28 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +15 | Depth: 13 | EngineMove : c1f4
+2. Nf3 | Analysis: -17 | Depth: 13 | EngineMove : g8f6
+2... Bf5 | Analysis: +24 | Depth: 12 | EngineMove : c1f4
+3. Nc3 | Analysis: -25 | Depth: 12 | EngineMove : e7e6
+3... e6 | Analysis: +2 | Depth: 12 | EngineMove : e2e3
+4. a3 | Analysis: +1 | Depth: 13 | EngineMove : f8d6
+4... Bd6 | Analysis: +17 | Depth: 13 | EngineMove : c1g5
+5. Ne5 | Analysis: +79 | Depth: 13 | EngineMove : d6e5
+5... Nc6 | Analysis: -24 | Depth: 13 | EngineMove : e5c6
+6. Bf4 | Analysis: +22 | Depth: 12 | EngineMove : d6e5
+6... Nf6 | Analysis: -12 | Depth: 13 | EngineMove : e2e3
+7. h3 | Analysis: +53 | Depth: 13 | EngineMove : d6e5
+7... O-O | Analysis: -43 | Depth: 12 | EngineMove : e2e3
+8. g4 | Analysis: +22 | Depth: 14 | EngineMove : f5g6
+8... Bg6 | Analysis: -27 | Depth: 14 | EngineMove : e5g6
+9. Nxg6 | Analysis: +47 | Depth: 13 | EngineMove : f7g6
+9... fxg6 | Analysis: -21 | Depth: 13 | EngineMove : f4d6
+10. Bxd6 | Analysis: +33 | Depth: 14 | EngineMove : c7d6
+10... Qxd6 | Analysis: -15 | Depth: 12 | EngineMove : f1g2
+11. Bg2 | Analysis: -2 | Depth: 11 | EngineMove : a8e8
+11... Ne4 | Analysis: +82 | Depth: 14 | EngineMove : g2e4
+12. Bxe4 | Analysis: -75 | Depth: 14 | EngineMove : d5e4
+12... dxe4 | Analysis: +51 | Depth: 15 | EngineMove : e2e3
+13. Nb5 | Analysis: +218 | Depth: 14 | EngineMove : d6f4
+13... Qf4 | Analysis: -235 | Depth: 14 | EngineMove : e1g1
+14. e3 | Analysis: #+1 | Depth: 127 | EngineMove : f4f2

@@ -1,0 +1,27 @@
+**URL: https://lichess.org/DjpLOcBG | Tag: DjpLOcBG | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/DjpLOcBG', Date='2019.06.01', Round='-', White='deekes', Black='chittyct', Result='0-1', BlackElo='1291', BlackRatingDiff='+9', ECO='B21', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.01', UTCTime='16:27:28', Variant='Standard', WhiteElo='1246', WhiteRatingDiff='-80')
+
+1. e4 | Analysis: -48 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +52 | Depth: 12 | EngineMove : b1c3
+2. d4 | Analysis: -18 | Depth: 13 | EngineMove : c5d4
+2... cxd4 | Analysis: +12 | Depth: 14 | EngineMove : d1d4
+3. Qxd4 | Analysis: -5 | Depth: 14 | EngineMove : b8c6
+3... Nc6 | Analysis: +3 | Depth: 14 | EngineMove : d4a4
+4. Qc4 | Analysis: +36 | Depth: 12 | EngineMove : g8f6
+4... e6 | Analysis: -16 | Depth: 12 | EngineMove : g1f3
+5. Nf3 | Analysis: +34 | Depth: 12 | EngineMove : g8f6
+5... a6 | Analysis: +1 | Depth: 10 | EngineMove : f1e2
+6. Nc3 | Analysis: +16 | Depth: 12 | EngineMove : g8f6
+6... b5 | Analysis: +10 | Depth: 12 | EngineMove : c4e2
+7. Qd3 | Analysis: -30 | Depth: 12 | EngineMove : d8a5
+7... Bb7 | Analysis: +9 | Depth: 10 | EngineMove : h2h3
+8. Bf4 | Analysis: +1 | Depth: 12 | EngineMove : g8f6
+8... Rc8 | Analysis: -5 | Depth: 10 | EngineMove : d3e2
+9. e5 | Analysis: +51 | Depth: 11 | EngineMove : g8e7
+9... Nb4 | Analysis: -46 | Depth: 13 | EngineMove : d3d2
+10. Qd2 | Analysis: +28 | Depth: 13 | EngineMove : b7f3
+10... Bxf3 | Analysis: -24 | Depth: 14 | EngineMove : g2f3
+11. gxf3 | Analysis: +32 | Depth: 13 | EngineMove : g8e7
+11... Rc5 | Analysis: +48 | Depth: 12 | EngineMove : a2a4
+12. Qe3 | Analysis: +818 | Depth: 13 | EngineMove : b4c2
+12... Nxc2+ | Analysis: -832 | Depth: 13 | EngineMove : e1d2

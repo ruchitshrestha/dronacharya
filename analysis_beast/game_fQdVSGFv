@@ -1,0 +1,17 @@
+**URL: https://lichess.org/fQdVSGFv | Tag: fQdVSGFv | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/fQdVSGFv', Date='2019.01.04', Round='-', White='B_e___t', Black='chittyct', Result='0-1', BlackElo='1062', BlackRatingDiff='+11', ECO='B30', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.01.04', UTCTime='12:23:47', Variant='Standard', WhiteElo='1060', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -43 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +61 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -47 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +41 | Depth: 13 | EngineMove : b1c3
+3. Bc4 | Analysis: -29 | Depth: 12 | EngineMove : g8f6
+3... b6 | Analysis: +62 | Depth: 12 | EngineMove : b1c3
+4. d3 | Analysis: -62 | Depth: 12 | EngineMove : e7e6
+4... Bb7 | Analysis: +45 | Depth: 13 | EngineMove : e1g1
+5. Bg5 | Analysis: -27 | Depth: 12 | EngineMove : h7h6
+5... Nf6 | Analysis: +24 | Depth: 13 | EngineMove : e1g1
+6. Nc3 | Analysis: -25 | Depth: 13 | EngineMove : e7e6
+6... e6 | Analysis: +15 | Depth: 12 | EngineMove : e1g1
+7. Nb5 | Analysis: +31 | Depth: 13 | EngineMove : a7a6
+7... a6 | Analysis: -34 | Depth: 14 | EngineMove : g5f6

@@ -1,0 +1,28 @@
+**URL: https://lichess.org/sMFQI5zN | Tag: sMFQI5zN | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/sMFQI5zN', Date='2020.03.09', Round='-', White='chittyct', Black='OrangeDutchy', Result='1-0', BlackElo='1362', BlackRatingDiff='-6', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2020.03.09', UTCTime='04:04:37', Variant='Standard', WhiteElo='1306', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -15 | Depth: 13 | EngineMove : g8f6
+1... b6 | Analysis: +84 | Depth: 12 | EngineMove : e2e4
+2. Bf4 | Analysis: -33 | Depth: 14 | EngineMove : g8f6
+2... Bb7 | Analysis: +32 | Depth: 14 | EngineMove : g1f3
+3. e3 | Analysis: -25 | Depth: 14 | EngineMove : g8f6
+3... g6 | Analysis: +51 | Depth: 12 | EngineMove : g1f3
+4. Nf3 | Analysis: -46 | Depth: 14 | EngineMove : g8f6
+4... Bg7 | Analysis: +43 | Depth: 12 | EngineMove : f1d3
+5. Be2 | Analysis: -26 | Depth: 13 | EngineMove : g8f6
+5... c5 | Analysis: +45 | Depth: 11 | EngineMove : b1c3
+6. O-O | Analysis: -35 | Depth: 13 | EngineMove : g8f6
+6... cxd4 | Analysis: +42 | Depth: 11 | EngineMove : e3d4
+7. exd4 | Analysis: -38 | Depth: 14 | EngineMove : g8f6
+7... Nc6 | Analysis: +115 | Depth: 13 | EngineMove : c2c4
+8. c3 | Analysis: -33 | Depth: 13 | EngineMove : g8f6
+8... e6 | Analysis: +97 | Depth: 13 | EngineMove : b1a3
+9. Nbd2 | Analysis: -37 | Depth: 14 | EngineMove : d7d5
+9... Qe7 | Analysis: +207 | Depth: 12 | EngineMove : d2e4
+10. Ne4 | Analysis: -185 | Depth: 13 | EngineMove : d7d5
+10... Rd8 | Analysis: +670 | Depth: 13 | EngineMove : f4d6
+11. Nd6+ | Analysis: -655 | Depth: 14 | EngineMove : e8f8
+11... Kf8 | Analysis: +632 | Depth: 15 | EngineMove : d6b7
+12. Nxb7 | Analysis: -639 | Depth: 14 | EngineMove : d7d6
+12... Rb8 | Analysis: +711 | Depth: 14 | EngineMove : f4d6
+13. Bd6 | Analysis: -714 | Depth: 16 | EngineMove : b8b7

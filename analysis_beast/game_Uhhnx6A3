@@ -1,0 +1,24 @@
+**URL: https://lichess.org/Uhhnx6A3 | Tag: Uhhnx6A3 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Uhhnx6A3', Date='2018.10.17', Round='-', White='chittyct', Black='dustinsprenger', Result='1-0', BlackElo='1098', BlackRatingDiff='-54', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2018.10.17', UTCTime='14:30:38', Variant='Standard', WhiteElo='930', WhiteRatingDiff='+17')
+
+1. d4 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+1... Nc6 | Analysis: +57 | Depth: 12 | EngineMove : d4d5
+2. Nf3 | Analysis: -39 | Depth: 12 | EngineMove : d7d5
+2... e5 | Analysis: +82 | Depth: 12 | EngineMove : d4d5
+3. Nxe5 | Analysis: -60 | Depth: 12 | EngineMove : c6e5
+3... Nxe5 | Analysis: +62 | Depth: 13 | EngineMove : d4e5
+4. dxe5 | Analysis: -72 | Depth: 13 | EngineMove : g8e7
+4... Bb4+ | Analysis: +104 | Depth: 13 | EngineMove : c2c3
+5. Bd2 | Analysis: -104 | Depth: 13 | EngineMove : a7a5
+5... Bxd2+ | Analysis: +111 | Depth: 12 | EngineMove : d1d2
+6. Qxd2 | Analysis: -107 | Depth: 13 | EngineMove : f7f6
+6... Nf6 | Analysis: +396 | Depth: 14 | EngineMove : e5f6
+7. exf6 | Analysis: -405 | Depth: 14 | EngineMove : d8f6
+7... gxf6 | Analysis: +453 | Depth: 12 | EngineMove : b1c3
+8. Qh6 | Analysis: -447 | Depth: 13 | EngineMove : b7b6
+8... Qe7 | Analysis: +472 | Depth: 14 | EngineMove : b1c3
+9. Qg7 | Analysis: -456 | Depth: 14 | EngineMove : h8f8
+9... Qf8 | Analysis: +495 | Depth: 13 | EngineMove : g7f6
+10. Qxf6 | Analysis: -497 | Depth: 14 | EngineMove : h8g8
+10... Qe7 | Analysis: +1070 | Depth: 14 | EngineMove : f6h8
+11. Qxh8+ | Analysis: -1086 | Depth: 16 | EngineMove : e7f8

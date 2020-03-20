@@ -1,0 +1,30 @@
+**URL: https://lichess.org/ZpoxMC9n | Tag: ZpoxMC9n | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ZpoxMC9n', Date='2019.06.29', Round='-', White='chittyct', Black='celikrasitt', Result='1-0', BlackElo='1287', BlackRatingDiff='-9', ECO='B12', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.29', UTCTime='05:53:14', Variant='Standard', WhiteElo='1326', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -9 | Depth: 14 | EngineMove : d7d5
+1... c6 | Analysis: +53 | Depth: 13 | EngineMove : e2e4
+2. e4 | Analysis: -53 | Depth: 13 | EngineMove : d7d5
+2... d5 | Analysis: +43 | Depth: 13 | EngineMove : e4e5
+3. e5 | Analysis: -37 | Depth: 14 | EngineMove : e7e6
+3... Bf5 | Analysis: +48 | Depth: 13 | EngineMove : g1f3
+4. Nc3 | Analysis: -38 | Depth: 13 | EngineMove : e7e6
+4... e6 | Analysis: +33 | Depth: 13 | EngineMove : a2a3
+5. Bd3 | Analysis: -15 | Depth: 13 | EngineMove : f5d3
+5... Bg6 | Analysis: +54 | Depth: 13 | EngineMove : g1f3
+6. Nge2 | Analysis: -55 | Depth: 12 | EngineMove : f8b4
+6... Bb4 | Analysis: +37 | Depth: 14 | EngineMove : e1g1
+7. O-O | Analysis: -38 | Depth: 14 | EngineMove : g8e7
+7... Nd7 | Analysis: +63 | Depth: 13 | EngineMove : e2f4
+8. a3 | Analysis: -25 | Depth: 14 | EngineMove : b4c3
+8... Ba5 | Analysis: +33 | Depth: 12 | EngineMove : d3g6
+9. b4 | Analysis: -29 | Depth: 14 | EngineMove : a5c7
+9... Bc7 | Analysis: +27 | Depth: 14 | EngineMove : a3a4
+10. Nf4 | Analysis: -9 | Depth: 13 | EngineMove : g6d3
+10... Bxd3 | Analysis: +2 | Depth: 13 | EngineMove : f4d3
+11. Qxd3 | Analysis: +9 | Depth: 12 | EngineMove : g8e7
+11... f6 | Analysis: +481 | Depth: 12 | EngineMove : f4e6
+12. Re1 | Analysis: -138 | Depth: 12 | EngineMove : d7f8
+12... Qe7 | Analysis: +643 | Depth: 12 | EngineMove : e5f6
+13. exf6 | Analysis: -646 | Depth: 13 | EngineMove : g8f6
+13... Ngxf6 | Analysis: +659 | Depth: 15 | EngineMove : e1e6
+14. Rxe6 | Analysis: -664 | Depth: 14 | EngineMove : c7f4

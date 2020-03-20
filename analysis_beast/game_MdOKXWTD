@@ -1,0 +1,29 @@
+**URL: https://lichess.org/MdOKXWTD | Tag: MdOKXWTD | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/MdOKXWTD', Date='2018.12.17', Round='-', White='getbalian', Black='chittyct', Result='1-0', BlackElo='1034', BlackRatingDiff='-4', ECO='B25', Termination='Normal', TimeControl='30+0', UTCDate='2018.12.17', UTCTime='08:12:07', Variant='Standard', WhiteElo='1311', WhiteRatingDiff='+4')
+
+1. e4 | Analysis: -26 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +47 | Depth: 12 | EngineMove : b1c3
+2. Nc3 | Analysis: -50 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +39 | Depth: 14 | EngineMove : g1f3
+3. Nf3 | Analysis: -32 | Depth: 13 | EngineMove : e7e6
+3... b6 | Analysis: +88 | Depth: 12 | EngineMove : f1c4
+4. d4 | Analysis: -98 | Depth: 14 | EngineMove : c5d4
+4... Bb7 | Analysis: +131 | Depth: 12 | EngineMove : d4d5
+5. d5 | Analysis: -128 | Depth: 12 | EngineMove : c6a5
+5... Ne5 | Analysis: +424 | Depth: 12 | EngineMove : f3e5
+6. Nxe5 | Analysis: -439 | Depth: 12 | EngineMove : a7a6
+6... d6 | Analysis: +1741 | Depth: 13 | EngineMove : f1b5
+7. Bf4 | Analysis: -412 | Depth: 12 | EngineMove : a7a6
+7... dxe5 | Analysis: +966 | Depth: 12 | EngineMove : f1b5
+8. Bxe5 | Analysis: -209 | Depth: 12 | EngineMove : a7a6
+8... f6 | Analysis: +266 | Depth: 11 | EngineMove : e5g3
+9. Qf3 | Analysis: -220 | Depth: 12 | EngineMove : a7a6
+9... fxe5 | Analysis: +845 | Depth: 14 | EngineMove : f1b5
+10. Bc4 | Analysis: +133 | Depth: 13 | EngineMove : a7a6
+10... b5 | Analysis: +978 | Depth: 12 | EngineMove : c4b5
+11. Bxb5+ | Analysis: -933 | Depth: 15 | EngineMove : d8d7
+11... Bc6 | Analysis: +1548 | Depth: 14 | EngineMove : b5c6
+12. Bc4 | Analysis: -145 | Depth: 12 | EngineMove : c6b7
+12... Bd7 | Analysis: +241 | Depth: 12 | EngineMove : f3h5
+13. d6 | Analysis: +45 | Depth: 13 | EngineMove : g8f6
+13... exd6 | Analysis: #+1 | Depth: 127 | EngineMove : f3f7

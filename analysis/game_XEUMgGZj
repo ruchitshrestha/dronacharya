@@ -1,0 +1,15 @@
+**URL: https://lichess.org/XEUMgGZj | Tag: XEUMgGZj | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/XEUMgGZj', Date='2018.12.08', Round='-', White='chittyct', Black='ezko84', Result='0-1', BlackElo='1096', BlackRatingDiff='+8', ECO='A43', Termination='Normal', TimeControl='60+0', UTCDate='2018.12.08', UTCTime='02:44:47', Variant='Standard', WhiteElo='1008', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -22 | Depth: 17 | EngineMove : g8f6
+1... c5 | Analysis: +51 | Depth: 16 | EngineMove : d4d5
+2. dxc5 | Analysis: -20 | Depth: 16 | EngineMove : e7e6
+2... Nc6 | Analysis: +13 | Depth: 17 | EngineMove : b1c3
+3. c4 | Analysis: -6 | Depth: 18 | EngineMove : e7e5
+3... e6 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+4. b4 | Analysis: +292 | Depth: 18 | EngineMove : d8f6
+4... Nxb4 | Analysis: -84 | Depth: 19 | EngineMove : c1b2
+5. Bf4 | Analysis: +375 | Depth: 19 | EngineMove : d8f6
+5... Qf6 | Analysis: -406 | Depth: 20 | EngineMove : d1d2
+6. e3 | Analysis: +543 | Depth: 19 | EngineMove : f6a1
+6... Qxa1 | Analysis: -540 | Depth: 19 | EngineMove : g1f3

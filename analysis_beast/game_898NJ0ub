@@ -1,0 +1,31 @@
+**URL: https://lichess.org/898NJ0ub | Tag: 898NJ0ub | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/898NJ0ub', Date='2018.12.03', Round='-', White='ndonohoe', Black='chittyct', Result='0-1', BlackElo='1053', BlackRatingDiff='+5', ECO='B25', Termination='Normal', TimeControl='60+0', UTCDate='2018.12.03', UTCTime='18:50:40', Variant='Standard', WhiteElo='849', WhiteRatingDiff='-8')
+
+1. e4 | Analysis: -27 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +50 | Depth: 13 | EngineMove : g1f3
+2. Nc3 | Analysis: -65 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +41 | Depth: 12 | EngineMove : f1b5
+3. Nf3 | Analysis: -17 | Depth: 14 | EngineMove : e7e5
+3... d6 | Analysis: +42 | Depth: 13 | EngineMove : f1c4
+4. Bc4 | Analysis: -20 | Depth: 13 | EngineMove : e7e6
+4... Bg4 | Analysis: +148 | Depth: 14 | EngineMove : c4f7
+5. h3 | Analysis: -23 | Depth: 13 | EngineMove : g4f3
+5... Bxf3 | Analysis: +15 | Depth: 13 | EngineMove : d1f3
+6. gxf3 | Analysis: +30 | Depth: 13 | EngineMove : e7e6
+6... Nf6 | Analysis: -17 | Depth: 12 | EngineMove : c4b5
+7. O-O | Analysis: +43 | Depth: 12 | EngineMove : e7e6
+7... e5 | Analysis: +4 | Depth: 12 | EngineMove : g1h2
+8. Nb5 | Analysis: +110 | Depth: 12 | EngineMove : d8d7
+8... Be7 | Analysis: -74 | Depth: 13 | EngineMove : d2d3
+9. b4 | Analysis: +303 | Depth: 13 | EngineMove : c5b4
+9... a6 | Analysis: -147 | Depth: 11 | EngineMove : b5c3
+10. bxc5 | Analysis: +365 | Depth: 13 | EngineMove : a6b5
+10... axb5 | Analysis: -332 | Depth: 13 | EngineMove : c4b5
+11. Bxb5 | Analysis: +337 | Depth: 14 | EngineMove : e8g8
+11... O-O | Analysis: -331 | Depth: 12 | EngineMove : b5c6
+12. Rb1 | Analysis: +384 | Depth: 11 | EngineMove : d6c5
+12... dxc5 | Analysis: -403 | Depth: 13 | EngineMove : c1b2
+13. Ba3 | Analysis: +764 | Depth: 12 | EngineMove : a8a3
+13... Rxa3 | Analysis: -778 | Depth: 11 | EngineMove : b5c6
+14. c4 | Analysis: +995 | Depth: 14 | EngineMove : c6d4
+14... Nd4 | Analysis: -1037 | Depth: 13 | EngineMove : b1b3

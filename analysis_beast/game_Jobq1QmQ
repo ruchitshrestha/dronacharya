@@ -1,0 +1,33 @@
+**URL: https://lichess.org/Jobq1QmQ | Tag: Jobq1QmQ | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Jobq1QmQ', Date='2018.12.13', Round='-', White='quevatu2', Black='chittyct', Result='1-0', BlackElo='1053', BlackRatingDiff='-12', ECO='C53', Termination='Normal', TimeControl='60+0', UTCDate='2018.12.13', UTCTime='21:27:02', Variant='Standard', WhiteElo='1032', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -17 | Depth: 11 | EngineMove : e7e5
+1... e5 | Analysis: +31 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+2... Nc6 | Analysis: +29 | Depth: 12 | EngineMove : f1b5
+3. Bc4 | Analysis: -26 | Depth: 12 | EngineMove : g8f6
+3... Nf6 | Analysis: +15 | Depth: 13 | EngineMove : d2d3
+4. c3 | Analysis: +82 | Depth: 12 | EngineMove : f6e4
+4... Bc5 | Analysis: +101 | Depth: 12 | EngineMove : d2d4
+5. d3 | Analysis: -25 | Depth: 12 | EngineMove : e8g8
+5... O-O | Analysis: +17 | Depth: 12 | EngineMove : e1g1
+6. Nbd2 | Analysis: -1 | Depth: 11 | EngineMove : a7a5
+6... Re8 | Analysis: +56 | Depth: 13 | EngineMove : b2b4
+7. O-O | Analysis: -14 | Depth: 11 | EngineMove : a7a5
+7... d6 | Analysis: +60 | Depth: 13 | EngineMove : b2b4
+8. Re1 | Analysis: -1 | Depth: 11 | EngineMove : a7a6
+8... Bg4 | Analysis: +62 | Depth: 13 | EngineMove : h2h3
+9. Nf1 | Analysis: -5 | Depth: 11 | EngineMove : c5b6
+9... Bxf3 | Analysis: +37 | Depth: 14 | EngineMove : d1f3
+10. Qxf3 | Analysis: -58 | Depth: 13 | EngineMove : c6a5
+10... a6 | Analysis: +138 | Depth: 12 | EngineMove : b2b4
+11. Be3 | Analysis: -33 | Depth: 12 | EngineMove : c6a5
+11... b5 | Analysis: +37 | Depth: 13 | EngineMove : c4b3
+12. Bb3 | Analysis: -46 | Depth: 14 | EngineMove : c5e3
+12... Bxe3 | Analysis: +52 | Depth: 15 | EngineMove : f1e3
+13. Nxe3 | Analysis: -44 | Depth: 15 | EngineMove : c6a5
+13... a5 | Analysis: +70 | Depth: 13 | EngineMove : a2a4
+14. Nf5 | Analysis: +10 | Depth: 12 | EngineMove : a5a4
+14... a4 | Analysis: +15 | Depth: 11 | EngineMove : b3c2
+15. Qg3 | Analysis: +3 | Depth: 14 | EngineMove : g7g6
+15... axb3 | Analysis: #+1 | Depth: 127 | EngineMove : g3g7

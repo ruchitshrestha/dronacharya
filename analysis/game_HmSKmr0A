@@ -1,0 +1,15 @@
+**URL: https://lichess.org/HmSKmr0A | Tag: HmSKmr0A | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/HmSKmr0A', Date='2019.11.08', Round='-', White='Annabeth_Chase12-7', Black='chittyct', Result='0-1', BlackElo='1267', BlackRatingDiff='+2', ECO='B30', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.08', UTCTime='13:32:08', Variant='Standard', WhiteElo='961', WhiteRatingDiff='-3')
+
+1. e4 | Analysis: -15 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +29 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -32 | Depth: 19 | EngineMove : e7e6
+2... Nc6 | Analysis: +44 | Depth: 18 | EngineMove : f1b5
+3. Bc4 | Analysis: -8 | Depth: 18 | EngineMove : g8f6
+3... a6 | Analysis: +23 | Depth: 16 | EngineMove : e1g1
+4. Ne5 | Analysis: +333 | Depth: 16 | EngineMove : c6e5
+4... Nxe5 | Analysis: -334 | Depth: 18 | EngineMove : c4b3
+5. Qh5 | Analysis: +616 | Depth: 18 | EngineMove : e5c4
+5... Nxc4 | Analysis: -606 | Depth: 19 | EngineMove : h5c5
+6. d3 | Analysis: +642 | Depth: 17 | EngineMove : d8a5
+6... Nd6 | Analysis: -568 | Depth: 18 | EngineMove : h5c5

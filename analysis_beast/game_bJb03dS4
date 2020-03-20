@@ -1,0 +1,31 @@
+**URL: https://lichess.org/bJb03dS4 | Tag: bJb03dS4 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/bJb03dS4', Date='2019.06.06', Round='-', White='IDarknessI', Black='chittyct', Result='0-1', BlackElo='1403', BlackRatingDiff='+14', ECO='B33', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.06', UTCTime='13:47:09', Variant='Standard', WhiteElo='1515', WhiteRatingDiff='-14')
+
+1. e4 | Analysis: -34 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +62 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -52 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +46 | Depth: 13 | EngineMove : f1b5
+3. d4 | Analysis: -30 | Depth: 12 | EngineMove : c5d4
+3... cxd4 | Analysis: +18 | Depth: 14 | EngineMove : f3d4
+4. Nxd4 | Analysis: -5 | Depth: 14 | EngineMove : g8f6
+4... Nf6 | Analysis: +10 | Depth: 14 | EngineMove : b1c3
+5. Nc3 | Analysis: -18 | Depth: 14 | EngineMove : e7e6
+5... e5 | Analysis: +44 | Depth: 14 | EngineMove : d4b5
+6. Ndb5 | Analysis: -47 | Depth: 14 | EngineMove : f8b4
+6... a6 | Analysis: +80 | Depth: 13 | EngineMove : b5d6
+7. Nd6+ | Analysis: -74 | Depth: 15 | EngineMove : f8d6
+7... Bxd6 | Analysis: +91 | Depth: 14 | EngineMove : d1d6
+8. Qxd6 | Analysis: -70 | Depth: 15 | EngineMove : d8b6
+8... b5 | Analysis: +165 | Depth: 13 | EngineMove : c1g5
+9. Bg5 | Analysis: -147 | Depth: 13 | EngineMove : a8a7
+9... Bb7 | Analysis: +267 | Depth: 14 | EngineMove : c3d5
+10. Nd5 | Analysis: -275 | Depth: 14 | EngineMove : d8b8
+10... Nxe4 | Analysis: +584 | Depth: 12 | EngineMove : d5c7
+11. Bxd8 | Analysis: 0 | Depth: 14 | EngineMove : e4d6
+11... Nxd6 | Analysis: +20 | Depth: 13 | EngineMove : d8b6
+12. Nc7+ | Analysis: +243 | Depth: 13 | EngineMove : e8d8
+12... Kxd8 | Analysis: -264 | Depth: 14 | EngineMove : c7a8
+13. Nxa8 | Analysis: +276 | Depth: 14 | EngineMove : c6d4
+13... Bxa8 | Analysis: -239 | Depth: 13 | EngineMove : c2c3
+14. O-O-O | Analysis: +327 | Depth: 14 | EngineMove : d6e4
+14... Ne4 | Analysis: -336 | Depth: 13 | EngineMove : d1e1

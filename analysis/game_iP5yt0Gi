@@ -1,0 +1,23 @@
+**URL: https://lichess.org/iP5yt0Gi | Tag: iP5yt0Gi | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/iP5yt0Gi', Date='2019.06.07', Round='-', White='prince_booboo', Black='chittyct', Result='0-1', BlackElo='1368', BlackRatingDiff='+10', ECO='B33', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.07', UTCTime='06:24:35', Variant='Standard', WhiteElo='1359', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -20 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +30 | Depth: 18 | EngineMove : g1f3
+2. Nf3 | Analysis: -28 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +31 | Depth: 18 | EngineMove : f1b5
+3. d4 | Analysis: -32 | Depth: 18 | EngineMove : c5d4
+3... cxd4 | Analysis: +30 | Depth: 18 | EngineMove : f3d4
+4. Nxd4 | Analysis: -19 | Depth: 19 | EngineMove : g8f6
+4... Nf6 | Analysis: +22 | Depth: 20 | EngineMove : b1c3
+5. Nc3 | Analysis: -16 | Depth: 20 | EngineMove : e7e6
+5... e5 | Analysis: +14 | Depth: 19 | EngineMove : d4b5
+6. Nf3 | Analysis: +15 | Depth: 17 | EngineMove : f8b4
+6... Bb4 | Analysis: +4 | Depth: 17 | EngineMove : f1c4
+7. a3 | Analysis: +99 | Depth: 18 | EngineMove : b4c3
+7... Bxc3+ | Analysis: -98 | Depth: 19 | EngineMove : b2c3
+8. bxc3 | Analysis: +111 | Depth: 19 | EngineMove : f6e4
+8... Nxe4 | Analysis: -100 | Depth: 20 | EngineMove : f1d3
+9. Bb2 | Analysis: +556 | Depth: 18 | EngineMove : d8b6
+9... Qb6 | Analysis: -522 | Depth: 18 | EngineMove : d1c1
+10. Be2 | Analysis: #+1 | Depth: 127 | EngineMove : b6f2
+10... Nxf2 | Analysis: -671 | Depth: 18 | EngineMove : d1d5

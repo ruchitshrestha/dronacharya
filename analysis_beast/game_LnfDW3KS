@@ -1,0 +1,17 @@
+**URL: https://lichess.org/LnfDW3KS | Tag: LnfDW3KS | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/LnfDW3KS', Date='2018.09.18', Round='-', White='chittyct', Black='gmpetit', Result='0-1', BlackElo='1119', BlackRatingDiff='+7', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.18', UTCTime='03:53:22', Variant='Standard', WhiteElo='984', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -13 | Depth: 13 | EngineMove : g8f6
+1... e5 | Analysis: +59 | Depth: 13 | EngineMove : d4e5
+2. Bd2 | Analysis: +48 | Depth: 13 | EngineMove : e5d4
+2... Nc6 | Analysis: +44 | Depth: 13 | EngineMove : d4d5
+3. dxe5 | Analysis: -14 | Depth: 13 | EngineMove : c6e5
+3... Nxe5 | Analysis: +16 | Depth: 12 | EngineMove : d2c3
+4. Nf3 | Analysis: +8 | Depth: 11 | EngineMove : e5f3
+4... d6 | Analysis: +18 | Depth: 13 | EngineMove : e2e3
+5. e3 | Analysis: -10 | Depth: 13 | EngineMove : g8f6
+5... Nf6 | Analysis: +16 | Depth: 14 | EngineMove : d2c3
+6. Bc4 | Analysis: +364 | Depth: 14 | EngineMove : e5c4
+6... g6 | Analysis: +1 | Depth: 12 | EngineMove : c4e2
+7. Nxe5 | Analysis: -13 | Depth: 13 | EngineMove : d6e5
+7... dxe5 | Analysis: +13 | Depth: 13 | EngineMove : e1g1

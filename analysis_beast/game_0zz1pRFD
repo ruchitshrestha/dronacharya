@@ -1,0 +1,12 @@
+**URL: https://lichess.org/0zz1pRFD | Tag: 0zz1pRFD | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/0zz1pRFD', Date='2018.10.14', Round='-', White='chittyct', Black='natdawggg', Result='1-0', BlackElo='1084', BlackRatingDiff='-11', ECO='D02', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.14', UTCTime='01:31:09', Variant='Standard', WhiteElo='1074', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -22 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +16 | Depth: 14 | EngineMove : e2e3
+2. Nf3 | Analysis: -12 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +27 | Depth: 14 | EngineMove : c1f4
+3. Bf4 | Analysis: -22 | Depth: 13 | EngineMove : g8f6
+3... g5 | Analysis: +130 | Depth: 12 | EngineMove : f4g5
+4. Bxg5 | Analysis: -134 | Depth: 13 | EngineMove : g8f6
+4... f5 | Analysis: +845 | Depth: 12 | EngineMove : g5d8
+5. Bxd8 | Analysis: -847 | Depth: 13 | EngineMove : e8d8

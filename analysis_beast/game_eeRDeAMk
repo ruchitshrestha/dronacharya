@@ -1,0 +1,27 @@
+**URL: https://lichess.org/eeRDeAMk | Tag: eeRDeAMk | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/eeRDeAMk', Date='2019.12.13', Round='-', White='cinaraknc', Black='chittyct', Result='0-1', BlackElo='1312', BlackRatingDiff='+2', ECO='B21', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.12.13', UTCTime='18:24:49', Variant='Standard', WhiteElo='1085', WhiteRatingDiff='-19')
+
+1. e4 | Analysis: -30 | Depth: 13 | EngineMove : e7e5
+1... c5 | Analysis: +39 | Depth: 13 | EngineMove : g1f3
+2. d4 | Analysis: -19 | Depth: 14 | EngineMove : c5d4
+2... cxd4 | Analysis: +13 | Depth: 13 | EngineMove : d1d4
+3. c3 | Analysis: -23 | Depth: 14 | EngineMove : d4c3
+3... dxc3 | Analysis: +7 | Depth: 16 | EngineMove : b1c3
+4. bxc3 | Analysis: +84 | Depth: 15 | EngineMove : b8c6
+4... e5 | Analysis: -19 | Depth: 13 | EngineMove : g1f3
+5. c4 | Analysis: +99 | Depth: 15 | EngineMove : g8f6
+5... Nf6 | Analysis: -108 | Depth: 16 | EngineMove : f1d3
+6. Nf3 | Analysis: +101 | Depth: 14 | EngineMove : b8a6
+6... Bb4+ | Analysis: -92 | Depth: 18 | EngineMove : c1d2
+7. Bd2 | Analysis: +98 | Depth: 17 | EngineMove : b4d2
+7... a5 | Analysis: -86 | Depth: 15 | EngineMove : a2a3
+8. Bxb4 | Analysis: +126 | Depth: 17 | EngineMove : a5b4
+8... axb4 | Analysis: -112 | Depth: 17 | EngineMove : c4c5
+9. a3 | Analysis: +224 | Depth: 14 | EngineMove : d7d6
+9... Nxe4 | Analysis: -170 | Depth: 15 | EngineMove : d1d5
+10. axb4 | Analysis: +567 | Depth: 16 | EngineMove : a8a1
+10... Rxa1 | Analysis: -552 | Depth: 17 | EngineMove : f1d3
+11. Ng5 | Analysis: +1391 | Depth: 18 | EngineMove : d8g5
+11... Qxg5 | Analysis: -1422 | Depth: 19 | EngineMove : f1d3
+12. g4 | Analysis: #+5 | Depth: 35 | EngineMove : a1b1
+12... Rxb1 | Analysis: #-4 | Depth: 48 | EngineMove : e1e2

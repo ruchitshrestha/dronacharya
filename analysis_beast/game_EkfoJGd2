@@ -1,0 +1,34 @@
+**URL: https://lichess.org/EkfoJGd2 | Tag: EkfoJGd2 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/EkfoJGd2', Date='2019.10.08', Round='-', White='chittyct', Black='Allegro8787', Result='1-0', BlackElo='1510', BlackRatingDiff='-8', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.08', UTCTime='17:26:22', Variant='Standard', WhiteElo='1445', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -20 | Depth: 11 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 13 | EngineMove : g1f3
+2. Bf4 | Analysis: -9 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +29 | Depth: 12 | EngineMove : b1c3
+3. c4 | Analysis: -4 | Depth: 12 | EngineMove : g8f6
+3... e6 | Analysis: +8 | Depth: 13 | EngineMove : e2e3
+4. cxd5 | Analysis: 0 | Depth: 12 | EngineMove : e6d5
+4... Qxd5 | Analysis: +42 | Depth: 11 | EngineMove : e2e3
+5. e3 | Analysis: -44 | Depth: 12 | EngineMove : f8b4
+5... Bb4+ | Analysis: +55 | Depth: 14 | EngineMove : b1c3
+6. Nc3 | Analysis: -65 | Depth: 13 | EngineMove : b4c3
+6... Bxc3+ | Analysis: +69 | Depth: 14 | EngineMove : b2c3
+7. bxc3 | Analysis: -53 | Depth: 14 | EngineMove : e6e5
+7... Nf6 | Analysis: +78 | Depth: 13 | EngineMove : f4c7
+8. Nf3 | Analysis: -65 | Depth: 13 | EngineMove : d5a5
+8... O-O | Analysis: +89 | Depth: 12 | EngineMove : f1d3
+9. c4 | Analysis: -77 | Depth: 12 | EngineMove : d5d8
+9... Qa5+ | Analysis: +63 | Depth: 14 | EngineMove : d1d2
+10. Nd2 | Analysis: +95 | Depth: 13 | EngineMove : e6e5
+10... Ne4 | Analysis: +90 | Depth: 12 | EngineMove : f1d3
+11. Be2 | Analysis: +218 | Depth: 12 | EngineMove : e6e5
+11... Nxd2 | Analysis: +65 | Depth: 13 | EngineMove : d1d2
+12. Qxd2 | Analysis: -76 | Depth: 13 | EngineMove : a5d2
+12... Qxd2+ | Analysis: +81 | Depth: 14 | EngineMove : e1d2
+13. Kxd2 | Analysis: -66 | Depth: 14 | EngineMove : e6e5
+13... a6 | Analysis: +267 | Depth: 12 | EngineMove : f4c7
+14. Bxc7 | Analysis: -259 | Depth: 14 | EngineMove : c8d7
+14... Bd7 | Analysis: +230 | Depth: 13 | EngineMove : h1b1
+15. Rab1 | Analysis: -215 | Depth: 13 | EngineMove : b7b5
+15... Na5 | Analysis: +546 | Depth: 14 | EngineMove : c7a5
+16. Bxa5 | Analysis: -553 | Depth: 14 | EngineMove : b7b5

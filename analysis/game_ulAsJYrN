@@ -1,0 +1,31 @@
+**URL: https://lichess.org/ulAsJYrN | Tag: ulAsJYrN | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ulAsJYrN', Date='2018.12.24', Round='-', White='chittyct', Black='senseigm', Result='0-1', BlackElo='1082', BlackRatingDiff='+11', ECO='D23', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.12.24', UTCTime='01:10:14', Variant='Standard', WhiteElo='1092', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -10 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 19 | EngineMove : e2e3
+2. c4 | Analysis: -14 | Depth: 19 | EngineMove : e7e6
+2... dxc4 | Analysis: +29 | Depth: 16 | EngineMove : g1f3
+3. Nf3 | Analysis: -24 | Depth: 18 | EngineMove : e7e6
+3... Nf6 | Analysis: +32 | Depth: 18 | EngineMove : e2e3
+4. Ng5 | Analysis: +89 | Depth: 15 | EngineMove : e7e5
+4... h6 | Analysis: -25 | Depth: 17 | EngineMove : g5f3
+5. Ne4 | Analysis: +373 | Depth: 18 | EngineMove : f6e4
+5... Nxe4 | Analysis: -396 | Depth: 17 | EngineMove : e2e3
+6. f3 | Analysis: +417 | Depth: 18 | EngineMove : e7e5
+6... Nf6 | Analysis: -332 | Depth: 16 | EngineMove : e2e4
+7. Na3 | Analysis: +423 | Depth: 17 | EngineMove : b8c6
+7... e6 | Analysis: -359 | Depth: 17 | EngineMove : a3c4
+8. e4 | Analysis: +492 | Depth: 14 | EngineMove : f6e4
+8... Bxa3 | Analysis: -394 | Depth: 17 | EngineMove : b2a3
+9. bxa3 | Analysis: +390 | Depth: 16 | EngineMove : b7b5
+9... O-O | Analysis: -317 | Depth: 16 | EngineMove : f1c4
+10. h3 | Analysis: +472 | Depth: 15 | EngineMove : f6e4
+10... Nc6 | Analysis: -446 | Depth: 16 | EngineMove : c1e3
+11. g3 | Analysis: +583 | Depth: 17 | EngineMove : c6d4
+11... Bd7 | Analysis: -482 | Depth: 15 | EngineMove : c1e3
+12. Bxc4 | Analysis: +441 | Depth: 17 | EngineMove : f6h5
+12... e5 | Analysis: -446 | Depth: 16 | EngineMove : d4d5
+13. dxe5 | Analysis: +479 | Depth: 17 | EngineMove : c6e5
+13... Nxe5 | Analysis: -498 | Depth: 18 | EngineMove : c4e2
+14. O-O | Analysis: +731 | Depth: 18 | EngineMove : e5c4
+14... a6 | Analysis: -445 | Depth: 17 | EngineMove : c4e2

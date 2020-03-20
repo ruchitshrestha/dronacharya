@@ -1,0 +1,29 @@
+**URL: https://lichess.org/LzAKGerv | Tag: LzAKGerv | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/LzAKGerv', Date='2019.06.08', Round='-', White='chittyct', Black='DehanZero', Result='1-0', BlackElo='1129', BlackRatingDiff='-14', ECO='A43', Termination='Normal', TimeControl='60+0', UTCDate='2019.06.08', UTCTime='09:02:53', Variant='Standard', WhiteElo='1057', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: -18 | Depth: 18 | EngineMove : d7d5
+1... c5 | Analysis: +51 | Depth: 18 | EngineMove : d4d5
+2. c3 | Analysis: -3 | Depth: 17 | EngineMove : g8f6
+2... cxd4 | Analysis: +12 | Depth: 19 | EngineMove : c3d4
+3. cxd4 | Analysis: -22 | Depth: 19 | EngineMove : d7d5
+3... Qa5+ | Analysis: +55 | Depth: 17 | EngineMove : c1d2
+4. Bd2 | Analysis: -67 | Depth: 19 | EngineMove : a5b6
+4... Qh5 | Analysis: +158 | Depth: 16 | EngineMove : b1c3
+5. Nc3 | Analysis: -151 | Depth: 19 | EngineMove : g8f6
+5... Kd8 | Analysis: +272 | Depth: 17 | EngineMove : g1f3
+6. Qc2 | Analysis: -164 | Depth: 17 | EngineMove : b8c6
+6... f6 | Analysis: +258 | Depth: 17 | EngineMove : e2e4
+7. e4 | Analysis: -242 | Depth: 18 | EngineMove : e7e6
+7... Qe8 | Analysis: +399 | Depth: 16 | EngineMove : c3b5
+8. Be2 | Analysis: -274 | Depth: 16 | EngineMove : b8c6
+8... Nc6 | Analysis: +318 | Depth: 18 | EngineMove : c3b5
+9. Nf3 | Analysis: -301 | Depth: 15 | EngineMove : e7e6
+9... e5 | Analysis: +330 | Depth: 18 | EngineMove : c3b5
+10. dxe5 | Analysis: -310 | Depth: 16 | EngineMove : f6e5
+10... fxe5 | Analysis: +307 | Depth: 18 | EngineMove : e1g1
+11. O-O | Analysis: -291 | Depth: 18 | EngineMove : g8f6
+11... Nd4 | Analysis: +494 | Depth: 17 | EngineMove : f3d4
+12. Nxd4 | Analysis: -544 | Depth: 18 | EngineMove : e5d4
+12... exd4 | Analysis: +575 | Depth: 19 | EngineMove : c3d5
+13. Nb5 | Analysis: -445 | Depth: 17 | EngineMove : e8e5
+13... d5 | Analysis: #+1 | Depth: 127 | EngineMove : c2c7

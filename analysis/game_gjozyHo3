@@ -1,0 +1,40 @@
+**URL: https://lichess.org/gjozyHo3 | Tag: gjozyHo3 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/gjozyHo3', Date='2019.04.02', Round='-', White='Polineusz', Black='chittyct', Result='0-1', BlackElo='1037', BlackRatingDiff='+11', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2019.04.02', UTCTime='16:03:48', Variant='Standard', WhiteElo='1028', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -19 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +39 | Depth: 17 | EngineMove : g1f3
+2. Bc4 | Analysis: +3 | Depth: 17 | EngineMove : e7e6
+2... Nc6 | Analysis: +1 | Depth: 18 | EngineMove : g1f3
+3. Qh5 | Analysis: +106 | Depth: 17 | EngineMove : e7e6
+3... e6 | Analysis: -79 | Depth: 18 | EngineMove : h5e2
+4. Nf3 | Analysis: +99 | Depth: 19 | EngineMove : d7d5
+4... Nf6 | Analysis: -102 | Depth: 20 | EngineMove : h5h4
+5. Qg5 | Analysis: +120 | Depth: 17 | EngineMove : d7d5
+5... h6 | Analysis: -78 | Depth: 18 | EngineMove : g5e3
+6. Qf4 | Analysis: +142 | Depth: 18 | EngineMove : g7g5
+6... g5 | Analysis: -152 | Depth: 19 | EngineMove : f4e3
+7. Qe3 | Analysis: +147 | Depth: 18 | EngineMove : g5g4
+7... a6 | Analysis: -61 | Depth: 17 | EngineMove : d2d3
+8. e5 | Analysis: +151 | Depth: 17 | EngineMove : g5g4
+8... Ng4 | Analysis: -68 | Depth: 16 | EngineMove : e3e4
+9. Qe4 | Analysis: +54 | Depth: 17 | EngineMove : h6h5
+9... h5 | Analysis: -44 | Depth: 18 | EngineMove : d2d3
+10. O-O | Analysis: +152 | Depth: 16 | EngineMove : f8g7
+10... f5 | Analysis: +22 | Depth: 17 | EngineMove : e5f6
+11. Qd3 | Analysis: +255 | Depth: 17 | EngineMove : b7b5
+11... Bg7 | Analysis: -221 | Depth: 16 | EngineMove : c4b3
+12. h3 | Analysis: +296 | Depth: 16 | EngineMove : g4e5
+12... Ngxe5 | Analysis: -286 | Depth: 16 | EngineMove : f3e5
+13. Nxe5 | Analysis: +312 | Depth: 16 | EngineMove : g7e5
+13... Nxe5 | Analysis: -293 | Depth: 16 | EngineMove : d3b3
+14. Qg3 | Analysis: +489 | Depth: 18 | EngineMove : e5c4
+14... f4 | Analysis: -353 | Depth: 18 | EngineMove : g3b3
+15. Qc3 | Analysis: +551 | Depth: 17 | EngineMove : g5g4
+15... g4 | Analysis: -583 | Depth: 17 | EngineMove : d2d4
+16. hxg4 | Analysis: +1759 | Depth: 17 | EngineMove : h5g4
+16... hxg4 | Analysis: -1864 | Depth: 18 | EngineMove : c3g3
+17. g3 | Analysis: +2119 | Depth: 17 | EngineMove : e5f3
+17... Nf3+ | Analysis: -2570 | Depth: 19 | EngineMove : c3f3
+18. Kg2 | Analysis: #+1 | Depth: 127 | EngineMove : h8h2
+18... Bxc3 | Analysis: -2828 | Depth: 19 | EngineMove : f1g1
+19. dxc3 | Analysis: #+1 | Depth: 127 | EngineMove : h8h2

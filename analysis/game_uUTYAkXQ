@@ -1,0 +1,35 @@
+**URL: https://lichess.org/uUTYAkXQ | Tag: uUTYAkXQ | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/uUTYAkXQ', Date='2019.02.21', Round='-', White='chittyct', Black='happybuddah10', Result='1-0', BlackElo='1303', BlackRatingDiff='-11', ECO='D06', Termination='Normal', TimeControl='180+2', UTCDate='2019.02.21', UTCTime='16:43:00', Variant='Standard', WhiteElo='1273', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -27 | Depth: 16 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 17 | EngineMove : e2e3
+2. c4 | Analysis: -18 | Depth: 19 | EngineMove : e7e6
+2... Nf6 | Analysis: +23 | Depth: 18 | EngineMove : c4d5
+3. cxd5 | Analysis: -11 | Depth: 18 | EngineMove : c7c6
+3... Nxd5 | Analysis: +72 | Depth: 19 | EngineMove : g1f3
+4. e4 | Analysis: -41 | Depth: 17 | EngineMove : d5f6
+4... Nb6 | Analysis: +50 | Depth: 16 | EngineMove : g1f3
+5. Nc3 | Analysis: -46 | Depth: 20 | EngineMove : e7e5
+5... e6 | Analysis: +82 | Depth: 19 | EngineMove : g1f3
+6. a3 | Analysis: -53 | Depth: 18 | EngineMove : c7c5
+6... Nc6 | Analysis: +86 | Depth: 17 | EngineMove : g1f3
+7. Nf3 | Analysis: -84 | Depth: 19 | EngineMove : f8e7
+7... Be7 | Analysis: +84 | Depth: 20 | EngineMove : f1d3
+8. Bb5 | Analysis: -61 | Depth: 18 | EngineMove : a7a6
+8... O-O | Analysis: +66 | Depth: 19 | EngineMove : e1g1
+9. d5 | Analysis: +24 | Depth: 17 | EngineMove : e6d5
+9... exd5 | Analysis: -13 | Depth: 18 | EngineMove : e4d5
+10. exd5 | Analysis: +18 | Depth: 18 | EngineMove : c6a5
+10... Nxd5 | Analysis: +246 | Depth: 16 | EngineMove : c3d5
+11. Nxd5 | Analysis: -255 | Depth: 16 | EngineMove : e7d6
+11... Be6 | Analysis: +267 | Depth: 17 | EngineMove : d5e7
+12. Nxe7+ | Analysis: -265 | Depth: 20 | EngineMove : c6e7
+12... Nxe7 | Analysis: +272 | Depth: 20 | EngineMove : e1g1
+13. O-O | Analysis: -268 | Depth: 19 | EngineMove : d8d1
+13... a6 | Analysis: +313 | Depth: 17 | EngineMove : b5d3
+14. Ba4 | Analysis: -293 | Depth: 16 | EngineMove : e6g4
+14... b5 | Analysis: +310 | Depth: 16 | EngineMove : a4c2
+15. Bc2 | Analysis: -306 | Depth: 17 | EngineMove : c7c5
+15... Bg4 | Analysis: +417 | Depth: 20 | EngineMove : c2h7
+16. Qd3 | Analysis: -258 | Depth: 18 | EngineMove : d8d3
+16... Qd5 | Analysis: #+1 | Depth: 127 | EngineMove : d3h7

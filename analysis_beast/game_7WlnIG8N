@@ -1,0 +1,24 @@
+**URL: https://lichess.org/7WlnIG8N | Tag: 7WlnIG8N | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/7WlnIG8N', Date='2019.11.06', Round='-', White='chittyct', Black='alechess1974', Result='1-0', BlackElo='1316', BlackRatingDiff='-7', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.06', UTCTime='20:18:40', Variant='Standard', WhiteElo='1311', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -22 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +16 | Depth: 13 | EngineMove : e2e3
+2. Bf4 | Analysis: -20 | Depth: 13 | EngineMove : e7e6
+2... Nf6 | Analysis: +17 | Depth: 14 | EngineMove : e2e3
+3. e3 | Analysis: -12 | Depth: 14 | EngineMove : e7e6
+3... h6 | Analysis: +38 | Depth: 13 | EngineMove : g1f3
+4. Nf3 | Analysis: -24 | Depth: 12 | EngineMove : e7e6
+4... e6 | Analysis: +26 | Depth: 13 | EngineMove : b1d2
+5. c4 | Analysis: -22 | Depth: 11 | EngineMove : f8e7
+5... g5 | Analysis: +43 | Depth: 10 | EngineMove : f4e5
+6. Be5 | Analysis: -45 | Depth: 11 | EngineMove : b8c6
+6... Be7 | Analysis: +61 | Depth: 12 | EngineMove : b1c3
+7. cxd5 | Analysis: -51 | Depth: 13 | EngineMove : e6d5
+7... Qxd5 | Analysis: +128 | Depth: 12 | EngineMove : e5c7
+8. Nc3 | Analysis: -97 | Depth: 13 | EngineMove : d5d8
+8... Qc6 | Analysis: +735 | Depth: 13 | EngineMove : f1b5
+9. Bb5 | Analysis: -728 | Depth: 14 | EngineMove : e8g8
+9... Qxb5 | Analysis: +828 | Depth: 14 | EngineMove : c3b5
+10. Nxb5 | Analysis: -818 | Depth: 14 | EngineMove : b8a6
+10... c6 | Analysis: +1182 | Depth: 13 | EngineMove : b5c7
+11. Nc7+ | Analysis: -1197 | Depth: 15 | EngineMove : e8f8

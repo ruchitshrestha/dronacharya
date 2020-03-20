@@ -1,0 +1,35 @@
+**URL: https://lichess.org/XgFi5KNl | Tag: XgFi5KNl | Side: white**
+HEADERS: Headers(Event='Casual UltraBullet game', Site='https://lichess.org/XgFi5KNl', Date='2019.04.29', Round='-', White='chittyct', Black='BNKookie', Result='0-1', BlackElo='1647', ECO='E21', Termination='Time forfeit', TimeControl='15+0', UTCDate='2019.04.29', UTCTime='23:47:03', Variant='Standard', WhiteElo='1183')
+
+1. d4 | Analysis: -19 | Depth: 13 | EngineMove : g8f6
+1... Nf6 | Analysis: +16 | Depth: 14 | EngineMove : g1f3
+2. c4 | Analysis: -13 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +18 | Depth: 15 | EngineMove : e2e3
+3. Nc3 | Analysis: -17 | Depth: 13 | EngineMove : d7d5
+3... Bb4 | Analysis: +17 | Depth: 12 | EngineMove : g1f3
+4. Nf3 | Analysis: -29 | Depth: 12 | EngineMove : c7c5
+4... c5 | Analysis: +22 | Depth: 13 | EngineMove : e2e3
+5. dxc5 | Analysis: +5 | Depth: 12 | EngineMove : b4c3
+5... Bxc5 | Analysis: +38 | Depth: 12 | EngineMove : a2a3
+6. a3 | Analysis: -39 | Depth: 13 | EngineMove : d7d5
+6... O-O | Analysis: +47 | Depth: 13 | EngineMove : b2b4
+7. b4 | Analysis: -40 | Depth: 13 | EngineMove : c5b6
+7... Be7 | Analysis: +45 | Depth: 11 | EngineMove : e2e4
+8. Bb2 | Analysis: +34 | Depth: 13 | EngineMove : a7a5
+8... a6 | Analysis: +31 | Depth: 13 | EngineMove : e2e4
+9. Rc1 | Analysis: +18 | Depth: 14 | EngineMove : a6a5
+9... b5 | Analysis: +61 | Depth: 12 | EngineMove : c4b5
+10. e3 | Analysis: -25 | Depth: 13 | EngineMove : b5c4
+10... Bb7 | Analysis: +43 | Depth: 13 | EngineMove : c4b5
+11. Be2 | Analysis: +11 | Depth: 14 | EngineMove : b5c4
+11... Bxf3 | Analysis: +141 | Depth: 12 | EngineMove : e2f3
+12. O-O | Analysis: +322 | Depth: 14 | EngineMove : f3e2
+12... Bxe2 | Analysis: -323 | Depth: 14 | EngineMove : d1e2
+13. Qxe2 | Analysis: +335 | Depth: 14 | EngineMove : b5c4
+13... Nc6 | Analysis: -243 | Depth: 13 | EngineMove : c4b5
+14. Rcd1 | Analysis: +341 | Depth: 13 | EngineMove : b5c4
+14... Rc8 | Analysis: -213 | Depth: 13 | EngineMove : c4b5
+15. Qf3 | Analysis: +520 | Depth: 13 | EngineMove : c6e5
+15... bxc4 | Analysis: -494 | Depth: 11 | EngineMove : e3e4
+16. Na4 | Analysis: +486 | Depth: 12 | EngineMove : d7d5
+16... Ne5 | Analysis: -135 | Depth: 14 | EngineMove : b2e5

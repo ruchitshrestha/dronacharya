@@ -1,0 +1,19 @@
+**URL: https://lichess.org/bSbTOdVI | Tag: bSbTOdVI | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/bSbTOdVI', Date='2019.11.02', Round='-', White='wodannn', Black='chittyct', Result='0-1', BlackElo='1234', BlackRatingDiff='+9', ECO='D02', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.02', UTCTime='18:56:22', Variant='Standard', WhiteElo='1343', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -9 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+2. Nf3 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+2... Bg4 | Analysis: +46 | Depth: 17 | EngineMove : f3e5
+3. Bf4 | Analysis: -15 | Depth: 15 | EngineMove : e7e6
+3... e6 | Analysis: +10 | Depth: 17 | EngineMove : b1d2
+4. h3 | Analysis: +25 | Depth: 19 | EngineMove : g4f3
+4... Bxf3 | Analysis: -23 | Depth: 20 | EngineMove : e2f3
+5. gxf3 | Analysis: +34 | Depth: 17 | EngineMove : c7c5
+5... c5 | Analysis: -30 | Depth: 18 | EngineMove : e2e3
+6. e3 | Analysis: +29 | Depth: 18 | EngineMove : b8c6
+6... cxd4 | Analysis: -47 | Depth: 16 | EngineMove : f1b5
+7. Qxd4 | Analysis: +34 | Depth: 18 | EngineMove : b8c6
+7... Nc6 | Analysis: -24 | Depth: 17 | EngineMove : d4d3
+8. Qc3 | Analysis: +682 | Depth: 19 | EngineMove : f8b4
+8... Bb4 | Analysis: -689 | Depth: 19 | EngineMove : a2a3

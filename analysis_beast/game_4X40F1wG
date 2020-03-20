@@ -1,0 +1,23 @@
+**URL: https://lichess.org/4X40F1wG | Tag: 4X40F1wG | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/4X40F1wG', Date='2019.03.28', Round='-', White='chittyct', Black='Otomasyon78', Result='0-1', BlackElo='1184', BlackRatingDiff='+15', ECO='A52', Termination='Normal', TimeControl='180+2', UTCDate='2019.03.28', UTCTime='20:19:12', Variant='Standard', WhiteElo='1209', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -29 | Depth: 13 | EngineMove : g8f6
+1... Nf6 | Analysis: +26 | Depth: 13 | EngineMove : c1f4
+2. c4 | Analysis: -12 | Depth: 13 | EngineMove : e7e6
+2... e5 | Analysis: +30 | Depth: 13 | EngineMove : d4e5
+3. dxe5 | Analysis: -25 | Depth: 13 | EngineMove : f6g4
+3... Ng4 | Analysis: +21 | Depth: 14 | EngineMove : e2e3
+4. e3 | Analysis: -30 | Depth: 14 | EngineMove : g4e5
+4... Nxe5 | Analysis: +22 | Depth: 14 | EngineMove : f2f4
+5. a3 | Analysis: -11 | Depth: 13 | EngineMove : d7d6
+5... b6 | Analysis: +53 | Depth: 12 | EngineMove : b1c3
+6. Qd5 | Analysis: +22 | Depth: 13 | EngineMove : b8c6
+6... Nec6 | Analysis: +61 | Depth: 11 | EngineMove : g1f3
+7. Nf3 | Analysis: -39 | Depth: 12 | EngineMove : c8b7
+7... Bb7 | Analysis: +25 | Depth: 13 | EngineMove : b2b4
+8. Nc3 | Analysis: -31 | Depth: 13 | EngineMove : f8e7
+8... Na5 | Analysis: +63 | Depth: 12 | EngineMove : d5d1
+9. Qd2 | Analysis: +132 | Depth: 13 | EngineMove : a5b3
+9... Nb3 | Analysis: -125 | Depth: 14 | EngineMove : d2d1
+10. Qd4 | Analysis: +667 | Depth: 13 | EngineMove : b3d4
+10... Nxd4 | Analysis: -656 | Depth: 14 | EngineMove : e3d4

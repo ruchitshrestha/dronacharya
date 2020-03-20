@@ -1,0 +1,12 @@
+**URL: https://lichess.org/qayydYcv | Tag: qayydYcv | Side: white**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/qayydYcv', Date='2018.12.24', Round='-', White='chittyct', Black='sudarno', Result='1-0', BlackElo='1657', BlackRatingDiff='-115', ECO='A40', Termination='Time forfeit', TimeControl='900+15', UTCDate='2018.12.24', UTCTime='13:24:14', Variant='Standard', WhiteElo='1461', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: -16 | Depth: 13 | EngineMove : d7d5
+1... b6 | Analysis: +63 | Depth: 13 | EngineMove : e2e4
+2. e4 | Analysis: -60 | Depth: 14 | EngineMove : c8b7
+2... Bb7 | Analysis: +51 | Depth: 13 | EngineMove : f1d3
+3. Nc3 | Analysis: -51 | Depth: 13 | EngineMove : e7e6
+3... d6 | Analysis: +83 | Depth: 12 | EngineMove : f1b5
+4. d5 | Analysis: -64 | Depth: 12 | EngineMove : g8f6
+4... g6 | Analysis: +83 | Depth: 11 | EngineMove : g1f3
+5. Be3 | Analysis: -27 | Depth: 12 | EngineMove : f8g7

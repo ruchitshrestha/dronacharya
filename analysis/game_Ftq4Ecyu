@@ -1,0 +1,19 @@
+**URL: https://lichess.org/Ftq4Ecyu | Tag: Ftq4Ecyu | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Ftq4Ecyu', Date='2019.02.03', Round='-', White='hoyusebow', Black='chittyct', Result='1-0', BlackElo='1213', BlackRatingDiff='-11', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2019.02.03', UTCTime='21:28:13', Variant='Standard', WhiteElo='1219', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -24 | Depth: 16 | EngineMove : e7e6
+1... c5 | Analysis: +41 | Depth: 17 | EngineMove : g1f3
+2. Bc4 | Analysis: -5 | Depth: 17 | EngineMove : e7e6
+2... e6 | Analysis: +12 | Depth: 18 | EngineMove : g1f3
+3. Nf3 | Analysis: -1 | Depth: 19 | EngineMove : g8f6
+3... a6 | Analysis: +11 | Depth: 16 | EngineMove : d2d4
+4. d4 | Analysis: -15 | Depth: 19 | EngineMove : d7d5
+4... Nc6 | Analysis: +67 | Depth: 17 | EngineMove : d4d5
+5. d5 | Analysis: -73 | Depth: 19 | EngineMove : c6a5
+5... Nd4 | Analysis: +103 | Depth: 15 | EngineMove : f3d4
+6. e5 | Analysis: -58 | Depth: 16 | EngineMove : e6d5
+6... Nxf3+ | Analysis: +69 | Depth: 17 | EngineMove : d1f3
+7. Qxf3 | Analysis: -76 | Depth: 18 | EngineMove : a8b8
+7... b5 | Analysis: +286 | Depth: 20 | EngineMove : d5e6
+8. dxe6 | Analysis: -279 | Depth: 21 | EngineMove : d7e6
+8... Ra7 | Analysis: #+1 | Depth: 127 | EngineMove : f3f7

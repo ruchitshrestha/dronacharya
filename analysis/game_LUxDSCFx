@@ -1,0 +1,22 @@
+**URL: https://lichess.org/LUxDSCFx | Tag: LUxDSCFx | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/LUxDSCFx', Date='2020.02.05', Round='-', White='Nasserk', Black='chittyct', Result='1-0', BlackElo='1320', BlackRatingDiff='-4', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2020.02.05', UTCTime='00:32:05', Variant='Standard', WhiteElo='1438', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -11 | Depth: 16 | EngineMove : g8f6
+1... d5 | Analysis: +24 | Depth: 17 | EngineMove : g1f3
+2. e3 | Analysis: -16 | Depth: 17 | EngineMove : g8f6
+2... Nc6 | Analysis: +29 | Depth: 17 | EngineMove : c2c4
+3. c3 | Analysis: +1 | Depth: 16 | EngineMove : e7e5
+3... Nf6 | Analysis: +4 | Depth: 17 | EngineMove : g1f3
+4. Bd3 | Analysis: +43 | Depth: 16 | EngineMove : e7e5
+4... e5 | Analysis: -51 | Depth: 17 | EngineMove : d3b5
+5. dxe5 | Analysis: +73 | Depth: 18 | EngineMove : c6e5
+5... Nxe5 | Analysis: -82 | Depth: 18 | EngineMove : d3c2
+6. Be2 | Analysis: +93 | Depth: 17 | EngineMove : f8d6
+6... Be7 | Analysis: -80 | Depth: 16 | EngineMove : g1f3
+7. Nf3 | Analysis: +71 | Depth: 16 | EngineMove : e5f3
+7... O-O | Analysis: +262 | Depth: 17 | EngineMove : f3e5
+8. Nxe5 | Analysis: -281 | Depth: 17 | EngineMove : c8f5
+8... Re8 | Analysis: +285 | Depth: 16 | EngineMove : e1g1
+9. O-O | Analysis: -282 | Depth: 17 | EngineMove : e7d6
+9... c5 | Analysis: +300 | Depth: 16 | EngineMove : c3c4
+10. Bb5 | Analysis: -287 | Depth: 18 | EngineMove : e8f8

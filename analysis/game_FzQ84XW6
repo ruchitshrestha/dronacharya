@@ -1,0 +1,31 @@
+**URL: https://lichess.org/FzQ84XW6 | Tag: FzQ84XW6 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/FzQ84XW6', Date='2018.12.20', Round='-', White='chittyct', Black='Avigian', Result='0-1', BlackElo='1579', BlackRatingDiff='+6', ECO='D51', Termination='Normal', TimeControl='300+0', UTCDate='2018.12.20', UTCTime='04:49:32', Variant='Standard', WhiteElo='1396', WhiteRatingDiff='-5')
+
+1. d4 | Analysis: -20 | Depth: 18 | EngineMove : g8f6
+1... Nf6 | Analysis: +18 | Depth: 18 | EngineMove : g1f3
+2. Bg5 | Analysis: -15 | Depth: 16 | EngineMove : f6e4
+2... d5 | Analysis: +15 | Depth: 16 | EngineMove : e2e3
+3. c4 | Analysis: +53 | Depth: 16 | EngineMove : f6e4
+3... c6 | Analysis: 0 | Depth: 17 | EngineMove : c4d5
+4. Nc3 | Analysis: +17 | Depth: 17 | EngineMove : d5c4
+4... e6 | Analysis: +36 | Depth: 17 | EngineMove : e2e3
+5. Nf3 | Analysis: -21 | Depth: 17 | EngineMove : b8d7
+5... Nbd7 | Analysis: +32 | Depth: 20 | EngineMove : c4d5
+6. e4 | Analysis: -1 | Depth: 18 | EngineMove : d5e4
+6... Qb6 | Analysis: +59 | Depth: 16 | EngineMove : e4d5
+7. Qc2 | Analysis: -23 | Depth: 16 | EngineMove : d5e4
+7... Bb4 | Analysis: +68 | Depth: 17 | EngineMove : g5f6
+8. c5 | Analysis: -15 | Depth: 18 | EngineMove : b6a5
+8... Qa5 | Analysis: +26 | Depth: 18 | EngineMove : e4d5
+9. Bd3 | Analysis: +157 | Depth: 19 | EngineMove : d5e4
+9... Bxc3+ | Analysis: -129 | Depth: 20 | EngineMove : b2c3
+10. Qxc3 | Analysis: +271 | Depth: 18 | EngineMove : a5c3
+10... Qxc3+ | Analysis: -263 | Depth: 20 | EngineMove : b2c3
+11. bxc3 | Analysis: +274 | Depth: 19 | EngineMove : d5e4
+11... dxe4 | Analysis: -276 | Depth: 19 | EngineMove : d3e2
+12. Bxf6 | Analysis: +318 | Depth: 17 | EngineMove : d7f6
+12... Nxf6 | Analysis: -348 | Depth: 17 | EngineMove : e1e2
+13. Bxe4 | Analysis: +358 | Depth: 19 | EngineMove : f6e4
+13... Nxe4 | Analysis: -361 | Depth: 18 | EngineMove : c3c4
+14. O-O | Analysis: +448 | Depth: 18 | EngineMove : e4c3
+14... Nxc3 | Analysis: -468 | Depth: 18 | EngineMove : f1e1

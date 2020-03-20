@@ -1,0 +1,28 @@
+**URL: https://lichess.org/15I1fCTt | Tag: 15I1fCTt | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/15I1fCTt', Date='2018.11.02', Round='-', White='blkmajih', Black='chittyct', Result='1-0', BlackElo='1025', BlackRatingDiff='-10', ECO='B30', Termination='Time forfeit', TimeControl='120+1', UTCDate='2018.11.02', UTCTime='17:24:58', Variant='Standard', WhiteElo='1065', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -31 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +52 | Depth: 12 | EngineMove : b1c3
+2. Nf3 | Analysis: -56 | Depth: 12 | EngineMove : e7e6
+2... Nc6 | Analysis: +49 | Depth: 12 | EngineMove : f1b5
+3. Bb5 | Analysis: -32 | Depth: 13 | EngineMove : e7e6
+3... e6 | Analysis: +55 | Depth: 12 | EngineMove : e1g1
+4. c3 | Analysis: -13 | Depth: 12 | EngineMove : d7d5
+4... d5 | Analysis: +23 | Depth: 13 | EngineMove : e4d5
+5. Qa4 | Analysis: +31 | Depth: 12 | EngineMove : d5e4
+5... Bd7 | Analysis: -23 | Depth: 13 | EngineMove : e4d5
+6. exd5 | Analysis: +13 | Depth: 13 | EngineMove : e6d5
+6... exd5 | Analysis: -2 | Depth: 13 | EngineMove : e1g1
+7. O-O | Analysis: +3 | Depth: 14 | EngineMove : f8d6
+7... a6 | Analysis: +49 | Depth: 12 | EngineMove : b5c6
+8. Re1+ | Analysis: -34 | Depth: 13 | EngineMove : f8e7
+8... Be7 | Analysis: +20 | Depth: 13 | EngineMove : b5c6
+9. Bxc6 | Analysis: -31 | Depth: 14 | EngineMove : d7c6
+9... Bxc6 | Analysis: +47 | Depth: 13 | EngineMove : a4g4
+10. Qg4 | Analysis: -34 | Depth: 14 | EngineMove : e8f8
+10... Nf6 | Analysis: +302 | Depth: 13 | EngineMove : g4g7
+11. Qxg7 | Analysis: -288 | Depth: 12 | EngineMove : e8d7
+11... Kd7 | Analysis: +261 | Depth: 11 | EngineMove : g7f7
+12. Ne5+ | Analysis: -263 | Depth: 11 | EngineMove : d7c8
+12... Kc7 | Analysis: +553 | Depth: 14 | EngineMove : e5f7
+13. Qxf7 | Analysis: -166 | Depth: 12 | EngineMove : h8f8

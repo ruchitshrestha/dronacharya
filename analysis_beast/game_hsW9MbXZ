@@ -1,0 +1,36 @@
+**URL: https://lichess.org/hsW9MbXZ | Tag: hsW9MbXZ | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/hsW9MbXZ', Date='2020.01.21', Round='-', White='NewRonggo-ireng', Black='chittyct', Result='0-1', BlackElo='1487', BlackRatingDiff='+7', ECO='A27', Termination='Normal', TimeControl='180+2', UTCDate='2020.01.21', UTCTime='15:24:13', Variant='Standard', WhiteElo='1486', WhiteRatingDiff='-5')
+
+1. c4 | Analysis: +15 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: -20 | Depth: 13 | EngineMove : b1c3
+2. Nf3 | Analysis: +12 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: -8 | Depth: 13 | EngineMove : b1c3
+3. Nc3 | Analysis: +5 | Depth: 15 | EngineMove : g8f6
+3... Bc5 | Analysis: +55 | Depth: 13 | EngineMove : e2e3
+4. g3 | Analysis: +51 | Depth: 11 | EngineMove : g8f6
+4... d6 | Analysis: 0 | Depth: 13 | EngineMove : e2e3
+5. e3 | Analysis: +11 | Depth: 12 | EngineMove : c8g4
+5... Nf6 | Analysis: -5 | Depth: 12 | EngineMove : d2d4
+6. Bg2 | Analysis: -7 | Depth: 12 | EngineMove : e8g8
+6... O-O | Analysis: +9 | Depth: 12 | EngineMove : e1g1
+7. d4 | Analysis: -9 | Depth: 13 | EngineMove : c5b4
+7... exd4 | Analysis: +18 | Depth: 12 | EngineMove : e3d4
+8. exd4 | Analysis: -20 | Depth: 12 | EngineMove : c5b6
+8... Re8+ | Analysis: +13 | Depth: 12 | EngineMove : c1e3
+9. Be3 | Analysis: -18 | Depth: 11 | EngineMove : c5b6
+9... Bb4 | Analysis: +15 | Depth: 13 | EngineMove : e1g1
+10. O-O | Analysis: -15 | Depth: 13 | EngineMove : b4c3
+10... Ng4 | Analysis: +78 | Depth: 12 | EngineMove : e3g5
+11. Re1 | Analysis: -16 | Depth: 13 | EngineMove : b4c3
+11... Nxe3 | Analysis: +24 | Depth: 14 | EngineMove : e1e3
+12. fxe3 | Analysis: -13 | Depth: 12 | EngineMove : c8f5
+12... Bg4 | Analysis: +25 | Depth: 13 | EngineMove : d1d3
+13. Qc2 | Analysis: -6 | Depth: 11 | EngineMove : d8d7
+13... Qf6 | Analysis: +15 | Depth: 12 | EngineMove : c3d5
+14. Nd5 | Analysis: -30 | Depth: 13 | EngineMove : f6h6
+14... Qf5 | Analysis: +139 | Depth: 15 | EngineMove : c2f5
+15. Nxc7 | Analysis: +1006 | Depth: 12 | EngineMove : f5c2
+15... Qxc2 | Analysis: -1057 | Depth: 13 | EngineMove : e1f1
+16. Nxe8 | Analysis: +1154 | Depth: 14 | EngineMove : b4e1
+16... Bxf3 | Analysis: -1100 | Depth: 14 | EngineMove : g2f3
+17. Rec1 | Analysis: #+1 | Depth: 127 | EngineMove : c2g2

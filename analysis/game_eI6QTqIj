@@ -1,0 +1,31 @@
+**URL: https://lichess.org/eI6QTqIj | Tag: eI6QTqIj | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/eI6QTqIj', Date='2019.10.03', Round='-', White='Cassepipe74', Black='chittyct', Result='0-1', BlackElo='1467', BlackRatingDiff='+7', ECO='D30', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.03', UTCTime='11:37:26', Variant='Standard', WhiteElo='1449', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -13 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +16 | Depth: 18 | EngineMove : g1f3
+2. c4 | Analysis: -14 | Depth: 18 | EngineMove : e7e6
+2... e6 | Analysis: +12 | Depth: 18 | EngineMove : e2e3
+3. Bf4 | Analysis: -5 | Depth: 16 | EngineMove : g8f6
+3... Nf6 | Analysis: +3 | Depth: 16 | EngineMove : e2e3
+4. e3 | Analysis: -9 | Depth: 16 | EngineMove : c7c5
+4... Bd6 | Analysis: +29 | Depth: 19 | EngineMove : f4d6
+5. Bg3 | Analysis: -10 | Depth: 16 | EngineMove : e8g8
+5... O-O | Analysis: +10 | Depth: 18 | EngineMove : b1c3
+6. Bxd6 | Analysis: -1 | Depth: 18 | EngineMove : c7d6
+6... cxd6 | Analysis: +5 | Depth: 19 | EngineMove : b1c3
+7. cxd5 | Analysis: -9 | Depth: 18 | EngineMove : f6d5
+7... Nxd5 | Analysis: +4 | Depth: 19 | EngineMove : g1f3
+8. Bd3 | Analysis: +5 | Depth: 19 | EngineMove : d5b4
+8... Nc6 | Analysis: 0 | Depth: 18 | EngineMove : g1e2
+9. Nf3 | Analysis: +15 | Depth: 18 | EngineMove : d8b6
+9... e5 | Analysis: -13 | Depth: 17 | EngineMove : b1c3
+10. dxe5 | Analysis: +24 | Depth: 18 | EngineMove : d6e5
+10... dxe5 | Analysis: -17 | Depth: 19 | EngineMove : e1g1
+11. Be2 | Analysis: +37 | Depth: 16 | EngineMove : e5e4
+11... Re8 | Analysis: -20 | Depth: 18 | EngineMove : e1g1
+12. O-O | Analysis: +25 | Depth: 18 | EngineMove : e5e4
+12... e4 | Analysis: -13 | Depth: 19 | EngineMove : f3d4
+13. Ne1 | Analysis: +51 | Depth: 17 | EngineMove : c8e6
+13... Nf6 | Analysis: -30 | Depth: 18 | EngineMove : b1c3
+14. Bb5 | Analysis: +1213 | Depth: 19 | EngineMove : d8d1
+14... Qxd1 | Analysis: -1172 | Depth: 20 | EngineMove : e1d3

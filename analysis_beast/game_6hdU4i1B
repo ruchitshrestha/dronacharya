@@ -1,0 +1,28 @@
+**URL: https://lichess.org/6hdU4i1B | Tag: 6hdU4i1B | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/6hdU4i1B', Date='2018.09.29', Round='-', White='Apple_candy', Black='chittyct', Result='0-1', BlackElo='1094', BlackRatingDiff='+6', ECO='B40', Termination='Normal', TimeControl='180+0', UTCDate='2018.09.29', UTCTime='07:56:28', Variant='Standard', WhiteElo='919', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -40 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +41 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -53 | Depth: 13 | EngineMove : e7e6
+2... e6 | Analysis: +44 | Depth: 13 | EngineMove : b1c3
+3. d3 | Analysis: -10 | Depth: 13 | EngineMove : b8c6
+3... d5 | Analysis: +25 | Depth: 12 | EngineMove : e4d5
+4. exd5 | Analysis: -17 | Depth: 12 | EngineMove : e6d5
+4... exd5 | Analysis: +7 | Depth: 13 | EngineMove : d3d4
+5. Be2 | Analysis: +1 | Depth: 12 | EngineMove : g8f6
+5... Nf6 | Analysis: +6 | Depth: 13 | EngineMove : d3d4
+6. O-O | Analysis: +6 | Depth: 14 | EngineMove : f8e7
+6... Bd6 | Analysis: +12 | Depth: 12 | EngineMove : c1g5
+7. c3 | Analysis: +12 | Depth: 12 | EngineMove : e8g8
+7... Bc7 | Analysis: +20 | Depth: 12 | EngineMove : c1e3
+8. d4 | Analysis: +3 | Depth: 12 | EngineMove : c5d4
+8... c4 | Analysis: +49 | Depth: 12 | EngineMove : b2b3
+9. a3 | Analysis: +63 | Depth: 11 | EngineMove : b8c6
+9... Qd6 | Analysis: -24 | Depth: 11 | EngineMove : f1e1
+10. Re1 | Analysis: +48 | Depth: 12 | EngineMove : e8g8
+10... Qxh2+ | Analysis: +909 | Depth: 13 | EngineMove : f3h2
+11. Kf1 | Analysis: +431 | Depth: 13 | EngineMove : h2h1
+11... Qh1+ | Analysis: -365 | Depth: 14 | EngineMove : f3g1
+12. Ng1 | Analysis: +341 | Depth: 14 | EngineMove : e8g8
+12... Bh2 | Analysis: -216 | Depth: 13 | EngineMove : e2f3
+13. a4 | Analysis: #+1 | Depth: 127 | EngineMove : h1g1

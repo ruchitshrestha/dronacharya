@@ -1,0 +1,28 @@
+**URL: https://lichess.org/gpW8ZUzK | Tag: gpW8ZUzK | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/gpW8ZUzK', Date='2018.11.02', Round='-', White='caiva97', Black='chittyct', Result='1-0', BlackElo='1199', BlackRatingDiff='-8', ECO='B56', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.02', UTCTime='12:55:25', Variant='Standard', WhiteElo='1291', WhiteRatingDiff='+8')
+
+1. e4 | Analysis: -22 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +28 | Depth: 18 | EngineMove : b1c3
+2. Nf3 | Analysis: -24 | Depth: 18 | EngineMove : e7e6
+2... d6 | Analysis: +35 | Depth: 17 | EngineMove : d2d4
+3. d4 | Analysis: -24 | Depth: 17 | EngineMove : c5d4
+3... cxd4 | Analysis: +27 | Depth: 18 | EngineMove : f3d4
+4. Nxd4 | Analysis: -31 | Depth: 18 | EngineMove : e7e6
+4... Nf6 | Analysis: +25 | Depth: 18 | EngineMove : b1c3
+5. Nc3 | Analysis: -30 | Depth: 18 | EngineMove : e7e6
+5... e5 | Analysis: +40 | Depth: 17 | EngineMove : f1b5
+6. Nb3 | Analysis: -16 | Depth: 18 | EngineMove : f8e7
+6... Be6 | Analysis: +24 | Depth: 18 | EngineMove : f2f4
+7. Bd3 | Analysis: 0 | Depth: 18 | EngineMove : f8e7
+7... d5 | Analysis: +79 | Depth: 18 | EngineMove : e4d5
+8. exd5 | Analysis: -80 | Depth: 19 | EngineMove : e6d5
+8... Nxd5 | Analysis: +106 | Depth: 19 | EngineMove : d3e4
+9. Nxd5 | Analysis: -62 | Depth: 16 | EngineMove : d8d5
+9... Qxd5 | Analysis: +35 | Depth: 18 | EngineMove : e1g1
+10. O-O | Analysis: -34 | Depth: 17 | EngineMove : f8e7
+10... Nc6 | Analysis: +55 | Depth: 19 | EngineMove : d1e2
+11. Re1 | Analysis: -13 | Depth: 16 | EngineMove : f8b4
+11... Bd6 | Analysis: +470 | Depth: 20 | EngineMove : c2c4
+12. Be3 | Analysis: -46 | Depth: 18 | EngineMove : d6b4
+12... O-O | Analysis: +604 | Depth: 18 | EngineMove : c2c4
+13. c4 | Analysis: -632 | Depth: 19 | EngineMove : d5d3

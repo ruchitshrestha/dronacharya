@@ -1,0 +1,35 @@
+**URL: https://lichess.org/LQkc9uC8 | Tag: LQkc9uC8 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/LQkc9uC8', Date='2018.09.27', Round='-', White='CharlesDuchemin', Black='chittyct', Result='0-1', BlackElo='1070', BlackRatingDiff='+4', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.27', UTCTime='06:35:00', Variant='Standard', WhiteElo='829', WhiteRatingDiff='-4')
+
+1. d4 | Analysis: -18 | Depth: 17 | EngineMove : g8f6
+1... g6 | Analysis: +84 | Depth: 16 | EngineMove : e2e4
+2. c4 | Analysis: -54 | Depth: 16 | EngineMove : g8f6
+2... Bg7 | Analysis: +45 | Depth: 16 | EngineMove : e2e4
+3. Nc3 | Analysis: -17 | Depth: 17 | EngineMove : c7c5
+3... Nc6 | Analysis: +65 | Depth: 17 | EngineMove : d4d5
+4. d5 | Analysis: -67 | Depth: 17 | EngineMove : c6e5
+4... Nb4 | Analysis: +87 | Depth: 17 | EngineMove : e2e4
+5. a3 | Analysis: -44 | Depth: 18 | EngineMove : g7c3
+5... Na6 | Analysis: +32 | Depth: 17 | EngineMove : e2e4
+6. e3 | Analysis: +8 | Depth: 19 | EngineMove : g7c3
+6... Nc5 | Analysis: +33 | Depth: 17 | EngineMove : g1e2
+7. Nf3 | Analysis: +43 | Depth: 16 | EngineMove : g7c3
+7... c6 | Analysis: +37 | Depth: 17 | EngineMove : f3d4
+8. b4 | Analysis: +241 | Depth: 18 | EngineMove : g7c3
+8... cxd5 | Analysis: +20 | Depth: 19 | EngineMove : c1b2
+9. bxc5 | Analysis: +76 | Depth: 17 | EngineMove : g7c3
+9... dxc4 | Analysis: +245 | Depth: 16 | EngineMove : c1d2
+10. Bb2 | Analysis: -265 | Depth: 16 | EngineMove : b7b5
+10... b6 | Analysis: +315 | Depth: 15 | EngineMove : f1c4
+11. Bxc4 | Analysis: -318 | Depth: 16 | EngineMove : g8f6
+11... Bb7 | Analysis: +295 | Depth: 16 | EngineMove : d1b3
+12. O-O | Analysis: -310 | Depth: 16 | EngineMove : b6c5
+12... e6 | Analysis: +336 | Depth: 17 | EngineMove : c3b5
+13. Na4 | Analysis: -207 | Depth: 17 | EngineMove : g7b2
+13... d5 | Analysis: +797 | Depth: 16 | EngineMove : b2g7
+14. Bxg7 | Analysis: -798 | Depth: 17 | EngineMove : d5c4
+14... dxc4 | Analysis: +805 | Depth: 18 | EngineMove : g7h8
+15. Qxd8+ | Analysis: -775 | Depth: 18 | EngineMove : a8d8
+15... Rxd8 | Analysis: +787 | Depth: 17 | EngineMove : c5b6
+16. Bxh8 | Analysis: -780 | Depth: 16 | EngineMove : b7c6
+16... c3 | Analysis: +854 | Depth: 16 | EngineMove : c5b6

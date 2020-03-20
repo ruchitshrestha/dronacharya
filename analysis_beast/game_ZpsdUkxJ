@@ -1,0 +1,11 @@
+**URL: https://lichess.org/ZpsdUkxJ | Tag: ZpsdUkxJ | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ZpsdUkxJ', Date='2018.10.04', Round='-', White='chittyct', Black='ronps', Result='0-1', BlackElo='1148', BlackRatingDiff='+10', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.04', UTCTime='21:01:52', Variant='Standard', WhiteElo='1108', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -18 | Depth: 13 | EngineMove : d7d5
+1... g6 | Analysis: +103 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -55 | Depth: 13 | EngineMove : d7d5
+2... Bg7 | Analysis: +85 | Depth: 12 | EngineMove : e2e4
+3. Bf4 | Analysis: -35 | Depth: 12 | EngineMove : g8f6
+3... g5 | Analysis: +149 | Depth: 12 | EngineMove : f4g5
+4. e3 | Analysis: +215 | Depth: 12 | EngineMove : g5f4
+4... gxf4 | Analysis: -266 | Depth: 13 | EngineMove : e3f4

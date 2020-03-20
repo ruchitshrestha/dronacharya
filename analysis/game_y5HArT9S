@@ -1,0 +1,23 @@
+**URL: https://lichess.org/y5HArT9S | Tag: y5HArT9S | Side: white**
+HEADERS: Headers(Event='Casual Correspondence game', Site='https://lichess.org/y5HArT9S', Date='2018.12.26', Round='-', White='chittyct', Black='Anonymous', Result='1/2-1/2', BlackElo='?', ECO='A01', Termination='Normal', TimeControl='-', UTCDate='2018.12.26', UTCTime='13:16:17', Variant='Standard', WhiteElo='1500')
+
+1. b3 | Analysis: +36 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +20 | Depth: 17 | EngineMove : e2e4
+2. Bb2 | Analysis: +1 | Depth: 17 | EngineMove : d7d5
+2... Nc6 | Analysis: +10 | Depth: 17 | EngineMove : e2e4
+3. e4 | Analysis: -22 | Depth: 17 | EngineMove : d7d6
+3... d6 | Analysis: +11 | Depth: 18 | EngineMove : g1f3
+4. f4 | Analysis: +5 | Depth: 15 | EngineMove : g8f6
+4... g6 | Analysis: +333 | Depth: 16 | EngineMove : b2h8
+5. d3 | Analysis: +32 | Depth: 15 | EngineMove : g8f6
+5... Bg7 | Analysis: +682 | Depth: 17 | EngineMove : b2g7
+6. Nd2 | Analysis: +448 | Depth: 17 | EngineMove : g7b2
+6... Nh6 | Analysis: +589 | Depth: 18 | EngineMove : b2g7
+7. Bxg7 | Analysis: -601 | Depth: 18 | EngineMove : h6g4
+7... Bg4 | Analysis: +719 | Depth: 16 | EngineMove : d1c1
+8. Be2 | Analysis: -710 | Depth: 16 | EngineMove : g4e2
+8... Bxe2 | Analysis: +722 | Depth: 18 | EngineMove : d1e2
+9. Qxe2 | Analysis: -725 | Depth: 17 | EngineMove : c6d4
+9... Rg8 | Analysis: +739 | Depth: 19 | EngineMove : g7h6
+10. Bxh6 | Analysis: -732 | Depth: 18 | EngineMove : c6d4
+10... Qa5 | Analysis: +768 | Depth: 18 | EngineMove : g1f3

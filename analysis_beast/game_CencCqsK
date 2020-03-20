@@ -1,0 +1,38 @@
+**URL: https://lichess.org/CencCqsK | Tag: CencCqsK | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/CencCqsK', Date='2018.09.21', Round='-', White='chittyct', Black='ffasff', Result='1-0', BlackElo='1105', BlackRatingDiff='-25', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.21', UTCTime='12:43:51', Variant='Standard', WhiteElo='970', WhiteRatingDiff='+15')
+
+1. d4 | Analysis: -25 | Depth: 12 | EngineMove : g8f6
+1... Nc6 | Analysis: +53 | Depth: 12 | EngineMove : d4d5
+2. Bf4 | Analysis: -15 | Depth: 14 | EngineMove : g8f6
+2... d5 | Analysis: +17 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -29 | Depth: 15 | EngineMove : e7e6
+3... Nf6 | Analysis: +31 | Depth: 13 | EngineMove : b1d2
+4. Bd3 | Analysis: -27 | Depth: 13 | EngineMove : c8g4
+4... Bg4 | Analysis: +26 | Depth: 13 | EngineMove : g1e2
+5. Nf3 | Analysis: -10 | Depth: 12 | EngineMove : e7e6
+5... Nb4 | Analysis: +56 | Depth: 12 | EngineMove : d3b5
+6. c3 | Analysis: +1 | Depth: 14 | EngineMove : b4d3
+6... Bxf3 | Analysis: +28 | Depth: 12 | EngineMove : d1a4
+7. gxf3 | Analysis: +10 | Depth: 14 | EngineMove : b4d3
+7... Nxd3+ | Analysis: -8 | Depth: 16 | EngineMove : d1d3
+8. Qxd3 | Analysis: +11 | Depth: 16 | EngineMove : c7c6
+8... Qd6 | Analysis: +864 | Depth: 14 | EngineMove : f4d6
+9. Bxd6 | Analysis: -881 | Depth: 16 | EngineMove : c7d6
+9... exd6 | Analysis: +924 | Depth: 15 | EngineMove : d3b5
+10. Nd2 | Analysis: -680 | Depth: 12 | EngineMove : c7c6
+10... O-O-O | Analysis: +698 | Depth: 13 | EngineMove : e1g1
+11. O-O-O | Analysis: -688 | Depth: 12 | EngineMove : g7g6
+11... Re8 | Analysis: +725 | Depth: 14 | EngineMove : c3c4
+12. Kb1 | Analysis: -732 | Depth: 13 | EngineMove : g7g6
+12... c5 | Analysis: +830 | Depth: 13 | EngineMove : c3c4
+13. c4 | Analysis: -815 | Depth: 13 | EngineMove : d5c4
+13... cxd4 | Analysis: +850 | Depth: 14 | EngineMove : d3d4
+14. exd4 | Analysis: -760 | Depth: 13 | EngineMove : g7g6
+14... dxc4 | Analysis: +1084 | Depth: 16 | EngineMove : d3c4
+15. Qxc4+ | Analysis: -1108 | Depth: 17 | EngineMove : c8b8
+15... Kd8 | Analysis: +2182 | Depth: 15 | EngineMove : d1c1
+16. Rc1 | Analysis: -2208 | Depth: 15 | EngineMove : f6d5
+16... b6 | Analysis: #+1 | Depth: 127 | EngineMove : c4c7
+17. Qc8+ | Analysis: #-4 | Depth: 42 | EngineMove : d8e7
+17... Ke7 | Analysis: #+4 | Depth: 52 | EngineMove : h1e1
+18. Ne4 | Analysis: -349 | Depth: 14 | EngineMove : e8c8

@@ -1,0 +1,5 @@
+**URL: https://lichess.org/pQk1lJ13 | Tag: pQk1lJ13 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/pQk1lJ13', Date='2019.06.07', Round='-', White='chittyct', Black='gasrbek', Result='1/2-1/2', BlackElo='1407', BlackRatingDiff='+0', ECO='A45', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.07', UTCTime='16:22:22', Variant='Standard', WhiteElo='1411', WhiteRatingDiff='+0')
+
+1. d4 | Analysis: -20 | Depth: 17 | EngineMove : g8f6
+1... Nf6 | Analysis: +18 | Depth: 19 | EngineMove : e2e3

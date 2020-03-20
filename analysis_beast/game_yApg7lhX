@@ -1,0 +1,19 @@
+**URL: https://lichess.org/yApg7lhX | Tag: yApg7lhX | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/yApg7lhX', Date='2018.10.26', Round='-', White='chittyct', Black='wwwrrr', Result='0-1', BlackElo='1126', BlackRatingDiff='+16', ECO='D02', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.10.26', UTCTime='22:46:35', Variant='Standard', WhiteElo='1144', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +18 | Depth: 13 | EngineMove : e2e3
+2. Nf3 | Analysis: -11 | Depth: 13 | EngineMove : e7e6
+2... e6 | Analysis: +24 | Depth: 13 | EngineMove : e2e3
+3. Bf4 | Analysis: -10 | Depth: 13 | EngineMove : g8f6
+3... c5 | Analysis: +31 | Depth: 11 | EngineMove : e2e3
+4. e3 | Analysis: -22 | Depth: 12 | EngineMove : g8f6
+4... Nc6 | Analysis: +27 | Depth: 12 | EngineMove : f1b5
+5. c4 | Analysis: -8 | Depth: 11 | EngineMove : g8f6
+5... Nf6 | Analysis: +10 | Depth: 12 | EngineMove : b1c3
+6. Nc3 | Analysis: +3 | Depth: 13 | EngineMove : c5d4
+6... Bd6 | Analysis: +53 | Depth: 12 | EngineMove : f4d6
+7. Bg3 | Analysis: -8 | Depth: 12 | EngineMove : c5d4
+7... cxd4 | Analysis: -5 | Depth: 13 | EngineMove : f3d4
+8. exd4 | Analysis: +18 | Depth: 12 | EngineMove : d6g3
+8... Bxg3 | Analysis: -8 | Depth: 15 | EngineMove : h2g3

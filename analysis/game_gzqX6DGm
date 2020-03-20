@@ -1,0 +1,32 @@
+**URL: https://lichess.org/gzqX6DGm | Tag: gzqX6DGm | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/gzqX6DGm', Date='2019.09.09', Round='-', White='TellAKnight', Black='chittyct', Result='1-0', BlackElo='1409', BlackRatingDiff='-7', ECO='A20', Termination='Normal', TimeControl='300+3', UTCDate='2019.09.09', UTCTime='13:01:32', Variant='Standard', WhiteElo='1416', WhiteRatingDiff='+8')
+
+1. c4 | Analysis: +5 | Depth: 17 | EngineMove : e7e5
+1... e5 | Analysis: +13 | Depth: 18 | EngineMove : b1c3
+2. d3 | Analysis: +8 | Depth: 17 | EngineMove : b8c6
+2... Bc5 | Analysis: +4 | Depth: 17 | EngineMove : g1f3
+3. Nc3 | Analysis: -2 | Depth: 18 | EngineMove : g8f6
+3... Nc6 | Analysis: 0 | Depth: 19 | EngineMove : g1f3
+4. a3 | Analysis: -6 | Depth: 17 | EngineMove : a7a6
+4... Nge7 | Analysis: +34 | Depth: 19 | EngineMove : b2b4
+5. b4 | Analysis: -20 | Depth: 19 | EngineMove : c5d4
+5... Bd4 | Analysis: +17 | Depth: 19 | EngineMove : c1b2
+6. Bb2 | Analysis: -24 | Depth: 20 | EngineMove : d7d5
+6... O-O | Analysis: +45 | Depth: 20 | EngineMove : e2e3
+7. g3 | Analysis: +9 | Depth: 17 | EngineMove : d7d5
+7... d6 | Analysis: +35 | Depth: 17 | EngineMove : g1f3
+8. Bg2 | Analysis: -23 | Depth: 18 | EngineMove : c8g4
+8... a6 | Analysis: +27 | Depth: 17 | EngineMove : g1f3
+9. Nf3 | Analysis: -24 | Depth: 18 | EngineMove : d4a7
+9... d5 | Analysis: +122 | Depth: 18 | EngineMove : f3d4
+10. Nxd4 | Analysis: -126 | Depth: 19 | EngineMove : c6d4
+10... exd4 | Analysis: +149 | Depth: 17 | EngineMove : c3d5
+11. Nxd5 | Analysis: -154 | Depth: 19 | EngineMove : e7d5
+11... Nxd5 | Analysis: +141 | Depth: 20 | EngineMove : c4d5
+12. Bxd5 | Analysis: -68 | Depth: 17 | EngineMove : c8h3
+12... Qe7 | Analysis: +143 | Depth: 17 | EngineMove : e1g1
+13. Bxc6 | Analysis: -104 | Depth: 20 | EngineMove : b7c6
+13... bxc6 | Analysis: +105 | Depth: 19 | EngineMove : b2d4
+14. Bxd4 | Analysis: -114 | Depth: 17 | EngineMove : c8h3
+14... Qf6 | Analysis: +1041 | Depth: 19 | EngineMove : d4f6
+15. Bxf6 | Analysis: -1045 | Depth: 18 | EngineMove : g7f6

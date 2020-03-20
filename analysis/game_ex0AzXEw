@@ -1,0 +1,22 @@
+**URL: https://lichess.org/ex0AzXEw | Tag: ex0AzXEw | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/ex0AzXEw', Date='2018.08.31', Round='-', White='YAR1', Black='chittyct', Result='1-0', BlackElo='1291', BlackRatingDiff='-30', ECO='C44', Termination='Normal', TimeControl='600+0', UTCDate='2018.08.31', UTCTime='20:31:45', Variant='Standard', WhiteElo='1251', WhiteRatingDiff='+12')
+
+1. e4 | Analysis: -25 | Depth: 17 | EngineMove : e7e6
+1... e5 | Analysis: +18 | Depth: 16 | EngineMove : g1f3
+2. Nf3 | Analysis: -26 | Depth: 17 | EngineMove : b8c6
+2... Nc6 | Analysis: +28 | Depth: 18 | EngineMove : f1b5
+3. Bd3 | Analysis: +11 | Depth: 17 | EngineMove : g8f6
+3... d6 | Analysis: +1 | Depth: 18 | EngineMove : b1c3
+4. O-O | Analysis: +5 | Depth: 16 | EngineMove : g7g5
+4... Be6 | Analysis: +28 | Depth: 19 | EngineMove : d3b5
+5. c4 | Analysis: +5 | Depth: 17 | EngineMove : g7g5
+5... Nd4 | Analysis: +46 | Depth: 18 | EngineMove : f3d4
+6. Nxd4 | Analysis: -54 | Depth: 19 | EngineMove : e5d4
+6... exd4 | Analysis: +58 | Depth: 18 | EngineMove : b2b4
+7. Qb3 | Analysis: -17 | Depth: 20 | EngineMove : b7b6
+7... Qg5 | Analysis: +164 | Depth: 18 | EngineMove : b3b7
+8. Qxb7 | Analysis: -166 | Depth: 20 | EngineMove : g5d8
+8... Rd8 | Analysis: +249 | Depth: 18 | EngineMove : b1a3
+9. f4 | Analysis: -206 | Depth: 18 | EngineMove : g5c5
+9... Bh3 | Analysis: +1487 | Depth: 19 | EngineMove : f4g5
+10. fxg5 | Analysis: -1487 | Depth: 18 | EngineMove : h3e6

@@ -1,0 +1,27 @@
+**URL: https://lichess.org/99ALh6E2 | Tag: 99ALh6E2 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/99ALh6E2', Date='2019.09.26', Round='-', White='ghawar', Black='chittyct', Result='0-1', BlackElo='1165', BlackRatingDiff='+11', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2019.09.26', UTCTime='10:35:14', Variant='Standard', WhiteElo='1332', WhiteRatingDiff='-10')
+
+1. e4 | Analysis: -22 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +35 | Depth: 18 | EngineMove : g1f3
+2. Qh5 | Analysis: +51 | Depth: 16 | EngineMove : e7e6
+2... e6 | Analysis: -39 | Depth: 18 | EngineMove : g1f3
+3. Nh3 | Analysis: +100 | Depth: 17 | EngineMove : g8f6
+3... Nf6 | Analysis: -112 | Depth: 18 | EngineMove : h5e2
+4. Qf3 | Analysis: +120 | Depth: 18 | EngineMove : b8c6
+4... Nc6 | Analysis: -118 | Depth: 18 | EngineMove : c2c3
+5. c3 | Analysis: +108 | Depth: 19 | EngineMove : d7d5
+5... d5 | Analysis: -102 | Depth: 19 | EngineMove : d2d3
+6. exd5 | Analysis: +165 | Depth: 17 | EngineMove : e6d5
+6... exd5 | Analysis: -153 | Depth: 17 | EngineMove : f1b5
+7. d3 | Analysis: +167 | Depth: 17 | EngineMove : c8g4
+7... Be7 | Analysis: -152 | Depth: 18 | EngineMove : f3d1
+8. Qg3 | Analysis: +222 | Depth: 19 | EngineMove : e8g8
+8... O-O | Analysis: -246 | Depth: 20 | EngineMove : f1e2
+9. Bh6 | Analysis: +380 | Depth: 18 | EngineMove : f6g4
+9... Nh5 | Analysis: -382 | Depth: 20 | EngineMove : g3f3
+10. Qf3 | Analysis: +391 | Depth: 19 | EngineMove : f8e8
+10... gxh6 | Analysis: -229 | Depth: 18 | EngineMove : f3h5
+11. Qxh5 | Analysis: +231 | Depth: 16 | EngineMove : f8e8
+11... Re8 | Analysis: -183 | Depth: 18 | EngineMove : f1e2
+12. Qxh6 | Analysis: +1550 | Depth: 19 | EngineMove : e7g5
+12... Bg5+ | Analysis: -1572 | Depth: 19 | EngineMove : f1e2

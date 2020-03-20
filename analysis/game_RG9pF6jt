@@ -1,0 +1,9 @@
+**URL: https://lichess.org/RG9pF6jt | Tag: RG9pF6jt | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/RG9pF6jt', Date='2020.02.04', Round='-', White='chittyct', Black='joskopet', Result='0-1', BlackElo='1515', BlackRatingDiff='+7', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2020.02.04', UTCTime='21:46:04', Variant='Standard', WhiteElo='1567', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -12 | Depth: 16 | EngineMove : g8f6
+1... d5 | Analysis: +12 | Depth: 17 | EngineMove : e2e3
+2. Bf4 | Analysis: -12 | Depth: 18 | EngineMove : e7e6
+2... Bg4 | Analysis: +38 | Depth: 18 | EngineMove : b1c3
+3. e3 | Analysis: +707 | Depth: 17 | EngineMove : g4d1
+3... Bxd1 | Analysis: -712 | Depth: 19 | EngineMove : e1d1

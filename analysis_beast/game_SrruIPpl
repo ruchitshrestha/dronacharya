@@ -1,0 +1,32 @@
+**URL: https://lichess.org/SrruIPpl | Tag: SrruIPpl | Side: black**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/SrruIPpl', Date='2018.08.17', Round='-', White='FcukUdikcnose', Black='chittyct', Result='1-0', BlackElo='1498', BlackRatingDiff='-70', ECO='A45', Termination='Time forfeit', TimeControl='900+15', UTCDate='2018.08.17', UTCTime='18:58:34', Variant='Standard', WhiteElo='1532', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -24 | Depth: 12 | EngineMove : g8f6
+1... Nf6 | Analysis: +12 | Depth: 13 | EngineMove : g1f3
+2. f3 | Analysis: +42 | Depth: 12 | EngineMove : e7e6
+2... d6 | Analysis: +9 | Depth: 12 | EngineMove : e2e4
+3. Nc3 | Analysis: 0 | Depth: 12 | EngineMove : d6d5
+3... c5 | Analysis: -3 | Depth: 12 | EngineMove : e2e4
+4. dxc5 | Analysis: +9 | Depth: 11 | EngineMove : d6d5
+4... dxc5 | Analysis: +105 | Depth: 12 | EngineMove : d1d8
+5. Qxd8+ | Analysis: -96 | Depth: 14 | EngineMove : e8d8
+5... Kxd8 | Analysis: +96 | Depth: 14 | EngineMove : c1f4
+6. e4 | Analysis: -85 | Depth: 13 | EngineMove : b8c6
+6... b5 | Analysis: +242 | Depth: 13 | EngineMove : f1b5
+7. Be3 | Analysis: -156 | Depth: 12 | EngineMove : a7a6
+7... b4 | Analysis: +149 | Depth: 12 | EngineMove : c3a4
+8. O-O-O+ | Analysis: -117 | Depth: 13 | EngineMove : d8c7
+8... Bd7 | Analysis: +231 | Depth: 13 | EngineMove : c3a4
+9. Na4 | Analysis: -232 | Depth: 14 | EngineMove : e7e6
+9... Ke8 | Analysis: +242 | Depth: 13 | EngineMove : a4c5
+10. Nxc5 | Analysis: -228 | Depth: 13 | EngineMove : d7c6
+10... b3 | Analysis: +340 | Depth: 13 | EngineMove : a2b3
+11. Nxb3 | Analysis: -351 | Depth: 12 | EngineMove : b8c6
+11... e5 | Analysis: +355 | Depth: 12 | EngineMove : g1e2
+12. Bc5 | Analysis: -214 | Depth: 14 | EngineMove : f8c5
+12... Na6 | Analysis: +621 | Depth: 14 | EngineMove : f1a6
+13. Bxa6 | Analysis: -621 | Depth: 15 | EngineMove : f8c5
+13... Bxc5 | Analysis: +618 | Depth: 15 | EngineMove : b3c5
+14. Nxc5 | Analysis: -621 | Depth: 15 | EngineMove : a8b8
+14... Bc6 | Analysis: +740 | Depth: 15 | EngineMove : d1d6
+15. Ne2 | Analysis: -660 | Depth: 13 | EngineMove : a8d8

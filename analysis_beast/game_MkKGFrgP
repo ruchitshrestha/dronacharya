@@ -1,0 +1,29 @@
+**URL: https://lichess.org/MkKGFrgP | Tag: MkKGFrgP | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/MkKGFrgP', Date='2018.10.07', Round='-', White='Tommie1717', Black='chittyct', Result='1-0', BlackElo='980', BlackRatingDiff='-5', ECO='B52', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.07', UTCTime='00:08:27', Variant='Standard', WhiteElo='1217', WhiteRatingDiff='+4')
+
+1. e4 | Analysis: -22 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +37 | Depth: 11 | EngineMove : g1f3
+2. Nf3 | Analysis: -50 | Depth: 12 | EngineMove : g8f6
+2... d6 | Analysis: +55 | Depth: 11 | EngineMove : f1e2
+3. Bb5+ | Analysis: -35 | Depth: 13 | EngineMove : c8d7
+3... Bd7 | Analysis: +24 | Depth: 12 | EngineMove : b1c3
+4. Bc4 | Analysis: -6 | Depth: 13 | EngineMove : b8c6
+4... Nf6 | Analysis: +5 | Depth: 14 | EngineMove : b1c3
+5. Nc3 | Analysis: -5 | Depth: 14 | EngineMove : e7e6
+5... e5 | Analysis: +174 | Depth: 16 | EngineMove : f3g5
+6. d3 | Analysis: -17 | Depth: 15 | EngineMove : f8e7
+6... d5 | Analysis: +210 | Depth: 12 | EngineMove : e4d5
+7. exd5 | Analysis: -177 | Depth: 12 | EngineMove : a7a6
+7... Bg4 | Analysis: +173 | Depth: 12 | EngineMove : e1g1
+8. Bg5 | Analysis: -153 | Depth: 12 | EngineMove : b8d7
+8... Bxf3 | Analysis: +273 | Depth: 12 | EngineMove : d1f3
+9. Qxf3 | Analysis: -253 | Depth: 13 | EngineMove : d8b6
+9... Bd6 | Analysis: +525 | Depth: 11 | EngineMove : c3e4
+10. Ne4 | Analysis: -490 | Depth: 11 | EngineMove : h8g8
+10... O-O | Analysis: +761 | Depth: 13 | EngineMove : e4f6
+11. Nxf6+ | Analysis: -768 | Depth: 14 | EngineMove : g8h8
+11... gxf6 | Analysis: +958 | Depth: 14 | EngineMove : g5f6
+12. Bxf6 | Analysis: -1137 | Depth: 13 | EngineMove : d8a5
+12... Qa5+ | Analysis: +1100 | Depth: 17 | EngineMove : b2b4
+13. c3 | Analysis: -761 | Depth: 11 | EngineMove : f8d8
+13... Nd7 | Analysis: #+1 | Depth: 127 | EngineMove : f3g3

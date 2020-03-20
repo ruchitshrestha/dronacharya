@@ -1,0 +1,19 @@
+**URL: https://lichess.org/h3u0T0fr | Tag: h3u0T0fr | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/h3u0T0fr', Date='2019.05.09', Round='-', White='toasted42', Black='chittyct', Result='0-1', BlackElo='1344', BlackRatingDiff='+10', ECO='B28', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.09', UTCTime='18:41:22', Variant='Standard', WhiteElo='1319', WhiteRatingDiff='-9')
+
+1. e4 | Analysis: -21 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +41 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -35 | Depth: 12 | EngineMove : e7e6
+2... a6 | Analysis: +74 | Depth: 13 | EngineMove : b1c3
+3. Bc4 | Analysis: -36 | Depth: 12 | EngineMove : e7e6
+3... e6 | Analysis: +31 | Depth: 12 | EngineMove : c4e2
+4. O-O | Analysis: -45 | Depth: 12 | EngineMove : d7d5
+4... b5 | Analysis: +36 | Depth: 13 | EngineMove : c4e2
+5. Be2 | Analysis: -32 | Depth: 12 | EngineMove : c8b7
+5... Bb7 | Analysis: +39 | Depth: 12 | EngineMove : a2a4
+6. Nc3 | Analysis: -28 | Depth: 13 | EngineMove : b5b4
+6... b4 | Analysis: +10 | Depth: 12 | EngineMove : c3a4
+7. Na4 | Analysis: -5 | Depth: 14 | EngineMove : b7e4
+7... Bxe4 | Analysis: -5 | Depth: 13 | EngineMove : a2a3
+8. d3 | Analysis: +16 | Depth: 13 | EngineMove : e4c6
+8... Bc6 | Analysis: -26 | Depth: 13 | EngineMove : c2c4

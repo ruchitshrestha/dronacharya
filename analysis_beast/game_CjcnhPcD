@@ -1,0 +1,26 @@
+**URL: https://lichess.org/CjcnhPcD | Tag: CjcnhPcD | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/CjcnhPcD', Date='2018.09.11', Round='-', White='chittyct', Black='Pek_ags', Result='1-0', BlackElo='827', BlackRatingDiff='-7', ECO='D00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.11', UTCTime='05:08:12', Variant='Standard', WhiteElo='964', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: +12 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +22 | Depth: 13 | EngineMove : g1f3
+2. Bf4 | Analysis: -13 | Depth: 14 | EngineMove : e7e6
+2... Bg4 | Analysis: +52 | Depth: 12 | EngineMove : f2f3
+3. e3 | Analysis: +685 | Depth: 13 | EngineMove : g4d1
+3... Nf6 | Analysis: +12 | Depth: 13 | EngineMove : f1e2
+4. Qd3 | Analysis: +6 | Depth: 12 | EngineMove : e7e6
+4... Nc6 | Analysis: +18 | Depth: 12 | EngineMove : h2h3
+5. Nf3 | Analysis: +22 | Depth: 11 | EngineMove : g4f3
+5... e5 | Analysis: +94 | Depth: 12 | EngineMove : f3e5
+6. Nxe5 | Analysis: -88 | Depth: 14 | EngineMove : c6e5
+6... Qd6 | Analysis: +234 | Depth: 12 | EngineMove : b1c3
+7. Nxf7 | Analysis: +77 | Depth: 12 | EngineMove : d6b4
+7... Kxf7 | Analysis: +469 | Depth: 12 | EngineMove : f4d6
+8. Bxd6 | Analysis: -480 | Depth: 13 | EngineMove : f8d6
+8... Bxd6 | Analysis: +487 | Depth: 13 | EngineMove : a2a3
+9. Be2 | Analysis: -487 | Depth: 12 | EngineMove : c6b4
+9... Rae8 | Analysis: +542 | Depth: 12 | EngineMove : e2g4
+10. Bxg4 | Analysis: -532 | Depth: 14 | EngineMove : f6g4
+10... Nxg4 | Analysis: +547 | Depth: 13 | EngineMove : b1c3
+11. f3 | Analysis: +292 | Depth: 12 | EngineMove : e8e3
+11... Nf6 | Analysis: +539 | Depth: 12 | EngineMove : e1g1
+12. Nd2 | Analysis: -210 | Depth: 12 | EngineMove : c6b4

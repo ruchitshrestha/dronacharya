@@ -1,0 +1,26 @@
+**URL: https://lichess.org/surOaN7a | Tag: surOaN7a | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/surOaN7a', Date='2019.11.26', Round='-', White='chittyct', Black='rapidstor_guru', Result='1-0', BlackElo='1300', BlackRatingDiff='-9', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.26', UTCTime='14:45:50', Variant='Standard', WhiteElo='1215', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -22 | Depth: 11 | EngineMove : d7d5
+1... d5 | Analysis: +18 | Depth: 14 | EngineMove : c1f4
+2. Bf4 | Analysis: -12 | Depth: 14 | EngineMove : e7e6
+2... e6 | Analysis: +20 | Depth: 15 | EngineMove : e2e3
+3. e3 | Analysis: -20 | Depth: 14 | EngineMove : g8f6
+3... a6 | Analysis: +34 | Depth: 12 | EngineMove : g1f3
+4. Nf3 | Analysis: -39 | Depth: 13 | EngineMove : g8f6
+4... Nc6 | Analysis: +48 | Depth: 13 | EngineMove : f1d3
+5. c4 | Analysis: -31 | Depth: 12 | EngineMove : g8f6
+5... Bb4+ | Analysis: +49 | Depth: 13 | EngineMove : b1d2
+6. Nbd2 | Analysis: -55 | Depth: 14 | EngineMove : g8f6
+6... dxc4 | Analysis: +75 | Depth: 14 | EngineMove : f1c4
+7. Bxc4 | Analysis: -60 | Depth: 13 | EngineMove : b4d6
+7... b5 | Analysis: +105 | Depth: 11 | EngineMove : c4d3
+8. Bd3 | Analysis: -99 | Depth: 12 | EngineMove : g8e7
+8... e5 | Analysis: +208 | Depth: 13 | EngineMove : f3e5
+9. Nxe5 | Analysis: -204 | Depth: 13 | EngineMove : c6e5
+9... Nxe5 | Analysis: +201 | Depth: 14 | EngineMove : f4e5
+10. Bxe5 | Analysis: -193 | Depth: 12 | EngineMove : g8f6
+10... Bd6 | Analysis: +678 | Depth: 13 | EngineMove : e5g7
+11. Bxg7 | Analysis: -702 | Depth: 13 | EngineMove : d8g5
+11... Nf6 | Analysis: +777 | Depth: 12 | EngineMove : g7h8
+12. Bxh8 | Analysis: -801 | Depth: 12 | EngineMove : c8b7

@@ -1,0 +1,22 @@
+**URL: https://lichess.org/EsMikNDp | Tag: EsMikNDp | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/EsMikNDp', Date='2019.06.15', Round='-', White='chittyct', Black='saad3163', Result='1-0', BlackElo='1236', BlackRatingDiff='-8', ECO='D02', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.15', UTCTime='21:43:19', Variant='Standard', WhiteElo='1340', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -8 | Depth: 16 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 17 | EngineMove : e2e3
+2. Nf3 | Analysis: -10 | Depth: 17 | EngineMove : c8f5
+2... Nc6 | Analysis: +26 | Depth: 18 | EngineMove : c2c4
+3. Bf4 | Analysis: -13 | Depth: 17 | EngineMove : c8f5
+3... Bf5 | Analysis: +12 | Depth: 18 | EngineMove : e2e3
+4. e3 | Analysis: -8 | Depth: 20 | EngineMove : e7e6
+4... a6 | Analysis: +18 | Depth: 18 | EngineMove : f1d3
+5. Be2 | Analysis: -16 | Depth: 19 | EngineMove : e7e6
+5... e6 | Analysis: +20 | Depth: 21 | EngineMove : e1g1
+6. O-O | Analysis: -20 | Depth: 20 | EngineMove : f8d6
+6... h5 | Analysis: +61 | Depth: 17 | EngineMove : c2c4
+7. c4 | Analysis: -57 | Depth: 17 | EngineMove : d5c4
+7... Bd6 | Analysis: +44 | Depth: 18 | EngineMove : f4d6
+8. Bxd6 | Analysis: -56 | Depth: 19 | EngineMove : d8d6
+8... Qxd6 | Analysis: +48 | Depth: 19 | EngineMove : b1d2
+9. c5 | Analysis: -29 | Depth: 17 | EngineMove : d6d8
+9... Nd8 | Analysis: +1074 | Depth: 19 | EngineMove : c5d6
+10. cxd6 | Analysis: -1079 | Depth: 20 | EngineMove : c7d6

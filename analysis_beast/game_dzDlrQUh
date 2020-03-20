@@ -1,0 +1,30 @@
+**URL: https://lichess.org/dzDlrQUh | Tag: dzDlrQUh | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/dzDlrQUh', Date='2019.02.03', Round='-', White='boyster3000', Black='chittyct', Result='0-1', BlackElo='1035', BlackRatingDiff='+11', ECO='A18', Termination='Normal', TimeControl='120+1', UTCDate='2019.02.03', UTCTime='23:13:03', Variant='Standard', WhiteElo='1036', WhiteRatingDiff='-11')
+
+1. c4 | Analysis: +24 | Depth: 12 | EngineMove : e7e5
+1... e6 | Analysis: +5 | Depth: 14 | EngineMove : g1f3
+2. Nc3 | Analysis: -7 | Depth: 15 | EngineMove : d7d5
+2... Nf6 | Analysis: +22 | Depth: 14 | EngineMove : e2e4
+3. e4 | Analysis: -15 | Depth: 14 | EngineMove : b8c6
+3... Bb4 | Analysis: +82 | Depth: 12 | EngineMove : e4e5
+4. Nf3 | Analysis: -10 | Depth: 12 | EngineMove : d7d6
+4... O-O | Analysis: +108 | Depth: 13 | EngineMove : e4e5
+5. a3 | Analysis: +44 | Depth: 13 | EngineMove : b4c3
+5... Bxc3 | Analysis: -33 | Depth: 14 | EngineMove : d2c3
+6. bxc3 | Analysis: +36 | Depth: 15 | EngineMove : f6e4
+6... d5 | Analysis: +48 | Depth: 12 | EngineMove : e4e5
+7. cxd5 | Analysis: +27 | Depth: 12 | EngineMove : f6e4
+7... exd5 | Analysis: +17 | Depth: 13 | EngineMove : e4e5
+8. d3 | Analysis: +141 | Depth: 14 | EngineMove : d5e4
+8... dxe4 | Analysis: -142 | Depth: 14 | EngineMove : f3e5
+9. Ne5 | Analysis: +185 | Depth: 14 | EngineMove : e4d3
+9... Re8 | Analysis: -111 | Depth: 13 | EngineMove : d3d4
+10. Nc4 | Analysis: +365 | Depth: 10 | EngineMove : e4d3
+10... exd3+ | Analysis: -345 | Depth: 12 | EngineMove : c1e3
+11. Kd2 | Analysis: +1178 | Depth: 14 | EngineMove : f6e4
+11... Ne4+ | Analysis: -1193 | Depth: 15 | EngineMove : d2e1
+12. Ke3 | Analysis: +2164 | Depth: 14 | EngineMove : d3d2
+12... Nxc3+ | Analysis: -1821 | Depth: 14 | EngineMove : e3d2
+13. Kd2 | Analysis: +1834 | Depth: 15 | EngineMove : c3d1
+13... Nxd1 | Analysis: -1896 | Depth: 15 | EngineMove : d2d1
+14. Kxd1 | Analysis: +1946 | Depth: 15 | EngineMove : d8d4

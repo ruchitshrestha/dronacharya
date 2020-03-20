@@ -1,0 +1,33 @@
+**URL: https://lichess.org/17rCcxsC | Tag: 17rCcxsC | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/17rCcxsC', Date='2018.10.28', Round='-', White='l5310l', Black='chittyct', Result='1-0', BlackElo='1133', BlackRatingDiff='-10', ECO='B21', Termination='Normal', TimeControl='300+3', UTCDate='2018.10.28', UTCTime='17:22:46', Variant='Standard', WhiteElo='1144', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -36 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +53 | Depth: 12 | EngineMove : b1c3
+2. d4 | Analysis: -5 | Depth: 12 | EngineMove : c5d4
+2... cxd4 | Analysis: +5 | Depth: 13 | EngineMove : d1d4
+3. Qxd4 | Analysis: -22 | Depth: 13 | EngineMove : g8f6
+3... Nc6 | Analysis: +24 | Depth: 14 | EngineMove : d4a4
+4. Qd5 | Analysis: +59 | Depth: 12 | EngineMove : g8f6
+4... Nf6 | Analysis: -36 | Depth: 12 | EngineMove : d5d3
+5. Qb3 | Analysis: +108 | Depth: 12 | EngineMove : f6e4
+5... d6 | Analysis: -31 | Depth: 12 | EngineMove : f1d3
+6. Bb5 | Analysis: +76 | Depth: 11 | EngineMove : f6e4
+6... Nxe4 | Analysis: -85 | Depth: 11 | EngineMove : b1c3
+7. Bxc6+ | Analysis: +117 | Depth: 13 | EngineMove : b7c6
+7... bxc6 | Analysis: -101 | Depth: 14 | EngineMove : b3a4
+8. Nf3 | Analysis: +151 | Depth: 11 | EngineMove : d8a5
+8... Be6 | Analysis: -117 | Depth: 12 | EngineMove : b3a4
+9. Qe3 | Analysis: +102 | Depth: 13 | EngineMove : e4f6
+9... Qa5+ | Analysis: -92 | Depth: 13 | EngineMove : b1d2
+10. c3 | Analysis: +101 | Depth: 12 | EngineMove : e6d5
+10... Qf5 | Analysis: -72 | Depth: 12 | EngineMove : e1g1
+11. Bd2 | Analysis: +135 | Depth: 12 | EngineMove : e6d5
+11... g6 | Analysis: -8 | Depth: 14 | EngineMove : f3d4
+12. Na3 | Analysis: +164 | Depth: 12 | EngineMove : e4d2
+12... Bg7 | Analysis: -153 | Depth: 12 | EngineMove : e1g1
+13. Nh4 | Analysis: +300 | Depth: 12 | EngineMove : f5g4
+13... Qe5 | Analysis: -152 | Depth: 13 | EngineMove : h4f3
+14. b3 | Analysis: +317 | Depth: 13 | EngineMove : e4d2
+14... O-O | Analysis: -214 | Depth: 14 | EngineMove : h4f3
+15. Nf3 | Analysis: +227 | Depth: 14 | EngineMove : e5f5
+15... f6 | Analysis: +868 | Depth: 13 | EngineMove : f3e5

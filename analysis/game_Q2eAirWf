@@ -1,0 +1,26 @@
+**URL: https://lichess.org/Q2eAirWf | Tag: Q2eAirWf | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Q2eAirWf', Date='2018.12.13', Round='-', White='chittyct', Black='mourad04', Result='1-0', BlackElo='1338', BlackRatingDiff='-11', ECO='D07', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.13', UTCTime='20:23:27', Variant='Standard', WhiteElo='1344', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -15 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +23 | Depth: 18 | EngineMove : e2e3
+2. c4 | Analysis: -17 | Depth: 18 | EngineMove : e7e6
+2... dxc4 | Analysis: +41 | Depth: 16 | EngineMove : e2e3
+3. Nc3 | Analysis: -21 | Depth: 17 | EngineMove : c7c6
+3... Nc6 | Analysis: +34 | Depth: 16 | EngineMove : g1f3
+4. Nf3 | Analysis: -43 | Depth: 16 | EngineMove : g8f6
+4... Bg4 | Analysis: +122 | Depth: 16 | EngineMove : d4d5
+5. e3 | Analysis: -43 | Depth: 18 | EngineMove : e7e6
+5... Bxf3 | Analysis: +70 | Depth: 19 | EngineMove : d1f3
+6. Qxf3 | Analysis: -82 | Depth: 18 | EngineMove : e7e6
+6... Nf6 | Analysis: +82 | Depth: 21 | EngineMove : f1c4
+7. Bxc4 | Analysis: -84 | Depth: 20 | EngineMove : e7e6
+7... g6 | Analysis: +128 | Depth: 18 | EngineMove : c4b5
+8. O-O | Analysis: -99 | Depth: 18 | EngineMove : f8g7
+8... Bg7 | Analysis: +103 | Depth: 17 | EngineMove : b2b3
+9. e4 | Analysis: 0 | Depth: 18 | EngineMove : d8d4
+9... O-O | Analysis: +42 | Depth: 18 | EngineMove : d4d5
+10. e5 | Analysis: -11 | Depth: 18 | EngineMove : c6d4
+10... Ne8 | Analysis: +98 | Depth: 17 | EngineMove : c1e3
+11. Be3 | Analysis: -114 | Depth: 18 | EngineMove : c6a5
+11... a6 | Analysis: +203 | Depth: 16 | EngineMove : f1d1
+12. Rac1 | Analysis: -91 | Depth: 17 | EngineMove : c6d4

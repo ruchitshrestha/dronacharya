@@ -1,0 +1,29 @@
+**URL: https://lichess.org/UBZUivTs | Tag: UBZUivTs | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/UBZUivTs', Date='2019.04.05', Round='-', White='kingmaker19', Black='chittyct', Result='1-0', BlackElo='1072', BlackRatingDiff='-8', ECO='B21', Termination='Normal', TimeControl='120+1', UTCDate='2019.04.05', UTCTime='17:41:01', Variant='Standard', WhiteElo='1133', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -21 | Depth: 12 | EngineMove : e7e6
+1... c5 | Analysis: +68 | Depth: 12 | EngineMove : b1c3
+2. d4 | Analysis: -39 | Depth: 12 | EngineMove : c5d4
+2... cxd4 | Analysis: +6 | Depth: 12 | EngineMove : c2c3
+3. Qxd4 | Analysis: -28 | Depth: 13 | EngineMove : b8c6
+3... Nc6 | Analysis: -3 | Depth: 13 | EngineMove : d4a4
+4. Qe3 | Analysis: +1 | Depth: 12 | EngineMove : g8f6
+4... e5 | Analysis: +28 | Depth: 11 | EngineMove : f1c4
+5. Nc3 | Analysis: -10 | Depth: 12 | EngineMove : f8b4
+5... Bb4 | Analysis: +22 | Depth: 13 | EngineMove : f1c4
+6. Bd2 | Analysis: -6 | Depth: 12 | EngineMove : g8f6
+6... Nd4 | Analysis: +46 | Depth: 12 | EngineMove : f1d3
+7. Bd3 | Analysis: -36 | Depth: 13 | EngineMove : g8f6
+7... Nf6 | Analysis: +32 | Depth: 13 | EngineMove : g1f3
+8. h3 | Analysis: 0 | Depth: 13 | EngineMove : e8g8
+8... d5 | Analysis: +6 | Depth: 12 | EngineMove : e4d5
+9. exd5 | Analysis: -13 | Depth: 13 | EngineMove : e8g8
+9... Bxc3 | Analysis: +152 | Depth: 12 | EngineMove : b2c3
+10. Qxe5+ | Analysis: -45 | Depth: 13 | EngineMove : e8d7
+10... Kf8 | Analysis: +445 | Depth: 13 | EngineMove : d2c3
+11. Bxc3 | Analysis: -460 | Depth: 14 | EngineMove : d4c2
+11... Nxd5 | Analysis: +526 | Depth: 13 | EngineMove : c3d4
+12. Qxd4 | Analysis: -509 | Depth: 13 | EngineMove : d8e7
+12... f6 | Analysis: +884 | Depth: 14 | EngineMove : e1c1
+13. O-O-O | Analysis: -907 | Depth: 15 | EngineMove : c8e6
+13... Qc7 | Analysis: +1353 | Depth: 13 | EngineMove : d4d5

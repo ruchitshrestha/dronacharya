@@ -1,0 +1,22 @@
+**URL: https://lichess.org/CJdKT2rF | Tag: CJdKT2rF | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/CJdKT2rF', Date='2018.10.21', Round='-', White='M35Looking4Cyber', Black='chittyct', Result='1-0', BlackElo='1068', BlackRatingDiff='-17', ECO='B23', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.10.21', UTCTime='23:52:05', Variant='Standard', WhiteElo='800', WhiteRatingDiff='+24')
+
+1. e4 | Analysis: -24 | Depth: 17 | EngineMove : e7e5
+1... c5 | Analysis: +39 | Depth: 17 | EngineMove : b1c3
+2. Nc3 | Analysis: -29 | Depth: 18 | EngineMove : e7e6
+2... Nf6 | Analysis: +91 | Depth: 17 | EngineMove : e4e5
+3. Bb5 | Analysis: +3 | Depth: 19 | EngineMove : a7a6
+3... e5 | Analysis: +34 | Depth: 18 | EngineMove : f2f4
+4. d3 | Analysis: -18 | Depth: 20 | EngineMove : a7a6
+4... a6 | Analysis: +16 | Depth: 21 | EngineMove : b5c4
+5. Ba4 | Analysis: -10 | Depth: 19 | EngineMove : b8c6
+5... b5 | Analysis: +16 | Depth: 19 | EngineMove : a4b3
+6. Bb3 | Analysis: -13 | Depth: 18 | EngineMove : b8c6
+6... Nc6 | Analysis: +16 | Depth: 19 | EngineMove : c3d5
+7. Nf3 | Analysis: -4 | Depth: 19 | EngineMove : f8e7
+7... d6 | Analysis: 0 | Depth: 18 | EngineMove : c3d5
+8. Bg5 | Analysis: 0 | Depth: 19 | EngineMove : f8e7
+8... Be7 | Analysis: 0 | Depth: 19 | EngineMove : g5f6
+9. O-O | Analysis: 0 | Depth: 19 | EngineMove : e8g8
+9... a5 | Analysis: +96 | Depth: 18 | EngineMove : c3b5
+10. Nxb5 | Analysis: -91 | Depth: 21 | EngineMove : a5a4

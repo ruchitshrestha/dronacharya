@@ -1,0 +1,26 @@
+**URL: https://lichess.org/ePu6ItQS | Tag: ePu6ItQS | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ePu6ItQS', Date='2020.01.18', Round='-', White='chittyct', Black='HyMyNameIs', Result='1-0', BlackElo='1492', BlackRatingDiff='-6', ECO='A40', Termination='Normal', TimeControl='300+3', UTCDate='2020.01.18', UTCTime='10:55:10', Variant='Standard', WhiteElo='1461', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -18 | Depth: 18 | EngineMove : d7d5
+1... g6 | Analysis: +70 | Depth: 17 | EngineMove : e2e4
+2. Bf4 | Analysis: -15 | Depth: 16 | EngineMove : f8g7
+2... Bg7 | Analysis: +15 | Depth: 16 | EngineMove : g1f3
+3. e3 | Analysis: -25 | Depth: 18 | EngineMove : g8f6
+3... d6 | Analysis: +30 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -32 | Depth: 18 | EngineMove : g8f6
+4... Nd7 | Analysis: +36 | Depth: 16 | EngineMove : f1c4
+5. c4 | Analysis: -17 | Depth: 17 | EngineMove : e7e5
+5... c5 | Analysis: +42 | Depth: 19 | EngineMove : b1c3
+6. Nc3 | Analysis: -43 | Depth: 19 | EngineMove : g8f6
+6... cxd4 | Analysis: +50 | Depth: 18 | EngineMove : e3d4
+7. exd4 | Analysis: -49 | Depth: 17 | EngineMove : e7e5
+7... Ngf6 | Analysis: +56 | Depth: 18 | EngineMove : f1e2
+8. Be2 | Analysis: -53 | Depth: 19 | EngineMove : e8g8
+8... Nb6 | Analysis: +98 | Depth: 19 | EngineMove : a2a4
+9. O-O | Analysis: -81 | Depth: 17 | EngineMove : c8f5
+9... Bg4 | Analysis: +123 | Depth: 17 | EngineMove : h2h3
+10. Rc1 | Analysis: -97 | Depth: 18 | EngineMove : e8g8
+10... Qd7 | Analysis: +202 | Depth: 19 | EngineMove : c4c5
+11. c5 | Analysis: -164 | Depth: 18 | EngineMove : d7f5
+11... dxc5 | Analysis: +564 | Depth: 17 | EngineMove : e2b5
+12. Bb5 | Analysis: -563 | Depth: 18 | EngineMove : a8d8

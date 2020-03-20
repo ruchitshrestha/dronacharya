@@ -1,0 +1,31 @@
+**URL: https://lichess.org/bhzKzonT | Tag: bhzKzonT | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/bhzKzonT', Date='2018.12.19', Round='-', White='chittyct', Black='Goodspliffz', Result='0-1', BlackElo='1165', BlackRatingDiff='+11', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.12.19', UTCTime='23:51:23', Variant='Standard', WhiteElo='1095', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : g8f6
+1... g6 | Analysis: +91 | Depth: 11 | EngineMove : e2e4
+2. Nf3 | Analysis: -63 | Depth: 13 | EngineMove : g8f6
+2... Bg7 | Analysis: +83 | Depth: 12 | EngineMove : e2e4
+3. e4 | Analysis: -75 | Depth: 13 | EngineMove : e7e6
+3... Nf6 | Analysis: +89 | Depth: 12 | EngineMove : f1d3
+4. Bd3 | Analysis: -63 | Depth: 13 | EngineMove : d7d5
+4... O-O | Analysis: +60 | Depth: 12 | EngineMove : e1g1
+5. Nc3 | Analysis: -38 | Depth: 13 | EngineMove : d7d6
+5... e6 | Analysis: +106 | Depth: 12 | EngineMove : e4e5
+6. Bg5 | Analysis: -75 | Depth: 14 | EngineMove : h7h6
+6... d5 | Analysis: +275 | Depth: 13 | EngineMove : e4e5
+7. exd5 | Analysis: -32 | Depth: 12 | EngineMove : e6d5
+7... exd5 | Analysis: +41 | Depth: 13 | EngineMove : e1g1
+8. Nxd5 | Analysis: +243 | Depth: 13 | EngineMove : d8d5
+8... Qxd5 | Analysis: -244 | Depth: 13 | EngineMove : e1g1
+9. Bxf6 | Analysis: +282 | Depth: 13 | EngineMove : g7f6
+9... Bxf6 | Analysis: -283 | Depth: 14 | EngineMove : e1g1
+10. b3 | Analysis: +389 | Depth: 10 | EngineMove : f8e8
+10... Qa5+ | Analysis: -349 | Depth: 12 | EngineMove : d1d2
+11. c3 | Analysis: +500 | Depth: 12 | EngineMove : a5c3
+11... Qxc3+ | Analysis: -503 | Depth: 13 | EngineMove : e1f1
+12. Nd2 | Analysis: +944 | Depth: 14 | EngineMove : c3d3
+12... Qxd3 | Analysis: -944 | Depth: 15 | EngineMove : d1e2
+13. Rc1 | Analysis: #+3 | Depth: 127 | EngineMove : f8e8
+13... Qxd4 | Analysis: -877 | Depth: 13 | EngineMove : e1g1
+14. Rxc7 | Analysis: +1791 | Depth: 13 | EngineMove : c8g4
+14... Qe5+ | Analysis: -1324 | Depth: 12 | EngineMove : e1f1

@@ -1,0 +1,15 @@
+**URL: https://lichess.org/2Anu87FJ | Tag: 2Anu87FJ | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/2Anu87FJ', Date='2019.05.14', Round='-', White='chittyct', Black='canbum', Result='0-1', BlackElo='1295', BlackRatingDiff='+11', ECO='D07', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.14', UTCTime='16:04:56', Variant='Standard', WhiteElo='1329', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -19 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +18 | Depth: 19 | EngineMove : g1f3
+2. c4 | Analysis: -21 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +31 | Depth: 18 | EngineMove : g1f3
+3. cxd5 | Analysis: -30 | Depth: 20 | EngineMove : d8d5
+3... Qxd5 | Analysis: +31 | Depth: 19 | EngineMove : e2e3
+4. Nc3 | Analysis: +65 | Depth: 17 | EngineMove : d5d4
+4... Qxd4 | Analysis: -51 | Depth: 17 | EngineMove : d1c2
+5. Qxd4 | Analysis: +90 | Depth: 19 | EngineMove : c6d4
+5... Nxd4 | Analysis: -91 | Depth: 20 | EngineMove : c3d5
+6. e4 | Analysis: +344 | Depth: 17 | EngineMove : d4c2
+6... Nc2+ | Analysis: -327 | Depth: 18 | EngineMove : e1d1

@@ -1,0 +1,31 @@
+**URL: https://lichess.org/NIAlB52k | Tag: NIAlB52k | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/NIAlB52k', Date='2018.10.05', Round='-', White='shcolarsmate26', Black='chittyct', Result='1-0', BlackElo='1000', BlackRatingDiff='-11', ECO='B20', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.05', UTCTime='02:12:41', Variant='Standard', WhiteElo='1002', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -17 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +58 | Depth: 12 | EngineMove : b1c3
+2. Bc4 | Analysis: -20 | Depth: 12 | EngineMove : e7e6
+2... d6 | Analysis: +47 | Depth: 12 | EngineMove : g1f3
+3. Qh5 | Analysis: +55 | Depth: 12 | EngineMove : e7e6
+3... Nf6 | Analysis: +224 | Depth: 11 | EngineMove : h5f7
+4. Qxf7+ | Analysis: -202 | Depth: 12 | EngineMove : e8d7
+4... Kd7 | Analysis: +217 | Depth: 13 | EngineMove : d2d4
+5. Be6+ | Analysis: -106 | Depth: 12 | EngineMove : d7c7
+5... Kc6 | Analysis: +197 | Depth: 12 | EngineMove : b1c3
+6. Bxc8 | Analysis: -162 | Depth: 12 | EngineMove : d8c8
+6... Qxc8 | Analysis: +156 | Depth: 13 | EngineMove : b1c3
+7. Nc3 | Analysis: -168 | Depth: 13 | EngineMove : b7b6
+7... e5 | Analysis: +188 | Depth: 11 | EngineMove : g1e2
+8. Nd5 | Analysis: -96 | Depth: 15 | EngineMove : c8d7
+8... Nxd5 | Analysis: +93 | Depth: 12 | EngineMove : e4d5
+9. exd5+ | Analysis: -109 | Depth: 16 | EngineMove : c6b6
+9... Kb6 | Analysis: +109 | Depth: 15 | EngineMove : d2d3
+10. a4 | Analysis: -71 | Depth: 14 | EngineMove : c8d7
+10... Nd7 | Analysis: +105 | Depth: 12 | EngineMove : a4a5
+11. a5+ | Analysis: -72 | Depth: 14 | EngineMove : b6c7
+11... Kb5 | Analysis: +247 | Depth: 11 | EngineMove : f7f3
+12. b3 | Analysis: -156 | Depth: 15 | EngineMove : d7f6
+12... b6 | Analysis: +906 | Depth: 14 | EngineMove : a5a6
+13. c4+ | Analysis: -203 | Depth: 12 | EngineMove : b5a6
+13... Kb4 | Analysis: #+2 | Depth: 127 | EngineMove : f7f3
+14. Ba3+ | Analysis: #-4 | Depth: 40 | EngineMove : b4b3
+14... Kxa5 | Analysis: #+1 | Depth: 127 | EngineMove : a3c5

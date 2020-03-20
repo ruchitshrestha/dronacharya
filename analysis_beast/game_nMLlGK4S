@@ -1,0 +1,28 @@
+**URL: https://lichess.org/nMLlGK4S | Tag: nMLlGK4S | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/nMLlGK4S', Date='2019.04.01', Round='-', White='chittyct', Black='Juanbajo', Result='1-0', BlackElo='1197', BlackRatingDiff='-11', ECO='D06', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.01', UTCTime='22:26:28', Variant='Standard', WhiteElo='1201', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -23 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -11 | Depth: 14 | EngineMove : e7e6
+2... Nf6 | Analysis: +61 | Depth: 12 | EngineMove : c4d5
+3. cxd5 | Analysis: -28 | Depth: 13 | EngineMove : c7c6
+3... Nxd5 | Analysis: +84 | Depth: 12 | EngineMove : g1f3
+4. e4 | Analysis: -29 | Depth: 12 | EngineMove : d5f6
+4... Nb4 | Analysis: +216 | Depth: 13 | EngineMove : d1a4
+5. Qa4+ | Analysis: -203 | Depth: 13 | EngineMove : b8c6
+5... N4c6 | Analysis: +234 | Depth: 14 | EngineMove : d4d5
+6. d5 | Analysis: -234 | Depth: 12 | EngineMove : c8d7
+6... e6 | Analysis: +256 | Depth: 13 | EngineMove : d5c6
+7. dxc6 | Analysis: -259 | Depth: 14 | EngineMove : b8c6
+7... bxc6 | Analysis: +355 | Depth: 12 | EngineMove : g1f3
+8. Nc3 | Analysis: -334 | Depth: 12 | EngineMove : b8d7
+8... Ba6 | Analysis: +848 | Depth: 14 | EngineMove : f1a6
+9. Bxa6 | Analysis: -824 | Depth: 13 | EngineMove : b8a6
+9... Nxa6 | Analysis: +859 | Depth: 13 | EngineMove : a4c6
+10. Qxc6+ | Analysis: -836 | Depth: 14 | EngineMove : e8e7
+10... Qd7 | Analysis: +1252 | Depth: 14 | EngineMove : c6a8
+11. Qxa8+ | Analysis: -1260 | Depth: 15 | EngineMove : d7d8
+11... Ke7 | Analysis: +1303 | Depth: 14 | EngineMove : c1e3
+12. Qxa7 | Analysis: -1040 | Depth: 12 | EngineMove : a6b4
+12... Nc5 | Analysis: +1391 | Depth: 12 | EngineMove : a7c5
+13. Qxc5+ | Analysis: -1420 | Depth: 12 | EngineMove : e7e8

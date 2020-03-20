@@ -1,0 +1,22 @@
+**URL: https://lichess.org/eh4sLaQS | Tag: eh4sLaQS | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/eh4sLaQS', Date='2019.12.02', Round='-', White='Ciszek88', Black='chittyct', Result='0-1', BlackElo='1248', BlackRatingDiff='+7', ECO='A00', Termination='Normal', TimeControl='120+1', UTCDate='2019.12.02', UTCTime='16:06:14', Variant='Standard', WhiteElo='1229', WhiteRatingDiff='-7')
+
+1. b4 | Analysis: +61 | Depth: 16 | EngineMove : e7e5
+1... e5 | Analysis: -62 | Depth: 17 | EngineMove : a2a3
+2. Bb2 | Analysis: +30 | Depth: 16 | EngineMove : f8b4
+2... Bxb4 | Analysis: -36 | Depth: 19 | EngineMove : b2e5
+3. Bxe5 | Analysis: +42 | Depth: 21 | EngineMove : g8f6
+3... Qg5 | Analysis: +98 | Depth: 18 | EngineMove : g1f3
+4. Bb2 | Analysis: -18 | Depth: 17 | EngineMove : g8f6
+4... Nf6 | Analysis: +12 | Depth: 19 | EngineMove : g1f3
+5. Nf3 | Analysis: -6 | Depth: 18 | EngineMove : g5h6
+5... Qb5 | Analysis: +64 | Depth: 17 | EngineMove : b2f6
+6. a3 | Analysis: +71 | Depth: 20 | EngineMove : b4d2
+6... Bxd2+ | Analysis: -78 | Depth: 21 | EngineMove : b1d2
+7. Qxd2 | Analysis: +148 | Depth: 19 | EngineMove : b5b2
+7... Qxb2 | Analysis: -154 | Depth: 20 | EngineMove : d2d4
+8. Qe3+ | Analysis: +167 | Depth: 19 | EngineMove : e8f8
+8... Kd8 | Analysis: -125 | Depth: 19 | EngineMove : e3d4
+9. Ng5 | Analysis: +585 | Depth: 20 | EngineMove : h8f8
+9... Rf8 | Analysis: -610 | Depth: 20 | EngineMove : g2g3
+10. Qc3 | Analysis: #+1 | Depth: 127 | EngineMove : b2c1

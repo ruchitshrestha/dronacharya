@@ -1,0 +1,6 @@
+**URL: https://lichess.org/hnHD90Xb | Tag: hnHD90Xb | Side: white**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/hnHD90Xb', Date='2018.08.31', Round='-', White='chittyct', Black='Ahmetnb', Result='0-1', BlackElo='1301', BlackRatingDiff='+52', ECO='A40', Termination='Normal', TimeControl='600+0', UTCDate='2018.08.31', UTCTime='20:31:18', Variant='Standard', WhiteElo='1318', WhiteRatingDiff='-27')
+
+1. d4 | Analysis: -13 | Depth: 18 | EngineMove : g8f6
+1... e5 | Analysis: +62 | Depth: 17 | EngineMove : d4e5
+2. Bf4 | Analysis: +333 | Depth: 17 | EngineMove : e5f4

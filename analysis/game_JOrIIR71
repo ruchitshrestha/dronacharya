@@ -1,0 +1,39 @@
+**URL: https://lichess.org/JOrIIR71 | Tag: JOrIIR71 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/JOrIIR71', Date='2018.12.04', Round='-', White='ejs11', Black='chittyct', Result='0-1', BlackElo='1190', BlackRatingDiff='+8', ECO='B20', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.12.04', UTCTime='18:56:09', Variant='Standard', WhiteElo='1087', WhiteRatingDiff='-8')
+
+1. e4 | Analysis: -14 | Depth: 15 | EngineMove : e7e6
+1... c5 | Analysis: +46 | Depth: 16 | EngineMove : g1f3
+2. b3 | Analysis: -19 | Depth: 16 | EngineMove : b8c6
+2... e5 | Analysis: +27 | Depth: 17 | EngineMove : b1c3
+3. Bb2 | Analysis: -22 | Depth: 18 | EngineMove : b8c6
+3... Bd6 | Analysis: +50 | Depth: 16 | EngineMove : f2f4
+4. Nf3 | Analysis: -19 | Depth: 17 | EngineMove : b8c6
+4... Nf6 | Analysis: +89 | Depth: 17 | EngineMove : f3e5
+5. Bc4 | Analysis: -17 | Depth: 19 | EngineMove : b8c6
+5... Nc6 | Analysis: +10 | Depth: 18 | EngineMove : b1c3
+6. Ng5 | Analysis: 0 | Depth: 18 | EngineMove : e8g8
+6... O-O | Analysis: -9 | Depth: 18 | EngineMove : b1c3
+7. Nc3 | Analysis: +9 | Depth: 19 | EngineMove : a7a6
+7... a6 | Analysis: -10 | Depth: 19 | EngineMove : a2a4
+8. Nd5 | Analysis: +126 | Depth: 18 | EngineMove : b7b5
+8... b5 | Analysis: -125 | Depth: 18 | EngineMove : c4e2
+9. Bd3 | Analysis: +298 | Depth: 18 | EngineMove : f6d5
+9... Nd4 | Analysis: -46 | Depth: 16 | EngineMove : d5f6
+10. Nxf6+ | Analysis: +48 | Depth: 17 | EngineMove : d8f6
+10... Qxf6 | Analysis: -50 | Depth: 18 | EngineMove : d1h5
+11. Qg4 | Analysis: +192 | Depth: 18 | EngineMove : c5c4
+11... c4 | Analysis: -144 | Depth: 18 | EngineMove : c2c3
+12. Qh3 | Analysis: +386 | Depth: 18 | EngineMove : f6g5
+12... Qxg5 | Analysis: -421 | Depth: 18 | EngineMove : b3c4
+13. bxc4 | Analysis: +439 | Depth: 19 | EngineMove : b5c4
+13... bxc4 | Analysis: -418 | Depth: 17 | EngineMove : b2d4
+14. Bxc4 | Analysis: +643 | Depth: 16 | EngineMove : d4c2
+14... Nxc2+ | Analysis: -658 | Depth: 18 | EngineMove : e1f1
+15. Kd1 | Analysis: +718 | Depth: 17 | EngineMove : c2a1
+15... Nxa1 | Analysis: -735 | Depth: 17 | EngineMove : b2a1
+16. Bxa1 | Analysis: +760 | Depth: 19 | EngineMove : d6b4
+16... Bb4 | Analysis: -750 | Depth: 19 | EngineMove : h3e3
+17. Qd3 | Analysis: +797 | Depth: 16 | EngineMove : g5g2
+17... Qxg2 | Analysis: -835 | Depth: 17 | EngineMove : h1f1
+18. Re1 | Analysis: +894 | Depth: 18 | EngineMove : d7d5
+18... Qxf2 | Analysis: -775 | Depth: 16 | EngineMove : e1f1

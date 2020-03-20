@@ -1,0 +1,17 @@
+**URL: https://lichess.org/275SJLUn | Tag: 275SJLUn | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/275SJLUn', Date='2018.09.01', Round='-', White='satishdangapur', Black='chittyct', Result='0-1', BlackElo='1029', BlackRatingDiff='+6', ECO='C23', Termination='Normal', TimeControl='300+0', UTCDate='2018.09.01', UTCTime='19:56:48', Variant='Standard', WhiteElo='831', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -14 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: +28 | Depth: 12 | EngineMove : g1f3
+2. Bc4 | Analysis: +2 | Depth: 12 | EngineMove : g8f6
+2... Nh6 | Analysis: +112 | Depth: 11 | EngineMove : g1f3
+3. d3 | Analysis: -94 | Depth: 12 | EngineMove : b8c6
+3... Nc6 | Analysis: +82 | Depth: 13 | EngineMove : b1c3
+4. Bxh6 | Analysis: -41 | Depth: 13 | EngineMove : g7h6
+4... gxh6 | Analysis: +57 | Depth: 13 | EngineMove : b1c3
+5. Qf3 | Analysis: -81 | Depth: 14 | EngineMove : d8e7
+5... Qe7 | Analysis: +76 | Depth: 14 | EngineMove : g1e2
+6. Qh5 | Analysis: +7 | Depth: 12 | EngineMove : c6d4
+6... d6 | Analysis: +54 | Depth: 13 | EngineMove : b1c3
+7. Qxh6 | Analysis: +1025 | Depth: 14 | EngineMove : f8h6
+7... Bxh6 | Analysis: -1015 | Depth: 14 | EngineMove : g1e2

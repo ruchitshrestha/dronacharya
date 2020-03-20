@@ -1,0 +1,29 @@
+**URL: https://lichess.org/HI8AcApx | Tag: HI8AcApx | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/HI8AcApx', Date='2018.09.14', Round='-', White='chittyct', Black='castropalacioskevin', Result='0-1', BlackElo='1234', BlackRatingDiff='+5', ECO='A40', Termination='Time forfeit', TimeControl='180+0', UTCDate='2018.09.14', UTCTime='16:17:54', Variant='Standard', WhiteElo='1053', WhiteRatingDiff='-6')
+
+1. d4 | Analysis: -20 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +17 | Depth: 17 | EngineMove : e2e4
+2. Bf4 | Analysis: -13 | Depth: 19 | EngineMove : g8f6
+2... d5 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+3. e3 | Analysis: -17 | Depth: 19 | EngineMove : g8f6
+3... c5 | Analysis: +23 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -17 | Depth: 18 | EngineMove : g8f6
+4... Bd7 | Analysis: +37 | Depth: 17 | EngineMove : f1e2
+5. Ne5 | Analysis: -4 | Depth: 18 | EngineMove : c5d4
+5... Nc6 | Analysis: +9 | Depth: 18 | EngineMove : c2c3
+6. c4 | Analysis: +16 | Depth: 16 | EngineMove : c5d4
+6... Nxe5 | Analysis: -4 | Depth: 17 | EngineMove : f4e5
+7. Bxe5 | Analysis: -13 | Depth: 17 | EngineMove : c5d4
+7... Qa5+ | Analysis: +29 | Depth: 16 | EngineMove : b1d2
+8. Nc3 | Analysis: -17 | Depth: 17 | EngineMove : c5d4
+8... Ba4 | Analysis: +421 | Depth: 16 | EngineMove : d1a4
+9. Qf3 | Analysis: -12 | Depth: 17 | EngineMove : g8e7
+9... cxd4 | Analysis: +62 | Depth: 18 | EngineMove : e5d4
+10. exd4 | Analysis: -54 | Depth: 18 | EngineMove : g8e7
+10... Bb4 | Analysis: +458 | Depth: 17 | EngineMove : e5g7
+11. Bd3 | Analysis: +242 | Depth: 17 | EngineMove : b4c3
+11... Ne7 | Analysis: +42 | Depth: 17 | EngineMove : e1g1
+12. O-O | Analysis: -45 | Depth: 19 | EngineMove : d5c4
+12... f6 | Analysis: +152 | Depth: 16 | EngineMove : e5g3
+13. Bg3 | Analysis: -122 | Depth: 17 | EngineMove : b4c3
+13... O-O | Analysis: +262 | Depth: 18 | EngineMove : c3a4

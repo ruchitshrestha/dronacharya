@@ -1,0 +1,29 @@
+**URL: https://lichess.org/DRu67tD3 | Tag: DRu67tD3 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/DRu67tD3', Date='2020.02.07', Round='-', White='bantu1995', Black='chittyct', Result='0-1', BlackElo='1537', BlackRatingDiff='+6', ECO='B32', Termination='Normal', TimeControl='300+3', UTCDate='2020.02.07', UTCTime='17:48:51', Variant='Standard', WhiteElo='1529', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -28 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +56 | Depth: 13 | EngineMove : g1f3
+2. d4 | Analysis: -22 | Depth: 13 | EngineMove : c5d4
+2... cxd4 | Analysis: +24 | Depth: 13 | EngineMove : d1d4
+3. Nf3 | Analysis: -18 | Depth: 11 | EngineMove : e7e5
+3... Nc6 | Analysis: +36 | Depth: 12 | EngineMove : f3d4
+4. Nxd4 | Analysis: -25 | Depth: 13 | EngineMove : g8f6
+4... e5 | Analysis: +31 | Depth: 13 | EngineMove : d4b5
+5. Nxc6 | Analysis: +10 | Depth: 13 | EngineMove : b7c6
+5... bxc6 | Analysis: -17 | Depth: 12 | EngineMove : d1h5
+6. c4 | Analysis: +20 | Depth: 14 | EngineMove : g8f6
+6... Nf6 | Analysis: -16 | Depth: 15 | EngineMove : b1c3
+7. Nc3 | Analysis: +18 | Depth: 14 | EngineMove : f8c5
+7... Be7 | Analysis: 0 | Depth: 14 | EngineMove : f1d3
+8. Be2 | Analysis: -6 | Depth: 13 | EngineMove : e8g8
+8... O-O | Analysis: +13 | Depth: 14 | EngineMove : e1g1
+9. O-O | Analysis: -14 | Depth: 14 | EngineMove : e7b4
+9... Bb7 | Analysis: +39 | Depth: 13 | EngineMove : d1b3
+10. a3 | Analysis: +20 | Depth: 13 | EngineMove : d7d5
+10... d5 | Analysis: +9 | Depth: 14 | EngineMove : e4d5
+11. cxd5 | Analysis: -6 | Depth: 14 | EngineMove : c6d5
+11... cxd5 | Analysis: +3 | Depth: 14 | EngineMove : e4d5
+12. Kh1 | Analysis: +234 | Depth: 12 | EngineMove : d5d4
+12... d4 | Analysis: -217 | Depth: 14 | EngineMove : c3a4
+13. b3 | Analysis: +429 | Depth: 12 | EngineMove : d4c3
+13... dxc3 | Analysis: -439 | Depth: 14 | EngineMove : d1c2

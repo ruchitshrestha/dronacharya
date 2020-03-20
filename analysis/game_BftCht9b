@@ -1,0 +1,19 @@
+**URL: https://lichess.org/BftCht9b | Tag: BftCht9b | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/BftCht9b', Date='2019.10.13', Round='-', White='SralMies', Black='chittyct', Result='0-1', BlackElo='1146', BlackRatingDiff='+9', ECO='A04', Termination='Normal', TimeControl='120+1', UTCDate='2019.10.13', UTCTime='08:30:07', Variant='Standard', WhiteElo='1214', WhiteRatingDiff='-8')
+
+1. Nf3 | Analysis: -10 | Depth: 18 | EngineMove : g8f6
+1... c5 | Analysis: +34 | Depth: 17 | EngineMove : e2e4
+2. d4 | Analysis: -8 | Depth: 16 | EngineMove : c5d4
+2... cxd4 | Analysis: +8 | Depth: 17 | EngineMove : d1d4
+3. Nxd4 | Analysis: -3 | Depth: 17 | EngineMove : g8f6
+3... Nc6 | Analysis: +27 | Depth: 16 | EngineMove : b1c3
+4. Nxc6 | Analysis: +4 | Depth: 20 | EngineMove : b7c6
+4... bxc6 | Analysis: -7 | Depth: 20 | EngineMove : e2e4
+5. Nc3 | Analysis: +7 | Depth: 19 | EngineMove : e7e5
+5... d5 | Analysis: +2 | Depth: 19 | EngineMove : e2e4
+6. Qd4 | Analysis: +29 | Depth: 17 | EngineMove : d8b6
+6... Bf5 | Analysis: +15 | Depth: 18 | EngineMove : e2e4
+7. e4 | Analysis: -10 | Depth: 17 | EngineMove : d5e4
+7... dxe4 | Analysis: +17 | Depth: 19 | EngineMove : d4a4
+8. Nxe4 | Analysis: +1098 | Depth: 20 | EngineMove : d8d4
+8... Qxd4 | Analysis: -1095 | Depth: 20 | EngineMove : e4c3

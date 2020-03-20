@@ -1,0 +1,15 @@
+**URL: https://lichess.org/YH1UTa3P | Tag: YH1UTa3P | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/YH1UTa3P', Date='2019.04.24', Round='-', White='chittyct', Black='martin7770', Result='0-1', BlackElo='1292', BlackRatingDiff='+11', ECO='B13', Termination='Normal', TimeControl='180+2', UTCDate='2019.04.24', UTCTime='01:23:57', Variant='Standard', WhiteElo='1299', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -26 | Depth: 17 | EngineMove : g8f6
+1... c6 | Analysis: +45 | Depth: 18 | EngineMove : e2e4
+2. e4 | Analysis: -38 | Depth: 19 | EngineMove : d7d5
+2... d5 | Analysis: +36 | Depth: 19 | EngineMove : b1c3
+3. exd5 | Analysis: -39 | Depth: 17 | EngineMove : c6d5
+3... Qa5+ | Analysis: +86 | Depth: 17 | EngineMove : c2c3
+4. c3 | Analysis: -74 | Depth: 20 | EngineMove : c6d5
+4... Qxd5 | Analysis: +96 | Depth: 16 | EngineMove : g1f3
+5. Nd2 | Analysis: -79 | Depth: 18 | EngineMove : g8f6
+5... Nf6 | Analysis: +81 | Depth: 19 | EngineMove : g1f3
+6. Bc4 | Analysis: +90 | Depth: 18 | EngineMove : d5g2
+6... Qxg2 | Analysis: -96 | Depth: 20 | EngineMove : d1f3

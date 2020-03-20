@@ -1,0 +1,12 @@
+**URL: https://lichess.org/YSdcwLOz | Tag: YSdcwLOz | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/YSdcwLOz', Date='2019.07.02', Round='-', White='chittyct', Black='olly97', Result='1-0', BlackElo='1229', BlackRatingDiff='-9', ECO='D30', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.02', UTCTime='03:58:35', Variant='Standard', WhiteElo='1255', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -15 | Depth: 13 | EngineMove : g8f6
+1... e6 | Analysis: +23 | Depth: 12 | EngineMove : e2e4
+2. c4 | Analysis: -11 | Depth: 13 | EngineMove : g8f6
+2... d5 | Analysis: +11 | Depth: 14 | EngineMove : e2e3
+3. cxd5 | Analysis: -8 | Depth: 14 | EngineMove : e6d5
+3... exd5 | Analysis: -1 | Depth: 14 | EngineMove : g1f3
+4. Nc3 | Analysis: -1 | Depth: 13 | EngineMove : b8c6
+4... Bb4 | Analysis: +13 | Depth: 15 | EngineMove : g1f3
+5. Qa4+ | Analysis: +12 | Depth: 12 | EngineMove : b8c6

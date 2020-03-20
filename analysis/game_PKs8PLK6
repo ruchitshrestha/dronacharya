@@ -1,0 +1,22 @@
+**URL: https://lichess.org/PKs8PLK6 | Tag: PKs8PLK6 | Side: white**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/PKs8PLK6', Date='2018.12.14', Round='-', White='chittyct', Black='moquette78971', Result='1-0', BlackElo='1392', BlackRatingDiff='-10', ECO='D02', Termination='Normal', TimeControl='600+0', UTCDate='2018.12.14', UTCTime='20:21:23', Variant='Standard', WhiteElo='1391', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -17 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 19 | EngineMove : g1f3
+2. Nf3 | Analysis: -18 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +31 | Depth: 19 | EngineMove : c2c4
+3. Bf4 | Analysis: -8 | Depth: 18 | EngineMove : c8f5
+3... f6 | Analysis: +53 | Depth: 15 | EngineMove : c2c4
+4. e3 | Analysis: -41 | Depth: 17 | EngineMove : e7e6
+4... e5 | Analysis: +84 | Depth: 18 | EngineMove : d4e5
+5. dxe5 | Analysis: -76 | Depth: 20 | EngineMove : f6e5
+5... fxe5 | Analysis: +79 | Depth: 21 | EngineMove : f3e5
+6. Nxe5 | Analysis: -82 | Depth: 21 | EngineMove : c6e5
+6... Nxe5 | Analysis: +80 | Depth: 20 | EngineMove : f4e5
+7. Bxe5 | Analysis: -83 | Depth: 20 | EngineMove : g8f6
+7... Bb4+ | Analysis: +200 | Depth: 18 | EngineMove : c2c3
+8. c3 | Analysis: -201 | Depth: 19 | EngineMove : d8e7
+8... Ba5 | Analysis: +700 | Depth: 19 | EngineMove : e5g7
+9. Bxg7 | Analysis: -708 | Depth: 19 | EngineMove : c8f5
+9... Bg4 | Analysis: +1012 | Depth: 20 | EngineMove : d1g4
+10. Qxg4 | Analysis: -1016 | Depth: 21 | EngineMove : g8f6

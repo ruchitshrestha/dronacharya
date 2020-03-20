@@ -1,0 +1,26 @@
+**URL: https://lichess.org/oZBQcWv1 | Tag: oZBQcWv1 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/oZBQcWv1', Date='2019.01.08', Round='-', White='chittyct', Black='FreshLizard', Result='1-0', BlackElo='984', BlackRatingDiff='-7', ECO='D06', Termination='Normal', TimeControl='120+1', UTCDate='2019.01.08', UTCTime='03:33:15', Variant='Standard', WhiteElo='1080', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +15 | Depth: 18 | EngineMove : c2c4
+2. c4 | Analysis: -18 | Depth: 18 | EngineMove : e7e6
+2... c5 | Analysis: +51 | Depth: 17 | EngineMove : c4d5
+3. cxd5 | Analysis: -33 | Depth: 18 | EngineMove : d8d5
+3... cxd4 | Analysis: +95 | Depth: 17 | EngineMove : d1d4
+4. Qxd4 | Analysis: -88 | Depth: 18 | EngineMove : e7e6
+4... e6 | Analysis: +90 | Depth: 17 | EngineMove : e2e4
+5. Nc3 | Analysis: -22 | Depth: 19 | EngineMove : b8c6
+5... Nf6 | Analysis: +90 | Depth: 19 | EngineMove : e2e4
+6. Bg5 | Analysis: -18 | Depth: 17 | EngineMove : b8c6
+6... Be7 | Analysis: +15 | Depth: 17 | EngineMove : e2e4
+7. Nf3 | Analysis: 0 | Depth: 17 | EngineMove : e6d5
+7... exd5 | Analysis: 0 | Depth: 19 | EngineMove : d4d2
+8. Bxf6 | Analysis: +17 | Depth: 18 | EngineMove : e7f6
+8... Bxf6 | Analysis: -9 | Depth: 17 | EngineMove : d4a4
+9. Qxd5 | Analysis: +1023 | Depth: 20 | EngineMove : f6c3
+9... Qxd5 | Analysis: +100 | Depth: 19 | EngineMove : c3d5
+10. Nxd5 | Analysis: -91 | Depth: 20 | EngineMove : f6d8
+10... Bxb2 | Analysis: +250 | Depth: 19 | EngineMove : a1b1
+11. Rb1 | Analysis: -250 | Depth: 21 | EngineMove : c8e6
+11... Bf6 | Analysis: +351 | Depth: 18 | EngineMove : d5c7
+12. Nc7+ | Analysis: -381 | Depth: 19 | EngineMove : e8e7

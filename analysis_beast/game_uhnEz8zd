@@ -1,0 +1,24 @@
+**URL: https://lichess.org/uhnEz8zd | Tag: uhnEz8zd | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/uhnEz8zd', Date='2019.10.07', Round='-', White='sungi', Black='chittyct', Result='1-0', BlackElo='1473', BlackRatingDiff='-6', ECO='A40', Termination='Normal', TimeControl='300+3', UTCDate='2019.10.07', UTCTime='20:59:46', Variant='Standard', WhiteElo='1488', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -15 | Depth: 12 | EngineMove : g8f6
+1... g6 | Analysis: +94 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -47 | Depth: 13 | EngineMove : d7d5
+2... Bg7 | Analysis: +74 | Depth: 12 | EngineMove : e2e4
+3. c4 | Analysis: -51 | Depth: 12 | EngineMove : c7c5
+3... c5 | Analysis: +60 | Depth: 14 | EngineMove : d4d5
+4. e3 | Analysis: -25 | Depth: 13 | EngineMove : g8f6
+4... cxd4 | Analysis: +30 | Depth: 12 | EngineMove : e3d4
+5. Nxd4 | Analysis: -24 | Depth: 13 | EngineMove : g8f6
+5... e5 | Analysis: +158 | Depth: 12 | EngineMove : d4b5
+6. Nb3 | Analysis: -19 | Depth: 13 | EngineMove : g8f6
+6... e4 | Analysis: +81 | Depth: 13 | EngineMove : b1c3
+7. Be2 | Analysis: -68 | Depth: 13 | EngineMove : g8e7
+7... Ne7 | Analysis: +59 | Depth: 12 | EngineMove : b1c3
+8. Nd4 | Analysis: -18 | Depth: 13 | EngineMove : d7d5
+8... O-O | Analysis: +29 | Depth: 13 | EngineMove : b1c3
+9. Nc3 | Analysis: -46 | Depth: 13 | EngineMove : b8c6
+9... d5 | Analysis: +59 | Depth: 14 | EngineMove : c4d5
+10. cxd5 | Analysis: -40 | Depth: 14 | EngineMove : e7d5
+10... Qxd5 | Analysis: +708 | Depth: 13 | EngineMove : c3d5
+11. Nxd5 | Analysis: -686 | Depth: 14 | EngineMove : e7d5

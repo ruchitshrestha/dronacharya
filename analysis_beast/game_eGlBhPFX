@@ -1,0 +1,32 @@
+**URL: https://lichess.org/eGlBhPFX | Tag: eGlBhPFX | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/eGlBhPFX', Date='2019.08.09', Round='-', White='chittyct', Black='AlonDaPro', Result='1-0', BlackElo='1190', BlackRatingDiff='-9', ECO='D35', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.08.09', UTCTime='06:42:42', Variant='Standard', WhiteElo='1194', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -25 | Depth: 12 | EngineMove : d7d5
+1... Nf6 | Analysis: +12 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -8 | Depth: 14 | EngineMove : e7e6
+2... c6 | Analysis: +25 | Depth: 12 | EngineMove : c1f4
+3. Nc3 | Analysis: -47 | Depth: 13 | EngineMove : d7d5
+3... e6 | Analysis: +46 | Depth: 13 | EngineMove : e2e4
+4. Bg5 | Analysis: -2 | Depth: 11 | EngineMove : d7d5
+4... d5 | Analysis: +34 | Depth: 12 | EngineMove : g5f6
+5. cxd5 | Analysis: -8 | Depth: 12 | EngineMove : e6d5
+5... exd5 | Analysis: -3 | Depth: 13 | EngineMove : g1f3
+6. Rc1 | Analysis: +12 | Depth: 13 | EngineMove : f8d6
+6... h6 | Analysis: +53 | Depth: 13 | EngineMove : g5f6
+7. Bh4 | Analysis: +31 | Depth: 11 | EngineMove : c8g4
+7... g5 | Analysis: +6 | Depth: 12 | EngineMove : h4g3
+8. Bg3 | Analysis: -15 | Depth: 11 | EngineMove : c8f5
+8... Bg7 | Analysis: +47 | Depth: 12 | EngineMove : e2e3
+9. e3 | Analysis: -52 | Depth: 12 | EngineMove : c8f5
+9... O-O | Analysis: +55 | Depth: 13 | EngineMove : f1d3
+10. Nf3 | Analysis: -22 | Depth: 13 | EngineMove : c8f5
+10... Nbd7 | Analysis: +75 | Depth: 13 | EngineMove : f1d3
+11. Bd3 | Analysis: -62 | Depth: 14 | EngineMove : f8e8
+11... Nb6 | Analysis: +69 | Depth: 13 | EngineMove : f3e5
+12. b3 | Analysis: -16 | Depth: 12 | EngineMove : f6e4
+12... Bf5 | Analysis: +431 | Depth: 13 | EngineMove : d3f5
+13. Bxf5 | Analysis: -423 | Depth: 15 | EngineMove : b6c8
+13... Rc8 | Analysis: +529 | Depth: 15 | EngineMove : f5c8
+14. Bxc8 | Analysis: -529 | Depth: 14 | EngineMove : b6c8
+14... Qxc8 | Analysis: +556 | Depth: 14 | EngineMove : f3e5
+15. O-O | Analysis: -525 | Depth: 15 | EngineMove : f6e4

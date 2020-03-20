@@ -1,0 +1,20 @@
+**URL: https://lichess.org/sS3PEFS5 | Tag: sS3PEFS5 | Side: white**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/sS3PEFS5', Date='2019.05.29', Round='-', White='chittyct', Black='cantormenge', Result='1-0', BlackElo='1556', BlackRatingDiff='-12', ECO='A40', Termination='Time forfeit', TimeControl='900+15', UTCDate='2019.05.29', UTCTime='17:04:45', Variant='Standard', WhiteElo='1504', WhiteRatingDiff='+14')
+
+1. d4 | Analysis: -18 | Depth: 17 | EngineMove : g8f6
+1... g6 | Analysis: +82 | Depth: 17 | EngineMove : e2e4
+2. Bf4 | Analysis: -33 | Depth: 18 | EngineMove : g8f6
+2... Bg7 | Analysis: +29 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -24 | Depth: 19 | EngineMove : g8f6
+3... d6 | Analysis: +23 | Depth: 18 | EngineMove : g1f3
+4. Be2 | Analysis: -19 | Depth: 17 | EngineMove : g8f6
+4... Nc6 | Analysis: +24 | Depth: 16 | EngineMove : b1c3
+5. c4 | Analysis: -12 | Depth: 18 | EngineMove : e7e5
+5... Bd7 | Analysis: -1 | Depth: 18 | EngineMove : g1f3
+6. Nc3 | Analysis: +25 | Depth: 17 | EngineMove : e7e5
+6... Qc8 | Analysis: +39 | Depth: 17 | EngineMove : g1f3
+7. Rc1 | Analysis: +3 | Depth: 20 | EngineMove : e7e5
+7... e5 | Analysis: -4 | Depth: 20 | EngineMove : d4e5
+8. dxe5 | Analysis: +5 | Depth: 20 | EngineMove : d6e5
+8... Nxe5 | Analysis: +54 | Depth: 18 | EngineMove : g1f3
+9. Bxe5 | Analysis: -6 | Depth: 20 | EngineMove : g7e5

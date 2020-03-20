@@ -1,0 +1,16 @@
+**URL: https://lichess.org/YT2TtoSX | Tag: YT2TtoSX | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/YT2TtoSX', Date='2019.06.22', Round='-', White='chittyct', Black='furkan5954', Result='1-0', BlackElo='857', BlackRatingDiff='-4', ECO='D20', Termination='Normal', TimeControl='120+1', UTCDate='2019.06.22', UTCTime='07:46:18', Variant='Standard', WhiteElo='1107', WhiteRatingDiff='+4')
+
+1. d4 | Analysis: -17 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +31 | Depth: 12 | EngineMove : c2c4
+2. c4 | Analysis: -28 | Depth: 13 | EngineMove : g8f6
+2... dxc4 | Analysis: +54 | Depth: 11 | EngineMove : e2e3
+3. e4 | Analysis: -44 | Depth: 11 | EngineMove : g8f6
+3... Nc6 | Analysis: +72 | Depth: 13 | EngineMove : g1f3
+4. Nf3 | Analysis: -77 | Depth: 12 | EngineMove : c8g4
+4... e5 | Analysis: +151 | Depth: 11 | EngineMove : d4d5
+5. d5 | Analysis: -148 | Depth: 11 | EngineMove : c6e7
+5... Nd4 | Analysis: +144 | Depth: 11 | EngineMove : f3d4
+6. Nxe5 | Analysis: -128 | Depth: 12 | EngineMove : c7c5
+6... Nf6 | Analysis: +438 | Depth: 11 | EngineMove : d1d4
+7. Qxd4 | Analysis: -437 | Depth: 13 | EngineMove : c7c5

@@ -1,0 +1,18 @@
+**URL: https://lichess.org/JIWAY9If | Tag: JIWAY9If | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/JIWAY9If', Date='2018.10.29', Round='-', White='chittyct', Black='Shuvo4686', Result='1-0', BlackElo='1171', BlackRatingDiff='-30', ECO='A40', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.10.29', UTCTime='16:31:46', Variant='Standard', WhiteElo='1160', WhiteRatingDiff='+11')
+
+1. d4 | Analysis: -10 | Depth: 13 | EngineMove : d7d5
+1... e5 | Analysis: +59 | Depth: 12 | EngineMove : d4e5
+2. Nf3 | Analysis: -8 | Depth: 11 | EngineMove : e5d4
+2... Nc6 | Analysis: +102 | Depth: 13 | EngineMove : d4d5
+3. dxe5 | Analysis: -71 | Depth: 12 | EngineMove : d7d6
+3... f6 | Analysis: +107 | Depth: 13 | EngineMove : e2e4
+4. exf6 | Analysis: -54 | Depth: 13 | EngineMove : g8f6
+4... Qxf6 | Analysis: +131 | Depth: 11 | EngineMove : a2a3
+5. Bg5 | Analysis: +15 | Depth: 12 | EngineMove : f6b2
+5... Qe5 | Analysis: +862 | Depth: 12 | EngineMove : f3e5
+6. Nxe5 | Analysis: -883 | Depth: 13 | EngineMove : c6e5
+6... Nxe5 | Analysis: +889 | Depth: 13 | EngineMove : b1c3
+7. e3 | Analysis: -855 | Depth: 12 | EngineMove : e5f7
+7... Bc5 | Analysis: +926 | Depth: 14 | EngineMove : g5f4
+8. Qd5 | Analysis: -972 | Depth: 13 | EngineMove : d7d6

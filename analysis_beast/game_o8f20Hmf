@@ -1,0 +1,14 @@
+**URL: https://lichess.org/o8f20Hmf | Tag: o8f20Hmf | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/o8f20Hmf', Date='2018.09.24', Round='-', White='Ellepi', Black='chittyct', Result='0-1', BlackElo='1092', BlackRatingDiff='+13', ECO='A00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='07:25:08', Variant='Standard', WhiteElo='1175', WhiteRatingDiff='-16')
+
+1. g3 | Analysis: +50 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: -34 | Depth: 13 | EngineMove : e2e3
+2. f3 | Analysis: +103 | Depth: 12 | EngineMove : d7d5
+2... d5 | Analysis: -96 | Depth: 12 | EngineMove : e2e3
+3. e3 | Analysis: +82 | Depth: 11 | EngineMove : c7c5
+3... Be6 | Analysis: -59 | Depth: 12 | EngineMove : g1e2
+4. d3 | Analysis: +97 | Depth: 11 | EngineMove : g8f6
+4... Nc6 | Analysis: -93 | Depth: 11 | EngineMove : g1e2
+5. c3 | Analysis: +120 | Depth: 12 | EngineMove : g8f6
+5... Bc5 | Analysis: -98 | Depth: 12 | EngineMove : g1e2
+6. b3 | Analysis: +122 | Depth: 12 | EngineMove : g8f6

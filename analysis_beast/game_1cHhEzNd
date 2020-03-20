@@ -1,0 +1,6 @@
+**URL: https://lichess.org/1cHhEzNd | Tag: 1cHhEzNd | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/1cHhEzNd', Date='2018.10.12', Round='-', White='shipshape', Black='chittyct', Result='1-0', BlackElo='1104', BlackRatingDiff='-12', ECO='A43', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.12', UTCTime='16:16:41', Variant='Standard', WhiteElo='1046', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: -18 | Depth: 12 | EngineMove : d7d5
+1... c5 | Analysis: +46 | Depth: 12 | EngineMove : d4d5
+2. c4 | Analysis: +23 | Depth: 12 | EngineMove : c5d4

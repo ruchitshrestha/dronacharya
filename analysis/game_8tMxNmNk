@@ -1,0 +1,32 @@
+**URL: https://lichess.org/8tMxNmNk | Tag: 8tMxNmNk | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/8tMxNmNk', Date='2019.07.03', Round='-', White='keiner007', Black='chittyct', Result='1-0', BlackElo='1221', BlackRatingDiff='-10', ECO='D00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.07.03', UTCTime='01:47:59', Variant='Standard', WhiteElo='1240', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -22 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +22 | Depth: 18 | EngineMove : e2e3
+2. e3 | Analysis: -15 | Depth: 18 | EngineMove : c7c5
+2... c6 | Analysis: +22 | Depth: 17 | EngineMove : f1d3
+3. c3 | Analysis: +5 | Depth: 20 | EngineMove : c8f5
+3... e6 | Analysis: +35 | Depth: 20 | EngineMove : g1f3
+4. Bd3 | Analysis: -32 | Depth: 21 | EngineMove : c6c5
+4... Bd6 | Analysis: +48 | Depth: 17 | EngineMove : g1f3
+5. f4 | Analysis: +17 | Depth: 17 | EngineMove : b7b6
+5... Nf6 | Analysis: -14 | Depth: 19 | EngineMove : g1f3
+6. Nf3 | Analysis: +20 | Depth: 20 | EngineMove : c6c5
+6... O-O | Analysis: -23 | Depth: 20 | EngineMove : e1g1
+7. O-O | Analysis: +4 | Depth: 18 | EngineMove : c6c5
+7... Re8 | Analysis: +12 | Depth: 17 | EngineMove : f3e5
+8. Nbd2 | Analysis: -7 | Depth: 18 | EngineMove : c6c5
+8... Qb6 | Analysis: +68 | Depth: 15 | EngineMove : f3e5
+9. Ne5 | Analysis: -74 | Depth: 16 | EngineMove : c6c5
+9... Bxe5 | Analysis: +343 | Depth: 18 | EngineMove : f4e5
+10. fxe5 | Analysis: -375 | Depth: 19 | EngineMove : f6e4
+10... Nfd7 | Analysis: +713 | Depth: 21 | EngineMove : d3h7
+11. Qh5 | Analysis: -386 | Depth: 21 | EngineMove : g7g6
+11... g6 | Analysis: +380 | Depth: 23 | EngineMove : h5h6
+12. Qh6 | Analysis: -384 | Depth: 21 | EngineMove : e8e7
+12... Kh8 | Analysis: #+2 | Depth: 127 | EngineMove : f1f7
+13. Nf3 | Analysis: -1129 | Depth: 19 | EngineMove : b6d8
+13... Rg8 | Analysis: #+18 | Depth: 25 | EngineMove : f3g5
+14. Ng5 | Analysis: #-14 | Depth: 28 | EngineMove : g8g7
+14... Rg7 | Analysis: #+14 | Depth: 29 | EngineMove : f1f7
+15. Rxf7 | Analysis: #-12 | Depth: 31 | EngineMove : g7f7

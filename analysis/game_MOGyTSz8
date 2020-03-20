@@ -1,0 +1,39 @@
+**URL: https://lichess.org/MOGyTSz8 | Tag: MOGyTSz8 | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/MOGyTSz8', Date='2018.12.09', Round='-', White='chittyct', Black='zkang001', Result='0-1', BlackElo='1257', BlackRatingDiff='+10', ECO='A40', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.09', UTCTime='21:57:16', Variant='Standard', WhiteElo='1269', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -16 | Depth: 18 | EngineMove : g8f6
+1... f6 | Analysis: +113 | Depth: 17 | EngineMove : e2e4
+2. e4 | Analysis: -118 | Depth: 18 | EngineMove : e7e5
+2... e5 | Analysis: +112 | Depth: 17 | EngineMove : f1c4
+3. c3 | Analysis: -74 | Depth: 17 | EngineMove : d7d5
+3... c6 | Analysis: +112 | Depth: 18 | EngineMove : d4e5
+4. Nf3 | Analysis: -97 | Depth: 17 | EngineMove : d7d5
+4... exd4 | Analysis: +116 | Depth: 16 | EngineMove : f3d4
+5. cxd4 | Analysis: -100 | Depth: 17 | EngineMove : d7d5
+5... d5 | Analysis: +112 | Depth: 17 | EngineMove : b1c3
+6. Nbd2 | Analysis: -25 | Depth: 15 | EngineMove : d8e7
+6... dxe4 | Analysis: +84 | Depth: 16 | EngineMove : d2e4
+7. Nxe4 | Analysis: -91 | Depth: 15 | EngineMove : d8e7
+7... f5 | Analysis: +105 | Depth: 16 | EngineMove : e4c3
+8. Neg5 | Analysis: -52 | Depth: 16 | EngineMove : f8b4
+8... h6 | Analysis: +51 | Depth: 16 | EngineMove : g5h3
+9. Nh3 | Analysis: -76 | Depth: 15 | EngineMove : f8b4
+9... Nd7 | Analysis: +108 | Depth: 15 | EngineMove : h3f4
+10. Qe2+ | Analysis: -71 | Depth: 16 | EngineMove : d8e7
+10... Ne7 | Analysis: +60 | Depth: 17 | EngineMove : h3f4
+11. b3 | Analysis: +48 | Depth: 16 | EngineMove : g7g5
+11... Nf6 | Analysis: -5 | Depth: 16 | EngineMove : h3f4
+12. Ba3 | Analysis: +400 | Depth: 17 | EngineMove : d8a5
+12... Bd7 | Analysis: -24 | Depth: 17 | EngineMove : e2e5
+13. Bxe7 | Analysis: +125 | Depth: 16 | EngineMove : f8e7
+13... Bxe7 | Analysis: -144 | Depth: 16 | EngineMove : e2e5
+14. Ne5 | Analysis: +250 | Depth: 17 | EngineMove : d8a5
+14... O-O | Analysis: -101 | Depth: 17 | EngineMove : e2d2
+15. Ng6 | Analysis: +368 | Depth: 16 | EngineMove : e7b4
+15... Re8 | Analysis: -302 | Depth: 17 | EngineMove : e2c4
+16. Qe3 | Analysis: +1091 | Depth: 17 | EngineMove : e7b4
+16... Bb4+ | Analysis: -1108 | Depth: 18 | EngineMove : e1d1
+17. Ke2 | Analysis: +1547 | Depth: 17 | EngineMove : f5f4
+17... Rxe3+ | Analysis: -1025 | Depth: 15 | EngineMove : f2e3
+18. Kxe3 | Analysis: +1294 | Depth: 15 | EngineMove : f6d5
+18... Qe8+ | Analysis: -1218 | Depth: 19 | EngineMove : g6e5

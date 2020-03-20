@@ -1,0 +1,32 @@
+**URL: https://lichess.org/myzj9j3S | Tag: myzj9j3S | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/myzj9j3S', Date='2018.11.21', Round='-', White='kwai_chang_caine', Black='chittyct', Result='1-0', BlackElo='1034', BlackRatingDiff='-9', ECO='D03', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.11.21', UTCTime='23:11:01', Variant='Standard', WhiteElo='1087', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -14 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +11 | Depth: 18 | EngineMove : c1f4
+2. Nf3 | Analysis: -16 | Depth: 17 | EngineMove : e7e6
+2... Nf6 | Analysis: +18 | Depth: 19 | EngineMove : c2c4
+3. Bg5 | Analysis: +1 | Depth: 16 | EngineMove : f6e4
+3... e6 | Analysis: +15 | Depth: 16 | EngineMove : e2e3
+4. e3 | Analysis: -1 | Depth: 16 | EngineMove : c7c5
+4... c5 | Analysis: +10 | Depth: 15 | EngineMove : c2c4
+5. Nbd2 | Analysis: -11 | Depth: 16 | EngineMove : b8c6
+5... cxd4 | Analysis: +33 | Depth: 18 | EngineMove : e3d4
+6. Nxd4 | Analysis: +3 | Depth: 15 | EngineMove : f8e7
+6... Nc6 | Analysis: -6 | Depth: 17 | EngineMove : f1b5
+7. Bb5 | Analysis: +6 | Depth: 18 | EngineMove : c8d7
+7... a6 | Analysis: +37 | Depth: 17 | EngineMove : d4c6
+8. Nxc6 | Analysis: -32 | Depth: 18 | EngineMove : d8b6
+8... bxc6 | Analysis: +227 | Depth: 17 | EngineMove : b5c6
+9. Bxc6+ | Analysis: -224 | Depth: 20 | EngineMove : c8d7
+9... Bd7 | Analysis: +219 | Depth: 20 | EngineMove : c6a8
+10. Bxa8 | Analysis: -224 | Depth: 20 | EngineMove : d8a8
+10... Qxa8 | Analysis: +228 | Depth: 21 | EngineMove : g5f6
+11. O-O | Analysis: -200 | Depth: 17 | EngineMove : f8e7
+11... Ne4 | Analysis: +350 | Depth: 22 | EngineMove : d2e4
+12. Bf4 | Analysis: -217 | Depth: 17 | EngineMove : e4f6
+12... Bb5 | Analysis: +280 | Depth: 19 | EngineMove : c2c4
+13. Re1 | Analysis: -247 | Depth: 18 | EngineMove : e4d2
+13... Qc8 | Analysis: +461 | Depth: 18 | EngineMove : c2c4
+14. Nxe4 | Analysis: -353 | Depth: 22 | EngineMove : d5e4
+14... dxe4 | Analysis: +365 | Depth: 22 | EngineMove : f4d6
+15. Qd2 | Analysis: -321 | Depth: 19 | EngineMove : f8e7

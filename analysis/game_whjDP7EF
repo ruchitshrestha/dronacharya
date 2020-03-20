@@ -1,0 +1,8 @@
+**URL: https://lichess.org/whjDP7EF | Tag: whjDP7EF | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/whjDP7EF', Date='2019.11.10', Round='-', White='Trashbin', Black='chittyct', Result='0-1', BlackElo='1639', BlackRatingDiff='+14', ECO='A02', Termination='Normal', TimeControl='600+5', UTCDate='2019.11.10', UTCTime='01:05:05', Variant='Standard', WhiteElo='1777', WhiteRatingDiff='-9')
+
+1. f4 | Analysis: +16 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: -17 | Depth: 18 | EngineMove : e2e3
+2. g4 | Analysis: +190 | Depth: 16 | EngineMove : c8g4
+2... e5 | Analysis: -163 | Depth: 14 | EngineMove : g4g5
+3. b4 | Analysis: #+1 | Depth: 127 | EngineMove : d8h4

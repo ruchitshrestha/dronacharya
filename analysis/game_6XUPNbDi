@@ -1,0 +1,14 @@
+**URL: https://lichess.org/6XUPNbDi | Tag: 6XUPNbDi | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/6XUPNbDi', Date='2019.09.17', Round='-', White='chittyct', Black='martinh2', Result='1-0', BlackElo='1183', BlackRatingDiff='-6', ECO='D07', Termination='Normal', TimeControl='60+0', UTCDate='2019.09.17', UTCTime='13:25:21', Variant='Standard', WhiteElo='1228', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -18 | Depth: 18 | EngineMove : d7d5
+1... Nc6 | Analysis: +44 | Depth: 16 | EngineMove : e2e4
+2. c4 | Analysis: -31 | Depth: 16 | EngineMove : g8f6
+2... d5 | Analysis: +27 | Depth: 18 | EngineMove : c4d5
+3. cxd5 | Analysis: -32 | Depth: 20 | EngineMove : d8d5
+3... Nb8 | Analysis: +205 | Depth: 18 | EngineMove : e2e4
+4. Nc3 | Analysis: -191 | Depth: 18 | EngineMove : e7e6
+4... Qxd5 | Analysis: +1153 | Depth: 19 | EngineMove : c3d5
+5. Nxd5 | Analysis: -1152 | Depth: 21 | EngineMove : b8a6
+5... c6 | Analysis: +1688 | Depth: 17 | EngineMove : d5c7
+6. Nc7+ | Analysis: -1681 | Depth: 18 | EngineMove : e8d8

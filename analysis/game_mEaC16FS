@@ -1,0 +1,15 @@
+**URL: https://lichess.org/mEaC16FS | Tag: mEaC16FS | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/mEaC16FS', Date='2019.05.09', Round='-', White='arach915', Black='chittyct', Result='0-1', BlackElo='1325', BlackRatingDiff='+13', ECO='B21', Termination='Normal', TimeControl='180+2', UTCDate='2019.05.09', UTCTime='03:12:07', Variant='Standard', WhiteElo='1416', WhiteRatingDiff='-13')
+
+1. e4 | Analysis: -27 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +27 | Depth: 17 | EngineMove : b1c3
+2. c3 | Analysis: +2 | Depth: 15 | EngineMove : d7d5
+2... e5 | Analysis: +25 | Depth: 17 | EngineMove : g1f3
+3. d4 | Analysis: -13 | Depth: 17 | EngineMove : c5d4
+3... cxd4 | Analysis: +5 | Depth: 18 | EngineMove : g1f3
+4. cxd4 | Analysis: -6 | Depth: 18 | EngineMove : e5d4
+4... exd4 | Analysis: 0 | Depth: 18 | EngineMove : g1f3
+5. Qxd4 | Analysis: +32 | Depth: 17 | EngineMove : b8c6
+5... Nc6 | Analysis: -24 | Depth: 17 | EngineMove : d4c4
+6. Qc3 | Analysis: +625 | Depth: 17 | EngineMove : f8b4
+6... Bb4 | Analysis: -638 | Depth: 18 | EngineMove : g1f3

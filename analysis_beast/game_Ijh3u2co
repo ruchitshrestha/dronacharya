@@ -1,0 +1,12 @@
+**URL: https://lichess.org/Ijh3u2co | Tag: Ijh3u2co | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Ijh3u2co', Date='2018.10.22', Round='-', White='Luan005', Black='chittyct', Result='1-0', BlackElo='1007', BlackRatingDiff='-14', ECO='B20', Termination='Normal', TimeControl='120+1', UTCDate='2018.10.22', UTCTime='01:33:45', Variant='Standard', WhiteElo='925', WhiteRatingDiff='+13')
+
+1. e4 | Analysis: -40 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +68 | Depth: 13 | EngineMove : b1c3
+2. Bc4 | Analysis: -7 | Depth: 13 | EngineMove : g8f6
+2... e5 | Analysis: +68 | Depth: 12 | EngineMove : g1f3
+3. Qh5 | Analysis: -61 | Depth: 14 | EngineMove : d8e7
+3... g6 | Analysis: +627 | Depth: 12 | EngineMove : h5e5
+4. Qxe5+ | Analysis: -615 | Depth: 14 | EngineMove : g8e7
+4... Ne7 | Analysis: +628 | Depth: 15 | EngineMove : e5h8
+5. Qxh8 | Analysis: -621 | Depth: 14 | EngineMove : d7d5

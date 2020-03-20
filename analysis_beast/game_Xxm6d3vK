@@ -1,0 +1,16 @@
+**URL: https://lichess.org/Xxm6d3vK | Tag: Xxm6d3vK | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Xxm6d3vK', Date='2019.10.23', Round='-', White='rahulbhatt', Black='chittyct', Result='0-1', BlackElo='1160', BlackRatingDiff='+8', ECO='A01', Termination='Normal', TimeControl='120+1', UTCDate='2019.10.23', UTCTime='23:41:16', Variant='Standard', WhiteElo='1190', WhiteRatingDiff='-8')
+
+1. b3 | Analysis: +13 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: -20 | Depth: 12 | EngineMove : e2e4
+2. Bb2 | Analysis: +27 | Depth: 12 | EngineMove : b8c6
+2... Bc5 | Analysis: +59 | Depth: 14 | EngineMove : b2e5
+3. Bxe5 | Analysis: -67 | Depth: 13 | EngineMove : g8f6
+3... d6 | Analysis: +553 | Depth: 14 | EngineMove : e5g7
+4. Bxg7 | Analysis: -562 | Depth: 15 | EngineMove : c5d4
+4... Nf6 | Analysis: +622 | Depth: 13 | EngineMove : g7h8
+5. Bxh8 | Analysis: -624 | Depth: 12 | EngineMove : c8f5
+5... Be6 | Analysis: +651 | Depth: 13 | EngineMove : d2d4
+6. Bxf6 | Analysis: -182 | Depth: 13 | EngineMove : d8f6
+6... Qxf6 | Analysis: +179 | Depth: 15 | EngineMove : e2e3
+7. c3 | Analysis: #+1 | Depth: 127 | EngineMove : f6f2

@@ -1,0 +1,21 @@
+**URL: https://lichess.org/L4cVRpbg | Tag: L4cVRpbg | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/L4cVRpbg', Date='2019.10.25', Round='-', White='xavier_301', Black='chittyct', Result='0-1', BlackElo='1493', BlackRatingDiff='+6', ECO='B25', Termination='Normal', TimeControl='180+2', UTCDate='2019.10.25', UTCTime='17:20:47', Variant='Standard', WhiteElo='1454', WhiteRatingDiff='-7')
+
+1. e4 | Analysis: -13 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +34 | Depth: 18 | EngineMove : g1f3
+2. Nc3 | Analysis: -25 | Depth: 19 | EngineMove : e7e6
+2... Nc6 | Analysis: +24 | Depth: 18 | EngineMove : g1f3
+3. Nd5 | Analysis: +61 | Depth: 18 | EngineMove : e7e6
+3... e6 | Analysis: -52 | Depth: 19 | EngineMove : d5c3
+4. Nf4 | Analysis: +94 | Depth: 18 | EngineMove : g8f6
+4... e5 | Analysis: -20 | Depth: 19 | EngineMove : f4d5
+5. Nd3 | Analysis: +226 | Depth: 17 | EngineMove : c5c4
+5... Nf6 | Analysis: -129 | Depth: 17 | EngineMove : f2f4
+6. Nxc5 | Analysis: +417 | Depth: 17 | EngineMove : f8c5
+6... Bxc5 | Analysis: -420 | Depth: 18 | EngineMove : d2d3
+7. b3 | Analysis: +831 | Depth: 19 | EngineMove : f6e4
+7... Nxe4 | Analysis: -803 | Depth: 20 | EngineMove : d1g4
+8. Bb2 | Analysis: +1069 | Depth: 16 | EngineMove : c5f2
+8... Nxf2 | Analysis: -891 | Depth: 17 | EngineMove : d1f3
+9. Qg4 | Analysis: +1631 | Depth: 17 | EngineMove : f2g4
+9... Nxg4 | Analysis: -1659 | Depth: 18 | EngineMove : g1h3

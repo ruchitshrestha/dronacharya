@@ -1,0 +1,32 @@
+**URL: https://lichess.org/ySudS97R | Tag: ySudS97R | Side: white**
+HEADERS: Headers(Event='Rated Classical game', Site='https://lichess.org/ySudS97R', Date='2018.08.05', Round='-', White='chittyct', Black='SerialKira', Result='1-0', BlackElo='1499', BlackRatingDiff='-12', ECO='D02', Termination='Normal', TimeControl='900+15', UTCDate='2018.08.05', UTCTime='04:54:17', Variant='Standard', WhiteElo='1500', WhiteRatingDiff='+174')
+
+1. d4 | Analysis: -14 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 18 | EngineMove : g1f3
+2. Nf3 | Analysis: -26 | Depth: 18 | EngineMove : g8f6
+2... Bg4 | Analysis: +44 | Depth: 15 | EngineMove : f3e5
+3. e3 | Analysis: -28 | Depth: 16 | EngineMove : g8f6
+3... e6 | Analysis: +22 | Depth: 17 | EngineMove : c2c4
+4. Bd3 | Analysis: +9 | Depth: 17 | EngineMove : c7c5
+4... Nc6 | Analysis: +6 | Depth: 18 | EngineMove : b1d2
+5. c3 | Analysis: +17 | Depth: 17 | EngineMove : e6e5
+5... Nf6 | Analysis: +2 | Depth: 18 | EngineMove : e1g1
+6. O-O | Analysis: +7 | Depth: 18 | EngineMove : f8d6
+6... Ne4 | Analysis: +34 | Depth: 18 | EngineMove : b1d2
+7. Nbd2 | Analysis: -23 | Depth: 17 | EngineMove : e4g5
+7... Nxd2 | Analysis: +62 | Depth: 20 | EngineMove : c1d2
+8. Bxd2 | Analysis: -55 | Depth: 19 | EngineMove : f8e7
+8... Ne7 | Analysis: +79 | Depth: 15 | EngineMove : c3c4
+9. b4 | Analysis: -63 | Depth: 18 | EngineMove : g4f5
+9... Nf5 | Analysis: +215 | Depth: 16 | EngineMove : d1a4
+10. Qa4+ | Analysis: -204 | Depth: 19 | EngineMove : c7c6
+10... c6 | Analysis: +205 | Depth: 19 | EngineMove : f3e5
+11. b5 | Analysis: 0 | Depth: 18 | EngineMove : g4f3
+11... cxb5 | Analysis: +444 | Depth: 17 | EngineMove : a4b5
+12. Qxb5+ | Analysis: -428 | Depth: 20 | EngineMove : d8d7
+12... Qd7 | Analysis: +432 | Depth: 20 | EngineMove : b5d7
+13. Qb3 | Analysis: -350 | Depth: 16 | EngineMove : d7c8
+13... Nd6 | Analysis: +409 | Depth: 18 | EngineMove : f3e5
+14. Ne5 | Analysis: -413 | Depth: 18 | EngineMove : d7c7
+14... Bh5 | Analysis: +907 | Depth: 18 | EngineMove : e5d7
+15. Nxd7 | Analysis: -1005 | Depth: 19 | EngineMove : e8d7

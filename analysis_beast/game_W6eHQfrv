@@ -1,0 +1,25 @@
+**URL: https://lichess.org/W6eHQfrv | Tag: W6eHQfrv | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/W6eHQfrv', Date='2019.07.01', Round='-', White='wpsdfm', Black='chittyct', Result='0-1', BlackElo='1248', BlackRatingDiff='+12', ECO='C42', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.01', UTCTime='02:06:43', Variant='Standard', WhiteElo='1277', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -22 | Depth: 11 | EngineMove : e7e5
+1... e5 | Analysis: +24 | Depth: 11 | EngineMove : g1f3
+2. Nc3 | Analysis: -16 | Depth: 12 | EngineMove : g8f6
+2... Nf6 | Analysis: +27 | Depth: 12 | EngineMove : g1f3
+3. Nf3 | Analysis: -10 | Depth: 12 | EngineMove : b8c6
+3... Bb4 | Analysis: +2 | Depth: 13 | EngineMove : c3d5
+4. Nxe5 | Analysis: -15 | Depth: 13 | EngineMove : e8g8
+4... Bxc3 | Analysis: +56 | Depth: 13 | EngineMove : d2c3
+5. bxc3 | Analysis: -16 | Depth: 13 | EngineMove : e8g8
+5... d6 | Analysis: +21 | Depth: 12 | EngineMove : e5f3
+6. Nf3 | Analysis: -12 | Depth: 13 | EngineMove : f6e4
+6... Bg4 | Analysis: +84 | Depth: 12 | EngineMove : h2h3
+7. Qe2 | Analysis: -39 | Depth: 13 | EngineMove : e8g8
+7... O-O | Analysis: +46 | Depth: 13 | EngineMove : h2h3
+8. Qd3 | Analysis: +131 | Depth: 13 | EngineMove : f8e8
+8... Re8 | Analysis: -142 | Depth: 14 | EngineMove : f1e2
+9. Be2 | Analysis: +87 | Depth: 12 | EngineMove : b8d7
+9... Rxe4 | Analysis: -58 | Depth: 13 | EngineMove : h2h3
+10. Bb2 | Analysis: +372 | Depth: 15 | EngineMove : b8d7
+10... c5 | Analysis: -152 | Depth: 13 | EngineMove : c3c4
+11. O-O | Analysis: +524 | Depth: 13 | EngineMove : c5c4
+11... c4 | Analysis: -524 | Depth: 13 | EngineMove : d3e4

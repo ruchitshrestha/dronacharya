@@ -1,0 +1,9 @@
+**URL: https://lichess.org/OBMN3N9u | Tag: OBMN3N9u | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/OBMN3N9u', Date='2019.06.20', Round='-', White='kaan2karaman', Black='chittyct', Result='1-0', BlackElo='1139', BlackRatingDiff='-13', ECO='B20', Termination='Normal', TimeControl='60+0', UTCDate='2019.06.20', UTCTime='11:24:33', Variant='Standard', WhiteElo='1044', WhiteRatingDiff='+14')
+
+1. e4 | Analysis: -31 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +63 | Depth: 13 | EngineMove : g1f3
+2. Bc4 | Analysis: -12 | Depth: 14 | EngineMove : g8f6
+2... Nc6 | Analysis: +17 | Depth: 14 | EngineMove : g1f3
+3. Qf3 | Analysis: +65 | Depth: 12 | EngineMove : e7e6
+3... a6 | Analysis: #+1 | Depth: 127 | EngineMove : c4f7

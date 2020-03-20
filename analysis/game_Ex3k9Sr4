@@ -1,0 +1,13 @@
+**URL: https://lichess.org/Ex3k9Sr4 | Tag: Ex3k9Sr4 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/Ex3k9Sr4', Date='2018.12.18', Round='-', White='Pszczelarz', Black='chittyct', Result='0-1', BlackElo='1361', BlackRatingDiff='+9', ECO='B00', Termination='Normal', TimeControl='180+2', UTCDate='2018.12.18', UTCTime='17:17:33', Variant='Standard', WhiteElo='1275', WhiteRatingDiff='-8')
+
+1. e4 | Analysis: -23 | Depth: 16 | EngineMove : e7e5
+1... Nc6 | Analysis: +55 | Depth: 17 | EngineMove : d2d4
+2. Nf3 | Analysis: -32 | Depth: 18 | EngineMove : e7e5
+2... f5 | Analysis: +109 | Depth: 18 | EngineMove : e4f5
+3. exf5 | Analysis: -99 | Depth: 18 | EngineMove : d7d5
+3... Nf6 | Analysis: +147 | Depth: 17 | EngineMove : d2d4
+4. Ng5 | Analysis: -37 | Depth: 17 | EngineMove : d7d5
+4... d6 | Analysis: +84 | Depth: 18 | EngineMove : g5e6
+5. Qh5+ | Analysis: +1052 | Depth: 18 | EngineMove : f6h5
+5... Nxh5 | Analysis: -1062 | Depth: 18 | EngineMove : g5e6

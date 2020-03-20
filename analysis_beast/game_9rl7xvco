@@ -1,0 +1,28 @@
+**URL: https://lichess.org/9rl7xvco | Tag: 9rl7xvco | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/9rl7xvco', Date='2018.09.29', Round='-', White='recron17', Black='chittyct', Result='1-0', BlackElo='1076', BlackRatingDiff='-7', ECO='A40', Termination='Normal', TimeControl='180+0', UTCDate='2018.09.29', UTCTime='07:37:15', Variant='Standard', WhiteElo='1215', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -18 | Depth: 11 | EngineMove : g8f6
+1... Nc6 | Analysis: +61 | Depth: 12 | EngineMove : d4d5
+2. c3 | Analysis: -11 | Depth: 14 | EngineMove : d7d5
+2... d5 | Analysis: +12 | Depth: 14 | EngineMove : g1f3
+3. Bf4 | Analysis: +7 | Depth: 12 | EngineMove : f7f6
+3... Nf6 | Analysis: +18 | Depth: 15 | EngineMove : e2e3
+4. e3 | Analysis: -24 | Depth: 14 | EngineMove : c8f5
+4... Bg4 | Analysis: +15 | Depth: 14 | EngineMove : d1b3
+5. Nf3 | Analysis: -18 | Depth: 13 | EngineMove : g4f3
+5... e6 | Analysis: +24 | Depth: 15 | EngineMove : b1d2
+6. Bd3 | Analysis: -8 | Depth: 13 | EngineMove : f8d6
+6... Bd6 | Analysis: +17 | Depth: 14 | EngineMove : b1d2
+7. O-O | Analysis: -5 | Depth: 14 | EngineMove : g4f3
+7... Bxf4 | Analysis: +13 | Depth: 14 | EngineMove : e3f4
+8. exf4 | Analysis: -24 | Depth: 13 | EngineMove : e8g8
+8... Qd6 | Analysis: +13 | Depth: 13 | EngineMove : g2g3
+9. Nbd2 | Analysis: +20 | Depth: 12 | EngineMove : d6f4
+9... Qxf4 | Analysis: -46 | Depth: 13 | EngineMove : h2h3
+10. Ne5 | Analysis: +842 | Depth: 15 | EngineMove : g4d1
+10... Nxe5 | Analysis: -441 | Depth: 12 | EngineMove : d3b5
+11. dxe5 | Analysis: +806 | Depth: 14 | EngineMove : g4d1
+11... Qxe5 | Analysis: -155 | Depth: 12 | EngineMove : d1a4
+12. Nf3 | Analysis: +194 | Depth: 13 | EngineMove : e5d6
+12... O-O | Analysis: +190 | Depth: 14 | EngineMove : f3e5
+13. Nxe5 | Analysis: -186 | Depth: 16 | EngineMove : g4d1

@@ -1,0 +1,8 @@
+**URL: https://lichess.org/XQ0hGqoJ | Tag: XQ0hGqoJ | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/XQ0hGqoJ', Date='2019.01.04', Round='-', White='chittyct', Black='AnttiV', Result='1-0', BlackElo='1188', BlackRatingDiff='-17', ECO='D02', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.01.04', UTCTime='12:29:34', Variant='Standard', WhiteElo='1077', WhiteRatingDiff='+14')
+
+1. d4 | Analysis: -13 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +21 | Depth: 14 | EngineMove : g1f3
+2. Nf3 | Analysis: -18 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +31 | Depth: 12 | EngineMove : c1f4
+3. Bf4 | Analysis: -21 | Depth: 13 | EngineMove : e7e6

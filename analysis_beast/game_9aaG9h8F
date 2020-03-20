@@ -1,0 +1,26 @@
+**URL: https://lichess.org/9aaG9h8F | Tag: 9aaG9h8F | Side: black**
+HEADERS: Headers(Event='ultrabullet Arena', Site='https://lichess.org/9aaG9h8F', Date='2018.09.27', Round='-', White='SnowDeer', Black='chittyct', Result='1-0', BlackElo='1285', BlackRatingDiff='-41', ECO='B00', Termination='Time forfeit', TimeControl='15+0', UTCDate='2018.09.27', UTCTime='04:44:14', Variant='Standard', WhiteElo='1519', WhiteRatingDiff='+6')
+
+1. e4 | Analysis: -20 | Depth: 11 | EngineMove : e7e5
+1... Nc6 | Analysis: +60 | Depth: 12 | EngineMove : d2d4
+2. Bc4 | Analysis: +20 | Depth: 11 | EngineMove : g8f6
+2... b6 | Analysis: +81 | Depth: 12 | EngineMove : g1f3
+3. Qh5 | Analysis: 0 | Depth: 14 | EngineMove : e7e6
+3... g6 | Analysis: +6 | Depth: 13 | EngineMove : h5e2
+4. Qxg6 | Analysis: +951 | Depth: 13 | EngineMove : h7g6
+4... fxg6 | Analysis: -926 | Depth: 13 | EngineMove : g1f3
+5. Bf7+ | Analysis: +1303 | Depth: 14 | EngineMove : e8f7
+5... Kxf7 | Analysis: -1302 | Depth: 14 | EngineMove : g1f3
+6. Nf3 | Analysis: +1305 | Depth: 13 | EngineMove : d7d6
+6... Nf6 | Analysis: -1294 | Depth: 13 | EngineMove : d2d3
+7. Ne5+ | Analysis: +1674 | Depth: 12 | EngineMove : c6e5
+7... Kg8 | Analysis: -1303 | Depth: 14 | EngineMove : e5c6
+8. Nxc6 | Analysis: +1294 | Depth: 15 | EngineMove : d7c6
+8... Bg7 | Analysis: -288 | Depth: 13 | EngineMove : c6d8
+9. d3 | Analysis: +1293 | Depth: 13 | EngineMove : d7c6
+9... Qe8 | Analysis: -1020 | Depth: 13 | EngineMove : c6d4
+10. Bg5 | Analysis: +1280 | Depth: 13 | EngineMove : d7c6
+10... d6 | Analysis: -1100 | Depth: 13 | EngineMove : c6d4
+11. Bxf6 | Analysis: +1360 | Depth: 13 | EngineMove : g7f6
+11... Qxc6 | Analysis: -996 | Depth: 13 | EngineMove : f6g7
+12. Bxe7 | Analysis: +1542 | Depth: 14 | EngineMove : g7b2

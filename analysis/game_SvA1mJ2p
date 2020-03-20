@@ -1,0 +1,23 @@
+**URL: https://lichess.org/SvA1mJ2p | Tag: SvA1mJ2p | Side: white**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/SvA1mJ2p', Date='2018.08.31', Round='-', White='chittyct', Black='Troia75', Result='1-0', BlackElo='1267', BlackRatingDiff='-10', ECO='A40', Termination='Normal', TimeControl='600+0', UTCDate='2018.08.31', UTCTime='21:36:09', Variant='Standard', WhiteElo='1262', WhiteRatingDiff='+19')
+
+1. d4 | Analysis: -17 | Depth: 18 | EngineMove : g8f6
+1... e6 | Analysis: +20 | Depth: 18 | EngineMove : e2e4
+2. Bf4 | Analysis: -10 | Depth: 18 | EngineMove : g8f6
+2... a6 | Analysis: +36 | Depth: 17 | EngineMove : g1f3
+3. Nf3 | Analysis: -26 | Depth: 18 | EngineMove : d7d5
+3... Nc6 | Analysis: +56 | Depth: 17 | EngineMove : e2e4
+4. Bg5 | Analysis: -14 | Depth: 18 | EngineMove : f8e7
+4... f6 | Analysis: +21 | Depth: 18 | EngineMove : g5d2
+5. Bh4 | Analysis: +12 | Depth: 18 | EngineMove : h7h5
+5... Nge7 | Analysis: -12 | Depth: 17 | EngineMove : h4g3
+6. e4 | Analysis: +15 | Depth: 17 | EngineMove : d7d5
+6... e5 | Analysis: +88 | Depth: 16 | EngineMove : d4d5
+7. dxe5 | Analysis: -22 | Depth: 17 | EngineMove : e7g6
+7... fxe5 | Analysis: +177 | Depth: 17 | EngineMove : f1c4
+8. Nc3 | Analysis: -74 | Depth: 18 | EngineMove : d7d6
+8... h6 | Analysis: +96 | Depth: 17 | EngineMove : c3d5
+9. Nd5 | Analysis: -90 | Depth: 18 | EngineMove : d7d6
+9... g5 | Analysis: +155 | Depth: 17 | EngineMove : f3g5
+10. Bc4 | Analysis: -68 | Depth: 17 | EngineMove : e7d5
+10... gxh4 | Analysis: #+1 | Depth: 127 | EngineMove : d5f6

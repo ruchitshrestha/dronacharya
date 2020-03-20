@@ -1,0 +1,32 @@
+**URL: https://lichess.org/AM5b7bTv | Tag: AM5b7bTv | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/AM5b7bTv', Date='2019.10.14', Round='-', White='BassaPadovanaParon', Black='chittyct', Result='1-0', BlackElo='1445', BlackRatingDiff='-9', ECO='B20', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.10.14', UTCTime='13:32:52', Variant='Standard', WhiteElo='1363', WhiteRatingDiff='+9')
+
+1. e4 | Analysis: -18 | Depth: 15 | EngineMove : e7e5
+1... c5 | Analysis: +27 | Depth: 16 | EngineMove : g1f3
+2. Bc4 | Analysis: -18 | Depth: 16 | EngineMove : g8f6
+2... Nc6 | Analysis: -1 | Depth: 17 | EngineMove : g1f3
+3. Qf3 | Analysis: +58 | Depth: 17 | EngineMove : e7e6
+3... e6 | Analysis: -64 | Depth: 17 | EngineMove : b1c3
+4. d3 | Analysis: +80 | Depth: 16 | EngineMove : d7d5
+4... Ne5 | Analysis: +1 | Depth: 16 | EngineMove : f3e2
+5. Qg3 | Analysis: -12 | Depth: 16 | EngineMove : e5c4
+5... Nxc4 | Analysis: -4 | Depth: 16 | EngineMove : d3c4
+6. dxc4 | Analysis: +2 | Depth: 16 | EngineMove : b7b5
+6... a6 | Analysis: +31 | Depth: 15 | EngineMove : b1c3
+7. b3 | Analysis: 0 | Depth: 16 | EngineMove : b7b5
+7... b5 | Analysis: -1 | Depth: 16 | EngineMove : g1e2
+8. cxb5 | Analysis: +77 | Depth: 15 | EngineMove : a6b5
+8... axb5 | Analysis: -47 | Depth: 16 | EngineMove : g1e2
+9. Nc3 | Analysis: +83 | Depth: 17 | EngineMove : c8a6
+9... b4 | Analysis: +23 | Depth: 20 | EngineMove : c3b5
+10. Nb5 | Analysis: -13 | Depth: 20 | EngineMove : d7d6
+10... Ba6 | Analysis: +237 | Depth: 18 | EngineMove : b5c7
+11. Nc7+ | Analysis: -292 | Depth: 20 | EngineMove : e8e7
+11... Ke7 | Analysis: +320 | Depth: 20 | EngineMove : c1f4
+12. Nxa8 | Analysis: -149 | Depth: 16 | EngineMove : d8a8
+12... Nf6 | Analysis: +513 | Depth: 18 | EngineMove : a8c7
+13. Nc7 | Analysis: -512 | Depth: 18 | EngineMove : a6b7
+13... Nxe4 | Analysis: +560 | Depth: 17 | EngineMove : g3h4
+14. Qh4+ | Analysis: -574 | Depth: 20 | EngineMove : g7g5
+14... f6 | Analysis: +778 | Depth: 17 | EngineMove : c7a6
+15. Nxa6 | Analysis: -765 | Depth: 18 | EngineMove : d8a8

@@ -1,0 +1,31 @@
+**URL: https://lichess.org/nUROw7Po | Tag: nUROw7Po | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/nUROw7Po', Date='2020.01.22', Round='-', White='Alex_077', Black='chittyct', Result='0-1', BlackElo='1347', BlackRatingDiff='+8', ECO='B06', Termination='Normal', TimeControl='120+1', UTCDate='2020.01.22', UTCTime='20:06:33', Variant='Standard', WhiteElo='1505', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -18 | Depth: 12 | EngineMove : g8f6
+1... g6 | Analysis: +87 | Depth: 13 | EngineMove : e2e4
+2. e4 | Analysis: -98 | Depth: 11 | EngineMove : d7d5
+2... Bg7 | Analysis: +84 | Depth: 12 | EngineMove : g1f3
+3. Nf3 | Analysis: -79 | Depth: 13 | EngineMove : e7e6
+3... e6 | Analysis: +69 | Depth: 13 | EngineMove : f1e2
+4. Bd3 | Analysis: -67 | Depth: 12 | EngineMove : d7d5
+4... Ne7 | Analysis: +63 | Depth: 13 | EngineMove : c2c3
+5. Be3 | Analysis: -42 | Depth: 12 | EngineMove : d7d5
+5... O-O | Analysis: +50 | Depth: 13 | EngineMove : e1g1
+6. Nc3 | Analysis: -12 | Depth: 13 | EngineMove : d7d5
+6... d5 | Analysis: +15 | Depth: 13 | EngineMove : c3e2
+7. e5 | Analysis: +12 | Depth: 12 | EngineMove : c7c5
+7... c5 | Analysis: -11 | Depth: 12 | EngineMove : d4c5
+8. dxc5 | Analysis: +33 | Depth: 14 | EngineMove : b8d7
+8... Nbc6 | Analysis: +16 | Depth: 11 | EngineMove : e3f4
+9. Ne2 | Analysis: +36 | Depth: 13 | EngineMove : c6e5
+9... Nxe5 | Analysis: -38 | Depth: 13 | EngineMove : f3e5
+10. Nxe5 | Analysis: +44 | Depth: 14 | EngineMove : g7e5
+10... Bxe5 | Analysis: -31 | Depth: 15 | EngineMove : c2c3
+11. Bd4 | Analysis: +52 | Depth: 13 | EngineMove : e5d4
+11... Bxd4 | Analysis: -50 | Depth: 15 | EngineMove : e2d4
+12. Nxd4 | Analysis: +74 | Depth: 15 | EngineMove : d8c7
+12... Qa5+ | Analysis: -88 | Depth: 15 | EngineMove : c2c3
+13. Qd2 | Analysis: +101 | Depth: 14 | EngineMove : a5c5
+13... Qxc5 | Analysis: -100 | Depth: 14 | EngineMove : d4b3
+14. O-O | Analysis: +412 | Depth: 13 | EngineMove : c5d4
+14... Qxd4 | Analysis: -405 | Depth: 13 | EngineMove : c2c3

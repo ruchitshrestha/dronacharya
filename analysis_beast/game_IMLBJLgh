@@ -1,0 +1,21 @@
+**URL: https://lichess.org/IMLBJLgh | Tag: IMLBJLgh | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/IMLBJLgh', Date='2018.09.25', Round='-', White='Sibongiseni', Black='chittyct', Result='1-0', BlackElo='1157', BlackRatingDiff='-10', ECO='B20', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.25', UTCTime='16:46:26', Variant='Standard', WhiteElo='1169', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -24 | Depth: 11 | EngineMove : e7e5
+1... c5 | Analysis: +62 | Depth: 12 | EngineMove : g1f3
+2. Bc4 | Analysis: -22 | Depth: 13 | EngineMove : g8f6
+2... e6 | Analysis: +13 | Depth: 14 | EngineMove : b1c3
+3. Nf3 | Analysis: -6 | Depth: 13 | EngineMove : g8f6
+3... Bd6 | Analysis: +102 | Depth: 12 | EngineMove : d2d4
+4. e5 | Analysis: -26 | Depth: 12 | EngineMove : d6c7
+4... Bc7 | Analysis: +19 | Depth: 13 | EngineMove : c2c3
+5. b3 | Analysis: +29 | Depth: 12 | EngineMove : b8c6
+5... Nc6 | Analysis: +3 | Depth: 13 | EngineMove : c1b2
+6. Bb2 | Analysis: -14 | Depth: 13 | EngineMove : g8e7
+6... Nxe5 | Analysis: +245 | Depth: 12 | EngineMove : f3e5
+7. Bxe5 | Analysis: -234 | Depth: 14 | EngineMove : g8f6
+7... Bxe5 | Analysis: +264 | Depth: 12 | EngineMove : f3e5
+8. Nxe5 | Analysis: -211 | Depth: 13 | EngineMove : g8e7
+8... b6 | Analysis: +387 | Depth: 11 | EngineMove : d1f3
+9. Qf3 | Analysis: -376 | Depth: 14 | EngineMove : d8f6
+9... Bb7 | Analysis: #+1 | Depth: 127 | EngineMove : f3f7

@@ -1,0 +1,25 @@
+**URL: https://lichess.org/9SSEDncz | Tag: 9SSEDncz | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/9SSEDncz', Date='2018.10.03', Round='-', White='chittyct', Black='inceptionmovie', Result='0-1', BlackElo='1153', BlackRatingDiff='+10', ECO='A48', Termination='Normal', TimeControl='180+2', UTCDate='2018.10.03', UTCTime='16:53:48', Variant='Standard', WhiteElo='1115', WhiteRatingDiff='-9')
+
+1. d4 | Analysis: -17 | Depth: 17 | EngineMove : d7d5
+1... Nf6 | Analysis: +15 | Depth: 18 | EngineMove : c2c4
+2. Nf3 | Analysis: -15 | Depth: 19 | EngineMove : e7e6
+2... g6 | Analysis: +51 | Depth: 17 | EngineMove : c2c4
+3. Bf4 | Analysis: -37 | Depth: 17 | EngineMove : f8g7
+3... Bg7 | Analysis: +29 | Depth: 18 | EngineMove : b1c3
+4. e3 | Analysis: -31 | Depth: 18 | EngineMove : e8g8
+4... O-O | Analysis: +16 | Depth: 19 | EngineMove : b1c3
+5. Be2 | Analysis: -18 | Depth: 18 | EngineMove : f6h5
+5... c5 | Analysis: +21 | Depth: 18 | EngineMove : d4c5
+6. O-O | Analysis: -17 | Depth: 17 | EngineMove : d7d6
+6... d6 | Analysis: +17 | Depth: 19 | EngineMove : h2h3
+7. e4 | Analysis: +110 | Depth: 18 | EngineMove : c5d4
+7... cxd4 | Analysis: -102 | Depth: 19 | EngineMove : c2c3
+8. Qxd4 | Analysis: +266 | Depth: 19 | EngineMove : e7e5
+8... e5 | Analysis: -261 | Depth: 20 | EngineMove : f3e5
+9. Nxe5 | Analysis: +265 | Depth: 22 | EngineMove : d6e5
+9... Nh5 | Analysis: -203 | Depth: 20 | EngineMove : e2h5
+10. Bc4 | Analysis: +419 | Depth: 19 | EngineMove : h5f4
+10... Qc7 | Analysis: -324 | Depth: 17 | EngineMove : f4c1
+11. Nxf7 | Analysis: +551 | Depth: 18 | EngineMove : g7d4
+11... Bxd4 | Analysis: -569 | Depth: 18 | EngineMove : f7d6

@@ -1,0 +1,12 @@
+**URL: https://lichess.org/IDgyES8b | Tag: IDgyES8b | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/IDgyES8b', Date='2018.09.24', Round='-', White='avav22', Black='chittyct', Result='0-1', BlackElo='1104', BlackRatingDiff='+12', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2018.09.24', UTCTime='00:57:34', Variant='Standard', WhiteElo='1139', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -26 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +33 | Depth: 16 | EngineMove : g1f3
+2. Qh5 | Analysis: +36 | Depth: 17 | EngineMove : e7e6
+2... Nf6 | Analysis: -20 | Depth: 17 | EngineMove : h5c5
+3. Qf3 | Analysis: +100 | Depth: 16 | EngineMove : b8c6
+3... b6 | Analysis: +198 | Depth: 19 | EngineMove : e4e5
+4. Bc4 | Analysis: +42 | Depth: 19 | EngineMove : c8b7
+4... Bb7 | Analysis: -45 | Depth: 18 | EngineMove : b1c3
+5. d3 | Analysis: +31 | Depth: 18 | EngineMove : b8c6

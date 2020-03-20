@@ -1,0 +1,17 @@
+**URL: https://lichess.org/HPa6VI2Z | Tag: HPa6VI2Z | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/HPa6VI2Z', Date='2018.11.07', Round='-', White='chittyct', Black='GuvenSoy', Result='0-1', BlackElo='1264', BlackRatingDiff='+11', ECO='A43', Termination='Time forfeit', TimeControl='300+3', UTCDate='2018.11.07', UTCTime='18:55:49', Variant='Standard', WhiteElo='1255', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -17 | Depth: 16 | EngineMove : g8f6
+1... c5 | Analysis: +40 | Depth: 16 | EngineMove : d4d5
+2. dxc5 | Analysis: -10 | Depth: 16 | EngineMove : e7e6
+2... e5 | Analysis: +19 | Depth: 16 | EngineMove : g1f3
+3. Nc3 | Analysis: -12 | Depth: 17 | EngineMove : f8c5
+3... Bxc5 | Analysis: +10 | Depth: 16 | EngineMove : g1f3
+4. Qd5 | Analysis: +52 | Depth: 17 | EngineMove : d7d6
+4... d6 | Analysis: -66 | Depth: 17 | EngineMove : e2e4
+5. Nb5 | Analysis: +195 | Depth: 15 | EngineMove : b8c6
+5... Nf6 | Analysis: -174 | Depth: 17 | EngineMove : d5d3
+6. Bg5 | Analysis: +452 | Depth: 17 | EngineMove : d8a5
+6... Qa5+ | Analysis: -452 | Depth: 18 | EngineMove : g5d2
+7. Nc3 | Analysis: +1219 | Depth: 18 | EngineMove : f6d5
+7... Nxd5 | Analysis: -1210 | Depth: 19 | EngineMove : g5d2

@@ -1,0 +1,8 @@
+**URL: https://lichess.org/z6SfuQKH | Tag: z6SfuQKH | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/z6SfuQKH', Date='2020.01.28', Round='-', White='yuriyf', Black='chittyct', Result='1-0', BlackElo='1346', BlackRatingDiff='-7', ECO='D00', Termination='Time forfeit', TimeControl='120+1', UTCDate='2020.01.28', UTCTime='01:05:01', Variant='Standard', WhiteElo='1277', WhiteRatingDiff='+7')
+
+1. d4 | Analysis: -16 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +12 | Depth: 18 | EngineMove : c1f4
+2. f3 | Analysis: +50 | Depth: 16 | EngineMove : e7e6
+2... Bf5 | Analysis: +7 | Depth: 16 | EngineMove : b1c3
+3. g3 | Analysis: +47 | Depth: 14 | EngineMove : b8c6

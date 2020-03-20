@@ -1,0 +1,14 @@
+**URL: https://lichess.org/WITYgGiA | Tag: WITYgGiA | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/WITYgGiA', Date='2019.07.09', Round='-', White='chittyct', Black='hdk0', Result='1-0', BlackElo='1278', BlackRatingDiff='-10', ECO='A43', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.09', UTCTime='06:41:01', Variant='Standard', WhiteElo='1294', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -12 | Depth: 17 | EngineMove : d7d5
+1... c5 | Analysis: +40 | Depth: 16 | EngineMove : d4d5
+2. dxc5 | Analysis: -2 | Depth: 16 | EngineMove : e7e6
+2... e6 | Analysis: +15 | Depth: 17 | EngineMove : e2e4
+3. Nf3 | Analysis: 0 | Depth: 17 | EngineMove : g8f6
+3... Bxc5 | Analysis: 0 | Depth: 17 | EngineMove : e2e4
+4. Be3 | Analysis: +94 | Depth: 18 | EngineMove : c5e3
+4... d6 | Analysis: +55 | Depth: 17 | EngineMove : e3c5
+5. Bxc5 | Analysis: -41 | Depth: 17 | EngineMove : d6c5
+5... Qa5+ | Analysis: +468 | Depth: 17 | EngineMove : b2b4
+6. b4 | Analysis: -482 | Depth: 17 | EngineMove : a5d8

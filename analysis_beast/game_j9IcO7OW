@@ -1,0 +1,30 @@
+**URL: https://lichess.org/j9IcO7OW | Tag: j9IcO7OW | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/j9IcO7OW', Date='2018.09.01', Round='-', White='stromaessche', Black='chittyct', Result='1-0', BlackElo='1355', BlackRatingDiff='-16', ECO='C57', Termination='Normal', TimeControl='600+0', UTCDate='2018.09.01', UTCTime='01:36:09', Variant='Standard', WhiteElo='1371', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -38 | Depth: 11 | EngineMove : d7d5
+1... e5 | Analysis: +20 | Depth: 11 | EngineMove : g1f3
+2. Nf3 | Analysis: -33 | Depth: 12 | EngineMove : g8f6
+2... Nc6 | Analysis: +37 | Depth: 12 | EngineMove : f1b5
+3. Bc4 | Analysis: -19 | Depth: 12 | EngineMove : g8f6
+3... Nf6 | Analysis: +19 | Depth: 12 | EngineMove : b1c3
+4. Ng5 | Analysis: +6 | Depth: 12 | EngineMove : d7d5
+4... d5 | Analysis: 0 | Depth: 13 | EngineMove : e4d5
+5. exd5 | Analysis: -6 | Depth: 14 | EngineMove : c6a5
+5... Nxd5 | Analysis: +135 | Depth: 13 | EngineMove : g5f7
+6. d3 | Analysis: -15 | Depth: 11 | EngineMove : f7f6
+6... Bb4+ | Analysis: +108 | Depth: 12 | EngineMove : c2c3
+7. c3 | Analysis: -116 | Depth: 12 | EngineMove : b4c5
+7... Be7 | Analysis: +177 | Depth: 12 | EngineMove : g5f7
+8. Qf3 | Analysis: -15 | Depth: 13 | EngineMove : e7g5
+8... e4 | Analysis: #+6 | Depth: 27 | EngineMove : f3f7
+9. Qxf7+ | Analysis: #-5 | Depth: 33 | EngineMove : e8d7
+9... Kd7 | Analysis: #+5 | Depth: 34 | EngineMove : f7d5
+10. Qxd5+ | Analysis: #-4 | Depth: 44 | EngineMove : d7e8
+10... Ke8 | Analysis: #+4 | Depth: 50 | EngineMove : d5f7
+11. Qxd8+ | Analysis: -551 | Depth: 12 | EngineMove : e7d8
+11... Nxd8 | Analysis: +569 | Depth: 13 | EngineMove : g5e4
+12. dxe4 | Analysis: -572 | Depth: 11 | EngineMove : d8c6
+12... Rf8 | Analysis: +650 | Depth: 12 | EngineMove : g5h7
+13. Nxh7 | Analysis: -633 | Depth: 14 | EngineMove : f8h8
+13... Rf7 | Analysis: +684 | Depth: 10 | EngineMove : c4f7
+14. Bxf7+ | Analysis: -661 | Depth: 13 | EngineMove : d8f7

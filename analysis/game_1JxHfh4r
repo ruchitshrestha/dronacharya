@@ -1,0 +1,32 @@
+**URL: https://lichess.org/1JxHfh4r | Tag: 1JxHfh4r | Side: black**
+HEADERS: Headers(Event='<2000 Blitz Arena', Site='https://lichess.org/1JxHfh4r', Date='2019.05.30', Round='-', White='Perupela', Black='chittyct', Result='1-0', BlackElo='1295', BlackRatingDiff='-4', ECO='A00', Termination='Normal', TimeControl='300+0', UTCDate='2019.05.30', UTCTime='08:46:13', Variant='Standard', WhiteElo='1513', WhiteRatingDiff='+6')
+
+1. e3 | Analysis: -13 | Depth: 19 | EngineMove : e7e6
+1... c5 | Analysis: +15 | Depth: 18 | EngineMove : c2c4
+2. b3 | Analysis: 0 | Depth: 17 | EngineMove : g8f6
+2... Nc6 | Analysis: +6 | Depth: 18 | EngineMove : c1b2
+3. Bb2 | Analysis: -3 | Depth: 19 | EngineMove : e7e6
+3... a6 | Analysis: +11 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -18 | Depth: 19 | EngineMove : d7d5
+4... b5 | Analysis: +41 | Depth: 17 | EngineMove : f1e2
+5. Nc3 | Analysis: -7 | Depth: 17 | EngineMove : g8f6
+5... Bb7 | Analysis: +36 | Depth: 18 | EngineMove : a2a4
+6. g3 | Analysis: +26 | Depth: 19 | EngineMove : g8f6
+6... Nf6 | Analysis: -21 | Depth: 20 | EngineMove : f1g2
+7. Bg2 | Analysis: +24 | Depth: 21 | EngineMove : e7e6
+7... e5 | Analysis: +140 | Depth: 17 | EngineMove : f3e5
+8. O-O | Analysis: -6 | Depth: 16 | EngineMove : d7d5
+8... c4 | Analysis: +186 | Depth: 17 | EngineMove : f3e5
+9. bxc4 | Analysis: -114 | Depth: 19 | EngineMove : b5c4
+9... bxc4 | Analysis: +128 | Depth: 20 | EngineMove : f3e5
+10. Na4 | Analysis: 0 | Depth: 22 | EngineMove : d8a5
+10... d5 | Analysis: +166 | Depth: 20 | EngineMove : f3e5
+11. Nxe5 | Analysis: -163 | Depth: 20 | EngineMove : c6e5
+11... Nxe5 | Analysis: +162 | Depth: 21 | EngineMove : b2e5
+12. Bxe5 | Analysis: -165 | Depth: 22 | EngineMove : b7c6
+12... Rc8 | Analysis: +296 | Depth: 19 | EngineMove : a1b1
+13. Bh3 | Analysis: -214 | Depth: 18 | EngineMove : c8c7
+13... Rc6 | Analysis: +244 | Depth: 19 | EngineMove : a1b1
+14. Rb1 | Analysis: -283 | Depth: 20 | EngineMove : b7c8
+14... Ba8 | Analysis: +664 | Depth: 20 | EngineMove : b1b8
+15. Rb8 | Analysis: -684 | Depth: 20 | EngineMove : d8b8

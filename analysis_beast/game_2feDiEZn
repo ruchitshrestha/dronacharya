@@ -1,0 +1,30 @@
+**URL: https://lichess.org/2feDiEZn | Tag: 2feDiEZn | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/2feDiEZn', Date='2018.09.03', Round='-', White='ajdz', Black='chittyct', Result='1-0', BlackElo='887', BlackRatingDiff='-10', ECO='C50', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.03', UTCTime='21:53:50', Variant='Standard', WhiteElo='927', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -13 | Depth: 12 | EngineMove : e7e5
+1... e5 | Analysis: +29 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -28 | Depth: 12 | EngineMove : b8c6
+2... Nc6 | Analysis: +28 | Depth: 13 | EngineMove : f1b5
+3. Bc4 | Analysis: -20 | Depth: 13 | EngineMove : g8f6
+3... d6 | Analysis: +28 | Depth: 12 | EngineMove : d2d4
+4. O-O | Analysis: -21 | Depth: 14 | EngineMove : f8e7
+4... Bg4 | Analysis: +66 | Depth: 12 | EngineMove : h2h3
+5. h3 | Analysis: -53 | Depth: 14 | EngineMove : g4f3
+5... Bxf3 | Analysis: +43 | Depth: 13 | EngineMove : d1f3
+6. Qxf3 | Analysis: -51 | Depth: 15 | EngineMove : g8f6
+6... Qg5 | Analysis: +1125 | Depth: 14 | EngineMove : f3f7
+7. Qxf7+ | Analysis: -1131 | Depth: 16 | EngineMove : e8d8
+7... Kd8 | Analysis: +1146 | Depth: 15 | EngineMove : f7f8
+8. Qxf8+ | Analysis: -1123 | Depth: 17 | EngineMove : d8d7
+8... Kd7 | Analysis: +1134 | Depth: 17 | EngineMove : f8a8
+9. Qxa8 | Analysis: -1151 | Depth: 17 | EngineMove : g5d8
+9... Nd4 | Analysis: +1296 | Depth: 14 | EngineMove : c2c3
+10. Qxb7 | Analysis: -1216 | Depth: 13 | EngineMove : g5d8
+10... d5 | Analysis: +1837 | Depth: 14 | EngineMove : b7d5
+11. Qxd5+ | Analysis: -1877 | Depth: 15 | EngineMove : d7e8
+11... Ke7 | Analysis: +2045 | Depth: 13 | EngineMove : f2f4
+12. Qe6+ | Analysis: -222 | Depth: 13 | EngineMove : d4e6
+12... Kd8 | Analysis: +1332 | Depth: 14 | EngineMove : e6a6
+13. d3 | Analysis: -1141 | Depth: 15 | EngineMove : d4e6
+13... Nf3+ | Analysis: +1607 | Depth: 14 | EngineMove : g1h1
+14. Kh1 | Analysis: -1626 | Depth: 15 | EngineMove : g5e7

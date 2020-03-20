@@ -1,0 +1,7 @@
+**URL: https://lichess.org/GWwBFwym | Tag: GWwBFwym | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/GWwBFwym', Date='2018.08.28', Round='-', White='chittyct', Black='smoothwitness', Result='0-1', BlackElo='1016', BlackRatingDiff='+11', ECO='A41', Termination='Normal', TimeControl='60+0', UTCDate='2018.08.28', UTCTime='18:14:19', Variant='Standard', WhiteElo='1029', WhiteRatingDiff='-25')
+
+1. d4 | Analysis: -5 | Depth: 12 | EngineMove : d7d5
+1... d6 | Analysis: +48 | Depth: 12 | EngineMove : g1f3
+2. e3 | Analysis: -28 | Depth: 13 | EngineMove : b8d7
+2... Bd7 | Analysis: +68 | Depth: 12 | EngineMove : g1f3

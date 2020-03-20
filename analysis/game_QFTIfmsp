@@ -1,0 +1,26 @@
+**URL: https://lichess.org/QFTIfmsp | Tag: QFTIfmsp | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/QFTIfmsp', Date='2018.12.17', Round='-', White='chittyct', Black='blackkite', Result='0-1', BlackElo='1058', BlackRatingDiff='+34', ECO='D24', Termination='Normal', TimeControl='60+0', UTCDate='2018.12.17', UTCTime='07:52:25', Variant='Standard', WhiteElo='1059', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -24 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 18 | EngineMove : e2e3
+2. c4 | Analysis: -24 | Depth: 18 | EngineMove : e7e6
+2... dxc4 | Analysis: +34 | Depth: 17 | EngineMove : e2e3
+3. Nc3 | Analysis: -18 | Depth: 18 | EngineMove : e7e5
+3... Nf6 | Analysis: +29 | Depth: 19 | EngineMove : e2e3
+4. Nf3 | Analysis: -8 | Depth: 19 | EngineMove : c7c6
+4... Bg4 | Analysis: +67 | Depth: 16 | EngineMove : f3e5
+5. Bg5 | Analysis: -10 | Depth: 17 | EngineMove : c7c6
+5... b5 | Analysis: +75 | Depth: 16 | EngineMove : c3b5
+6. Bxf6 | Analysis: -37 | Depth: 16 | EngineMove : e7f6
+6... exf6 | Analysis: +26 | Depth: 18 | EngineMove : c3b5
+7. e4 | Analysis: +72 | Depth: 17 | EngineMove : b8c6
+7... Bxf3 | Analysis: -43 | Depth: 19 | EngineMove : g2f3
+8. Qxf3 | Analysis: +119 | Depth: 18 | EngineMove : b8c6
+8... a6 | Analysis: -12 | Depth: 18 | EngineMove : e4e5
+9. b3 | Analysis: +143 | Depth: 19 | EngineMove : d8d4
+9... Qxd4 | Analysis: -142 | Depth: 19 | EngineMove : a1d1
+10. Ne2 | Analysis: +2215 | Depth: 19 | EngineMove : f8b4
+10... Bb4+ | Analysis: -2300 | Depth: 19 | EngineMove : e2c3
+11. Nc3 | Analysis: +2355 | Depth: 20 | EngineMove : b4c3
+11... Bxc3+ | Analysis: -2372 | Depth: 21 | EngineMove : f3c3
+12. Ke2 | Analysis: #+1 | Depth: 127 | EngineMove : d4d2

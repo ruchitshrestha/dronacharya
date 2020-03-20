@@ -1,0 +1,33 @@
+**URL: https://lichess.org/QKweAv47 | Tag: QKweAv47 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/QKweAv47', Date='2018.10.06', Round='-', White='chittyct', Black='JACKIEEEEEE', Result='0-1', BlackElo='914', BlackRatingDiff='+13', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.06', UTCTime='19:03:25', Variant='Standard', WhiteElo='964', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -21 | Depth: 12 | EngineMove : e7e6
+1... e5 | Analysis: +51 | Depth: 13 | EngineMove : d4e5
+2. dxe5 | Analysis: -59 | Depth: 13 | EngineMove : b8c6
+2... d5 | Analysis: +77 | Depth: 12 | EngineMove : g1f3
+3. exd6 | Analysis: -54 | Depth: 13 | EngineMove : f8d6
+3... Bxd6 | Analysis: +49 | Depth: 16 | EngineMove : g1f3
+4. Bf4 | Analysis: +236 | Depth: 15 | EngineMove : d6f4
+4... Nf6 | Analysis: +66 | Depth: 15 | EngineMove : f4d6
+5. e3 | Analysis: -70 | Depth: 13 | EngineMove : d6f4
+5... Nc6 | Analysis: +73 | Depth: 15 | EngineMove : f4d6
+6. Nf3 | Analysis: -39 | Depth: 13 | EngineMove : d6f4
+6... Bg4 | Analysis: +77 | Depth: 15 | EngineMove : f4d6
+7. Bd3 | Analysis: +80 | Depth: 14 | EngineMove : d6f4
+7... O-O | Analysis: +26 | Depth: 14 | EngineMove : h2h3
+8. O-O | Analysis: +14 | Depth: 14 | EngineMove : d6f4
+8... Qe7 | Analysis: +67 | Depth: 14 | EngineMove : f4d6
+9. c4 | Analysis: +75 | Depth: 15 | EngineMove : d6f4
+9... Bb4 | Analysis: +109 | Depth: 13 | EngineMove : a2a3
+10. Nc3 | Analysis: -56 | Depth: 14 | EngineMove : b4c3
+10... Rad8 | Analysis: +62 | Depth: 13 | EngineMove : c3d5
+11. Nd5 | Analysis: -74 | Depth: 14 | EngineMove : f6d5
+11... Nxd5 | Analysis: +79 | Depth: 16 | EngineMove : c4d5
+12. cxd5 | Analysis: -82 | Depth: 16 | EngineMove : c6e5
+12... Na5 | Analysis: +169 | Depth: 14 | EngineMove : a2a3
+13. Rc1 | Analysis: -140 | Depth: 13 | EngineMove : c7c6
+13... Rxd5 | Analysis: +319 | Depth: 16 | EngineMove : d3h7
+14. Bxh7+ | Analysis: -322 | Depth: 16 | EngineMove : g8h7
+14... Kxh7 | Analysis: +351 | Depth: 16 | EngineMove : d1d5
+15. Qxd5 | Analysis: -359 | Depth: 15 | EngineMove : f8d8
+15... Bxf3 | Analysis: +462 | Depth: 14 | EngineMove : d5f3

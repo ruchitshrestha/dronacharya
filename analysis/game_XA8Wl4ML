@@ -1,0 +1,27 @@
+**URL: https://lichess.org/XA8Wl4ML | Tag: XA8Wl4ML | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/XA8Wl4ML', Date='2018.10.10', Round='-', White='poke808', Black='chittyct', Result='1-0', BlackElo='960', BlackRatingDiff='-10', ECO='C57', Termination='Normal', TimeControl='60+0', UTCDate='2018.10.10', UTCTime='22:06:07', Variant='Standard', WhiteElo='984', WhiteRatingDiff='+10')
+
+1. e4 | Analysis: -13 | Depth: 17 | EngineMove : e7e6
+1... e5 | Analysis: +30 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -24 | Depth: 18 | EngineMove : g8f6
+2... Nc6 | Analysis: +20 | Depth: 17 | EngineMove : f1b5
+3. Bc4 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+3... Nf6 | Analysis: +16 | Depth: 19 | EngineMove : d2d3
+4. Ng5 | Analysis: -18 | Depth: 19 | EngineMove : d7d5
+4... d5 | Analysis: +10 | Depth: 19 | EngineMove : e4d5
+5. exd5 | Analysis: -20 | Depth: 18 | EngineMove : c6a5
+5... Nxd5 | Analysis: +143 | Depth: 17 | EngineMove : g5f7
+6. Nxf7 | Analysis: -104 | Depth: 19 | EngineMove : e8f7
+6... Kxf7 | Analysis: +134 | Depth: 19 | EngineMove : d1f3
+7. Qf3+ | Analysis: -121 | Depth: 18 | EngineMove : f7e6
+7... Ke6 | Analysis: +156 | Depth: 20 | EngineMove : b1c3
+8. Bxd5+ | Analysis: +277 | Depth: 19 | EngineMove : d8d5
+8... Qxd5 | Analysis: -279 | Depth: 18 | EngineMove : f3d5
+9. Qxd5+ | Analysis: +279 | Depth: 21 | EngineMove : e6d5
+9... Kxd5 | Analysis: -274 | Depth: 19 | EngineMove : b1c3
+10. Nc3+ | Analysis: +282 | Depth: 21 | EngineMove : d5e6
+10... Kc4 | Analysis: -212 | Depth: 15 | EngineMove : d2d3
+11. O-O | Analysis: +241 | Depth: 16 | EngineMove : c4c5
+11... Bf5 | Analysis: -246 | Depth: 15 | EngineMove : b2b3
+12. d3+ | Analysis: +246 | Depth: 18 | EngineMove : c4c5
+12... Kd4 | Analysis: #+1 | Depth: 127 | EngineMove : c1e3

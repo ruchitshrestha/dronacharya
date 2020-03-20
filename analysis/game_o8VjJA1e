@@ -1,0 +1,14 @@
+**URL: https://lichess.org/o8VjJA1e | Tag: o8VjJA1e | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/o8VjJA1e', Date='2018.09.24', Round='-', White='chittyct', Black='Ellepi', Result='1-0', BlackElo='1130', BlackRatingDiff='-13', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='07:26:09', Variant='Standard', WhiteElo='1129', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -15 | Depth: 18 | EngineMove : g8f6
+1... b6 | Analysis: +61 | Depth: 17 | EngineMove : e2e4
+2. Nf3 | Analysis: -34 | Depth: 16 | EngineMove : g8f6
+2... c6 | Analysis: +106 | Depth: 16 | EngineMove : e2e4
+3. e4 | Analysis: -93 | Depth: 17 | EngineMove : e7e6
+3... d6 | Analysis: +87 | Depth: 16 | EngineMove : f1d3
+4. Be2 | Analysis: -85 | Depth: 18 | EngineMove : g8f6
+4... e6 | Analysis: +83 | Depth: 16 | EngineMove : e1g1
+5. Be3 | Analysis: -43 | Depth: 18 | EngineMove : g8f6
+5... f6 | Analysis: +130 | Depth: 15 | EngineMove : d4d5
+6. c3 | Analysis: -103 | Depth: 17 | EngineMove : d6d5

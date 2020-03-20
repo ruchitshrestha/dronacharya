@@ -1,0 +1,46 @@
+**URL: https://lichess.org/AxOMdcv6 | Tag: AxOMdcv6 | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/AxOMdcv6', Date='2019.11.09', Round='-', White='edvindracula', Black='chittyct', Result='0-1', BlackElo='1248', BlackRatingDiff='+6', ECO='B32', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.09', UTCTime='14:51:13', Variant='Standard', WhiteElo='1185', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -21 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +42 | Depth: 12 | EngineMove : g1f3
+2. Nf3 | Analysis: -48 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +43 | Depth: 13 | EngineMove : f1b5
+3. d4 | Analysis: -17 | Depth: 12 | EngineMove : c5d4
+3... cxd4 | Analysis: +25 | Depth: 13 | EngineMove : f3d4
+4. Nxd4 | Analysis: -27 | Depth: 13 | EngineMove : g8f6
+4... e5 | Analysis: +29 | Depth: 13 | EngineMove : d4b5
+5. Nf3 | Analysis: -20 | Depth: 12 | EngineMove : g8f6
+5... Bc5 | Analysis: +13 | Depth: 13 | EngineMove : f1c4
+6. Nc3 | Analysis: +1 | Depth: 13 | EngineMove : g8f6
+6... Nf6 | Analysis: +1 | Depth: 14 | EngineMove : f1c4
+7. Bg5 | Analysis: +74 | Depth: 12 | EngineMove : d8b6
+7... O-O | Analysis: 0 | Depth: 12 | EngineMove : f1d3
+8. Bb5 | Analysis: -9 | Depth: 12 | EngineMove : a7a6
+8... h6 | Analysis: +18 | Depth: 14 | EngineMove : g5f6
+9. Bh4 | Analysis: +37 | Depth: 11 | EngineMove : g7g5
+9... g5 | Analysis: -13 | Depth: 12 | EngineMove : h4g3
+10. Bg3 | Analysis: +33 | Depth: 11 | EngineMove : d7d6
+10... Qb6 | Analysis: 0 | Depth: 11 | EngineMove : e1g1
+11. Qd2 | Analysis: +38 | Depth: 11 | EngineMove : c5d4
+11... Nd4 | Analysis: +49 | Depth: 11 | EngineMove : b5d3
+12. Nxe5 | Analysis: +188 | Depth: 14 | EngineMove : d4b5
+12... Bb4 | Analysis: +112 | Depth: 12 | EngineMove : b5d3
+13. O-O | Analysis: +237 | Depth: 14 | EngineMove : d4b5
+13... Nxe4 | Analysis: -181 | Depth: 14 | EngineMove : d2d3
+14. Qd3 | Analysis: +225 | Depth: 14 | EngineMove : e4g3
+14... Nxg3 | Analysis: -191 | Depth: 13 | EngineMove : h2g3
+15. hxg3 | Analysis: +247 | Depth: 15 | EngineMove : b4c3
+15... Bxc3 | Analysis: -226 | Depth: 15 | EngineMove : b2c3
+16. Qxc3 | Analysis: +312 | Depth: 12 | EngineMove : d4b5
+16... Nxb5 | Analysis: -317 | Depth: 13 | EngineMove : c3d2
+17. Qf3 | Analysis: +308 | Depth: 11 | EngineMove : b5d4
+17... Nd4 | Analysis: -336 | Depth: 12 | EngineMove : f3d3
+18. Qe4 | Analysis: +398 | Depth: 14 | EngineMove : d7d5
+18... f5 | Analysis: -241 | Depth: 11 | EngineMove : e4d5
+19. Qd5+ | Analysis: +222 | Depth: 13 | EngineMove : d4e6
+19... Kh7 | Analysis: -180 | Depth: 13 | EngineMove : a1e1
+20. Ng6 | Analysis: +840 | Depth: 15 | EngineMove : d4e2
+20... Ne2+ | Analysis: -848 | Depth: 16 | EngineMove : g1h2
+21. Kh2 | Analysis: +856 | Depth: 17 | EngineMove : b6g6
+21... Qxg6 | Analysis: -873 | Depth: 16 | EngineMove : d5f3
+22. Qd2 | Analysis: #+1 | Depth: 127 | EngineMove : g6h5

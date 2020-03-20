@@ -1,0 +1,36 @@
+**URL: https://lichess.org/2RV1WXa2 | Tag: 2RV1WXa2 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/2RV1WXa2', Date='2019.11.18', Round='-', White='chittyct', Black='jeetpavani', Result='1-0', BlackElo='1140', BlackRatingDiff='-6', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.18', UTCTime='08:39:38', Variant='Standard', WhiteElo='1193', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -11 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +23 | Depth: 13 | EngineMove : e2e3
+2. Bf4 | Analysis: -16 | Depth: 13 | EngineMove : g8f6
+2... Nc6 | Analysis: +24 | Depth: 13 | EngineMove : e2e3
+3. e3 | Analysis: -31 | Depth: 14 | EngineMove : g8f6
+3... f6 | Analysis: +48 | Depth: 11 | EngineMove : f1d3
+4. Nf3 | Analysis: -19 | Depth: 12 | EngineMove : g7g5
+4... e6 | Analysis: +39 | Depth: 12 | EngineMove : b1c3
+5. c4 | Analysis: -16 | Depth: 12 | EngineMove : f8b4
+5... Bd6 | Analysis: +78 | Depth: 13 | EngineMove : f4d6
+6. Bg3 | Analysis: -48 | Depth: 13 | EngineMove : g8e7
+6... Bxg3 | Analysis: +54 | Depth: 15 | EngineMove : h2g3
+7. hxg3 | Analysis: -48 | Depth: 15 | EngineMove : g8e7
+7... e5 | Analysis: +177 | Depth: 11 | EngineMove : c4d5
+8. cxd5 | Analysis: -177 | Depth: 12 | EngineMove : d8d5
+8... Qxd5 | Analysis: +145 | Depth: 13 | EngineMove : b1c3
+9. Nc3 | Analysis: -132 | Depth: 12 | EngineMove : d5d7
+9... Qd8 | Analysis: +255 | Depth: 11 | EngineMove : d1b3
+10. Qc2 | Analysis: -205 | Depth: 12 | EngineMove : d8e7
+10... exd4 | Analysis: +217 | Depth: 14 | EngineMove : a1d1
+11. Nxd4 | Analysis: -80 | Depth: 12 | EngineMove : c6d4
+11... Nxd4 | Analysis: +93 | Depth: 12 | EngineMove : e3d4
+12. exd4 | Analysis: -107 | Depth: 12 | EngineMove : c8e6
+12... Qxd4 | Analysis: +176 | Depth: 12 | EngineMove : h1h4
+13. Nb5 | Analysis: -22 | Depth: 11 | EngineMove : d4b4
+13... Qe5+ | Analysis: +136 | Depth: 11 | EngineMove : c2e2
+14. Qe2 | Analysis: -118 | Depth: 11 | EngineMove : e8e7
+14... Qxe2+ | Analysis: +130 | Depth: 13 | EngineMove : f1e2
+15. Bxe2 | Analysis: -103 | Depth: 14 | EngineMove : e8e7
+15... Kd8 | Analysis: +265 | Depth: 15 | EngineMove : e1c1
+16. O-O-O+ | Analysis: -281 | Depth: 16 | EngineMove : c8d7
+16... Bd7 | Analysis: +283 | Depth: 16 | EngineMove : e2g4
+17. Bg4 | Analysis: -280 | Depth: 17 | EngineMove : f6f5

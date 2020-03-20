@@ -1,0 +1,12 @@
+**URL: https://lichess.org/5bdttPMb | Tag: 5bdttPMb | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/5bdttPMb', Date='2018.11.22', Round='-', White='khafid_my', Black='chittyct', Result='1-0', BlackElo='1028', BlackRatingDiff='-14', ECO='A00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.11.22', UTCTime='17:29:25', Variant='Standard', WhiteElo='930', WhiteRatingDiff='+13')
+
+1. e3 | Analysis: -17 | Depth: 13 | EngineMove : g8f6
+1... c5 | Analysis: +16 | Depth: 13 | EngineMove : d2d4
+2. Qf3 | Analysis: +51 | Depth: 11 | EngineMove : e7e6
+2... d5 | Analysis: -58 | Depth: 11 | EngineMove : f1b5
+3. Ne2 | Analysis: +93 | Depth: 12 | EngineMove : g8f6
+3... b6 | Analysis: +71 | Depth: 12 | EngineMove : e2f4
+4. Nf4 | Analysis: -44 | Depth: 12 | EngineMove : e7e6
+4... Bb7 | Analysis: +73 | Depth: 13 | EngineMove : f1b5
+5. Nh5 | Analysis: +65 | Depth: 12 | EngineMove : g7g6

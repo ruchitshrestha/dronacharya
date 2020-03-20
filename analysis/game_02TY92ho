@@ -1,0 +1,30 @@
+**URL: https://lichess.org/02TY92ho | Tag: 02TY92ho | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/02TY92ho', Date='2018.09.24', Round='-', White='chittyct', Black='Chrisoforo', Result='1-0', BlackElo='983', BlackRatingDiff='-9', ECO='A41', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.24', UTCTime='07:11:24', Variant='Standard', WhiteElo='1037', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -14 | Depth: 18 | EngineMove : g8f6
+1... d6 | Analysis: +46 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -44 | Depth: 17 | EngineMove : g8f6
+2... b6 | Analysis: +68 | Depth: 17 | EngineMove : e2e4
+3. Bf4 | Analysis: -37 | Depth: 18 | EngineMove : g8f6
+3... f6 | Analysis: +138 | Depth: 18 | EngineMove : e2e4
+4. g3 | Analysis: -25 | Depth: 17 | EngineMove : e7e5
+4... h6 | Analysis: +164 | Depth: 16 | EngineMove : d1d3
+5. Bg2 | Analysis: -134 | Depth: 18 | EngineMove : g7g5
+5... g5 | Analysis: +129 | Depth: 18 | EngineMove : f3h4
+6. Nh4 | Analysis: -132 | Depth: 19 | EngineMove : c7c6
+6... a6 | Analysis: +319 | Depth: 17 | EngineMove : h4g6
+7. Bxa8 | Analysis: -311 | Depth: 17 | EngineMove : g5h4
+7... c5 | Analysis: +564 | Depth: 17 | EngineMove : h4g6
+8. Ng6 | Analysis: -589 | Depth: 18 | EngineMove : h8h7
+8... Qc7 | Analysis: +879 | Depth: 16 | EngineMove : g6h8
+9. Nxh8 | Analysis: -885 | Depth: 17 | EngineMove : c8b7
+9... d5 | Analysis: +2679 | Depth: 16 | EngineMove : f4c7
+10. Bxc7 | Analysis: -2757 | Depth: 16 | EngineMove : c8g4
+10... Nc6 | Analysis: +3606 | Depth: 18 | EngineMove : a8c6
+11. Bxc6+ | Analysis: -3890 | Depth: 22 | EngineMove : c8d7
+11... Bd7 | Analysis: +4003 | Depth: 26 | EngineMove : c6d5
+12. Bxd7+ | Analysis: -3044 | Depth: 18 | EngineMove : e8d7
+12... Kxd7 | Analysis: +3123 | Depth: 18 | EngineMove : c7b6
+13. Bxb6 | Analysis: -3164 | Depth: 18 | EngineMove : f8g7
+13... Bg7 | Analysis: +3303 | Depth: 19 | EngineMove : d4c5
+14. dxc5 | Analysis: -3313 | Depth: 19 | EngineMove : e7e6

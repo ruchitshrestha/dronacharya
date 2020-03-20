@@ -1,0 +1,33 @@
+**URL: https://lichess.org/9El1yuoq | Tag: 9El1yuoq | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/9El1yuoq', Date='2018.11.11', Round='-', White='chittyct', Black='jigglypuff12', Result='1-0', BlackElo='1321', BlackRatingDiff='-13', ECO='D02', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.11', UTCTime='20:40:24', Variant='Standard', WhiteElo='1235', WhiteRatingDiff='+13')
+
+1. d4 | Analysis: +3 | Depth: 12 | EngineMove : g8f6
+1... d5 | Analysis: +13 | Depth: 13 | EngineMove : c1f4
+2. Nf3 | Analysis: -12 | Depth: 13 | EngineMove : g8f6
+2... e6 | Analysis: +19 | Depth: 14 | EngineMove : e2e3
+3. Bf4 | Analysis: -23 | Depth: 12 | EngineMove : g8f6
+3... Bd6 | Analysis: +23 | Depth: 13 | EngineMove : f4d6
+4. Bg3 | Analysis: -5 | Depth: 13 | EngineMove : g8f6
+4... Nf6 | Analysis: +5 | Depth: 14 | EngineMove : e2e3
+5. e3 | Analysis: +5 | Depth: 13 | EngineMove : e8g8
+5... Nc6 | Analysis: +9 | Depth: 13 | EngineMove : f1d3
+6. c4 | Analysis: -16 | Depth: 11 | EngineMove : e8g8
+6... dxc4 | Analysis: +32 | Depth: 14 | EngineMove : f1c4
+7. Bxc4 | Analysis: -32 | Depth: 14 | EngineMove : e8g8
+7... O-O | Analysis: +37 | Depth: 13 | EngineMove : b1c3
+8. Nc3 | Analysis: -24 | Depth: 13 | EngineMove : b7b6
+8... Na5 | Analysis: +50 | Depth: 13 | EngineMove : c4e2
+9. Bd3 | Analysis: -55 | Depth: 13 | EngineMove : b7b6
+9... a6 | Analysis: +85 | Depth: 12 | EngineMove : f3e5
+10. e4 | Analysis: -59 | Depth: 12 | EngineMove : d6g3
+10... c5 | Analysis: +384 | Depth: 13 | EngineMove : g3d6
+11. e5 | Analysis: -321 | Depth: 12 | EngineMove : c5d4
+11... cxd4 | Analysis: +337 | Depth: 14 | EngineMove : e5f6
+12. Nxd4 | Analysis: -79 | Depth: 13 | EngineMove : d6c5
+12... Bc5 | Analysis: +74 | Depth: 13 | EngineMove : e5f6
+13. Bc2 | Analysis: +59 | Depth: 12 | EngineMove : c5d4
+13... Bxd4 | Analysis: -36 | Depth: 14 | EngineMove : e5f6
+14. Qxd4 | Analysis: +687 | Depth: 13 | EngineMove : d8d4
+14... Nd5 | Analysis: +137 | Depth: 12 | EngineMove : a1d1
+15. Qh4 | Analysis: +31 | Depth: 14 | EngineMove : d8h4
+15... Nc6 | Analysis: #+1 | Depth: 127 | EngineMove : h4h7

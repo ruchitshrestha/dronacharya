@@ -1,0 +1,30 @@
+**URL: https://lichess.org/9xXSlGX6 | Tag: 9xXSlGX6 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/9xXSlGX6', Date='2019.01.13', Round='-', White='Hronosfer', Black='chittyct', Result='1-0', BlackElo='1381', BlackRatingDiff='-10', ECO='A40', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.01.13', UTCTime='05:21:15', Variant='Standard', WhiteElo='1421', WhiteRatingDiff='+9')
+
+1. d4 | Analysis: -10 | Depth: 18 | EngineMove : g8f6
+1... g6 | Analysis: +74 | Depth: 17 | EngineMove : e2e4
+2. c4 | Analysis: -49 | Depth: 17 | EngineMove : f8g7
+2... Bg7 | Analysis: +56 | Depth: 17 | EngineMove : e2e4
+3. Nc3 | Analysis: -27 | Depth: 17 | EngineMove : c7c5
+3... Nc6 | Analysis: +81 | Depth: 17 | EngineMove : d4d5
+4. Nf3 | Analysis: -42 | Depth: 18 | EngineMove : d7d6
+4... e6 | Analysis: +77 | Depth: 16 | EngineMove : e2e4
+5. a3 | Analysis: -48 | Depth: 17 | EngineMove : g8e7
+5... Nge7 | Analysis: +47 | Depth: 18 | EngineMove : d4d5
+6. Bg5 | Analysis: -9 | Depth: 17 | EngineMove : h7h6
+6... O-O | Analysis: +25 | Depth: 16 | EngineMove : e2e3
+7. Bxe7 | Analysis: +32 | Depth: 18 | EngineMove : c6e7
+7... Qxe7 | Analysis: -19 | Depth: 20 | EngineMove : e2e3
+8. e3 | Analysis: +11 | Depth: 21 | EngineMove : e6e5
+8... a6 | Analysis: +18 | Depth: 17 | EngineMove : f1e2
+9. Qc2 | Analysis: -1 | Depth: 19 | EngineMove : d7d6
+9... b5 | Analysis: +60 | Depth: 18 | EngineMove : c4b5
+10. h4 | Analysis: +31 | Depth: 18 | EngineMove : b5b4
+10... bxc4 | Analysis: +31 | Depth: 17 | EngineMove : f1c4
+11. Bxc4 | Analysis: -20 | Depth: 16 | EngineMove : c6a5
+11... d5 | Analysis: +86 | Depth: 18 | EngineMove : c4d5
+12. Bd3 | Analysis: -21 | Depth: 16 | EngineMove : e7d6
+12... Bb7 | Analysis: +25 | Depth: 17 | EngineMove : h4h5
+13. h5 | Analysis: -20 | Depth: 16 | EngineMove : e7d6
+13... Qg5 | Analysis: +1095 | Depth: 18 | EngineMove : f3g5
+14. Nxg5 | Analysis: -1103 | Depth: 17 | EngineMove : h7h6

@@ -1,0 +1,20 @@
+**URL: https://lichess.org/ZAiKM7Pt | Tag: ZAiKM7Pt | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ZAiKM7Pt', Date='2018.10.17', Round='-', White='MeAndBigRed', Black='chittyct', Result='0-1', BlackElo='962', BlackRatingDiff='+7', ECO='A06', Termination='Normal', TimeControl='120+1', UTCDate='2018.10.17', UTCTime='23:43:48', Variant='Standard', WhiteElo='809', WhiteRatingDiff='-9')
+
+1. Nf3 | Analysis: -13 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +25 | Depth: 18 | EngineMove : e2e3
+2. Nc3 | Analysis: -10 | Depth: 16 | EngineMove : d5d4
+2... Nc6 | Analysis: +5 | Depth: 17 | EngineMove : d2d4
+3. b3 | Analysis: +60 | Depth: 17 | EngineMove : d5d4
+3... e5 | Analysis: -65 | Depth: 19 | EngineMove : e2e3
+4. g3 | Analysis: +165 | Depth: 16 | EngineMove : d5d4
+4... Bg4 | Analysis: -72 | Depth: 17 | EngineMove : h2h3
+5. Nxe5 | Analysis: +247 | Depth: 18 | EngineMove : c6e5
+5... Nxe5 | Analysis: -253 | Depth: 19 | EngineMove : f1g2
+6. Nxd5 | Analysis: +720 | Depth: 20 | EngineMove : d8d5
+6... Qxd5 | Analysis: -724 | Depth: 21 | EngineMove : h1g1
+7. Bg2 | Analysis: #+6 | Depth: 36 | EngineMove : d5g2
+7... Qxg2 | Analysis: #-5 | Depth: 39 | EngineMove : f2f4
+8. Rf1 | Analysis: #+4 | Depth: 80 | EngineMove : g4h3
+8... Qe4 | Analysis: -1250 | Depth: 19 | EngineMove : f2f4
+9. Bb2 | Analysis: #+1 | Depth: 127 | EngineMove : e5f3

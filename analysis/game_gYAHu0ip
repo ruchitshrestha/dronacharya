@@ -1,0 +1,31 @@
+**URL: https://lichess.org/gYAHu0ip | Tag: gYAHu0ip | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/gYAHu0ip', Date='2018.09.18', Round='-', White='chittyct', Black='standingdesk12321', Result='1-0', BlackElo='957', BlackRatingDiff='-9', ECO='D00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.18', UTCTime='01:37:53', Variant='Standard', WhiteElo='1000', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -16 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +15 | Depth: 19 | EngineMove : g1f3
+2. Bf4 | Analysis: -11 | Depth: 18 | EngineMove : g8f6
+2... f6 | Analysis: +56 | Depth: 16 | EngineMove : e2e3
+3. e3 | Analysis: -45 | Depth: 17 | EngineMove : c8f5
+3... Nc6 | Analysis: +53 | Depth: 16 | EngineMove : f1d3
+4. Bd3 | Analysis: -40 | Depth: 19 | EngineMove : g7g6
+4... e5 | Analysis: +131 | Depth: 19 | EngineMove : d1h5
+5. Bg3 | Analysis: -1 | Depth: 15 | EngineMove : g8h6
+5... e4 | Analysis: +6 | Depth: 16 | EngineMove : d3b5
+6. Bb5 | Analysis: -12 | Depth: 17 | EngineMove : a7a6
+6... Bd7 | Analysis: +173 | Depth: 17 | EngineMove : d1h5
+7. Ne2 | Analysis: -37 | Depth: 17 | EngineMove : a7a6
+7... Nh6 | Analysis: +118 | Depth: 16 | EngineMove : e2f4
+8. Nf4 | Analysis: -103 | Depth: 18 | EngineMove : a7a6
+8... Bd6 | Analysis: +133 | Depth: 16 | EngineMove : d1h5
+9. Nxd5 | Analysis: +22 | Depth: 19 | EngineMove : d7g4
+9... Bxg3 | Analysis: +113 | Depth: 18 | EngineMove : d1h5
+10. hxg3 | Analysis: +115 | Depth: 19 | EngineMove : d7g4
+10... a6 | Analysis: +270 | Depth: 18 | EngineMove : h1h6
+11. Qh5+ | Analysis: -219 | Depth: 18 | EngineMove : e8f8
+11... Nf7 | Analysis: +278 | Depth: 19 | EngineMove : b5c4
+12. Bc4 | Analysis: -275 | Depth: 18 | EngineMove : d7e6
+12... Nb4 | Analysis: +563 | Depth: 19 | EngineMove : d5b4
+13. Nb6 | Analysis: -96 | Depth: 21 | EngineMove : g7g6
+13... Nxc2+ | Analysis: +419 | Depth: 20 | EngineMove : e1d2
+14. Kd1 | Analysis: -294 | Depth: 19 | EngineMove : g7g6
+14... Nxa1 | Analysis: #+1 | Depth: 127 | EngineMove : h5f7

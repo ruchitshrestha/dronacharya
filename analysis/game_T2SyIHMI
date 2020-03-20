@@ -1,0 +1,13 @@
+**URL: https://lichess.org/T2SyIHMI | Tag: T2SyIHMI | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/T2SyIHMI', Date='2018.09.25', Round='-', White='Sibongiseni', Black='chittyct', Result='1-0', BlackElo='1120', BlackRatingDiff='-8', ECO='B00', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.25', UTCTime='16:53:34', Variant='Standard', WhiteElo='1207', WhiteRatingDiff='+8')
+
+1. e4 | Analysis: -28 | Depth: 16 | EngineMove : e7e6
+1... b6 | Analysis: +48 | Depth: 17 | EngineMove : d2d4
+2. Bc4 | Analysis: -24 | Depth: 17 | EngineMove : e7e6
+2... Bb7 | Analysis: +16 | Depth: 16 | EngineMove : b1c3
+3. d3 | Analysis: -13 | Depth: 19 | EngineMove : e7e6
+3... Nc6 | Analysis: +27 | Depth: 17 | EngineMove : g1f3
+4. Nf3 | Analysis: -26 | Depth: 19 | EngineMove : c6a5
+4... Nd4 | Analysis: +359 | Depth: 17 | EngineMove : f3d4
+5. Ng5 | Analysis: -13 | Depth: 17 | EngineMove : e7e6
+5... h6 | Analysis: #+1 | Depth: 127 | EngineMove : c4f7

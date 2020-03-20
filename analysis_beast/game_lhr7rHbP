@@ -1,0 +1,15 @@
+**URL: https://lichess.org/lhr7rHbP | Tag: lhr7rHbP | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/lhr7rHbP', Date='2018.09.22', Round='-', White='chittyct', Black='ChessLW', Result='0-1', BlackElo='987', BlackRatingDiff='+10', ECO='A43', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.09.22', UTCTime='17:53:45', Variant='Standard', WhiteElo='989', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -18 | Depth: 11 | EngineMove : d7d5
+1... c5 | Analysis: +54 | Depth: 12 | EngineMove : d4d5
+2. dxc5 | Analysis: -10 | Depth: 12 | EngineMove : e7e6
+2... e5 | Analysis: +20 | Depth: 11 | EngineMove : b2b4
+3. e4 | Analysis: -19 | Depth: 12 | EngineMove : f8c5
+3... Bxc5 | Analysis: +28 | Depth: 13 | EngineMove : f1c4
+4. Bc4 | Analysis: -21 | Depth: 14 | EngineMove : g8f6
+4... Nc6 | Analysis: +99 | Depth: 13 | EngineMove : c4f7
+5. Qd6 | Analysis: +994 | Depth: 13 | EngineMove : c5d6
+5... Bxd6 | Analysis: -1024 | Depth: 12 | EngineMove : g1f3
+6. Bxf7+ | Analysis: +1322 | Depth: 12 | EngineMove : e8f7
+6... Kxf7 | Analysis: -1337 | Depth: 14 | EngineMove : g1f3

@@ -1,0 +1,14 @@
+**URL: https://lichess.org/gUABZfxO | Tag: gUABZfxO | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/gUABZfxO', Date='2019.07.09', Round='-', White='chittyct', Black='Catalan75', Result='1-0', BlackElo='1378', BlackRatingDiff='-12', ECO='D06', Termination='Normal', TimeControl='180+2', UTCDate='2019.07.09', UTCTime='09:08:01', Variant='Standard', WhiteElo='1305', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -29 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +26 | Depth: 13 | EngineMove : e2e3
+2. c4 | Analysis: -26 | Depth: 12 | EngineMove : e7e6
+2... Nf6 | Analysis: +44 | Depth: 12 | EngineMove : c4d5
+3. cxd5 | Analysis: -19 | Depth: 13 | EngineMove : c7c6
+3... Qxd5 | Analysis: +58 | Depth: 12 | EngineMove : b1c3
+4. Nc3 | Analysis: -54 | Depth: 12 | EngineMove : d5a5
+4... Qa5 | Analysis: +82 | Depth: 12 | EngineMove : c1d2
+5. Bd2 | Analysis: -38 | Depth: 13 | EngineMove : e7e5
+5... Qd5 | Analysis: +823 | Depth: 12 | EngineMove : c3d5
+6. Nxd5 | Analysis: -816 | Depth: 14 | EngineMove : f6d5

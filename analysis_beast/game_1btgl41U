@@ -1,0 +1,32 @@
+**URL: https://lichess.org/1btgl41U | Tag: 1btgl41U | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/1btgl41U', Date='2019.06.21', Round='-', White='taha1417_124', Black='chittyct', Result='0-1', BlackElo='1391', BlackRatingDiff='+8', ECO='B20', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.21', UTCTime='02:38:47', Variant='Standard', WhiteElo='1265', WhiteRatingDiff='-6')
+
+1. e4 | Analysis: -35 | Depth: 11 | EngineMove : e7e6
+1... c5 | Analysis: +55 | Depth: 12 | EngineMove : b1c3
+2. c4 | Analysis: -6 | Depth: 13 | EngineMove : d7d6
+2... Nc6 | Analysis: -2 | Depth: 14 | EngineMove : b1c3
+3. Nc3 | Analysis: -3 | Depth: 14 | EngineMove : e7e5
+3... a6 | Analysis: +17 | Depth: 13 | EngineMove : d2d3
+4. a4 | Analysis: +5 | Depth: 14 | EngineMove : g8f6
+4... Nf6 | Analysis: +2 | Depth: 13 | EngineMove : f2f4
+5. b3 | Analysis: +21 | Depth: 13 | EngineMove : e7e6
+5... e6 | Analysis: -42 | Depth: 13 | EngineMove : g1f3
+6. Nf3 | Analysis: +29 | Depth: 14 | EngineMove : f8e7
+6... g6 | Analysis: -9 | Depth: 12 | EngineMove : f1e2
+7. Bd3 | Analysis: +39 | Depth: 13 | EngineMove : f8g7
+7... Bg7 | Analysis: -27 | Depth: 14 | EngineMove : e1g1
+8. O-O | Analysis: +32 | Depth: 14 | EngineMove : e8g8
+8... O-O | Analysis: -41 | Depth: 15 | EngineMove : c1b2
+9. Bb2 | Analysis: +43 | Depth: 13 | EngineMove : d7d6
+9... Nd4 | Analysis: +10 | Depth: 11 | EngineMove : f3d4
+10. Nxd4 | Analysis: -16 | Depth: 13 | EngineMove : c5d4
+10... cxd4 | Analysis: +3 | Depth: 13 | EngineMove : c3e2
+11. Ne2 | Analysis: +3 | Depth: 12 | EngineMove : e6e5
+11... e5 | Analysis: -5 | Depth: 14 | EngineMove : f2f4
+12. f4 | Analysis: +1 | Depth: 14 | EngineMove : d7d6
+12... d6 | Analysis: -8 | Depth: 11 | EngineMove : h2h3
+13. c5 | Analysis: +84 | Depth: 12 | EngineMove : d6c5
+13... dxc5 | Analysis: -78 | Depth: 13 | EngineMove : d1c2
+14. fxe5 | Analysis: +132 | Depth: 12 | EngineMove : f6g4
+14... Ng4 | Analysis: -137 | Depth: 13 | EngineMove : e2f4
+15. Nxd4 | Analysis: +466 | Depth: 14 | EngineMove : g7e5

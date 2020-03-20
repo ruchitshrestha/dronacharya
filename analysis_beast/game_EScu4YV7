@@ -1,0 +1,25 @@
+**URL: https://lichess.org/EScu4YV7 | Tag: EScu4YV7 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/EScu4YV7', Date='2019.06.23', Round='-', White='graysonc777', Black='chittyct', Result='1-0', BlackElo='1344', BlackRatingDiff='-10', ECO='A04', Termination='Normal', TimeControl='180+2', UTCDate='2019.06.23', UTCTime='05:43:47', Variant='Standard', WhiteElo='1360', WhiteRatingDiff='+10')
+
+1. Nf3 | Analysis: -8 | Depth: 12 | EngineMove : g8f6
+1... c5 | Analysis: +64 | Depth: 12 | EngineMove : e2e4
+2. c4 | Analysis: -28 | Depth: 12 | EngineMove : e7e6
+2... Nc6 | Analysis: +23 | Depth: 14 | EngineMove : e2e3
+3. e3 | Analysis: -24 | Depth: 14 | EngineMove : g8f6
+3... e6 | Analysis: +32 | Depth: 14 | EngineMove : d2d4
+4. d4 | Analysis: -15 | Depth: 13 | EngineMove : d7d5
+4... cxd4 | Analysis: +23 | Depth: 14 | EngineMove : e3d4
+5. exd4 | Analysis: -33 | Depth: 13 | EngineMove : d7d5
+5... Nf6 | Analysis: +41 | Depth: 14 | EngineMove : d4d5
+6. Nc3 | Analysis: -17 | Depth: 13 | EngineMove : d7d5
+6... Bb4 | Analysis: +51 | Depth: 13 | EngineMove : a2a3
+7. Bd2 | Analysis: -7 | Depth: 12 | EngineMove : d7d5
+7... O-O | Analysis: +10 | Depth: 12 | EngineMove : d4d5
+8. Qc2 | Analysis: +10 | Depth: 12 | EngineMove : d7d5
+8... Bxc3 | Analysis: +22 | Depth: 11 | EngineMove : b2c3
+9. Bxc3 | Analysis: -16 | Depth: 13 | EngineMove : d7d5
+9... Ne4 | Analysis: +372 | Depth: 13 | EngineMove : c2e4
+10. Qxe4 | Analysis: -375 | Depth: 13 | EngineMove : d7d5
+10... a6 | Analysis: +462 | Depth: 12 | EngineMove : f1d3
+11. Bd3 | Analysis: -458 | Depth: 14 | EngineMove : f7f5
+11... b5 | Analysis: #+1 | Depth: 127 | EngineMove : e4h7

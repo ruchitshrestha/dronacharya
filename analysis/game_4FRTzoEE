@@ -1,0 +1,29 @@
+**URL: https://lichess.org/4FRTzoEE | Tag: 4FRTzoEE | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/4FRTzoEE', Date='2018.11.20', Round='-', White='chittyct', Black='monroe2837', Result='0-1', BlackElo='972', BlackRatingDiff='+13', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.11.20', UTCTime='01:21:51', Variant='Standard', WhiteElo='1021', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -13 | Depth: 17 | EngineMove : g8f6
+1... e5 | Analysis: +68 | Depth: 17 | EngineMove : d4e5
+2. dxe5 | Analysis: -67 | Depth: 17 | EngineMove : b8c6
+2... d6 | Analysis: +76 | Depth: 18 | EngineMove : g1f3
+3. exd6 | Analysis: -48 | Depth: 18 | EngineMove : f8d6
+3... cxd6 | Analysis: +111 | Depth: 18 | EngineMove : e2e4
+4. Nf3 | Analysis: -101 | Depth: 18 | EngineMove : g8f6
+4... Be6 | Analysis: +123 | Depth: 17 | EngineMove : e2e4
+5. e4 | Analysis: -120 | Depth: 19 | EngineMove : g8f6
+5... Qd7 | Analysis: +148 | Depth: 17 | EngineMove : b1c3
+6. Nc3 | Analysis: -152 | Depth: 18 | EngineMove : b8c6
+6... b5 | Analysis: +434 | Depth: 18 | EngineMove : f1b5
+7. Bxb5 | Analysis: -456 | Depth: 18 | EngineMove : b8c6
+7... Nc6 | Analysis: +474 | Depth: 18 | EngineMove : f3d4
+8. Ne5 | Analysis: +91 | Depth: 17 | EngineMove : d6e5
+8... Nxe5 | Analysis: +626 | Depth: 16 | EngineMove : b5d7
+9. Bxd7+ | Analysis: -631 | Depth: 17 | EngineMove : e6d7
+9... Kxd7 | Analysis: +760 | Depth: 18 | EngineMove : f2f4
+10. Nb5 | Analysis: -709 | Depth: 16 | EngineMove : g8f6
+10... d5 | Analysis: +995 | Depth: 16 | EngineMove : e4d5
+11. exd5 | Analysis: -1031 | Depth: 17 | EngineMove : e6g4
+11... Re8 | Analysis: +1704 | Depth: 15 | EngineMove : d5e6
+12. dxe6+ | Analysis: -1765 | Depth: 16 | EngineMove : d7c8
+12... Kc6 | Analysis: +1773 | Depth: 14 | EngineMove : b5a7
+13. Nxa7+ | Analysis: -1872 | Depth: 17 | EngineMove : c6c7
+13... Kb7 | Analysis: +2028 | Depth: 17 | EngineMove : d1d5

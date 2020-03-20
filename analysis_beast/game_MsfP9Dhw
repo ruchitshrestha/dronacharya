@@ -1,0 +1,27 @@
+**URL: https://lichess.org/MsfP9Dhw | Tag: MsfP9Dhw | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/MsfP9Dhw', Date='2019.01.30', Round='-', White='Fnavas60', Black='chittyct', Result='0-1', BlackElo='1262', BlackRatingDiff='+6', ECO='D00', Termination='Normal', TimeControl='180+2', UTCDate='2019.01.30', UTCTime='17:32:12', Variant='Standard', WhiteElo='1132', WhiteRatingDiff='-10')
+
+1. d4 | Analysis: -29 | Depth: 13 | EngineMove : g8f6
+1... d5 | Analysis: +21 | Depth: 12 | EngineMove : g1f3
+2. Bf4 | Analysis: -20 | Depth: 13 | EngineMove : e7e6
+2... Nf6 | Analysis: +30 | Depth: 14 | EngineMove : e2e3
+3. e3 | Analysis: -18 | Depth: 13 | EngineMove : e7e6
+3... Bf5 | Analysis: +22 | Depth: 11 | EngineMove : g1f3
+4. c4 | Analysis: +6 | Depth: 11 | EngineMove : e7e6
+4... e6 | Analysis: -24 | Depth: 12 | EngineMove : d1b3
+5. Nc3 | Analysis: +18 | Depth: 12 | EngineMove : b8c6
+5... Bb4 | Analysis: -29 | Depth: 12 | EngineMove : g1e2
+6. Ne2 | Analysis: +46 | Depth: 12 | EngineMove : d5c4
+6... O-O | Analysis: +13 | Depth: 13 | EngineMove : a2a3
+7. cxd5 | Analysis: +48 | Depth: 12 | EngineMove : f6d5
+7... Nxd5 | Analysis: -16 | Depth: 13 | EngineMove : f4g3
+8. a3 | Analysis: +50 | Depth: 14 | EngineMove : b4c3
+8... Bxc3+ | Analysis: -52 | Depth: 14 | EngineMove : b2c3
+9. Nxc3 | Analysis: +109 | Depth: 13 | EngineMove : d5f4
+9... Nxf4 | Analysis: -90 | Depth: 14 | EngineMove : e3f4
+10. exf4 | Analysis: +137 | Depth: 14 | EngineMove : b8c6
+10... Nc6 | Analysis: -120 | Depth: 15 | EngineMove : f1d3
+11. Qf3 | Analysis: +668 | Depth: 15 | EngineMove : c6d4
+11... Nxd4 | Analysis: -696 | Depth: 16 | EngineMove : f3d1
+12. Qxb7 | Analysis: #+2 | Depth: 127 | EngineMove : d4c2
+12... Nc2+ | Analysis: #-1 | Depth: 127 | EngineMove : e1e2

@@ -1,0 +1,18 @@
+**URL: https://lichess.org/gPP0QSKZ | Tag: gPP0QSKZ | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/gPP0QSKZ', Date='2019.07.22', Round='-', White='chittyct', Black='kalemli', Result='1-0', BlackElo='1288', BlackRatingDiff='-12', ECO='D35', Termination='Normal', TimeControl='120+1', UTCDate='2019.07.22', UTCTime='03:52:35', Variant='Standard', WhiteElo='1241', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -14 | Depth: 17 | EngineMove : d7d5
+1... Nf6 | Analysis: +19 | Depth: 19 | EngineMove : c2c4
+2. c4 | Analysis: -19 | Depth: 19 | EngineMove : e7e6
+2... e6 | Analysis: +18 | Depth: 20 | EngineMove : e2e3
+3. Nc3 | Analysis: -22 | Depth: 16 | EngineMove : d7d5
+3... d5 | Analysis: +25 | Depth: 18 | EngineMove : c1g5
+4. cxd5 | Analysis: -9 | Depth: 17 | EngineMove : e6d5
+4... exd5 | Analysis: +13 | Depth: 19 | EngineMove : c1f4
+5. Bf4 | Analysis: -10 | Depth: 19 | EngineMove : f8d6
+5... Nc6 | Analysis: +22 | Depth: 18 | EngineMove : e2e3
+6. e3 | Analysis: -27 | Depth: 18 | EngineMove : c8f5
+6... Nh5 | Analysis: +389 | Depth: 17 | EngineMove : d1h5
+7. Qxh5 | Analysis: -393 | Depth: 17 | EngineMove : c8e6
+7... g6 | Analysis: +505 | Depth: 17 | EngineMove : h5d5
+8. Qf3 | Analysis: -385 | Depth: 16 | EngineMove : f8b4

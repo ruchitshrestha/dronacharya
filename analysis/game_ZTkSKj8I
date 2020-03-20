@@ -1,0 +1,30 @@
+**URL: https://lichess.org/ZTkSKj8I | Tag: ZTkSKj8I | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/ZTkSKj8I', Date='2018.08.28', Round='-', White='omerF6161', Black='chittyct', Result='1-0', BlackElo='1067', BlackRatingDiff='-9', ECO='D25', Termination='Normal', TimeControl='180+0', UTCDate='2018.08.28', UTCTime='00:02:55', Variant='Standard', WhiteElo='1214', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -18 | Depth: 18 | EngineMove : g8f6
+1... Nf6 | Analysis: +13 | Depth: 19 | EngineMove : g1f3
+2. c4 | Analysis: -19 | Depth: 17 | EngineMove : e7e6
+2... d5 | Analysis: +27 | Depth: 17 | EngineMove : c4d5
+3. Nf3 | Analysis: -13 | Depth: 18 | EngineMove : e7e6
+3... dxc4 | Analysis: +34 | Depth: 19 | EngineMove : e2e3
+4. e3 | Analysis: -39 | Depth: 19 | EngineMove : c7c5
+4... b5 | Analysis: +46 | Depth: 17 | EngineMove : a2a4
+5. Nbd2 | Analysis: +5 | Depth: 16 | EngineMove : c7c6
+5... Bg4 | Analysis: +75 | Depth: 19 | EngineMove : a2a4
+6. b3 | Analysis: +110 | Depth: 17 | EngineMove : c4c3
+6... Nc6 | Analysis: +126 | Depth: 18 | EngineMove : b3c4
+7. bxc4 | Analysis: -138 | Depth: 18 | EngineMove : b5c4
+7... bxc4 | Analysis: +139 | Depth: 18 | EngineMove : f1c4
+8. Nxc4 | Analysis: -56 | Depth: 16 | EngineMove : e7e5
+8... Rb8 | Analysis: +72 | Depth: 16 | EngineMove : f1e2
+9. Ncd2 | Analysis: -5 | Depth: 19 | EngineMove : e7e5
+9... e6 | Analysis: +120 | Depth: 20 | EngineMove : d1a4
+10. a3 | Analysis: -39 | Depth: 18 | EngineMove : d8d7
+10... Bd6 | Analysis: +93 | Depth: 18 | EngineMove : d1a4
+11. h3 | Analysis: -13 | Depth: 19 | EngineMove : g4f3
+11... Bxf3 | Analysis: +22 | Depth: 21 | EngineMove : d2f3
+12. Nxf3 | Analysis: -20 | Depth: 20 | EngineMove : e8g8
+12... Na5 | Analysis: +53 | Depth: 19 | EngineMove : d1a4
+13. Qa4+ | Analysis: -49 | Depth: 20 | EngineMove : c7c6
+13... Nc6 | Analysis: +403 | Depth: 18 | EngineMove : a4c6
+14. Qxc6+ | Analysis: -408 | Depth: 19 | EngineMove : d8d7

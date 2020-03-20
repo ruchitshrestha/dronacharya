@@ -1,0 +1,25 @@
+**URL: https://lichess.org/DYtDEGqv | Tag: DYtDEGqv | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/DYtDEGqv', Date='2018.11.15', Round='-', White='chittyct', Black='zerodycode', Result='0-1', BlackElo='1250', BlackRatingDiff='+11', ECO='A46', Termination='Normal', TimeControl='180+2', UTCDate='2018.11.15', UTCTime='05:51:54', Variant='Standard', WhiteElo='1270', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -13 | Depth: 12 | EngineMove : g8f6
+1... e6 | Analysis: +31 | Depth: 13 | EngineMove : e2e4
+2. Nf3 | Analysis: -10 | Depth: 14 | EngineMove : d7d5
+2... Nf6 | Analysis: +17 | Depth: 12 | EngineMove : c1f4
+3. Bf4 | Analysis: -11 | Depth: 13 | EngineMove : f8e7
+3... Nc6 | Analysis: +21 | Depth: 13 | EngineMove : b1d2
+4. e3 | Analysis: -17 | Depth: 15 | EngineMove : f8e7
+4... b6 | Analysis: +33 | Depth: 12 | EngineMove : f1e2
+5. c4 | Analysis: -34 | Depth: 11 | EngineMove : c8b7
+5... d5 | Analysis: +56 | Depth: 12 | EngineMove : c4d5
+6. cxd5 | Analysis: -51 | Depth: 13 | EngineMove : f6d5
+6... Qxd5 | Analysis: +103 | Depth: 12 | EngineMove : b1c3
+7. Nc3 | Analysis: -103 | Depth: 13 | EngineMove : f8b4
+7... Bb4 | Analysis: +82 | Depth: 12 | EngineMove : f1d3
+8. Bd3 | Analysis: -106 | Depth: 12 | EngineMove : d5d7
+8... Bxc3+ | Analysis: +107 | Depth: 15 | EngineMove : b2c3
+9. bxc3 | Analysis: -107 | Depth: 13 | EngineMove : d5d8
+9... Ne4 | Analysis: +165 | Depth: 11 | EngineMove : e1g1
+10. c4 | Analysis: -100 | Depth: 12 | EngineMove : d5a5
+10... Qa5+ | Analysis: +101 | Depth: 13 | EngineMove : e1f1
+11. Ke2 | Analysis: +724 | Depth: 12 | EngineMove : e4c3
+11... Nc3+ | Analysis: -736 | Depth: 14 | EngineMove : e2f1

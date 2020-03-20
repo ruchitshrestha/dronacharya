@@ -1,0 +1,12 @@
+**URL: https://lichess.org/AtxjYiG7 | Tag: AtxjYiG7 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/AtxjYiG7', Date='2019.11.08', Round='-', White='chittyct', Black='Annabeth_Chase12-7', Result='1-0', BlackElo='958', BlackRatingDiff='-2', ECO='A80', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.08', UTCTime='13:32:46', Variant='Standard', WhiteElo='1269', WhiteRatingDiff='+2')
+
+1. d4 | Analysis: -12 | Depth: 18 | EngineMove : g8f6
+1... f5 | Analysis: +55 | Depth: 18 | EngineMove : g1f3
+2. e3 | Analysis: -45 | Depth: 19 | EngineMove : e7e6
+2... Nf6 | Analysis: +39 | Depth: 18 | EngineMove : g1f3
+3. Nc3 | Analysis: -29 | Depth: 19 | EngineMove : d7d5
+3... Ng4 | Analysis: +117 | Depth: 16 | EngineMove : e3e4
+4. h3 | Analysis: -62 | Depth: 19 | EngineMove : g4f6
+4... Nxf2 | Analysis: +265 | Depth: 17 | EngineMove : e1f2
+5. Kxf2 | Analysis: -250 | Depth: 19 | EngineMove : e7e6

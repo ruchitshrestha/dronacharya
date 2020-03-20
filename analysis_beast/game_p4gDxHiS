@@ -1,0 +1,35 @@
+**URL: https://lichess.org/p4gDxHiS | Tag: p4gDxHiS | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/p4gDxHiS', Date='2019.06.02', Round='-', White='neverleveldex', Black='chittyct', Result='0-1', BlackElo='979', BlackRatingDiff='+11', ECO='B30', Termination='Normal', TimeControl='60+0', UTCDate='2019.06.02', UTCTime='15:23:17', Variant='Standard', WhiteElo='963', WhiteRatingDiff='-11')
+
+1. e4 | Analysis: -31 | Depth: 12 | EngineMove : e7e5
+1... c5 | Analysis: +47 | Depth: 13 | EngineMove : b1c3
+2. Nf3 | Analysis: -47 | Depth: 13 | EngineMove : e7e6
+2... Nc6 | Analysis: +50 | Depth: 12 | EngineMove : b1c3
+3. Bc4 | Analysis: -11 | Depth: 13 | EngineMove : g8f6
+3... a6 | Analysis: +35 | Depth: 12 | EngineMove : d2d4
+4. O-O | Analysis: -36 | Depth: 12 | EngineMove : g8f6
+4... e6 | Analysis: +45 | Depth: 13 | EngineMove : d2d4
+5. Nc3 | Analysis: -19 | Depth: 12 | EngineMove : b7b5
+5... b5 | Analysis: +35 | Depth: 13 | EngineMove : c4e2
+6. Bd3 | Analysis: -10 | Depth: 11 | EngineMove : g8f6
+6... c4 | Analysis: +60 | Depth: 12 | EngineMove : d3e2
+7. Be2 | Analysis: -53 | Depth: 12 | EngineMove : g8f6
+7... Bb7 | Analysis: +73 | Depth: 12 | EngineMove : d2d3
+8. d4 | Analysis: -25 | Depth: 12 | EngineMove : d7d5
+8... cxd3 | Analysis: +56 | Depth: 12 | EngineMove : d1d3
+9. Qxd3 | Analysis: -61 | Depth: 13 | EngineMove : g8f6
+9... Rc8 | Analysis: +92 | Depth: 10 | EngineMove : c1f4
+10. Ne5 | Analysis: +314 | Depth: 12 | EngineMove : c6e5
+10... Nxe5 | Analysis: -334 | Depth: 11 | EngineMove : d3g3
+11. Nxb5 | Analysis: +1258 | Depth: 12 | EngineMove : e5d3
+11... Nxd3 | Analysis: -1272 | Depth: 13 | EngineMove : e2d3
+12. Bxd3 | Analysis: +1282 | Depth: 12 | EngineMove : a6b5
+12... axb5 | Analysis: -1291 | Depth: 11 | EngineMove : a2a4
+13. Bxb5 | Analysis: +1315 | Depth: 12 | EngineMove : g8f6
+13... Rxc2 | Analysis: -1298 | Depth: 12 | EngineMove : b5d3
+14. Be3 | Analysis: +1375 | Depth: 12 | EngineMove : b7e4
+14... Rxb2 | Analysis: -1388 | Depth: 13 | EngineMove : b5d3
+15. Rab1 | Analysis: +1456 | Depth: 14 | EngineMove : b2b1
+15... Rxb1 | Analysis: -1471 | Depth: 14 | EngineMove : f1b1
+16. Rxb1 | Analysis: +1482 | Depth: 13 | EngineMove : b7e4
+16... Bxe4 | Analysis: -1484 | Depth: 12 | EngineMove : b1d1

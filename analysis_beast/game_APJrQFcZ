@@ -1,0 +1,19 @@
+**URL: https://lichess.org/APJrQFcZ | Tag: APJrQFcZ | Side: white**
+HEADERS: Headers(Event='Rated Correspondence game', Site='https://lichess.org/APJrQFcZ', Date='2019.10.14', Round='-', White='chittyct', Black='Walter1948', Result='0-1', BlackElo='1534', BlackRatingDiff='+16', ECO='D20', Termination='Normal', TimeControl='-', UTCDate='2019.10.14', UTCTime='13:03:33', Variant='Standard', WhiteElo='1500', WhiteRatingDiff='-160')
+
+1. d4 | Analysis: -31 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +17 | Depth: 13 | EngineMove : g1f3
+2. c4 | Analysis: -15 | Depth: 13 | EngineMove : e7e6
+2... dxc4 | Analysis: +36 | Depth: 12 | EngineMove : g1f3
+3. e4 | Analysis: -13 | Depth: 12 | EngineMove : e7e5
+3... Nf6 | Analysis: +51 | Depth: 13 | EngineMove : e4e5
+4. e5 | Analysis: -38 | Depth: 13 | EngineMove : f6d5
+4... Nd5 | Analysis: +37 | Depth: 13 | EngineMove : f1c4
+5. Bxc4 | Analysis: -46 | Depth: 14 | EngineMove : b8c6
+5... Nb4 | Analysis: +52 | Depth: 11 | EngineMove : d1d2
+6. Qa4+ | Analysis: +11 | Depth: 14 | EngineMove : b8c6
+6... N8c6 | Analysis: -27 | Depth: 13 | EngineMove : g1f3
+7. Nc3 | Analysis: +120 | Depth: 13 | EngineMove : d8d4
+7... a6 | Analysis: -44 | Depth: 12 | EngineMove : e5e6
+8. Qxc6+ | Analysis: +818 | Depth: 13 | EngineMove : b7c6
+8... Nxc6 | Analysis: -655 | Depth: 12 | EngineMove : c1e3

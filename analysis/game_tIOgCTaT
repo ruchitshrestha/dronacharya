@@ -1,0 +1,27 @@
+**URL: https://lichess.org/tIOgCTaT | Tag: tIOgCTaT | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/tIOgCTaT', Date='2019.12.13', Round='-', White='chittyct', Black='stnq69', Result='1-0', BlackElo='1193', BlackRatingDiff='-5', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.12.13', UTCTime='14:37:33', Variant='Standard', WhiteElo='1307', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -14 | Depth: 16 | EngineMove : g8f6
+1... d5 | Analysis: +10 | Depth: 18 | EngineMove : g1f3
+2. Bf4 | Analysis: -16 | Depth: 18 | EngineMove : c8f5
+2... Nf6 | Analysis: +15 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -5 | Depth: 18 | EngineMove : c8f5
+3... Nc6 | Analysis: +29 | Depth: 17 | EngineMove : f1d3
+4. Bd3 | Analysis: -11 | Depth: 18 | EngineMove : c6b4
+4... e6 | Analysis: +21 | Depth: 19 | EngineMove : g1f3
+5. c4 | Analysis: +52 | Depth: 17 | EngineMove : d5c4
+5... Bd6 | Analysis: +17 | Depth: 18 | EngineMove : f4d6
+6. Bg3 | Analysis: +54 | Depth: 17 | EngineMove : d6g3
+6... Bxg3 | Analysis: -43 | Depth: 19 | EngineMove : h2g3
+7. hxg3 | Analysis: +46 | Depth: 19 | EngineMove : e6e5
+7... dxc4 | Analysis: -6 | Depth: 18 | EngineMove : d3c4
+8. Bxc4 | Analysis: -12 | Depth: 18 | EngineMove : e6e5
+8... O-O | Analysis: +10 | Depth: 17 | EngineMove : b1c3
+9. Nc3 | Analysis: -4 | Depth: 18 | EngineMove : e6e5
+9... Re8 | Analysis: +33 | Depth: 17 | EngineMove : g1f3
+10. Qc2 | Analysis: +8 | Depth: 18 | EngineMove : e6e5
+10... e5 | Analysis: +20 | Depth: 18 | EngineMove : g1f3
+11. dxe5 | Analysis: +6 | Depth: 19 | EngineMove : c6e5
+11... Nxe5 | Analysis: -1 | Depth: 21 | EngineMove : a1d1
+12. Bb3 | Analysis: +83 | Depth: 18 | EngineMove : e5d3
+12... Nfg4 | Analysis: +638 | Depth: 18 | EngineMove : c2h7

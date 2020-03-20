@@ -1,0 +1,28 @@
+**URL: https://lichess.org/ZgASp1zg | Tag: ZgASp1zg | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/ZgASp1zg', Date='2019.12.21', Round='-', White='chittyct', Black='osward', Result='1-0', BlackElo='1175', BlackRatingDiff='-3', ECO='A40', Termination='Normal', TimeControl='120+1', UTCDate='2019.12.21', UTCTime='14:24:29', Variant='Standard', WhiteElo='1336', WhiteRatingDiff='+5')
+
+1. d4 | Analysis: -19 | Depth: 13 | EngineMove : d7d5
+1... e6 | Analysis: +19 | Depth: 12 | EngineMove : e2e4
+2. c4 | Analysis: -19 | Depth: 13 | EngineMove : g8f6
+2... h6 | Analysis: +53 | Depth: 12 | EngineMove : g1f3
+3. Bf4 | Analysis: -17 | Depth: 11 | EngineMove : g8f6
+3... g6 | Analysis: +109 | Depth: 11 | EngineMove : e2e4
+4. e3 | Analysis: -97 | Depth: 11 | EngineMove : g8f6
+4... Bg7 | Analysis: +96 | Depth: 12 | EngineMove : b1c3
+5. Nc3 | Analysis: -65 | Depth: 12 | EngineMove : g8f6
+5... a6 | Analysis: +88 | Depth: 11 | EngineMove : f1d3
+6. Nf3 | Analysis: -86 | Depth: 12 | EngineMove : g8e7
+6... b6 | Analysis: +127 | Depth: 10 | EngineMove : f1e2
+7. Be2 | Analysis: -110 | Depth: 12 | EngineMove : g8f6
+7... Ra7 | Analysis: +141 | Depth: 10 | EngineMove : e1g1
+8. O-O | Analysis: -118 | Depth: 12 | EngineMove : g8e7
+8... Bb7 | Analysis: +150 | Depth: 10 | EngineMove : d1a4
+9. Rc1 | Analysis: -87 | Depth: 12 | EngineMove : g8e7
+9... Ba8 | Analysis: +178 | Depth: 9 | EngineMove : e3e4
+10. c5 | Analysis: -100 | Depth: 13 | EngineMove : b6c5
+10... Qc8 | Analysis: +456 | Depth: 13 | EngineMove : c5b6
+11. cxb6 | Analysis: -470 | Depth: 14 | EngineMove : a7b7
+11... cxb6 | Analysis: +800 | Depth: 13 | EngineMove : c3b5
+12. Nb5 | Analysis: -848 | Depth: 15 | EngineMove : c8d8
+12... Qb7 | Analysis: +1115 | Depth: 12 | EngineMove : b5d6
+13. Nd6+ | Analysis: -1208 | Depth: 14 | EngineMove : e8d8

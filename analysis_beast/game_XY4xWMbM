@@ -1,0 +1,14 @@
+**URL: https://lichess.org/XY4xWMbM | Tag: XY4xWMbM | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/XY4xWMbM', Date='2018.09.17', Round='-', White='chittyct', Black='mpravda', Result='1-0', BlackElo='800', BlackRatingDiff='+0', ECO='A40', Termination='Normal', TimeControl='60+0', UTCDate='2018.09.17', UTCTime='01:10:59', Variant='Standard', WhiteElo='964', WhiteRatingDiff='+6')
+
+1. d4 | Analysis: -11 | Depth: 13 | EngineMove : g8f6
+1... e6 | Analysis: +26 | Depth: 13 | EngineMove : e2e4
+2. Bf4 | Analysis: -22 | Depth: 12 | EngineMove : d7d5
+2... c5 | Analysis: +11 | Depth: 11 | EngineMove : e2e3
+3. e3 | Analysis: -25 | Depth: 12 | EngineMove : c5d4
+3... e5 | Analysis: +220 | Depth: 13 | EngineMove : d4e5
+4. c4 | Analysis: +268 | Depth: 12 | EngineMove : e5f4
+4... cxd4 | Analysis: -93 | Depth: 12 | EngineMove : f4g3
+5. exd4 | Analysis: +263 | Depth: 12 | EngineMove : e5f4
+5... exf4 | Analysis: -244 | Depth: 12 | EngineMove : b1c3
+6. Nf3 | Analysis: +269 | Depth: 10 | EngineMove : f8b4

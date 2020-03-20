@@ -1,0 +1,20 @@
+**URL: https://lichess.org/vjJppRLX | Tag: vjJppRLX | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/vjJppRLX', Date='2018.10.26', Round='-', White='chittyct', Black='AlvisVadaliya', Result='1-0', BlackElo='1174', BlackRatingDiff='-12', ECO='A45', Termination='Normal', TimeControl='300+3', UTCDate='2018.10.26', UTCTime='09:31:15', Variant='Standard', WhiteElo='1100', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -26 | Depth: 12 | EngineMove : g8f6
+1... Nf6 | Analysis: +15 | Depth: 13 | EngineMove : g1f3
+2. Bf4 | Analysis: +6 | Depth: 13 | EngineMove : c7c5
+2... d5 | Analysis: +5 | Depth: 12 | EngineMove : g1f3
+3. e3 | Analysis: -16 | Depth: 14 | EngineMove : e7e6
+3... h6 | Analysis: +39 | Depth: 13 | EngineMove : g1f3
+4. c4 | Analysis: -18 | Depth: 11 | EngineMove : e7e6
+4... e6 | Analysis: +19 | Depth: 13 | EngineMove : g1f3
+5. c5 | Analysis: +39 | Depth: 11 | EngineMove : b7b6
+5... b6 | Analysis: -17 | Depth: 12 | EngineMove : b2b4
+6. b4 | Analysis: +7 | Depth: 13 | EngineMove : f8e7
+6... bxc5 | Analysis: +70 | Depth: 12 | EngineMove : b4c5
+7. bxc5 | Analysis: -63 | Depth: 12 | EngineMove : g7g5
+7... Na6 | Analysis: +263 | Depth: 13 | EngineMove : f1a6
+8. Qa4+ | Analysis: -271 | Depth: 14 | EngineMove : f6d7
+8... Bd7 | Analysis: +360 | Depth: 12 | EngineMove : a4a6
+9. Qxa6 | Analysis: -362 | Depth: 12 | EngineMove : f6e4

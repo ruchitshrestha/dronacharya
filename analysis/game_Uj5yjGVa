@@ -1,0 +1,34 @@
+**URL: https://lichess.org/Uj5yjGVa | Tag: Uj5yjGVa | Side: black**
+HEADERS: Headers(Event='Hourly Blitz Arena', Site='https://lichess.org/Uj5yjGVa', Date='2019.05.30', Round='-', White='sedatee', Black='chittyct', Result='1-0', BlackElo='1284', BlackRatingDiff='-1', ECO='B30', Termination='Normal', TimeControl='300+0', UTCDate='2019.05.30', UTCTime='09:07:44', Variant='Standard', WhiteElo='1776', WhiteRatingDiff='+1')
+
+1. e4 | Analysis: -29 | Depth: 17 | EngineMove : e7e6
+1... c5 | Analysis: +31 | Depth: 17 | EngineMove : g1f3
+2. Nf3 | Analysis: -37 | Depth: 19 | EngineMove : e7e6
+2... Nc6 | Analysis: +45 | Depth: 18 | EngineMove : f1b5
+3. Bb5 | Analysis: -44 | Depth: 18 | EngineMove : g8f6
+3... a6 | Analysis: +51 | Depth: 19 | EngineMove : b5c6
+4. Bxc6 | Analysis: -44 | Depth: 20 | EngineMove : d7c6
+4... bxc6 | Analysis: +58 | Depth: 18 | EngineMove : e1g1
+5. d4 | Analysis: -35 | Depth: 16 | EngineMove : c5d4
+5... cxd4 | Analysis: +33 | Depth: 17 | EngineMove : d1d4
+6. Qxd4 | Analysis: -20 | Depth: 18 | EngineMove : f7f6
+6... Bb7 | Analysis: +40 | Depth: 16 | EngineMove : b1c3
+7. c4 | Analysis: -30 | Depth: 18 | EngineMove : g8f6
+7... d6 | Analysis: +18 | Depth: 19 | EngineMove : e1g1
+8. O-O | Analysis: -22 | Depth: 20 | EngineMove : c6c5
+8... c5 | Analysis: +24 | Depth: 22 | EngineMove : d4d3
+9. Qd3 | Analysis: -24 | Depth: 21 | EngineMove : g8f6
+9... Nf6 | Analysis: +22 | Depth: 20 | EngineMove : b1c3
+10. Nc3 | Analysis: -23 | Depth: 20 | EngineMove : f6d7
+10... g6 | Analysis: +13 | Depth: 18 | EngineMove : c3d5
+11. Bg5 | Analysis: -10 | Depth: 19 | EngineMove : f8g7
+11... Bg7 | Analysis: +7 | Depth: 19 | EngineMove : f1e1
+12. Nd5 | Analysis: -17 | Depth: 18 | EngineMove : f6d5
+12... Nxd5 | Analysis: +16 | Depth: 21 | EngineMove : e4d5
+13. exd5 | Analysis: -17 | Depth: 21 | EngineMove : e8g8
+13... O-O | Analysis: +6 | Depth: 20 | EngineMove : a1e1
+14. Rfe1 | Analysis: -10 | Depth: 20 | EngineMove : f8e8
+14... Re8 | Analysis: +12 | Depth: 20 | EngineMove : g5d2
+15. Rab1 | Analysis: 0 | Depth: 21 | EngineMove : b7c8
+15... e6 | Analysis: +793 | Depth: 18 | EngineMove : g5d8
+16. Bxd8 | Analysis: -802 | Depth: 20 | EngineMove : a8d8

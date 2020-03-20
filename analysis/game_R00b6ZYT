@@ -1,0 +1,30 @@
+**URL: https://lichess.org/R00b6ZYT | Tag: R00b6ZYT | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/R00b6ZYT', Date='2019.10.11', Round='-', White='chittyct', Black='Pierre-MarieG', Result='0-1', BlackElo='1105', BlackRatingDiff='+8', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.10.11', UTCTime='09:16:30', Variant='Standard', WhiteElo='1116', WhiteRatingDiff='-8')
+
+1. d4 | Analysis: -16 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +16 | Depth: 19 | EngineMove : e2e3
+2. Bf4 | Analysis: -15 | Depth: 18 | EngineMove : c8f5
+2... a6 | Analysis: +33 | Depth: 17 | EngineMove : e2e3
+3. Nf3 | Analysis: -33 | Depth: 18 | EngineMove : c8f5
+3... g6 | Analysis: +67 | Depth: 18 | EngineMove : e2e3
+4. e3 | Analysis: -60 | Depth: 17 | EngineMove : g8f6
+4... Bg7 | Analysis: +59 | Depth: 17 | EngineMove : c2c4
+5. Be2 | Analysis: -31 | Depth: 17 | EngineMove : g8f6
+5... Nc6 | Analysis: +67 | Depth: 18 | EngineMove : c2c4
+6. O-O | Analysis: -64 | Depth: 19 | EngineMove : g8f6
+6... Bg4 | Analysis: +82 | Depth: 18 | EngineMove : c2c4
+7. c4 | Analysis: -73 | Depth: 18 | EngineMove : d5c4
+7... f6 | Analysis: +241 | Depth: 18 | EngineMove : c4d5
+8. h3 | Analysis: -182 | Depth: 17 | EngineMove : g4f3
+8... Be6 | Analysis: +283 | Depth: 16 | EngineMove : b1c3
+9. Nc3 | Analysis: -274 | Depth: 17 | EngineMove : g8h6
+9... Bf7 | Analysis: +302 | Depth: 17 | EngineMove : c4d5
+10. cxd5 | Analysis: -310 | Depth: 19 | EngineMove : f7d5
+10... Bxd5 | Analysis: +307 | Depth: 20 | EngineMove : f4c7
+11. Nxd5 | Analysis: -250 | Depth: 18 | EngineMove : d8d5
+11... Qxd5 | Analysis: +279 | Depth: 19 | EngineMove : f4c7
+12. a3 | Analysis: -163 | Depth: 16 | EngineMove : e7e5
+12... e5 | Analysis: +175 | Depth: 17 | EngineMove : f4h2
+13. dxe5 | Analysis: -144 | Depth: 19 | EngineMove : d5d1
+13... Qxd1 | Analysis: +172 | Depth: 19 | EngineMove : f1d1
+14. Ra2 | Analysis: +1381 | Depth: 18 | EngineMove : d1e2

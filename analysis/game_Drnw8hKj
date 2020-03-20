@@ -1,0 +1,33 @@
+**URL: https://lichess.org/Drnw8hKj | Tag: Drnw8hKj | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Drnw8hKj', Date='2018.10.02', Round='-', White='chittyct', Black='Ahmed10041996', Result='0-1', BlackElo='999', BlackRatingDiff='+12', ECO='D00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.02', UTCTime='15:18:40', Variant='Standard', WhiteElo='1036', WhiteRatingDiff='-12')
+
+1. d4 | Analysis: -20 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +22 | Depth: 18 | EngineMove : g1f3
+2. Bf4 | Analysis: -22 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +19 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -20 | Depth: 18 | EngineMove : g8f6
+3... f6 | Analysis: +43 | Depth: 16 | EngineMove : f1d3
+4. c4 | Analysis: +14 | Depth: 16 | EngineMove : e7e5
+4... e5 | Analysis: -5 | Depth: 17 | EngineMove : c4d5
+5. Bg3 | Analysis: +1 | Depth: 15 | EngineMove : e5d4
+5... dxc4 | Analysis: +20 | Depth: 16 | EngineMove : b1c3
+6. Bxc4 | Analysis: -11 | Depth: 15 | EngineMove : e5d4
+6... exd4 | Analysis: -21 | Depth: 17 | EngineMove : e3d4
+7. exd4 | Analysis: +36 | Depth: 17 | EngineMove : d8d4
+7... Nxd4 | Analysis: +67 | Depth: 17 | EngineMove : b1c3
+8. Ne2 | Analysis: 0 | Depth: 17 | EngineMove : c8e6
+8... Bd6 | Analysis: +370 | Depth: 16 | EngineMove : e2d4
+9. Bf4 | Analysis: +34 | Depth: 17 | EngineMove : d6f4
+9... c5 | Analysis: +46 | Depth: 17 | EngineMove : f4d6
+10. O-O | Analysis: 0 | Depth: 17 | EngineMove : c8g4
+10... Bxf4 | Analysis: +94 | Depth: 17 | EngineMove : e2f4
+11. Nxf4 | Analysis: -82 | Depth: 17 | EngineMove : c8f5
+11... a6 | Analysis: +530 | Depth: 20 | EngineMove : d1h5
+12. Re1+ | Analysis: -399 | Depth: 21 | EngineMove : e8f8
+12... Ne7 | Analysis: +503 | Depth: 18 | EngineMove : b1c3
+13. Nc3 | Analysis: -518 | Depth: 17 | EngineMove : g7g6
+13... Nf5 | Analysis: +897 | Depth: 17 | EngineMove : d1h5
+14. Qd5 | Analysis: -235 | Depth: 20 | EngineMove : d8d5
+14... Qxd5 | Analysis: +237 | Depth: 19 | EngineMove : c3d5
+15. Bxd5 | Analysis: -58 | Depth: 16 | EngineMove : f5d4
+15... Rb8 | Analysis: +76 | Depth: 18 | EngineMove : a1d1

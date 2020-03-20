@@ -1,0 +1,33 @@
+**URL: https://lichess.org/Ver4UqJE | Tag: Ver4UqJE | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Ver4UqJE', Date='2019.11.10', Round='-', White='knightv96', Black='chittyct', Result='0-1', BlackElo='1238', BlackRatingDiff='+7', ECO='D00', Termination='Normal', TimeControl='120+1', UTCDate='2019.11.10', UTCTime='17:36:13', Variant='Standard', WhiteElo='1242', WhiteRatingDiff='-32')
+
+1. d4 | Analysis: -20 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +7 | Depth: 18 | EngineMove : e2e3
+2. e3 | Analysis: -25 | Depth: 18 | EngineMove : g8f6
+2... Bf5 | Analysis: +15 | Depth: 17 | EngineMove : g1f3
+3. c4 | Analysis: -13 | Depth: 18 | EngineMove : e7e6
+3... e6 | Analysis: +11 | Depth: 18 | EngineMove : g1f3
+4. cxd5 | Analysis: +3 | Depth: 19 | EngineMove : e6d5
+4... exd5 | Analysis: -7 | Depth: 18 | EngineMove : d1b3
+5. Nc3 | Analysis: +6 | Depth: 19 | EngineMove : c7c6
+5... Bb4 | Analysis: +18 | Depth: 19 | EngineMove : d1b3
+6. a3 | Analysis: +3 | Depth: 21 | EngineMove : b4c3
+6... Bxc3+ | Analysis: -5 | Depth: 20 | EngineMove : b2c3
+7. bxc3 | Analysis: 0 | Depth: 20 | EngineMove : g8f6
+7... Nf6 | Analysis: -5 | Depth: 18 | EngineMove : g1e2
+8. Qf3 | Analysis: +18 | Depth: 17 | EngineMove : d8d7
+8... Be4 | Analysis: -17 | Depth: 19 | EngineMove : f3d1
+9. Qf4 | Analysis: +24 | Depth: 17 | EngineMove : e8g8
+9... O-O | Analysis: -19 | Depth: 18 | EngineMove : g1f3
+10. c4 | Analysis: +103 | Depth: 16 | EngineMove : c7c5
+10... dxc4 | Analysis: -113 | Depth: 17 | EngineMove : f2f3
+11. Bxc4 | Analysis: +500 | Depth: 16 | EngineMove : e4g2
+11... Bxg2 | Analysis: -526 | Depth: 17 | EngineMove : c1d2
+12. Bd5 | Analysis: +1003 | Depth: 17 | EngineMove : f6d5
+12... Bxd5 | Analysis: -561 | Depth: 16 | EngineMove : g1f3
+13. Nf3 | Analysis: +571 | Depth: 17 | EngineMove : c7c5
+13... Qd6 | Analysis: -484 | Depth: 20 | EngineMove : f4d6
+14. O-O | Analysis: +803 | Depth: 19 | EngineMove : d6f4
+14... Qxf4 | Analysis: -810 | Depth: 20 | EngineMove : e3f4
+15. exf4 | Analysis: +820 | Depth: 19 | EngineMove : d5f3
+15... Bxf3 | Analysis: -824 | Depth: 18 | EngineMove : f1e1

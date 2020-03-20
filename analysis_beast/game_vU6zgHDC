@@ -1,0 +1,12 @@
+**URL: https://lichess.org/vU6zgHDC | Tag: vU6zgHDC | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/vU6zgHDC', Date='2018.11.06', Round='-', White='chittyct', Black='Syrebral', Result='1-0', BlackElo='1247', BlackRatingDiff='-10', ECO='A46', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.11.06', UTCTime='14:57:36', Variant='Standard', WhiteElo='1253', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -16 | Depth: 14 | EngineMove : g8f6
+1... Nf6 | Analysis: +17 | Depth: 14 | EngineMove : g1f3
+2. Nf3 | Analysis: -25 | Depth: 13 | EngineMove : d7d5
+2... e6 | Analysis: +13 | Depth: 13 | EngineMove : e2e3
+3. Bf4 | Analysis: -13 | Depth: 12 | EngineMove : d7d5
+3... d5 | Analysis: +17 | Depth: 13 | EngineMove : e2e3
+4. e3 | Analysis: -8 | Depth: 14 | EngineMove : f8e7
+4... Nc6 | Analysis: +34 | Depth: 13 | EngineMove : f1d3
+5. c4 | Analysis: -7 | Depth: 12 | EngineMove : f8e7

@@ -1,0 +1,23 @@
+**URL: https://lichess.org/ByCBh3XI | Tag: ByCBh3XI | Side: white**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/ByCBh3XI', Date='2018.08.31', Round='-', White='chittyct', Black='alvalero2017', Result='0-1', BlackElo='1400', BlackRatingDiff='+9', ECO='D00', Termination='Normal', TimeControl='600+0', UTCDate='2018.08.31', UTCTime='04:26:21', Variant='Standard', WhiteElo='1394', WhiteRatingDiff='-46')
+
+1. d4 | Analysis: -18 | Depth: 18 | EngineMove : g8f6
+1... d5 | Analysis: +14 | Depth: 18 | EngineMove : g1f3
+2. Bf4 | Analysis: -14 | Depth: 18 | EngineMove : e7e6
+2... Nc6 | Analysis: +25 | Depth: 18 | EngineMove : e2e3
+3. e3 | Analysis: -11 | Depth: 18 | EngineMove : c8f5
+3... e6 | Analysis: +34 | Depth: 18 | EngineMove : f1d3
+4. Bd3 | Analysis: 0 | Depth: 18 | EngineMove : f8d6
+4... g6 | Analysis: +63 | Depth: 17 | EngineMove : g1f3
+5. Qf3 | Analysis: +3 | Depth: 17 | EngineMove : f7f6
+5... Bg7 | Analysis: +43 | Depth: 19 | EngineMove : f3g3
+6. Nh3 | Analysis: +93 | Depth: 18 | EngineMove : e6e5
+6... Nce7 | Analysis: +22 | Depth: 16 | EngineMove : e1g1
+7. Ng5 | Analysis: +114 | Depth: 18 | EngineMove : f7f6
+7... Nf6 | Analysis: -22 | Depth: 16 | EngineMove : b1c3
+8. Qh3 | Analysis: +443 | Depth: 19 | EngineMove : e6e5
+8... h6 | Analysis: -204 | Depth: 19 | EngineMove : g5f7
+9. Nf3 | Analysis: +506 | Depth: 18 | EngineMove : e6e5
+9... e5 | Analysis: -505 | Depth: 18 | EngineMove : g2g4
+10. Bxe5 | Analysis: +600 | Depth: 18 | EngineMove : c8h3
+10... Bxh3 | Analysis: -611 | Depth: 19 | EngineMove : g2h3

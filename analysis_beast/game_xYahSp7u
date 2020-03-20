@@ -1,0 +1,24 @@
+**URL: https://lichess.org/xYahSp7u | Tag: xYahSp7u | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/xYahSp7u', Date='2018.10.25', Round='-', White='chittyct', Black='ks07', Result='1-0', BlackElo='894', BlackRatingDiff='-7', ECO='D02', Termination='Time forfeit', TimeControl='120+1', UTCDate='2018.10.25', UTCTime='03:09:32', Variant='Standard', WhiteElo='1030', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: +3 | Depth: 12 | EngineMove : d7d5
+1... d5 | Analysis: +7 | Depth: 13 | EngineMove : e2e3
+2. Nf3 | Analysis: -12 | Depth: 13 | EngineMove : g8f6
+2... Nc6 | Analysis: +31 | Depth: 12 | EngineMove : c2c4
+3. Bf4 | Analysis: -26 | Depth: 12 | EngineMove : e7e6
+3... Bf5 | Analysis: +3 | Depth: 12 | EngineMove : e2e3
+4. e3 | Analysis: -11 | Depth: 14 | EngineMove : e7e6
+4... e5 | Analysis: +97 | Depth: 12 | EngineMove : f3e5
+5. Nxe5 | Analysis: -93 | Depth: 13 | EngineMove : f8d6
+5... f6 | Analysis: +118 | Depth: 12 | EngineMove : e5d3
+6. Ng4 | Analysis: +176 | Depth: 12 | EngineMove : h7h5
+6... g5 | Analysis: -130 | Depth: 12 | EngineMove : g4f6
+7. Bg3 | Analysis: +181 | Depth: 12 | EngineMove : h7h5
+7... Nh6 | Analysis: +295 | Depth: 14 | EngineMove : g4h6
+8. Nxh6 | Analysis: -287 | Depth: 14 | EngineMove : f5g6
+8... Bxh6 | Analysis: +415 | Depth: 13 | EngineMove : d1h5
+9. Qh5+ | Analysis: -415 | Depth: 15 | EngineMove : f5g6
+9... Bg6 | Analysis: +423 | Depth: 14 | EngineMove : h5h6
+10. Qxh6 | Analysis: -437 | Depth: 11 | EngineMove : d8e7
+10... Qd6 | Analysis: +1336 | Depth: 14 | EngineMove : g3d6
+11. Bxd6 | Analysis: -1370 | Depth: 14 | EngineMove : c7d6

@@ -1,0 +1,35 @@
+**URL: https://lichess.org/DijgtHYK | Tag: DijgtHYK | Side: black**
+HEADERS: Headers(Event='Rated Rapid game', Site='https://lichess.org/DijgtHYK', Date='2019.09.18', Round='-', White='grzesiek0505', Black='chittyct', Result='0-1', BlackElo='1563', BlackRatingDiff='+11', ECO='B20', Termination='Normal', TimeControl='180+15', UTCDate='2019.09.18', UTCTime='22:04:06', Variant='Standard', WhiteElo='1591', WhiteRatingDiff='-8')
+
+1. e4 | Analysis: -38 | Depth: 16 | EngineMove : e7e5
+1... c5 | Analysis: +23 | Depth: 17 | EngineMove : g1f3
+2. Qh5 | Analysis: +29 | Depth: 17 | EngineMove : e7e6
+2... e6 | Analysis: -32 | Depth: 19 | EngineMove : g1f3
+3. d3 | Analysis: +54 | Depth: 17 | EngineMove : b8c6
+3... Nc6 | Analysis: -51 | Depth: 18 | EngineMove : h5e2
+4. c3 | Analysis: +63 | Depth: 19 | EngineMove : g8f6
+4... Nf6 | Analysis: -73 | Depth: 19 | EngineMove : h5e2
+5. Qf3 | Analysis: +88 | Depth: 17 | EngineMove : d7d5
+5... d5 | Analysis: -78 | Depth: 18 | EngineMove : f3e2
+6. exd5 | Analysis: +126 | Depth: 18 | EngineMove : e6d5
+6... exd5 | Analysis: -129 | Depth: 19 | EngineMove : f3e3
+7. h3 | Analysis: +160 | Depth: 17 | EngineMove : f8d6
+7... Bd6 | Analysis: -155 | Depth: 18 | EngineMove : f3e2
+8. Be2 | Analysis: +239 | Depth: 19 | EngineMove : e8g8
+8... O-O | Analysis: -236 | Depth: 17 | EngineMove : e1f1
+9. g4 | Analysis: +282 | Depth: 17 | EngineMove : f8e8
+9... Re8 | Analysis: -247 | Depth: 18 | EngineMove : e1f1
+10. g5 | Analysis: +520 | Depth: 20 | EngineMove : c6e5
+10... Ne5 | Analysis: -459 | Depth: 19 | EngineMove : f3g2
+11. Qg2 | Analysis: +545 | Depth: 18 | EngineMove : e5d3
+11... Nxd3+ | Analysis: -531 | Depth: 20 | EngineMove : e1f1
+12. Kd2 | Analysis: +803 | Depth: 15 | EngineMove : f6e4
+12... Nf4 | Analysis: -724 | Depth: 16 | EngineMove : g2f1
+13. Qf3 | Analysis: +894 | Depth: 19 | EngineMove : c8f5
+13... Ne4+ | Analysis: -736 | Depth: 17 | EngineMove : d2d1
+14. Kc2 | Analysis: +979 | Depth: 18 | EngineMove : e4g5
+14... Nxe2 | Analysis: -510 | Depth: 19 | EngineMove : g1e2
+15. Nxe2 | Analysis: +520 | Depth: 20 | EngineMove : e4g5
+15... Nxg5 | Analysis: -513 | Depth: 19 | EngineMove : c1g5
+16. Qxd5 | Analysis: +1025 | Depth: 19 | EngineMove : e8e2
+16... Rxe2+ | Analysis: -1027 | Depth: 20 | EngineMove : c2d1

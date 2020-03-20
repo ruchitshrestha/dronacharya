@@ -1,0 +1,29 @@
+**URL: https://lichess.org/zXFKiaHS | Tag: zXFKiaHS | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/zXFKiaHS', Date='2018.10.29', Round='-', White='chittyct', Black='bolenMozuk', Result='0-1', BlackElo='1037', BlackRatingDiff='+55', ECO='A40', Termination='Time forfeit', TimeControl='60+0', UTCDate='2018.10.29', UTCTime='02:56:43', Variant='Standard', WhiteElo='1073', WhiteRatingDiff='-11')
+
+1. d4 | Analysis: -8 | Depth: 13 | EngineMove : d7d5
+1... g6 | Analysis: +98 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -55 | Depth: 12 | EngineMove : g8f6
+2... d5 | Analysis: +50 | Depth: 13 | EngineMove : c2c4
+3. Bf4 | Analysis: -44 | Depth: 12 | EngineMove : g8f6
+3... Nf6 | Analysis: +37 | Depth: 12 | EngineMove : c2c4
+4. e3 | Analysis: -37 | Depth: 12 | EngineMove : f6h5
+4... Bg7 | Analysis: +47 | Depth: 13 | EngineMove : c2c4
+5. Bd3 | Analysis: -13 | Depth: 12 | EngineMove : e8g8
+5... Nc6 | Analysis: +18 | Depth: 13 | EngineMove : h2h3
+6. O-O | Analysis: -30 | Depth: 12 | EngineMove : f6h5
+6... O-O | Analysis: +41 | Depth: 13 | EngineMove : b1c3
+7. Ne5 | Analysis: +15 | Depth: 13 | EngineMove : f6h5
+7... Ne4 | Analysis: +50 | Depth: 12 | EngineMove : e5c6
+8. c4 | Analysis: +7 | Depth: 14 | EngineMove : c6e5
+8... Bxe5 | Analysis: +25 | Depth: 13 | EngineMove : d4e5
+9. dxe5 | Analysis: -24 | Depth: 13 | EngineMove : e4c5
+9... Nxe5 | Analysis: +294 | Depth: 12 | EngineMove : f4e5
+10. Bxe4 | Analysis: -231 | Depth: 14 | EngineMove : d5e4
+10... dxe4 | Analysis: +232 | Depth: 14 | EngineMove : f4e5
+11. Bxe5 | Analysis: -227 | Depth: 16 | EngineMove : d8d1
+11... f6 | Analysis: +243 | Depth: 14 | EngineMove : d1d8
+12. Qxd8 | Analysis: -250 | Depth: 15 | EngineMove : f8d8
+12... Re8 | Analysis: #+5 | Depth: 40 | EngineMove : d8e8
+13. Bc3 | Analysis: -191 | Depth: 13 | EngineMove : e8d8
+13... Rxd8 | Analysis: +191 | Depth: 13 | EngineMove : b1d2

@@ -1,0 +1,30 @@
+**URL: https://lichess.org/UqlnJfTB | Tag: UqlnJfTB | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/UqlnJfTB', Date='2018.12.14', Round='-', White='chittyct', Black='khighb', Result='1-0', BlackElo='1332', BlackRatingDiff='-131', ECO='A45', Termination='Time forfeit', TimeControl='180+2', UTCDate='2018.12.14', UTCTime='15:50:45', Variant='Standard', WhiteElo='1278', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -8 | Depth: 13 | EngineMove : d7d5
+1... Nf6 | Analysis: +15 | Depth: 13 | EngineMove : c1f4
+2. Bg5 | Analysis: +9 | Depth: 13 | EngineMove : d7d5
+2... e5 | Analysis: +70 | Depth: 12 | EngineMove : d4e5
+3. dxe5 | Analysis: -56 | Depth: 13 | EngineMove : h7h6
+3... Bb4+ | Analysis: +365 | Depth: 15 | EngineMove : c2c3
+4. c3 | Analysis: -369 | Depth: 15 | EngineMove : b4e7
+4... Be7 | Analysis: +370 | Depth: 16 | EngineMove : e5f6
+5. exf6 | Analysis: -365 | Depth: 17 | EngineMove : e7f6
+5... Bxf6 | Analysis: +367 | Depth: 16 | EngineMove : g5f6
+6. Bxf6 | Analysis: -359 | Depth: 18 | EngineMove : d8f6
+6... Qxf6 | Analysis: +353 | Depth: 16 | EngineMove : g1f3
+7. Nd2 | Analysis: -358 | Depth: 14 | EngineMove : d7d5
+7... h5 | Analysis: +386 | Depth: 12 | EngineMove : e2e3
+8. e3 | Analysis: -397 | Depth: 12 | EngineMove : d7d6
+8... h4 | Analysis: +409 | Depth: 11 | EngineMove : h2h3
+9. Ne4 | Analysis: -357 | Depth: 12 | EngineMove : f6g6
+9... Qc6 | Analysis: +432 | Depth: 13 | EngineMove : d1d4
+10. Bd3 | Analysis: -390 | Depth: 12 | EngineMove : f7f5
+10... Rh5 | Analysis: +1153 | Depth: 14 | EngineMove : d1h5
+11. Qxh5 | Analysis: -1154 | Depth: 15 | EngineMove : c6h6
+11... Na6 | Analysis: +1434 | Depth: 11 | EngineMove : e4g5
+12. Qxh4 | Analysis: -1074 | Depth: 12 | EngineMove : c6h6
+12... d6 | Analysis: +1397 | Depth: 12 | EngineMove : h4h8
+13. Qh8+ | Analysis: -1328 | Depth: 14 | EngineMove : e8e7
+13... Kd7 | Analysis: +1624 | Depth: 13 | EngineMove : h8g7
+14. Qxg7 | Analysis: -1656 | Depth: 15 | EngineMove : d7e7

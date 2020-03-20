@@ -1,0 +1,39 @@
+**URL: https://lichess.org/Wu37pg1m | Tag: Wu37pg1m | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Wu37pg1m', Date='2019.10.01', Round='-', White='chittyct', Black='philipje', Result='0-1', BlackElo='1149', BlackRatingDiff='+10', ECO='D30', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.10.01', UTCTime='13:30:28', Variant='Standard', WhiteElo='1163', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -12 | Depth: 17 | EngineMove : g8f6
+1... d5 | Analysis: +17 | Depth: 17 | EngineMove : c1f4
+2. c4 | Analysis: -14 | Depth: 16 | EngineMove : e7e6
+2... e6 | Analysis: +22 | Depth: 18 | EngineMove : e2e3
+3. cxd5 | Analysis: -8 | Depth: 17 | EngineMove : e6d5
+3... Qxd5 | Analysis: +77 | Depth: 16 | EngineMove : g1f3
+4. Nf3 | Analysis: -63 | Depth: 17 | EngineMove : g8f6
+4... Nf6 | Analysis: +49 | Depth: 17 | EngineMove : b1c3
+5. Nc3 | Analysis: -63 | Depth: 17 | EngineMove : f8b4
+5... Qd8 | Analysis: +84 | Depth: 15 | EngineMove : e2e4
+6. e4 | Analysis: -74 | Depth: 15 | EngineMove : c7c5
+6... c5 | Analysis: +91 | Depth: 15 | EngineMove : c1f4
+7. e5 | Analysis: -47 | Depth: 16 | EngineMove : f6d5
+7... Nd5 | Analysis: +46 | Depth: 17 | EngineMove : c1g5
+8. Bg5 | Analysis: -51 | Depth: 16 | EngineMove : d5c3
+8... Be7 | Analysis: +82 | Depth: 17 | EngineMove : g5e7
+9. Bxe7 | Analysis: -79 | Depth: 16 | EngineMove : d8e7
+9... Qxe7 | Analysis: +86 | Depth: 16 | EngineMove : c3e4
+10. Rc1 | Analysis: -77 | Depth: 18 | EngineMove : d5c3
+10... O-O | Analysis: +100 | Depth: 17 | EngineMove : c3d5
+11. Nxd5 | Analysis: -98 | Depth: 17 | EngineMove : e6d5
+11... exd5 | Analysis: +101 | Depth: 20 | EngineMove : c1c5
+12. Rxc5 | Analysis: -98 | Depth: 18 | EngineMove : c8g4
+12... Be6 | Analysis: +101 | Depth: 16 | EngineMove : f1d3
+13. Bd3 | Analysis: -108 | Depth: 18 | EngineMove : b8c6
+13... Nd7 | Analysis: +162 | Depth: 17 | EngineMove : c5c7
+14. Rc7 | Analysis: -152 | Depth: 18 | EngineMove : e7b4
+14... Rac8 | Analysis: +184 | Depth: 19 | EngineMove : c7b7
+15. Rxb7 | Analysis: -180 | Depth: 19 | EngineMove : c8b8
+15... Rb8 | Analysis: +204 | Depth: 18 | EngineMove : b7a7
+16. Rxa7 | Analysis: -201 | Depth: 18 | EngineMove : b8b2
+16... Qb4+ | Analysis: +201 | Depth: 18 | EngineMove : d1d2
+17. Nd2 | Analysis: +173 | Depth: 17 | EngineMove : b4d4
+17... Qxb2 | Analysis: +89 | Depth: 19 | EngineMove : d2b3
+18. O-O | Analysis: +38 | Depth: 17 | EngineMove : b2d4
+18... Qxa2 | Analysis: +1274 | Depth: 16 | EngineMove : a7a2

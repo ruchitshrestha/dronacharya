@@ -1,0 +1,25 @@
+**URL: https://lichess.org/iHTkGUF9 | Tag: iHTkGUF9 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/iHTkGUF9', Date='2019.05.17', Round='-', White='chittyct', Black='doka1903', Result='0-1', BlackElo='843', BlackRatingDiff='+16', ECO='D30', Termination='Time forfeit', TimeControl='120+1', UTCDate='2019.05.17', UTCTime='18:28:57', Variant='Standard', WhiteElo='981', WhiteRatingDiff='-15')
+
+1. d4 | Analysis: -30 | Depth: 12 | EngineMove : d7d5
+1... e6 | Analysis: +37 | Depth: 11 | EngineMove : e2e4
+2. c4 | Analysis: -12 | Depth: 13 | EngineMove : d7d5
+2... d5 | Analysis: +16 | Depth: 12 | EngineMove : e2e3
+3. c5 | Analysis: +44 | Depth: 11 | EngineMove : g8f6
+3... Nc6 | Analysis: +4 | Depth: 13 | EngineMove : e2e3
+4. Nf3 | Analysis: +26 | Depth: 13 | EngineMove : e6e5
+4... Qf6 | Analysis: +74 | Depth: 12 | EngineMove : c1g5
+5. h4 | Analysis: -31 | Depth: 12 | EngineMove : f6d8
+5... e5 | Analysis: +30 | Depth: 12 | EngineMove : d4e5
+6. Bg5 | Analysis: -21 | Depth: 11 | EngineMove : f6e6
+6... Qf5 | Analysis: +41 | Depth: 13 | EngineMove : b1c3
+7. e3 | Analysis: +170 | Depth: 11 | EngineMove : h7h6
+7... exd4 | Analysis: +44 | Depth: 12 | EngineMove : e3d4
+8. Bd3 | Analysis: -6 | Depth: 12 | EngineMove : f5g4
+8... Qe6 | Analysis: +41 | Depth: 12 | EngineMove : e1g1
+9. O-O | Analysis: -22 | Depth: 13 | EngineMove : d4e3
+9... Bxc5 | Analysis: +89 | Depth: 13 | EngineMove : e3d4
+10. exd4 | Analysis: -89 | Depth: 13 | EngineMove : c5e7
+10... Bxd4 | Analysis: +424 | Depth: 12 | EngineMove : f3d4
+11. Bf5 | Analysis: +29 | Depth: 12 | EngineMove : e6f5
+11... Qxf5 | Analysis: -47 | Depth: 14 | EngineMove : f3d4

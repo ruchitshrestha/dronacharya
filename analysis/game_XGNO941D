@@ -1,0 +1,34 @@
+**URL: https://lichess.org/XGNO941D | Tag: XGNO941D | Side: black**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/XGNO941D', Date='2019.06.05', Round='-', White='Trbn', Black='chittyct', Result='1-0', BlackElo='1050', BlackRatingDiff='-11', ECO='D00', Termination='Time forfeit', TimeControl='60+0', UTCDate='2019.06.05', UTCTime='13:59:29', Variant='Standard', WhiteElo='1042', WhiteRatingDiff='+12')
+
+1. d4 | Analysis: -8 | Depth: 18 | EngineMove : d7d5
+1... d5 | Analysis: +20 | Depth: 17 | EngineMove : e2e3
+2. Bf4 | Analysis: -16 | Depth: 18 | EngineMove : c8f5
+2... e6 | Analysis: +28 | Depth: 17 | EngineMove : e2e3
+3. Nc3 | Analysis: -2 | Depth: 18 | EngineMove : f8b4
+3... Bb4 | Analysis: -2 | Depth: 19 | EngineMove : e2e3
+4. Qd2 | Analysis: +50 | Depth: 17 | EngineMove : g8f6
+4... Nc6 | Analysis: +8 | Depth: 19 | EngineMove : e2e3
+5. a3 | Analysis: -16 | Depth: 19 | EngineMove : b4d6
+5... Bxc3 | Analysis: +24 | Depth: 20 | EngineMove : d2c3
+6. Qxc3 | Analysis: -21 | Depth: 20 | EngineMove : g8f6
+6... Nf6 | Analysis: +18 | Depth: 21 | EngineMove : f4g5
+7. b4 | Analysis: +55 | Depth: 15 | EngineMove : f6e4
+7... O-O | Analysis: -8 | Depth: 17 | EngineMove : e2e3
+8. Nf3 | Analysis: +44 | Depth: 17 | EngineMove : f6e4
+8... Ne4 | Analysis: -16 | Depth: 17 | EngineMove : c3b2
+9. Qd3 | Analysis: +43 | Depth: 17 | EngineMove : c6e7
+9... Qf6 | Analysis: +18 | Depth: 17 | EngineMove : e2e3
+10. Bxc7 | Analysis: +13 | Depth: 18 | EngineMove : c8d7
+10... a6 | Analysis: +24 | Depth: 16 | EngineMove : c2c4
+11. e3 | Analysis: -34 | Depth: 16 | EngineMove : c6e7
+11... b5 | Analysis: +48 | Depth: 17 | EngineMove : f1e2
+12. c4 | Analysis: +79 | Depth: 16 | EngineMove : b5c4
+12... g5 | Analysis: +60 | Depth: 17 | EngineMove : c4b5
+13. cxd5 | Analysis: -55 | Depth: 19 | EngineMove : e6d5
+13... exd5 | Analysis: +49 | Depth: 20 | EngineMove : c7e5
+14. Nxg5 | Analysis: +415 | Depth: 19 | EngineMove : f6f2
+14... Qxf2+ | Analysis: -433 | Depth: 20 | EngineMove : e1d1
+15. Kd1 | Analysis: +431 | Depth: 21 | EngineMove : f2b2
+15... Ne7 | Analysis: +1 | Depth: 19 | EngineMove : g5e4
+16. Qxe4 | Analysis: +1411 | Depth: 16 | EngineMove : d5e4

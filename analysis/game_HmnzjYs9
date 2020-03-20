@@ -1,0 +1,30 @@
+**URL: https://lichess.org/HmnzjYs9 | Tag: HmnzjYs9 | Side: black**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/HmnzjYs9', Date='2018.10.21', Round='-', White='Siecje', Black='chittyct', Result='1-0', BlackElo='1062', BlackRatingDiff='-11', ECO='B21', Termination='Time forfeit', TimeControl='300+3', UTCDate='2018.10.21', UTCTime='17:54:23', Variant='Standard', WhiteElo='1043', WhiteRatingDiff='+11')
+
+1. e4 | Analysis: -23 | Depth: 14 | EngineMove : e7e5
+1... c5 | Analysis: +51 | Depth: 16 | EngineMove : g1f3
+2. d4 | Analysis: -20 | Depth: 15 | EngineMove : c5d4
+2... cxd4 | Analysis: +11 | Depth: 15 | EngineMove : g1f3
+3. Qxd4 | Analysis: -1 | Depth: 16 | EngineMove : b8c6
+3... Nc6 | Analysis: +4 | Depth: 17 | EngineMove : d4d3
+4. Qc4 | Analysis: +25 | Depth: 17 | EngineMove : e7e6
+4... e6 | Analysis: -31 | Depth: 16 | EngineMove : b1c3
+5. Nc3 | Analysis: +23 | Depth: 17 | EngineMove : g8f6
+5... Bd6 | Analysis: +41 | Depth: 15 | EngineMove : g1f3
+6. Nb5 | Analysis: +10 | Depth: 17 | EngineMove : d6b8
+6... Be5 | Analysis: +38 | Depth: 16 | EngineMove : g1f3
+7. Be3 | Analysis: +22 | Depth: 15 | EngineMove : d7d5
+7... a6 | Analysis: -2 | Depth: 17 | EngineMove : b5d4
+8. Nd4 | Analysis: +9 | Depth: 18 | EngineMove : e5d4
+8... b5 | Analysis: +12 | Depth: 16 | EngineMove : d4c6
+9. Qc5 | Analysis: +53 | Depth: 17 | EngineMove : c6d4
+9... Qe7 | Analysis: +29 | Depth: 18 | EngineMove : d4c6
+10. Nxc6 | Analysis: -18 | Depth: 19 | EngineMove : e7c5
+10... Qxc5 | Analysis: +21 | Depth: 20 | EngineMove : e3c5
+11. Bxc5 | Analysis: -26 | Depth: 20 | EngineMove : d7c6
+11... dxc6 | Analysis: +17 | Depth: 21 | EngineMove : e1c1
+12. g3 | Analysis: +101 | Depth: 19 | EngineMove : e5b2
+12... Ne7 | Analysis: +65 | Depth: 18 | EngineMove : e1c1
+13. Bxe7 | Analysis: +186 | Depth: 17 | EngineMove : e5b2
+13... Kxe7 | Analysis: -80 | Depth: 18 | EngineMove : e1c1
+14. f4 | Analysis: +197 | Depth: 18 | EngineMove : e5b2

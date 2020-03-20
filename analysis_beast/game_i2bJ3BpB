@@ -1,0 +1,12 @@
+**URL: https://lichess.org/i2bJ3BpB | Tag: i2bJ3BpB | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/i2bJ3BpB', Date='2018.10.15', Round='-', White='chittyct', Black='Philippy', Result='1-0', BlackElo='1065', BlackRatingDiff='-9', ECO='A41', Termination='Normal', TimeControl='300+0', UTCDate='2018.10.15', UTCTime='01:44:44', Variant='Standard', WhiteElo='1097', WhiteRatingDiff='+10')
+
+1. d4 | Analysis: -24 | Depth: 13 | EngineMove : g8f6
+1... d6 | Analysis: +42 | Depth: 12 | EngineMove : e2e4
+2. Nf3 | Analysis: -36 | Depth: 13 | EngineMove : g8f6
+2... Bf5 | Analysis: +51 | Depth: 12 | EngineMove : b1c3
+3. Bf4 | Analysis: -39 | Depth: 13 | EngineMove : b8d7
+3... Nf6 | Analysis: +31 | Depth: 13 | EngineMove : e2e3
+4. c4 | Analysis: +11 | Depth: 12 | EngineMove : c7c5
+4... Ne4 | Analysis: +18 | Depth: 11 | EngineMove : f3h4
+5. e3 | Analysis: -33 | Depth: 13 | EngineMove : e7e5

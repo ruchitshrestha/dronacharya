@@ -1,0 +1,31 @@
+**URL: https://lichess.org/VzWaGZGg | Tag: VzWaGZGg | Side: white**
+HEADERS: Headers(Event='Rated Blitz game', Site='https://lichess.org/VzWaGZGg', Date='2019.11.20', Round='-', White='chittyct', Black='dmanko', Result='0-1', BlackElo='1498', BlackRatingDiff='+8', ECO='D00', Termination='Time forfeit', TimeControl='180+2', UTCDate='2019.11.20', UTCTime='07:22:59', Variant='Standard', WhiteElo='1494', WhiteRatingDiff='-7')
+
+1. d4 | Analysis: -14 | Depth: 17 | EngineMove : d7d5
+1... d5 | Analysis: +14 | Depth: 19 | EngineMove : g1f3
+2. Bf4 | Analysis: -15 | Depth: 19 | EngineMove : e7e6
+2... Nf6 | Analysis: +24 | Depth: 17 | EngineMove : e2e3
+3. e3 | Analysis: -9 | Depth: 18 | EngineMove : c8f5
+3... Bf5 | Analysis: +8 | Depth: 17 | EngineMove : g1f3
+4. Ne2 | Analysis: +9 | Depth: 17 | EngineMove : e7e6
+4... Nc6 | Analysis: +2 | Depth: 18 | EngineMove : e2g3
+5. Ng3 | Analysis: +5 | Depth: 20 | EngineMove : f5g6
+5... Bg6 | Analysis: 0 | Depth: 20 | EngineMove : f1d3
+6. c4 | Analysis: +25 | Depth: 16 | EngineMove : h7h5
+6... dxc4 | Analysis: +10 | Depth: 18 | EngineMove : b1c3
+7. Bxc4 | Analysis: +77 | Depth: 17 | EngineMove : e7e5
+7... e6 | Analysis: +22 | Depth: 17 | EngineMove : b1c3
+8. O-O | Analysis: -27 | Depth: 18 | EngineMove : f8d6
+8... Bd6 | Analysis: +23 | Depth: 18 | EngineMove : f4g5
+9. Bxd6 | Analysis: -19 | Depth: 18 | EngineMove : c7d6
+9... cxd6 | Analysis: +22 | Depth: 18 | EngineMove : d4d5
+10. Nc3 | Analysis: -1 | Depth: 19 | EngineMove : d6d5
+10... O-O | Analysis: +36 | Depth: 18 | EngineMove : d4d5
+11. Rc1 | Analysis: -3 | Depth: 18 | EngineMove : c6a5
+11... a6 | Analysis: +41 | Depth: 18 | EngineMove : d4d5
+12. d5 | Analysis: -36 | Depth: 19 | EngineMove : c6e5
+12... Ne5 | Analysis: +26 | Depth: 20 | EngineMove : c4e2
+13. Bb3 | Analysis: 0 | Depth: 17 | EngineMove : e5d3
+13... Nd3 | Analysis: 0 | Depth: 21 | EngineMove : c1b1
+14. dxe6 | Analysis: +11 | Depth: 18 | EngineMove : d3c1
+14... Nxc1 | Analysis: -8 | Depth: 18 | EngineMove : e6f7

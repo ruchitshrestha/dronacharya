@@ -1,0 +1,32 @@
+**URL: https://lichess.org/Gc2rCpq5 | Tag: Gc2rCpq5 | Side: white**
+HEADERS: Headers(Event='Rated Bullet game', Site='https://lichess.org/Gc2rCpq5', Date='2018.11.02', Round='-', White='chittyct', Black='KPantoja86', Result='1-0', BlackElo='943', BlackRatingDiff='-8', ECO='D02', Termination='Time forfeit', TimeControl='120+1', UTCDate='2018.11.02', UTCTime='17:39:21', Variant='Standard', WhiteElo='1027', WhiteRatingDiff='+8')
+
+1. d4 | Analysis: -18 | Depth: 14 | EngineMove : d7d5
+1... d5 | Analysis: +24 | Depth: 13 | EngineMove : g1f3
+2. Nf3 | Analysis: -18 | Depth: 14 | EngineMove : e7e6
+2... Be6 | Analysis: +73 | Depth: 11 | EngineMove : c1f4
+3. Bf4 | Analysis: -50 | Depth: 12 | EngineMove : g8f6
+3... Na6 | Analysis: +111 | Depth: 12 | EngineMove : e2e3
+4. e3 | Analysis: -118 | Depth: 12 | EngineMove : g8f6
+4... g5 | Analysis: +188 | Depth: 12 | EngineMove : f3g5
+5. Be5 | Analysis: -166 | Depth: 13 | EngineMove : g8f6
+5... f6 | Analysis: +160 | Depth: 13 | EngineMove : f3g5
+6. Bxf6 | Analysis: +185 | Depth: 12 | EngineMove : e7f6
+6... exf6 | Analysis: -193 | Depth: 12 | EngineMove : b1c3
+7. c4 | Analysis: +223 | Depth: 10 | EngineMove : d5c4
+7... Bf5 | Analysis: -162 | Depth: 11 | EngineMove : b1c3
+8. cxd5 | Analysis: +216 | Depth: 12 | EngineMove : a6b4
+8... Nb4 | Analysis: -207 | Depth: 12 | EngineMove : b1a3
+9. Na3 | Analysis: +228 | Depth: 12 | EngineMove : a7a6
+9... Qxd5 | Analysis: -220 | Depth: 12 | EngineMove : f1c4
+10. Bb5+ | Analysis: +239 | Depth: 12 | EngineMove : c7c6
+10... c6 | Analysis: -242 | Depth: 14 | EngineMove : b5e2
+11. Bc4 | Analysis: +262 | Depth: 14 | EngineMove : d5d7
+11... Qa5 | Analysis: -231 | Depth: 11 | EngineMove : e1g1
+12. O-O | Analysis: +184 | Depth: 12 | EngineMove : e8c8
+12... O-O-O | Analysis: -208 | Depth: 13 | EngineMove : f1e1
+13. e4 | Analysis: +363 | Depth: 11 | EngineMove : f5e4
+13... Bxe4 | Analysis: -356 | Depth: 12 | EngineMove : c4e6
+14. Nd2 | Analysis: +400 | Depth: 13 | EngineMove : e4g6
+14... Bd5 | Analysis: -346 | Depth: 11 | EngineMove : a3c2
+15. Qg4+ | Analysis: +414 | Depth: 12 | EngineMove : c8b8
